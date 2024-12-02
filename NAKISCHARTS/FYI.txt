@@ -1,2 +1,0 @@
-ENTROPY2,ENTROPY3,ENTROPY4 and ENTROPY5's modchart code is currently broken, for some dumb ass reason... THANKS LUA!
-so that being said, do not play those songs
