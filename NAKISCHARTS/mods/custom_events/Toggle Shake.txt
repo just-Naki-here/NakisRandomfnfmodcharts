@@ -1,0 +1,2 @@
+value 1 = toggle opp note hit shaking screen
+true / false

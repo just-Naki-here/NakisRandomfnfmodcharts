@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jaicutscene.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thethang0000" x="24" y="24" width="1280" height="720"/>
+	<SubTexture name="thethang0001" x="1328" y="24" width="1280" height="720"/>
+	<SubTexture name="thethang0002" x="1328" y="24" width="1280" height="720"/>
+	<SubTexture name="thethang0003" x="2632" y="24" width="1280" height="720"/>
+	<SubTexture name="thethang0004" x="2632" y="24" width="1280" height="720"/>
+	<SubTexture name="thethang0005" x="3936" y="24" width="1280" height="720"/>
+	<SubTexture name="thethang0006" x="3936" y="24" width="1280" height="720"/>
+	<SubTexture name="thethang0007" x="5240" y="24" width="1280" height="720"/>
+	<SubTexture name="thethang0008" x="6544" y="24" width="1280" height="720"/>
+	<SubTexture name="thethang0009" x="24" y="768" width="1280" height="720"/>
+	<SubTexture name="thethang0010" x="1328" y="768" width="1280" height="720"/>
+	<SubTexture name="thethang0011" x="2632" y="768" width="1280" height="720"/>
+	<SubTexture name="thethang0012" x="3936" y="768" width="1280" height="720"/>
+	<SubTexture name="thethang0013" x="5240" y="768" width="1280" height="720"/>
+	<SubTexture name="thethang0014" x="6544" y="768" width="1280" height="720"/>
+	<SubTexture name="thethang0015" x="24" y="1512" width="1280" height="720"/>
+	<SubTexture name="thethang0016" x="1328" y="1512" width="1280" height="720"/>
+	<SubTexture name="thethang0017" x="2632" y="1512" width="1280" height="720"/>
+	<SubTexture name="thethang0018" x="3936" y="1512" width="1280" height="720"/>
+	<SubTexture name="thethang0019" x="5240" y="1512" width="1280" height="720"/>
+	<SubTexture name="thethang0020" x="6544" y="1512" width="1280" height="720"/>
+	<SubTexture name="thethang0021" x="24" y="2256" width="1280" height="720"/>
+	<SubTexture name="thethang0022" x="1328" y="2256" width="1280" height="720"/>
+	<SubTexture name="thethang0023" x="2632" y="2256" width="1280" height="720"/>
+	<SubTexture name="thethang0024" x="3936" y="2256" width="1280" height="720"/>
+	<SubTexture name="thethang0025" x="5240" y="2256" width="1280" height="720"/>
+	<SubTexture name="thethang0026" x="6544" y="2256" width="1280" height="720"/>
+	<SubTexture name="thethang0027" x="24" y="3000" width="1280" height="720"/>
+	<SubTexture name="thethang0028" x="1328" y="3000" width="1280" height="720"/>
+	<SubTexture name="thethang0029" x="2632" y="3000" width="1280" height="720"/>
+	<SubTexture name="thethang0030" x="3936" y="3000" width="1280" height="720"/>
+	<SubTexture name="thethang0031" x="5240" y="3000" width="1280" height="720"/>
+	<SubTexture name="thethang0032" x="6544" y="3000" width="1280" height="720"/>
+	<SubTexture name="thethang0033" x="24" y="3744" width="1280" height="720"/>
+	<SubTexture name="thethang0034" x="1328" y="3744" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,2 @@
+el movimiento de flechas se vuelve value1
+el movimiento de camara se vuelve value2

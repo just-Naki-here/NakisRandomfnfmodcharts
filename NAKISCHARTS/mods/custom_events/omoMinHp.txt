@@ -1,0 +1,2 @@
+Sets minimum HP that you lose the game.
+Value 1: minimum health threshold (0-2)

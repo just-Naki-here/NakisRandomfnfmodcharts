@@ -1,0 +1,105 @@
+{
+	"storyName": "SUFFER THROUGH MODCHARTS >:3",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Breaking Point",
+			"jaiden",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Breaking Point EDITED",
+			"jaiden",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Breaking Point EDITED2",
+			"jaiden",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Breaking Point EDITED3",
+			"jaiden",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"entropy",
+			"saint",
+			[
+				0,
+				93,
+				35
+			]
+		],
+		[
+			"entropy6",
+			"saint",
+			[
+				0,
+				93,
+				35
+			]
+		],
+		[
+			"Breaking Point EDITED4",
+			"jaiden",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Breaking Point EDITED5",
+			"jaiden",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Breaking Point EDITED6",
+			"jaiden",
+			[
+				255,
+				255,
+				255
+			]
+		]
+
+	],
+	"weekCharacters": [
+		"bgj",
+		"bf",
+		"jchar"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "FIND ME AND SAVE ME FROM THIS HELL"
+}

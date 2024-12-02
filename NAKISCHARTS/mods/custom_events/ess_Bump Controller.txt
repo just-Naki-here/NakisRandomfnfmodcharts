@@ -1,0 +1,5 @@
+Bumps the value of the Controller/Shader Float
+(Like Camera Bump)
+
+v1: Controller/Shader Float
+v2: Bump Value, Finish Value

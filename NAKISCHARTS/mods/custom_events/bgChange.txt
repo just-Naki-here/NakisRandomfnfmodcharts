@@ -1,0 +1,4 @@
+pico pal que lee jijijija
+
+cambia el fondo dependiendo del value1
+cambia el fondo especial dependiendo del value2
