@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gd.png"><SubTexture name="gd g0000" x="421" y="0" width="852" height="144" frameX="-25" frameY="-21" frameWidth="907" frameHeight="179" />
+<SubTexture name="gd d0000" x="0" y="0" width="421" height="145" frameX="-25" frameY="-21" frameWidth="476" frameHeight="179" />
+</TextureAtlas>

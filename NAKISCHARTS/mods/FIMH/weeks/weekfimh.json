@@ -1,0 +1,32 @@
+{
+	"storyName": "Fire in my hole",
+	"difficulties": "Hard, Erect",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"FIMH",
+			"fith",
+			[
+				11,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "FIMH"
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				861,
+				1018
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "gf_turned_dead death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				861,
+				1018
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "gf_turned_dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				861,
+				1018
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "gf_turned_dead retry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gameovers/gf_turned_dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf-new",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		97
+	],
+	"camera_position": [
+		1080,
+		-880
+	],
+	"sing_duration": 4,
+	"scale": 0.56
+}

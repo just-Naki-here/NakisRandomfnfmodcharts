@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AVENGE_HER.png"><SubTexture name="AVENGE_HER A0000" x="0" y="445" width="842" height="101" frameX="-103" frameY="-41" frameWidth="1047" frameHeight="158" />
+<SubTexture name="AVENGE_HER A0001" x="0" y="230" width="845" height="109" frameX="-101" frameY="-37" frameWidth="1047" frameHeight="158" />
+<SubTexture name="AVENGE_HER A0002" x="0" y="339" width="838" height="106" frameX="-104" frameY="-39" frameWidth="1047" frameHeight="158" />
+<SubTexture name="AVENGE_HER A0003" x="0" y="116" width="850" height="114" frameX="-103" frameY="-35" frameWidth="1047" frameHeight="158" />
+<SubTexture name="AVENGE_HER A0004" x="0" y="0" width="836" height="116" frameX="-109" frameY="-37" frameWidth="1047" frameHeight="158" />
+<SubTexture name="AVENGE_HER A0005" x="836" y="0" width="840" height="116" frameX="-101" frameY="-35" frameWidth="1047" frameHeight="158" />
+</TextureAtlas>

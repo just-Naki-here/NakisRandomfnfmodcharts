@@ -1,0 +1,32 @@
+{
+	"storyName": "SHADOWS FROM THE GRAVE",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "shadows",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"darkened grave",
+			"freeplay/icon-na-face",
+			[
+				35,
+				35,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"shadow",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "shadowsfromthegrave"
+}

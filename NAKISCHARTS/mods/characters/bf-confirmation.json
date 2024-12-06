@@ -1,0 +1,243 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF_confirmation hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF_confirmation left note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF_confirmation down note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF_confirmation up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF_confirmation right note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "BF_confirmation ALT left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "BF_confirmation ALT down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "BF_confirmation ALT up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BF_confirmation ALT right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF_confirmation idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "BF_confirmation idle ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF_confirmation miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF_confirmation miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF_confirmation miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF_confirmation miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "BF_confirmation alt miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "BF_confirmation alt miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "BF_confirmation alt miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "BF_confirmation alt miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "turn",
+			"fps": 24,
+			"name": "BF_confirmation ewthisanimationissobad",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_confirmation",
+	"position": [
+		-860,
+		-710
+	],
+	"healthicon": "bffith",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-270,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 0.56
+}

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pico_logodomy.png"><SubTexture name="pico_logodomy idle dance0000" x="2299" y="3525" width="708" height="736" frameX="-753" frameY="-935" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy idle dance0001" x="2299" y="3525" width="708" height="736" frameX="-753" frameY="-935" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy idle dance0002" x="0" y="3525" width="708" height="747" frameX="-747" frameY="-924" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy idle dance0003" x="0" y="3525" width="708" height="747" frameX="-747" frameY="-924" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy idle dance0004" x="2990" y="1592" width="700" height="761" frameX="-749" frameY="-910" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy idle dance0005" x="2990" y="1592" width="700" height="761" frameX="-749" frameY="-910" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy idle dance0006" x="2244" y="859" width="697" height="759" frameX="-752" frameY="-912" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy idle dance0007" x="2244" y="859" width="697" height="759" frameX="-752" frameY="-912" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy idle dance0008" x="3777" y="0" width="692" height="758" frameX="-761" frameY="-913" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy idle dance0009" x="3777" y="0" width="692" height="758" frameX="-761" frameY="-913" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy down note0000" x="3777" y="758" width="659" height="727" frameX="-783" frameY="-944" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy down note0001" x="3777" y="758" width="659" height="727" frameX="-783" frameY="-944" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy down note0002" x="3777" y="1485" width="657" height="727" frameX="-792" frameY="-944" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy left note0000" x="2405" y="2729" width="871" height="761" frameX="-486" frameY="-910" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy left note0001" x="2405" y="2729" width="871" height="761" frameX="-486" frameY="-910" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy left note0002" x="1578" y="2729" width="827" height="764" frameX="-530" frameY="-907" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy right note0000" x="1485" y="3525" width="814" height="738" frameX="-793" frameY="-933" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy right note0001" x="1485" y="3525" width="814" height="738" frameX="-793" frameY="-933" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy right note0002" x="708" y="3525" width="777" height="744" frameX="-794" frameY="-927" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy up note0000" x="2244" y="0" width="746" height="859" frameX="-680" frameY="-810" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy up note0001" x="2244" y="0" width="746" height="859" frameX="-680" frameY="-810" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy up note0002" x="0" y="1902" width="756" height="827" frameX="-663" frameY="-842" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy shoot0000" x="0" y="1025" width="878" height="877" frameX="-555" frameY="-794" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy shoot0001" x="653" y="0" width="946" height="1009" frameX="-513" frameY="-662" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy shoot0002" x="0" y="0" width="653" height="1025" frameX="-794" frameY="-646" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy shoot0003" x="0" y="0" width="653" height="1025" frameX="-794" frameY="-646" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy shoot0004" x="1599" y="0" width="645" height="941" frameX="-794" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy shoot0005" x="1599" y="0" width="645" height="941" frameX="-794" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy miss0000" x="878" y="1025" width="774" height="867" frameX="-683" frameY="-802" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy miss0001" x="878" y="1025" width="774" height="867" frameX="-683" frameY="-802" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy miss0002" x="878" y="1025" width="774" height="867" frameX="-683" frameY="-802" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0000" x="1536" y="1902" width="787" height="796" frameX="-576" frameY="-875" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0001" x="2990" y="0" width="787" height="796" frameX="-576" frameY="-875" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0002" x="0" y="2729" width="789" height="796" frameX="-568" frameY="-875" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0003" x="789" y="2729" width="789" height="796" frameX="-568" frameY="-875" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0004" x="2990" y="796" width="779" height="796" frameX="-587" frameY="-875" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0005" x="2990" y="796" width="779" height="796" frameX="-587" frameY="-875" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0006" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0007" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0008" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0009" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0010" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0011" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0012" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0013" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0014" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0015" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0016" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="pico_logodomy dodge0017" x="756" y="1902" width="780" height="799" frameX="-604" frameY="-872" frameWidth="2160" frameHeight="2302" />
+</TextureAtlas>

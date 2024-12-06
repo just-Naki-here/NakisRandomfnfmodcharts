@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="countdown.png"><SubTexture name="countdown 30000" x="0" y="0" width="11" height="14" frameX="-11" frameY="-6" frameWidth="34" frameHeight="30" />
+<SubTexture name="countdown 20000" x="11" y="0" width="11" height="14" frameX="-11" frameY="-6" frameWidth="34" frameHeight="30" />
+<SubTexture name="countdown 10000" x="22" y="0" width="11" height="14" frameX="-11" frameY="-6" frameWidth="34" frameHeight="30" />
+</TextureAtlas>

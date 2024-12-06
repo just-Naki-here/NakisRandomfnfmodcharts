@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Menu_rock",
+	"confirm_anim": "Menu_rock",
+	"position": [
+		151,
+		125
+	],
+	"scale": 0.6,
+	"image": "Menu_rock"
+}

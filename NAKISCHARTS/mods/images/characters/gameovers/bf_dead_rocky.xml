@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_dead_rocky.png"><SubTexture name="bf_dead_rocky death0000" x="1408" y="0" width="690" height="870" frameX="-1239" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0001" x="1408" y="0" width="690" height="870" frameX="-1239" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0002" x="2098" y="0" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0003" x="2098" y="0" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0004" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0005" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0006" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0007" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0008" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0009" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0010" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0011" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0012" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0013" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0014" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0015" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0016" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0017" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0018" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0019" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0020" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0021" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0022" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0023" x="0" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0024" x="0" y="0" width="704" height="1578" frameX="-1232" frameY="-21" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0025" x="704" y="0" width="704" height="1215" frameX="-1232" frameY="-384" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0026" x="704" y="1578" width="704" height="863" frameX="-1232" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0027" x="2098" y="1210" width="484" height="336" frameX="-1264" frameY="-1263" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0028" x="1408" y="870" width="484" height="336" frameX="-1264" frameY="-1263" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0029" x="2098" y="863" width="631" height="347" frameX="-1197" frameY="-1252" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0030" x="1408" y="1578" width="804" height="356" frameX="-1129" frameY="-1254" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky death0031" x="1408" y="1934" width="804" height="356" frameX="-1129" frameY="-1254" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky loop0000" x="1408" y="1934" width="804" height="356" frameX="-1129" frameY="-1254" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf_dead_rocky retry0000" x="1408" y="1934" width="804" height="356" frameX="-1129" frameY="-1254" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

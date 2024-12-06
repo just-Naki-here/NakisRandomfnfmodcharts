@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "insane_chase idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1550,
+				1105
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "insane_chase left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1025
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "insane_chase down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1185
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "insane_chase up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1390,
+				1105
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "insane_chase right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "insane_chase miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "insane_chase miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "insane_chase miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "insane_chase miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "insane_chase shoot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/insane_chase",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "insane-chase",
+	"flip_x": true,
+	"healthbar_colors": [
+		237,
+		59,
+		230
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

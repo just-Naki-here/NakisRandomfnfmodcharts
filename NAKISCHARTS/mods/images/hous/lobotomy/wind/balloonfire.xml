@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="balloonfire.png"><SubTexture name="balloonfire loop0000" x="0" y="0" width="1963" height="2607" frameX="-202" frameY="0" frameWidth="2500" frameHeight="2640" />
+<SubTexture name="balloonfire loop0001" x="1963" y="0" width="2039" height="2607" frameX="-126" frameY="0" frameWidth="2500" frameHeight="2640" />
+</TextureAtlas>

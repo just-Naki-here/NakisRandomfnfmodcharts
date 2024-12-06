@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2410,
+				1105
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "insane_ded death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2410,
+				1105
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "insane_ded loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2410,
+				1105
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "insane_ded retry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gameovers/insane_ded",
+	"position": [
+		-1000,
+		350
+	],
+	"healthicon": "insane-face",
+	"flip_x": true,
+	"healthbar_colors": [
+		237,
+		59,
+		230
+	],
+	"camera_position": [
+		1080,
+		-880
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

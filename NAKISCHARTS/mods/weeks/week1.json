@@ -1,16 +1,20 @@
 {
 	"storyName": "SUFFER THROUGH MODCHARTS >:3",
-	"difficulties": "Hard",
+	"difficulties": "Hard, Jaiden, Entropic",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"bgj",
+		"bf",
+		"jchar"
+	],
 	"songs": [
 		[
 			"Breaking Point",
@@ -93,13 +97,8 @@
 				255
 			]
 		]
-
 	],
-	"weekCharacters": [
-		"bgj",
-		"bf",
-		"jchar"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "FIND ME AND SAVE ME FROM THIS HELL"
+	"hideStoryMode": false,
+	"weekName": "FIND ME AND SAVE ME FROM THIS HELL",
+	"hiddenUntilUnlocked": false
 }

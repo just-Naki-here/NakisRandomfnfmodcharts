@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "explode cmc",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "explode cmc",
+			"indices": [
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "explode cmc",
+			"indices": [
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gameovers/dash_death",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bffith",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

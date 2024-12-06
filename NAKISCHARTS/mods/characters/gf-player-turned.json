@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "oh",
+			"fps": 24,
+			"name": "gf_turned oop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gf_turned left note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-37
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gf_turned down note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gf_turned up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-39
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gf_turned right note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "gf_turned idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "gf_turned miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "gf_turned miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "gf_turned miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "gf_turned miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "reaction",
+			"fps": 24,
+			"name": "gf_turned reaction",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "aimreaction",
+			"fps": 24,
+			"name": "gf_turned aim reaction",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"anim": "shootreaction",
+			"fps": 24,
+			"name": "gf_turned shoot reaction",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gf_turned",
+	"position": [
+		-860,
+		-710
+	],
+	"healthicon": "gf-new",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-270,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 0.56
+}

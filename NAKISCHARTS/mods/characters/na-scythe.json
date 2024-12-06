@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "na_scythe idle dance"
+		},
+		{
+			"offsets": [
+				1570,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "na_scythe left note"
+		},
+		{
+			"offsets": [
+				1470,
+				1005
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "na_scythe down note"
+		},
+		{
+			"offsets": [
+				1470,
+				1225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "na_scythe up note"
+		},
+		{
+			"offsets": [
+				1350,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "na_scythe right note"
+		},
+		{
+			"offsets": [
+				1470,
+				1225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ee",
+			"indices": [],
+			"name": "na_scythe ee"
+		},
+		{
+			"offsets": [
+				1470,
+				1225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "oo",
+			"indices": [],
+			"name": "na_scythe oo"
+		},
+		{
+			"offsets": [
+				1470,
+				1225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "aa",
+			"indices": [],
+			"name": "na_scythe aa"
+		},
+		{
+			"offsets": [
+				1470,
+				1225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turn",
+			"indices": [],
+			"name": "na_scythe turn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/na_scythe",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "freeplay/icon-na-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		168,
+		168
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

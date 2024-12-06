@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-rotg-back.png"><SubTexture name="bf-rotg-back idle dance0000" x="2347" y="2041" width="726" height="920" frameX="-1239" frameY="-679" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back idle dance0001" x="2347" y="2041" width="726" height="920" frameX="-1239" frameY="-679" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back idle dance0002" x="729" y="2041" width="728" height="924" frameX="-1238" frameY="-675" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back idle dance0003" x="729" y="2041" width="728" height="924" frameX="-1238" frameY="-675" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back idle dance0004" x="0" y="2041" width="729" height="928" frameX="-1235" frameY="-671" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back idle dance0005" x="0" y="2041" width="729" height="928" frameX="-1235" frameY="-671" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back idle dance0006" x="2385" y="0" width="715" height="939" frameX="-1232" frameY="-660" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back idle dance0007" x="2385" y="0" width="715" height="939" frameX="-1232" frameY="-660" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back idle dance0008" x="0" y="1099" width="704" height="942" frameX="-1232" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back idle dance0009" x="0" y="1099" width="704" height="942" frameX="-1232" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back down note0000" x="3100" y="1691" width="643" height="763" frameX="-1249" frameY="-836" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back down note0001" x="3100" y="1691" width="643" height="763" frameX="-1249" frameY="-836" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back down note0002" x="3100" y="905" width="633" height="786" frameX="-1254" frameY="-813" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back right note0000" x="1620" y="0" width="765" height="943" frameX="-1181" frameY="-656" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back right note0001" x="1620" y="0" width="765" height="943" frameX="-1181" frameY="-656" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back right note0002" x="704" y="1099" width="756" height="942" frameX="-1184" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back up note0000" x="0" y="0" width="802" height="1099" frameX="-1063" frameY="-500" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back up note0001" x="0" y="0" width="802" height="1099" frameX="-1063" frameY="-500" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back up note0002" x="802" y="0" width="818" height="1070" frameX="-1055" frameY="-529" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back miss0000" x="1460" y="1099" width="704" height="942" frameX="-1232" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back left note0000" x="3100" y="0" width="910" height="905" frameX="-995" frameY="-694" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back left note0001" x="3100" y="0" width="910" height="905" frameX="-995" frameY="-694" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-rotg-back left note0002" x="1457" y="2041" width="890" height="922" frameX="-1022" frameY="-677" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

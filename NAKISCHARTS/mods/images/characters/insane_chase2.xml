@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="insane_chase2.png"><SubTexture name="insane_chase2 idle dance0000" x="3565" y="1519" width="1360" height="736" frameX="-1310" frameY="-684" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 idle dance0001" x="3565" y="0" width="1360" height="766" frameX="-1310" frameY="-654" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 idle dance0002" x="1352" y="2763" width="1352" height="789" frameX="-1317" frameY="-640" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 idle dance0003" x="0" y="2763" width="1352" height="798" frameX="-1317" frameY="-631" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 idle dance0004" x="1314" y="1951" width="1353" height="800" frameX="-1307" frameY="-631" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 idle dance0005" x="4925" y="0" width="1353" height="701" frameX="-1307" frameY="-730" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 idle dance0006" x="0" y="4273" width="1359" height="701" frameX="-1309" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 idle dance0007" x="0" y="4273" width="1359" height="701" frameX="-1309" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 idle dance0008" x="2361" y="3561" width="1376" height="702" frameX="-1301" frameY="-723" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 idle dance0009" x="2361" y="3561" width="1376" height="702" frameX="-1301" frameY="-723" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 down note0000" x="2224" y="0" width="1341" height="881" frameX="-1310" frameY="-663" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 down note0001" x="2224" y="0" width="1341" height="881" frameX="-1310" frameY="-663" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 down note0002" x="2224" y="881" width="1324" height="857" frameX="-1326" frameY="-656" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 down note0003" x="2224" y="881" width="1324" height="857" frameX="-1326" frameY="-656" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 down note0004" x="0" y="1951" width="1314" height="812" frameX="-1336" frameY="-670" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 left note0000" x="0" y="4974" width="1755" height="696" frameX="-995" frameY="-723" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 left note0001" x="0" y="4974" width="1755" height="696" frameX="-995" frameY="-723" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 left note0002" x="3034" y="4273" width="1717" height="698" frameX="-1013" frameY="-722" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 left note0003" x="3034" y="4273" width="1717" height="698" frameX="-1013" frameY="-722" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 left note0004" x="1359" y="4273" width="1675" height="699" frameX="-1035" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 left note0005" x="1359" y="4273" width="1675" height="699" frameX="-1035" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 right note0000" x="3565" y="2255" width="1128" height="716" frameX="-1387" frameY="-706" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 right note0001" x="3565" y="2255" width="1128" height="716" frameX="-1387" frameY="-706" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 right note0002" x="0" y="3561" width="1164" height="712" frameX="-1371" frameY="-709" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 right note0003" x="0" y="3561" width="1164" height="712" frameX="-1371" frameY="-709" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 right note0004" x="1164" y="3561" width="1197" height="709" frameX="-1358" frameY="-711" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 up note0000" x="0" y="0" width="1110" height="1038" frameX="-1372" frameY="-626" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 up note0001" x="0" y="0" width="1110" height="1038" frameX="-1372" frameY="-626" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 up note0002" x="1110" y="0" width="1114" height="980" frameX="-1370" frameY="-649" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 up note0003" x="1110" y="0" width="1114" height="980" frameX="-1370" frameY="-649" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 up note0004" x="0" y="1038" width="1127" height="913" frameX="-1358" frameY="-684" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 miss0000" x="3565" y="766" width="1229" height="753" frameX="-1317" frameY="-667" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 miss0001" x="3565" y="766" width="1229" height="753" frameX="-1317" frameY="-667" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_chase2 miss0002" x="3565" y="766" width="1229" height="753" frameX="-1317" frameY="-667" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

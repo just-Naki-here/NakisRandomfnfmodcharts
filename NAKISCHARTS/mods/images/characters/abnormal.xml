@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abnormal.png"><SubTexture name="abnormal idle dance0000" x="1151" y="3725" width="1194" height="929" frameX="-1051" frameY="-746" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0001" x="1151" y="3725" width="1194" height="929" frameX="-1051" frameY="-746" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0002" x="2345" y="3725" width="1175" height="927" frameX="-1066" frameY="-745" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0003" x="2345" y="3725" width="1175" height="927" frameX="-1066" frameY="-745" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0004" x="3520" y="3725" width="1156" height="925" frameX="-1081" frameY="-745" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0005" x="3520" y="3725" width="1156" height="925" frameX="-1081" frameY="-745" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0006" x="0" y="3725" width="1151" height="937" frameX="-1071" frameY="-733" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0007" x="0" y="3725" width="1151" height="937" frameX="-1071" frameY="-733" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0008" x="4099" y="951" width="1143" height="944" frameX="-1064" frameY="-726" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0009" x="4099" y="951" width="1143" height="944" frameX="-1064" frameY="-726" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0010" x="4099" y="0" width="1143" height="951" frameX="-1058" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0011" x="4099" y="0" width="1143" height="951" frameX="-1058" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0012" x="1229" y="2637" width="1145" height="955" frameX="-1052" frameY="-716" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0013" x="1229" y="2637" width="1145" height="955" frameX="-1052" frameY="-716" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0014" x="2374" y="2637" width="1145" height="953" frameX="-1056" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal idle dance0015" x="2374" y="2637" width="1145" height="953" frameX="-1056" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal down note0000" x="903" y="0" width="904" height="1348" frameX="-1227" frameY="-236" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal down note0001" x="0" y="0" width="903" height="1349" frameX="-1226" frameY="-236" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal down note0002" x="903" y="0" width="904" height="1348" frameX="-1227" frameY="-236" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal down note0003" x="1118" y="1349" width="948" height="1216" frameX="-1181" frameY="-356" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal down note0004" x="1118" y="1349" width="948" height="1216" frameX="-1181" frameY="-356" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal down note0005" x="2939" y="1191" width="1013" height="1157" frameX="-1115" frameY="-398" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal left note0000" x="5242" y="903" width="1296" height="804" frameX="-944" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal left note0001" x="5242" y="3295" width="1312" height="791" frameX="-936" frameY="-722" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal left note0002" x="5242" y="903" width="1296" height="804" frameX="-944" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal left note0003" x="5242" y="1707" width="1295" height="794" frameX="-974" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal left note0004" x="5242" y="1707" width="1295" height="794" frameX="-974" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal left note0005" x="5242" y="2501" width="1287" height="794" frameX="-1005" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal right note0000" x="1417" y="4662" width="1410" height="787" frameX="-862" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal right note0001" x="2827" y="4662" width="1421" height="785" frameX="-857" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal right note0002" x="1417" y="4662" width="1410" height="787" frameX="-862" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal right note0003" x="0" y="4662" width="1417" height="859" frameX="-875" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal right note0004" x="0" y="4662" width="1417" height="859" frameX="-875" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal right note0005" x="5242" y="0" width="1411" height="903" frameX="-889" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal up note0000" x="1807" y="0" width="1132" height="1294" frameX="-1197" frameY="-573" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal up note0001" x="0" y="1349" width="1118" height="1288" frameX="-1208" frameY="-580" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal up note0002" x="1807" y="0" width="1132" height="1294" frameX="-1197" frameY="-573" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal up note0003" x="2939" y="0" width="1160" height="1191" frameX="-1185" frameY="-627" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal up note0004" x="2939" y="0" width="1160" height="1191" frameX="-1185" frameY="-627" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal up note0005" x="0" y="2637" width="1229" height="1088" frameX="-1149" frameY="-682" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

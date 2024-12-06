@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="burp.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="burple instance 10000" x="0" y="0" width="500" height="522" frameX="-8" frameY="-20" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10001" x="0" y="0" width="500" height="522" frameX="-8" frameY="-20" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10002" x="500" y="0" width="520" height="504" frameX="0" frameY="-34" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10003" x="500" y="0" width="520" height="504" frameX="0" frameY="-34" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10004" x="0" y="522" width="477" height="549" frameX="-18" frameY="0" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10005" x="0" y="522" width="477" height="549" frameX="-18" frameY="0" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10006" x="477" y="522" width="500" height="522" frameX="-8" frameY="-20" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10007" x="477" y="522" width="500" height="522" frameX="-8" frameY="-20" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10008" x="477" y="522" width="500" height="522" frameX="-8" frameY="-20" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10009" x="477" y="522" width="500" height="522" frameX="-8" frameY="-20" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10010" x="477" y="522" width="500" height="522" frameX="-8" frameY="-20" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10011" x="477" y="522" width="500" height="522" frameX="-8" frameY="-20" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10012" x="477" y="522" width="500" height="522" frameX="-8" frameY="-20" frameWidth="520" frameHeight="549"/>
+	<SubTexture name="burple instance 10013" x="477" y="522" width="500" height="522" frameX="-8" frameY="-20" frameWidth="520" frameHeight="549"/>
+</TextureAtlas>

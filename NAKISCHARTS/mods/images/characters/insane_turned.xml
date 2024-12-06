@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="insane_turned.png"><SubTexture name="insane-turned idle dance0000" x="2954" y="0" width="875" height="838" frameX="-1402" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned idle dance0001" x="2954" y="0" width="875" height="838" frameX="-1402" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned idle dance0002" x="0" y="2680" width="878" height="832" frameX="-1392" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned idle dance0003" x="0" y="2680" width="878" height="832" frameX="-1392" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned idle dance0004" x="878" y="2680" width="880" height="829" frameX="-1382" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned idle dance0005" x="878" y="2680" width="880" height="829" frameX="-1382" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned idle dance0006" x="1758" y="2680" width="886" height="818" frameX="-1364" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned idle dance0007" x="1758" y="2680" width="886" height="818" frameX="-1364" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned idle dance0008" x="2644" y="2680" width="888" height="816" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned idle dance0009" x="2644" y="2680" width="888" height="816" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned right note0000" x="0" y="0" width="723" height="940" frameX="-1370" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned right note0001" x="0" y="0" width="723" height="940" frameX="-1370" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned right note0002" x="723" y="0" width="710" height="939" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned right note0003" x="723" y="0" width="710" height="939" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned right note0004" x="1433" y="0" width="704" height="932" frameX="-1339" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned up note0000" x="0" y="940" width="836" height="887" frameX="-1336" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned up note0001" x="0" y="940" width="836" height="887" frameX="-1336" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned up note0002" x="2137" y="0" width="817" height="858" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned up note0003" x="2137" y="0" width="817" height="858" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane-turned up note0004" x="1592" y="1827" width="795" height="842" frameX="-1372" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned down note0000" x="2954" y="838" width="704" height="836" frameX="-1376" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned down note0001" x="2954" y="838" width="704" height="836" frameX="-1376" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned down note0002" x="2137" y="858" width="705" height="851" frameX="-1356" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned down note0003" x="2137" y="858" width="705" height="851" frameX="-1356" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned down note0004" x="888" y="1827" width="704" height="851" frameX="-1340" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned left note0000" x="890" y="4304" width="994" height="702" frameX="-1314" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned left note0001" x="890" y="4304" width="994" height="702" frameX="-1314" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned left note0002" x="3736" y="4304" width="1017" height="701" frameX="-1333" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned left note0003" x="3736" y="4304" width="1017" height="701" frameX="-1333" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned left note0004" x="5613" y="0" width="1009" height="701" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0000" x="5613" y="701" width="889" height="701" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0001" x="2954" y="1674" width="860" height="703" frameX="-1361" frameY="-726" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0002" x="3535" y="3512" width="962" height="714" frameX="-1322" frameY="-681" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0003" x="1884" y="4304" width="938" height="702" frameX="-1331" frameY="-698" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0004" x="2822" y="4304" width="914" height="702" frameX="-1340" frameY="-706" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0005" x="4726" y="0" width="887" height="703" frameX="-1351" frameY="-716" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0006" x="0" y="4304" width="890" height="703" frameX="-1351" frameY="-716" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0007" x="836" y="940" width="887" height="887" frameX="-1351" frameY="-716" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0008" x="0" y="3512" width="887" height="792" frameX="-1351" frameY="-716" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0009" x="2659" y="3512" width="876" height="730" frameX="-1351" frameY="-717" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0010" x="1774" y="3512" width="885" height="738" frameX="-1351" frameY="-717" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0011" x="3829" y="0" width="897" height="804" frameX="-1409" frameY="-750" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0012" x="887" y="3512" width="887" height="787" frameX="-1399" frameY="-750" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0013" x="3829" y="2402" width="883" height="795" frameX="-1390" frameY="-750" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0014" x="3829" y="1606" width="880" height="796" frameX="-1369" frameY="-733" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned what0015" x="3829" y="804" width="878" height="802" frameX="-1360" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_turned miss0000" x="0" y="1827" width="888" height="853" frameX="-1357" frameY="-683" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

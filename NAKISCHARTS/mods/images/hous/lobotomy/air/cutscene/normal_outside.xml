@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="normal_outside.png"><SubTexture name="normal_outside turn0000" x="703" y="1404" width="701" height="699" frameX="-251" frameY="-233" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="normal_outside turn0001" x="1404" y="1404" width="701" height="699" frameX="-251" frameY="-233" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="normal_outside turn0002" x="2112" y="0" width="715" height="699" frameX="-237" frameY="-233" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="normal_outside turn0003" x="0" y="1404" width="703" height="700" frameX="-255" frameY="-239" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="normal_outside turn0004" x="704" y="702" width="703" height="701" frameX="-245" frameY="-227" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="normal_outside turn0005" x="1408" y="0" width="704" height="701" frameX="-249" frameY="-231" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="normal_outside react0000" x="0" y="0" width="704" height="702" frameX="-272" frameY="-263" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="normal_outside react0001" x="704" y="0" width="704" height="702" frameX="-244" frameY="-227" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="normal_outside react0002" x="0" y="702" width="704" height="702" frameX="-252" frameY="-233" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="normal_outside react0003" x="1408" y="701" width="704" height="701" frameX="-249" frameY="-231" frameWidth="1200" frameHeight="1154" />
+</TextureAtlas>

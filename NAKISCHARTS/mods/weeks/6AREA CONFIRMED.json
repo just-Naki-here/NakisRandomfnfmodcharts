@@ -1,0 +1,32 @@
+{
+	"storyName": "AREA CONFIRMED",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "area",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"confirmation",
+			"hard-face",
+			[
+				255,
+				213,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"area",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "areaconfirmed"
+}

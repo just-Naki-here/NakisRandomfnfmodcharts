@@ -1,0 +1,9 @@
+{
+	"name": "Fire in My Hole",
+	"description": "I bet people would actually like this mod",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [11, 226, 0],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				410,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "auto_gameover ouchie"
+		},
+		{
+			"offsets": [
+				410,
+				1105
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "auto_gameover loop"
+		},
+		{
+			"offsets": [
+				410,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "auto_gameover retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gameovers/auto_gameover",
+	"position": [
+		-1000,
+		350
+	],
+	"healthicon": "auto-face",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		173,
+		99
+	],
+	"camera_position": [
+		1080,
+		-880
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

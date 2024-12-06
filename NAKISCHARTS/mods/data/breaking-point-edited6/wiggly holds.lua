@@ -4,20 +4,6 @@ WIGGLE_SPEED = 15                                   --speed of the waves
 WIGGLE_AMPLITUDE_DRAIN_MULTIPLIER = 2               --how fast the amplitude drains every frame
 WIGGLE_STEP_MOD = 2                                 --at what steps should the wave amplitude be set at (4 steps = 1 beat, 8 steps = 2 beats, 2 steps = 0.5 beats)
 
-
-
-function noteMiss(id, direction, noteType, isSustainNote)
-    getMisses()
-    amplitudewiggle=misses/1000
-    a=0.06+amplitudewiggle
-    frequencywiggle=misses-5
-    b=7+frequencywiggle
-    speedwiggle=misses-2
-    c=15+speedwiggle
-    WIGGLE_AMPLITUDE=a
-    WIGGLE_FREQUENCY=b
-    WIGGLE_SPEED=c
-end
 ---------------------------------
 ---- IGNORE THIS DOWN BELOW! ----
 ---------------------------------

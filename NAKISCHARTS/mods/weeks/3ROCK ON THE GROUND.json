@@ -1,0 +1,32 @@
+{
+	"storyName": "ROCK ON THE GROUND",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "rock",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"rock",
+		""
+	],
+	"songs": [
+		[
+			"rocky grounds",
+			"harder-face",
+			[
+				195,
+				33,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "rockonthground",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "WIND FROM THE LANDSCAPE",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "wind",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"wind",
+		""
+	],
+	"songs": [
+		[
+			"breezy plains",
+			"insane-face",
+			[
+				195,
+				93,
+				215
+			]
+		],
+		[
+			"burning landscapes",
+			"freeplay/icon-burning",
+			[
+				255,
+				73,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "windfromthelandscape",
+	"hiddenUntilUnlocked": false
+}

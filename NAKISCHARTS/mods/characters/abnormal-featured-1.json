@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "featured_abnormal_1 idle dance"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "featured_abnormal_1 idle alt"
+		},
+		{
+			"offsets": [
+				1670,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "featured_abnormal_1 left note"
+		},
+		{
+			"offsets": [
+				1470,
+				935
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "featured_abnormal_1 down note"
+		},
+		{
+			"offsets": [
+				1470,
+				1285
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "featured_abnormal_1 up note"
+		},
+		{
+			"offsets": [
+				1210,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "featured_abnormal_1 right note"
+		},
+		{
+			"offsets": [
+				1670,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "featured_abnormal_1 alt left"
+		},
+		{
+			"offsets": [
+				1470,
+				935
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "featured_abnormal_1 alt down"
+		},
+		{
+			"offsets": [
+				1470,
+				1285
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "featured_abnormal_1 alt up"
+		},
+		{
+			"offsets": [
+				1210,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "featured_abnormal_1 alt right"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "seriously",
+			"indices": [],
+			"name": "featured_abnormal_1 seriously"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/featured_abnormal_1",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "normal-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		228,
+		-2147483648
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

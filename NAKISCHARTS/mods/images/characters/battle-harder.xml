@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="battle-harder.png"><SubTexture name="battle-harder death0000" x="0" y="4362" width="1066" height="843" frameX="-1335" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0001" x="2316" y="4362" width="1053" height="836" frameX="-1319" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0002" x="2592" y="3480" width="1031" height="848" frameX="-1353" frameY="-717" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0003" x="2592" y="3480" width="1031" height="848" frameX="-1353" frameY="-717" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0004" x="4401" y="0" width="995" height="844" frameX="-1406" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0005" x="4401" y="0" width="995" height="844" frameX="-1406" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0006" x="1577" y="3480" width="1015" height="862" frameX="-1415" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0007" x="1577" y="3480" width="1015" height="862" frameX="-1415" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0008" x="4401" y="1563" width="917" height="709" frameX="-1513" frameY="-885" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0009" x="4401" y="1563" width="917" height="709" frameX="-1513" frameY="-885" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0010" x="5396" y="1410" width="936" height="636" frameX="-1530" frameY="-1072" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0011" x="5396" y="1410" width="936" height="636" frameX="-1530" frameY="-1072" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0012" x="4401" y="844" width="893" height="719" frameX="-1558" frameY="-1000" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0013" x="4401" y="844" width="893" height="719" frameX="-1558" frameY="-1000" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0014" x="5396" y="707" width="909" height="703" frameX="-1550" frameY="-1020" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder death0015" x="5396" y="707" width="909" height="703" frameX="-1550" frameY="-1020" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder loop0000" x="5396" y="707" width="909" height="703" frameX="-1550" frameY="-1020" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder retry0000" x="5396" y="707" width="909" height="703" frameX="-1550" frameY="-1020" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder attackone0000" x="2354" y="0" width="1098" height="1269" frameX="-1358" frameY="-151" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder attackone0001" x="0" y="0" width="961" height="1338" frameX="-1365" frameY="-90" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder attackone0002" x="1221" y="1338" width="756" height="1103" frameX="-1372" frameY="-333" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder attacktwo0000" x="0" y="1338" width="1221" height="1184" frameX="-1358" frameY="-236" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder attacktwo0001" x="961" y="0" width="1393" height="1271" frameX="-1350" frameY="-149" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder attacktwo0002" x="0" y="5205" width="1415" height="701" frameX="-1336" frameY="-717" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder ouchone0000" x="1066" y="4362" width="1250" height="838" frameX="-1165" frameY="-764" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder ouchone0001" x="2858" y="2522" width="1277" height="935" frameX="-1242" frameY="-746" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder ouchone0002" x="1977" y="1338" width="842" height="994" frameX="-1303" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder ouchtwo0000" x="3369" y="4362" width="1512" height="774" frameX="-942" frameY="-768" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder ouchtwo0001" x="0" y="3480" width="1577" height="882" frameX="-853" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder ouchtwo0002" x="5396" y="0" width="1079" height="707" frameX="-1353" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder idle dance0000" x="3452" y="959" width="946" height="958" frameX="-1371" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder idle dance0001" x="3452" y="959" width="946" height="958" frameX="-1371" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder idle dance0002" x="3452" y="0" width="949" height="959" frameX="-1367" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder idle dance0003" x="3452" y="0" width="949" height="959" frameX="-1367" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder idle dance0004" x="0" y="2522" width="950" height="958" frameX="-1364" frameY="-725" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder idle dance0005" x="0" y="2522" width="950" height="958" frameX="-1364" frameY="-725" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder idle dance0006" x="950" y="2522" width="954" height="955" frameX="-1359" frameY="-722" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder idle dance0007" x="950" y="2522" width="954" height="955" frameX="-1359" frameY="-722" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder idle dance0008" x="1904" y="2522" width="954" height="953" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-harder idle dance0009" x="1904" y="2522" width="954" height="953" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

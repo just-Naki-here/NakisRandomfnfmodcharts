@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_peak.png"><SubTexture name="bf_peak beep0000" x="0" y="0" width="557" height="631" frameX="-828" frameY="-933" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak beep0001" x="0" y="0" width="557" height="631" frameX="-828" frameY="-933" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak beep0002" x="557" y="0" width="548" height="623" frameX="-848" frameY="-933" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak beep0003" x="557" y="0" width="548" height="623" frameX="-848" frameY="-933" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak beep0004" x="1105" y="0" width="550" height="610" frameX="-855" frameY="-937" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak beep0005" x="1105" y="0" width="550" height="610" frameX="-855" frameY="-937" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak beep0006" x="0" y="631" width="550" height="610" frameX="-855" frameY="-937" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0000" x="569" y="1241" width="578" height="548" frameX="-1051" frameY="-1098" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0001" x="569" y="1241" width="578" height="548" frameX="-1051" frameY="-1098" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0002" x="1147" y="1241" width="584" height="546" frameX="-927" frameY="-1079" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0003" x="1147" y="1241" width="584" height="546" frameX="-927" frameY="-1079" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0004" x="0" y="1241" width="569" height="577" frameX="-851" frameY="-992" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0005" x="0" y="1241" width="569" height="577" frameX="-851" frameY="-992" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0006" x="1100" y="631" width="555" height="604" frameX="-849" frameY="-956" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0007" x="1100" y="631" width="555" height="604" frameX="-849" frameY="-956" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0008" x="550" y="631" width="550" height="606" frameX="-859" frameY="-944" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0009" x="550" y="631" width="550" height="606" frameX="-859" frameY="-944" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0010" x="1655" y="0" width="550" height="598" frameX="-861" frameY="-941" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0011" x="1655" y="0" width="550" height="598" frameX="-861" frameY="-941" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="bf_peak hi0012" x="1655" y="598" width="549" height="596" frameX="-862" frameY="-941" frameWidth="2160" frameHeight="2302" />
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1445,
+				990
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gdcolonge left note"
+		},
+		{
+			"offsets": [
+				1445,
+				990
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gdcolonge idle dance"
+		},
+		{
+			"offsets": [
+				1445,
+				990
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gdcolonge right note"
+		},
+		{
+			"offsets": [
+				1445,
+				974
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gdcolonge down note"
+		},
+		{
+			"offsets": [
+				1445,
+				990
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gdcolonge up note"
+		},
+		{
+			"offsets": [
+				1445,
+				990
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "gdcolonge hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gdcolonge",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "gdcolonge",
+	"flip_x": false,
+	"healthbar_colors": [
+		90,
+		90,
+		90
+	],
+	"camera_position": [
+		-880,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smile.png"><SubTexture name="smile idle0000" x="0" y="0" width="701" height="699" frameX="-251" frameY="-233" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="smile idle0001" x="701" y="0" width="701" height="699" frameX="-251" frameY="-233" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="smile idle0002" x="0" y="699" width="701" height="699" frameX="-251" frameY="-233" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="smile idle0003" x="701" y="699" width="701" height="699" frameX="-251" frameY="-233" frameWidth="1200" frameHeight="1154" />
+<SubTexture name="smile idle0004" x="1402" y="0" width="701" height="699" frameX="-251" frameY="-233" frameWidth="1200" frameHeight="1154" />
+</TextureAtlas>

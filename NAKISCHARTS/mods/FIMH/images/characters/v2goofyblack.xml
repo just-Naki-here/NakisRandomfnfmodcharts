@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="v2goofyblack.png"><SubTexture name="v2goofyblack down note0000" x="1150" y="1904" width="831" height="870" frameX="-721" frameY="-1030" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack down note0001" x="0" y="1006" width="825" height="898" frameX="-723" frameY="-991" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack up note0000" x="1128" y="2787" width="1174" height="841" frameX="-451" frameY="-926" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack up note0001" x="0" y="5323" width="1181" height="760" frameX="-442" frameY="-982" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack left note0000" x="2031" y="0" width="1120" height="883" frameX="-346" frameY="-885" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack left note0001" x="0" y="1904" width="1150" height="883" frameX="-316" frameY="-885" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack left note0002" x="3151" y="0" width="1124" height="863" frameX="-356" frameY="-905" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack left note0003" x="0" y="2787" width="1128" height="863" frameX="-352" frameY="-905" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack angry idle0000" x="2031" y="883" width="805" height="880" frameX="-727" frameY="-956" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack angry idle0001" x="1981" y="1904" width="805" height="864" frameX="-727" frameY="-972" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack hamburger0000" x="4275" y="838" width="900" height="720" frameX="-910" frameY="-1047" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0000" x="6102" y="4441" width="915" height="92" frameX="-681" frameY="-1702" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0001" x="6102" y="4325" width="915" height="116" frameX="-681" frameY="-1678" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0002" x="6102" y="4184" width="915" height="141" frameX="-681" frameY="-1653" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0003" x="6102" y="4011" width="915" height="173" frameX="-681" frameY="-1621" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0004" x="6102" y="3810" width="915" height="201" frameX="-681" frameY="-1593" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0005" x="6102" y="3579" width="915" height="231" frameX="-681" frameY="-1563" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0006" x="6102" y="3319" width="915" height="260" frameX="-681" frameY="-1534" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0007" x="6102" y="3023" width="915" height="296" frameX="-681" frameY="-1498" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0008" x="6102" y="2700" width="915" height="323" frameX="-681" frameY="-1471" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0009" x="6102" y="2338" width="915" height="362" frameX="-681" frameY="-1432" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0010" x="6102" y="1933" width="915" height="405" frameX="-681" frameY="-1389" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0011" x="6102" y="1498" width="915" height="435" frameX="-681" frameY="-1359" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0012" x="6102" y="1036" width="915" height="462" frameX="-681" frameY="-1332" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0013" x="6102" y="542" width="915" height="494" frameX="-681" frameY="-1300" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0014" x="6102" y="0" width="915" height="542" frameX="-681" frameY="-1252" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0015" x="4841" y="5323" width="915" height="566" frameX="-681" frameY="-1228" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0016" x="3926" y="5323" width="915" height="612" frameX="-681" frameY="-1182" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0017" x="3011" y="5323" width="915" height="653" frameX="-681" frameY="-1141" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0018" x="2096" y="5323" width="915" height="686" frameX="-681" frameY="-1108" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0019" x="1181" y="5323" width="915" height="735" frameX="-681" frameY="-1059" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0020" x="4582" y="4488" width="915" height="768" frameX="-681" frameY="-1026" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0021" x="3667" y="4488" width="915" height="801" frameX="-681" frameY="-993" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0022" x="5182" y="1669" width="915" height="828" frameX="-681" frameY="-966" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0023" x="3217" y="2787" width="906" height="838" frameX="-681" frameY="-956" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0024" x="4275" y="0" width="907" height="838" frameX="-681" frameY="-956" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0025" x="0" y="3650" width="913" height="838" frameX="-681" frameY="-956" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0026" x="913" y="3650" width="929" height="838" frameX="-681" frameY="-956" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack reset0027" x="1842" y="3650" width="941" height="838" frameX="-681" frameY="-956" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0000" x="2783" y="3650" width="925" height="838" frameX="-681" frameY="-956" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0001" x="2783" y="3650" width="925" height="838" frameX="-681" frameY="-956" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0002" x="3708" y="3650" width="923" height="838" frameX="-685" frameY="-960" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0003" x="3708" y="3650" width="923" height="838" frameX="-685" frameY="-960" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0004" x="0" y="4488" width="923" height="835" frameX="-691" frameY="-966" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0005" x="0" y="4488" width="923" height="835" frameX="-691" frameY="-966" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0006" x="5182" y="0" width="920" height="837" frameX="-704" frameY="-966" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0007" x="5182" y="0" width="920" height="837" frameX="-704" frameY="-966" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0008" x="3151" y="1712" width="920" height="839" frameX="-709" frameY="-964" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0009" x="3151" y="1712" width="920" height="839" frameX="-709" frameY="-964" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0010" x="2302" y="2787" width="915" height="839" frameX="-720" frameY="-958" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0011" x="2302" y="2787" width="915" height="839" frameX="-720" frameY="-958" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0012" x="5182" y="837" width="911" height="832" frameX="-728" frameY="-949" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0013" x="5182" y="837" width="911" height="832" frameX="-728" frameY="-949" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0014" x="5182" y="2497" width="907" height="823" frameX="-732" frameY="-942" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0015" x="5182" y="2497" width="907" height="823" frameX="-732" frameY="-942" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0016" x="1844" y="4488" width="910" height="817" frameX="-727" frameY="-936" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0017" x="1844" y="4488" width="910" height="817" frameX="-727" frameY="-936" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0018" x="5182" y="3320" width="916" height="821" frameX="-715" frameY="-934" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0019" x="5182" y="3320" width="916" height="821" frameX="-715" frameY="-934" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0020" x="2754" y="4488" width="913" height="812" frameX="-706" frameY="-941" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0021" x="2754" y="4488" width="913" height="812" frameX="-706" frameY="-941" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0022" x="923" y="4488" width="921" height="825" frameX="-690" frameY="-949" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack idle dance0023" x="923" y="4488" width="921" height="825" frameX="-690" frameY="-949" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack right note0000" x="825" y="1006" width="1033" height="894" frameX="-919" frameY="-905" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack right note0001" x="3151" y="863" width="1027" height="849" frameX="-920" frameY="-904" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack up dk0000" x="0" y="0" width="1007" height="1006" frameX="-603" frameY="-741" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyblack up dk0001" x="1007" y="0" width="1024" height="904" frameX="-605" frameY="-838" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

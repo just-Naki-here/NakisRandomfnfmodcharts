@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="na_fade.png"><SubTexture name="na_fade loop0000" x="0" y="0" width="1225" height="1049" frameX="-1067" frameY="-656" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="na_fade loop0001" x="1225" y="0" width="1235" height="1034" frameX="-1059" frameY="-664" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="na_fade loop0002" x="0" y="1049" width="1232" height="1025" frameX="-1057" frameY="-671" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="na_fade loop0003" x="2460" y="0" width="1235" height="1025" frameX="-1061" frameY="-664" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="na_fade loop0004" x="2460" y="1025" width="1225" height="1011" frameX="-1066" frameY="-678" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

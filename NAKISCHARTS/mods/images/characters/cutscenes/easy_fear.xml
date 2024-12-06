@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="easy_fear.png"><SubTexture name="easy_fear hard0000" x="0" y="0" width="922" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear hard0001" x="922" y="0" width="926" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear hard0002" x="922" y="0" width="926" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear hard0003" x="0" y="699" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear hard0004" x="0" y="699" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear hard0005" x="927" y="699" width="915" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear down note0000" x="1848" y="0" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear down note0001" x="1848" y="0" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear down note0002" x="1848" y="699" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear down note0003" x="1848" y="699" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear down note0004" x="0" y="1398" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear left note0000" x="927" y="1398" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear left note0001" x="927" y="1398" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear left note0002" x="2775" y="0" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear left note0003" x="2775" y="0" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear left note0004" x="2775" y="699" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear up note0000" x="2775" y="1398" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear up note0001" x="2775" y="1398" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear up note0002" x="0" y="2097" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear up note0003" x="0" y="2097" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear up note0004" x="927" y="2097" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear right note0000" x="1854" y="2097" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear right note0001" x="1854" y="2097" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear right note0002" x="0" y="2796" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear right note0003" x="0" y="2796" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear right note0004" x="927" y="2796" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear right note0005" x="927" y="2796" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="easy_fear right note0006" x="1854" y="2796" width="927" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

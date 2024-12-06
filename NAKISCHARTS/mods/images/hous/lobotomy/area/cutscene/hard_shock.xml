@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hard_shock.png"><SubTexture name="hard_shock turn0000" x="2427" y="2459" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0001" x="2427" y="2459" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0002" x="3811" y="0" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0003" x="3811" y="0" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0004" x="3811" y="699" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0005" x="3811" y="699" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0006" x="3811" y="699" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0007" x="3811" y="699" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0008" x="3811" y="699" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0009" x="3811" y="699" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0010" x="3811" y="699" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0011" x="3811" y="699" width="1005" height="699" frameX="-1054" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0012" x="3811" y="1398" width="1003" height="699" frameX="-1056" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0013" x="3811" y="1398" width="1003" height="699" frameX="-1056" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0014" x="0" y="2459" width="937" height="765" frameX="-1122" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0015" x="0" y="2459" width="937" height="765" frameX="-1122" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0016" x="2860" y="1548" width="859" height="770" frameX="-1200" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0017" x="2860" y="1548" width="859" height="770" frameX="-1200" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0018" x="937" y="2459" width="753" height="739" frameX="-1310" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0019" x="937" y="2459" width="753" height="739" frameX="-1310" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0020" x="1690" y="2459" width="737" height="714" frameX="-1325" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0021" x="1690" y="2459" width="737" height="714" frameX="-1325" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0022" x="950" y="843" width="758" height="793" frameX="-1371" frameY="-750" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0023" x="950" y="843" width="758" height="793" frameX="-1371" frameY="-750" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0024" x="0" y="1674" width="833" height="785" frameX="-1343" frameY="-750" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0025" x="0" y="1674" width="833" height="785" frameX="-1343" frameY="-750" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0026" x="833" y="1674" width="928" height="779" frameX="-1321" frameY="-750" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0027" x="833" y="1674" width="928" height="779" frameX="-1321" frameY="-750" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0028" x="2860" y="0" width="951" height="774" frameX="-1298" frameY="-730" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0029" x="2860" y="0" width="951" height="774" frameX="-1298" frameY="-730" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0030" x="2860" y="774" width="950" height="774" frameX="-1300" frameY="-723" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0031" x="2860" y="774" width="950" height="774" frameX="-1300" frameY="-723" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0032" x="1761" y="1674" width="950" height="775" frameX="-1299" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock turn0033" x="1761" y="1674" width="950" height="775" frameX="-1299" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock phew0000" x="1899" y="0" width="961" height="826" frameX="-1222" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock phew0001" x="1899" y="0" width="961" height="826" frameX="-1222" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock phew0002" x="949" y="0" width="950" height="838" frameX="-1219" frameY="-731" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock phew0003" x="949" y="0" width="950" height="838" frameX="-1219" frameY="-731" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock phew0004" x="0" y="0" width="949" height="843" frameX="-1218" frameY="-737" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock phew0005" x="0" y="0" width="949" height="843" frameX="-1218" frameY="-737" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock phew0006" x="0" y="843" width="950" height="831" frameX="-1219" frameY="-730" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock phew0007" x="0" y="843" width="950" height="831" frameX="-1219" frameY="-730" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_shock phew0008" x="1899" y="826" width="954" height="826" frameX="-1226" frameY="-725" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

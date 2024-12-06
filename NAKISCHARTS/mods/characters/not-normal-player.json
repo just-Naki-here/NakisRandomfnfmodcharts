@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "not_normal idle dance"
+		},
+		{
+			"offsets": [
+				1290,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "not_normal left note"
+		},
+		{
+			"offsets": [
+				1470,
+				935
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "not_normal down note"
+		},
+		{
+			"offsets": [
+				1470,
+				1285
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "not_normal up note"
+		},
+		{
+			"offsets": [
+				1650,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "not_normal right note"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "not_normal hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/not_normal",
+	"position": [
+		200,
+		350
+	],
+	"healthicon": "normal-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		228,
+		1
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
