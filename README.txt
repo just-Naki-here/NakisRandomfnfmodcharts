@@ -7,8 +7,8 @@ When playing "Breaking Point", make sure you RESTART the song for the first few 
 
 
 
-When playing the custom charts, there is a POSSIBILITY of the came crashing or freezing.:3
-
+When playing the custom charts, there is a POSSIBILITY of the game crashing or freezing.:3
++ THIS IS AN OLDER VERSION OF THE BRANCH "main" DUE TO ME WANTING TO HAVE ALL THE PREVIOUS VERSIONS HERE AS WELL!!!
 
 P.S: When you play Breaking Point Edited5 or Breaking Point Edited6, when they start, the window will act up; so press the Enter key , then press the Down arrow on your keyboard once and press the Enter key once again. That should fix the window acting up.
 P.S.S:ENTROPY2,ENTROPY3,ENTROPY4 and ENTROPY5's modchart code is currently broken, for some dumb ass reason... THANKS LUA! So that being said, do not play those songs until they are fixed.
