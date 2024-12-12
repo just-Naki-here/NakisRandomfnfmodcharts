@@ -3,13 +3,13 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "water",
-	"weekBefore": "tutorial",
+	"weekBefore": "1FIRE IN THE HOLE",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": true,
+	"startUnlocked": false,
 	"hideStoryMode": false,
 	"songs": [
 		[

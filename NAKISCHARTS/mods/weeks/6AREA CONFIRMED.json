@@ -3,14 +3,18 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "area",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekBefore": "5AIR DETECTED",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"area",
+		""
+	],
 	"songs": [
 		[
 			"confirmation",
@@ -22,11 +26,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"area",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "areaconfirmed"
+	"hideStoryMode": false,
+	"weekName": "areaconfirmed",
+	"hiddenUntilUnlocked": false
 }

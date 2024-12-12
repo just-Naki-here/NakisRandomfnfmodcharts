@@ -1,6 +1,6 @@
 -- credit script by cooldudecrafter
 function onCreate()
-	makeLuaText('creditTxt', 'Song cover: insert song here',0, 200, -95); -- change the "200" in order to center the text a bit more and change the "insert song here" to change the song credit
+	makeLuaText('creditTxt', 'Modchart by Just_Naki_Here',0, 200, -95); -- change the "200" in order to center the text a bit more and change the "insert song here" to change the song credit
 	setObjectCamera('creditTxt', 'other')
     addLuaText('creditTxt')
     setTextSize('creditTxt', 50);

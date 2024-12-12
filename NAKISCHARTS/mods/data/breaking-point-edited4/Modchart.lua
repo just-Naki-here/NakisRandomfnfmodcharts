@@ -63,6 +63,10 @@ function onSongStart()
   setPropertyFromClass("openfl.Lib", "application.window.title", "HELP JAIDEN BOYFRIEND!!!")
   setPropertyFromClass("openfl.Lib", "application.window.x", X) 
   setPropertyFromClass("openfl.Lib", "application.window.y", Y)
+  setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.2);
+  setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.2);
+  setPropertyFromGroup('opponentStrums', 2, 'alpha', 0.2);
+  setPropertyFromGroup('opponentStrums', 3, 'alpha', 0.2);
 end
 function onUpdate(elapsed)
   math.randomseed(os.time())--seeds the function math.random
@@ -120,7 +124,10 @@ function onUpdate(elapsed)
   noteTweenX('defaultoppStrumX1', 1, defaultPlayerStrumX1 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
   noteTweenX('defaultoppStrumX2', 2, defaultPlayerStrumX2 - randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
   noteTweenX('defaultoppStrumX3', 3, defaultPlayerStrumX3 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
-  
+  setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.2);
+  setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.2);
+  setPropertyFromGroup('opponentStrums', 2, 'alpha', 0.2);
+  setPropertyFromGroup('opponentStrums', 3, 'alpha', 0.2);
   getMisses()
   if misses== 10 then
    setPropertyFromClass("openfl.Lib", "application.window.title", "KEEP GOING!");

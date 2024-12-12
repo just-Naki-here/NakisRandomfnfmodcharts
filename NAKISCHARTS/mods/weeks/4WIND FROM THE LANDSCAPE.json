@@ -3,18 +3,14 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "wind",
+	"weekBefore": "3ROCK ON THE GROUND",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"wind",
-		""
-	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"breezy plains",
@@ -35,7 +31,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "windfromthelandscape",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"wind",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "windfromthelandscape"
 }

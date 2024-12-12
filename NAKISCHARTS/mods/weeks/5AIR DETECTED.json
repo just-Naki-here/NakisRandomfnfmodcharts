@@ -3,18 +3,14 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "air",
+	"weekBefore": "4WIND FROM THE LANDSCAPE",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"air",
-		""
-	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"detection",
@@ -26,7 +22,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "airdetected",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"air",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "airdetected"
 }
