@@ -1,3 +1,6 @@
+YES I KNOW IT TAKES A WHILE TO DOWNLOAD
+
+
 When playing "Breaking Point", make sure you RESTART the song for the first few seconds as there is a small lag bug when you first load into the song. So be sure to Restart the song for a much better experience! Thank you and have fun!! ^^
 - Zay
 
