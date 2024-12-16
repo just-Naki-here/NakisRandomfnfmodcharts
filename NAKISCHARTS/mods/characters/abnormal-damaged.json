@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "abnormal_damaged idle dance"
+		},
+		{
+			"offsets": [
+				1620,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "abnormal_damaged left note"
+		},
+		{
+			"offsets": [
+				1470,
+				965
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "abnormal_damaged down note"
+		},
+		{
+			"offsets": [
+				1470,
+				1255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "abnormal_damaged up note"
+		},
+		{
+			"offsets": [
+				1320,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "abnormal_damaged right note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/abnormal_damaged",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "normal-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		228,
+		-2147483648
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4.5,
+	"scale": 0.8
+}

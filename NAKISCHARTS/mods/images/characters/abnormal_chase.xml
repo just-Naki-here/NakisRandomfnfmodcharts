@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abnormal_chase.png"><SubTexture name="abnormal_chase idle dance0000" x="0" y="5599" width="1379" height="957" frameX="-1176" frameY="-610" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase idle dance0001" x="0" y="5599" width="1379" height="957" frameX="-1176" frameY="-610" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase idle dance0002" x="5262" y="2062" width="1364" height="958" frameX="-1187" frameY="-610" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase idle dance0003" x="5262" y="2062" width="1364" height="958" frameX="-1187" frameY="-610" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase idle dance0004" x="5262" y="3020" width="1345" height="958" frameX="-1199" frameY="-611" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase idle dance0005" x="5262" y="3020" width="1345" height="958" frameX="-1199" frameY="-611" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase idle dance0006" x="1379" y="5599" width="1348" height="957" frameX="-1206" frameY="-601" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase idle dance0007" x="1379" y="5599" width="1348" height="957" frameX="-1206" frameY="-601" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase idle dance0008" x="2727" y="5599" width="1344" height="956" frameX="-1212" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase idle dance0009" x="2727" y="5599" width="1344" height="956" frameX="-1212" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase down note0000" x="0" y="0" width="1299" height="1252" frameX="-1134" frameY="-489" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase down note0001" x="1299" y="0" width="1285" height="1252" frameX="-1149" frameY="-483" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase down note0002" x="0" y="0" width="1299" height="1252" frameX="-1134" frameY="-489" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase down note0003" x="0" y="1252" width="1267" height="1171" frameX="-1164" frameY="-531" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase down note0004" x="0" y="1252" width="1267" height="1171" frameX="-1164" frameY="-531" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase down note0005" x="0" y="2423" width="1262" height="1106" frameX="-1163" frameY="-566" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase left note0000" x="3053" y="4582" width="1504" height="960" frameX="-1169" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase left note0001" x="4557" y="4582" width="1500" height="958" frameX="-1173" frameY="-597" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase left note0002" x="3053" y="4582" width="1504" height="960" frameX="-1169" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase left note0003" x="1584" y="4582" width="1469" height="969" frameX="-1194" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase left note0004" x="1584" y="4582" width="1469" height="969" frameX="-1194" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase left note0005" x="5262" y="0" width="1431" height="1033" frameX="-1212" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase right note0000" x="3593" y="0" width="1669" height="1069" frameX="-710" frameY="-490" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase right note0001" x="1262" y="2423" width="1666" height="1072" frameX="-709" frameY="-488" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase right note0002" x="3593" y="0" width="1669" height="1069" frameX="-710" frameY="-490" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase right note0003" x="2596" y="3529" width="1615" height="1044" frameX="-726" frameY="-512" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase right note0004" x="2596" y="3529" width="1615" height="1044" frameX="-726" frameY="-512" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase right note0005" x="0" y="4582" width="1584" height="1017" frameX="-743" frameY="-537" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase up note0000" x="1267" y="1252" width="1009" height="1160" frameX="-1145" frameY="-550" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase up note0001" x="2584" y="0" width="1009" height="1153" frameX="-1144" frameY="-543" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase up note0002" x="1267" y="1252" width="1009" height="1160" frameX="-1145" frameY="-550" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase up note0003" x="5262" y="1033" width="1029" height="1029" frameX="-1138" frameY="-580" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase up note0004" x="5262" y="1033" width="1029" height="1029" frameX="-1138" frameY="-580" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase up note0005" x="4211" y="3529" width="1050" height="956" frameX="-1134" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase woag0000" x="1283" y="3529" width="1313" height="1051" frameX="-938" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase woag0001" x="1283" y="3529" width="1313" height="1051" frameX="-938" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase woag0002" x="3593" y="2124" width="1352" height="1054" frameX="-958" frameY="-597" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase woag0003" x="3593" y="2124" width="1352" height="1054" frameX="-958" frameY="-597" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase woag0004" x="3593" y="1069" width="1308" height="1055" frameX="-951" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase woag0005" x="3593" y="1069" width="1308" height="1055" frameX="-951" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase woag0006" x="0" y="3529" width="1283" height="1053" frameX="-941" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_chase woag0007" x="0" y="3529" width="1283" height="1053" frameX="-941" frameY="-594" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

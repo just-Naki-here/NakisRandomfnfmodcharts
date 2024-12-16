@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hard_airstrike.png"><SubTexture name="hard_airstrike up note0000" x="0" y="0" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike up note0001" x="0" y="0" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike up note0002" x="1425" y="0" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike right note0000" x="2850" y="0" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike right note0001" x="2850" y="0" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike right note0002" x="0" y="1492" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike down note0000" x="1425" y="1492" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike down note0001" x="1425" y="1492" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike down note0002" x="2850" y="1492" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike left note0000" x="4275" y="0" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike left note0001" x="4275" y="0" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="hard_airstrike left note0002" x="4275" y="1492" width="1425" height="1492" frameX="-929" frameY="-479" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

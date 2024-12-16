@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "auto_face_male idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1550,
+				1105
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "auto_face_male left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1025
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "auto_face_male down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1185
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "auto_face_male up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1390,
+				1105
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "auto_face_male right note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/auto_face_male",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "auto-face-male",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		173,
+		99
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

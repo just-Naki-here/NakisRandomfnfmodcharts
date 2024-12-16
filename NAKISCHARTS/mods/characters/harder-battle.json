@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "battle-harder idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "battle-harder attacktwo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "battle-harder attackone",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "battle-harder attacktwo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "battle-harder attackone",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "battle-harder death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "battle-harder ouchone",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "battle-harder ouchtwo",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "battle-harder death"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "battle-harder loop"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "battle-harder retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/battle-harder",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "harder-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		37,
+		13
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

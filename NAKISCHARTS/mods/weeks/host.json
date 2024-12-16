@@ -1,0 +1,77 @@
+{
+	"storyName": "Mixed Numbers",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "host",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Verzephobia",
+			"xrun",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Who Marks The Spot",
+			"gelatin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Pudgy",
+			"four",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Even Primes",
+			"two",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Half Of Four",
+			"twoded",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lost Value",
+			"x",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"Menu_Char",
+		"Menu_Char",
+		"Menu_Char"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

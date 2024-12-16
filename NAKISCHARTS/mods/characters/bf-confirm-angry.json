@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "bf_angery hit"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-39
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf_angery left note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-40
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf_angery down note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-41
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf_angery up note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf_angery right note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "bf_angery ALT right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf_angery idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "bf_angery idle ALT"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf_angery miss"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf_angery miss"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf_angery miss"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf_angery miss"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss-alt",
+			"indices": [],
+			"name": "bf_angery alt miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 12,
+			"anim": "huh",
+			"indices": [],
+			"name": "bf_angery huh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 12,
+			"anim": "heh",
+			"indices": [],
+			"name": "bf_angery heh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "gofunkyourself",
+			"indices": [],
+			"name": "bf_angery frickyou"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_angery",
+	"position": [
+		-860,
+		-710
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-270,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 0.56
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "ROCK ON THE GROUND",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "rock",
+	"weekBefore": "2WATER ON THE HILL",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"rocky grounds",
+			"harder-face",
+			[
+				195,
+				33,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"rock",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "rockonthground"
+}

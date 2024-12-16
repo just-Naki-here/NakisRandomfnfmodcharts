@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Welp, I'm back here again..."
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh...."
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hello!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh gosh...."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I-Is that it!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Are there no more enemies I need to fight!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Oh my GOODNESS!! I FINALLY GET TO KNOW\\nHOW TO GET OUTTA HE-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "corruptport",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "PI&*IBB%%&YY!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "corruptport",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "HE&^*LLLPPP!!! PLE$^ASE!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh boy, this just NEVER gets easier!"
+		}
+	]
+}

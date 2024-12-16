@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="auto_gameover.png"><SubTexture name="auto_gameover ouchie0000" x="871" y="3725" width="882" height="769" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0001" x="871" y="3725" width="882" height="769" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0002" x="0" y="3725" width="871" height="777" frameX="-1370" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0003" x="0" y="3725" width="871" height="777" frameX="-1370" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0004" x="3785" y="2523" width="882" height="799" frameX="-1346" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0005" x="3785" y="2523" width="882" height="799" frameX="-1346" frameY="-736" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0006" x="3785" y="1712" width="883" height="811" frameX="-1324" frameY="-758" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0007" x="3785" y="1712" width="883" height="811" frameX="-1324" frameY="-758" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0008" x="0" y="1966" width="935" height="900" frameX="-1259" frameY="-691" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0009" x="0" y="1966" width="935" height="900" frameX="-1259" frameY="-691" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0010" x="0" y="0" width="1016" height="1019" frameX="-1221" frameY="-650" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0011" x="0" y="0" width="1016" height="1019" frameX="-1221" frameY="-650" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0012" x="1016" y="0" width="995" height="990" frameX="-1213" frameY="-674" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0013" x="1016" y="0" width="995" height="990" frameX="-1213" frameY="-674" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0014" x="2011" y="0" width="917" height="908" frameX="-1258" frameY="-698" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0015" x="2011" y="0" width="917" height="908" frameX="-1258" frameY="-698" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0016" x="941" y="1019" width="909" height="944" frameX="-1284" frameY="-669" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0017" x="941" y="1019" width="909" height="944" frameX="-1284" frameY="-669" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0018" x="0" y="1019" width="941" height="947" frameX="-1220" frameY="-672" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0019" x="0" y="1019" width="941" height="947" frameX="-1220" frameY="-672" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0020" x="1016" y="0" width="995" height="990" frameX="-1213" frameY="-674" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0021" x="1016" y="0" width="995" height="990" frameX="-1213" frameY="-674" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0022" x="2011" y="0" width="917" height="908" frameX="-1258" frameY="-698" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0023" x="2011" y="0" width="917" height="908" frameX="-1258" frameY="-698" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0024" x="941" y="1019" width="909" height="944" frameX="-1284" frameY="-669" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0025" x="941" y="1019" width="909" height="944" frameX="-1284" frameY="-669" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0026" x="0" y="1019" width="941" height="947" frameX="-1220" frameY="-672" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0027" x="0" y="1019" width="941" height="947" frameX="-1220" frameY="-672" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0028" x="2011" y="908" width="888" height="894" frameX="-1272" frameY="-743" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0029" x="2011" y="908" width="888" height="894" frameX="-1272" frameY="-743" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0030" x="3785" y="859" width="877" height="853" frameX="-1274" frameY="-813" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0031" x="3785" y="859" width="877" height="853" frameX="-1274" frameY="-813" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0032" x="1785" y="1966" width="855" height="874" frameX="-1255" frameY="-839" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0033" x="1785" y="1966" width="855" height="874" frameX="-1255" frameY="-839" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0034" x="935" y="1966" width="850" height="882" frameX="-1251" frameY="-845" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0035" x="935" y="1966" width="850" height="882" frameX="-1251" frameY="-845" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0036" x="2928" y="0" width="857" height="874" frameX="-1256" frameY="-840" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0037" x="2928" y="0" width="857" height="874" frameX="-1256" frameY="-840" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0038" x="0" y="2866" width="872" height="859" frameX="-1261" frameY="-834" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0039" x="872" y="2866" width="1329" height="859" frameX="-804" frameY="-834" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0040" x="2201" y="2866" width="1329" height="859" frameX="-804" frameY="-834" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover ouchie0041" x="3785" y="0" width="1329" height="859" frameX="-804" frameY="-834" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover loop0000" x="3785" y="0" width="1329" height="859" frameX="-804" frameY="-834" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_gameover retry0000" x="3785" y="0" width="1329" height="859" frameX="-804" frameY="-834" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

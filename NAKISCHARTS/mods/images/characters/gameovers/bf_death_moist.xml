@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_death_moist.png"><SubTexture name="bf_death_moist death0000" x="0" y="418" width="433" height="415" frameX="-536" frameY="-852" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0001" x="433" y="418" width="433" height="415" frameX="-536" frameY="-852" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0002" x="955" y="412" width="439" height="411" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0003" x="0" y="833" width="439" height="411" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0004" x="439" y="833" width="456" height="411" frameX="-517" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0005" x="895" y="833" width="456" height="411" frameX="-517" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0006" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0007" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0008" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0009" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0010" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0011" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0012" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0013" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0014" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0015" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0016" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0017" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0018" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0019" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0020" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0021" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0022" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0023" x="955" y="0" width="440" height="412" frameX="-534" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0024" x="0" y="0" width="955" height="418" frameX="-18" frameY="-851" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0025" x="1395" y="0" width="512" height="411" frameX="-461" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0026" x="1395" y="411" width="456" height="411" frameX="-517" frameY="-858" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0027" x="1395" y="822" width="346" height="206" frameX="-593" frameY="-1063" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0028" x="1395" y="1028" width="346" height="206" frameX="-593" frameY="-1063" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0029" x="1395" y="1028" width="346" height="206" frameX="-593" frameY="-1063" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0030" x="0" y="1244" width="361" height="206" frameX="-588" frameY="-1063" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0031" x="0" y="1244" width="361" height="206" frameX="-588" frameY="-1063" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0032" x="923" y="1244" width="311" height="164" frameX="-655" frameY="-1106" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0033" x="923" y="1244" width="311" height="164" frameX="-655" frameY="-1106" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0034" x="361" y="1244" width="273" height="186" frameX="-664" frameY="-1084" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0035" x="361" y="1244" width="273" height="186" frameX="-664" frameY="-1084" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist death0036" x="634" y="1244" width="289" height="174" frameX="-656" frameY="-1096" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist loop0000" x="634" y="1244" width="289" height="174" frameX="-656" frameY="-1096" frameWidth="1362" frameHeight="1303" />
+<SubTexture name="bf_death_moist retry0000" x="634" y="1244" width="289" height="174" frameX="-656" frameY="-1096" frameWidth="1362" frameHeight="1303" />
+</TextureAtlas>

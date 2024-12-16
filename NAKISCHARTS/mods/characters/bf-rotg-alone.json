@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf-alone-dark idle dance"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf-alone-dark left note"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf-alone-dark down note"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf-alone-dark up note"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf-alone-dark right note"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf-alone-dark miss"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf-alone-dark miss"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf-alone-dark miss"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf-alone-dark miss"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "turn",
+			"indices": [],
+			"name": "bf-alone-dark turn"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "bf-alone-dark scared"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "bf-alone-dark firstdeath"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "bf-alone-dark deathloop"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "bf-alone-dark deathconfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-alone-dark",
+	"position": [
+		-160,
+		390
+	],
+	"healthicon": "bffith",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

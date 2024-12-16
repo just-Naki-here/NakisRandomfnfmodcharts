@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf_turned.png"><SubTexture name="gf_turned down note0000" x="1642" y="3427" width="539" height="730" frameX="-851" frameY="-822" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned down note0001" x="1642" y="3427" width="539" height="730" frameX="-851" frameY="-822" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned down note0002" x="4023" y="2405" width="519" height="748" frameX="-863" frameY="-804" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned left note0000" x="4023" y="1616" width="472" height="789" frameX="-841" frameY="-739" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned left note0001" x="4023" y="1616" width="472" height="789" frameX="-841" frameY="-739" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned left note0002" x="4023" y="826" width="482" height="790" frameX="-843" frameY="-738" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned up note0000" x="0" y="0" width="487" height="881" frameX="-883" frameY="-689" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned up note0001" x="0" y="0" width="487" height="881" frameX="-883" frameY="-689" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned up note0002" x="0" y="1746" width="499" height="841" frameX="-870" frameY="-729" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned right note0000" x="1086" y="3427" width="556" height="809" frameX="-883" frameY="-761" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned right note0001" x="1086" y="3427" width="556" height="809" frameX="-883" frameY="-761" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned right note0002" x="539" y="3427" width="547" height="812" frameX="-880" frameY="-758" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned idle dance0000" x="3499" y="0" width="524" height="828" frameX="-821" frameY="-742" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned idle dance0001" x="3499" y="0" width="524" height="828" frameX="-821" frameY="-742" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned idle dance0002" x="2622" y="2587" width="524" height="832" frameX="-824" frameY="-738" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned idle dance0003" x="2622" y="2587" width="524" height="832" frameX="-824" frameY="-738" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned idle dance0004" x="2102" y="2587" width="520" height="837" frameX="-832" frameY="-733" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned idle dance0005" x="2102" y="2587" width="520" height="837" frameX="-832" frameY="-733" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned idle dance0006" x="2072" y="1746" width="516" height="840" frameX="-834" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned idle dance0007" x="2072" y="1746" width="516" height="840" frameX="-834" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned idle dance0008" x="2979" y="0" width="520" height="840" frameX="-830" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned idle dance0009" x="2979" y="0" width="520" height="840" frameX="-830" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0000" x="2348" y="0" width="631" height="848" frameX="-755" frameY="-745" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0001" x="2348" y="0" width="631" height="848" frameX="-755" frameY="-745" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0002" x="1258" y="881" width="626" height="851" frameX="-754" frameY="-742" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0003" x="1258" y="881" width="626" height="851" frameX="-754" frameY="-742" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0004" x="632" y="881" width="626" height="856" frameX="-755" frameY="-737" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0005" x="632" y="881" width="626" height="856" frameX="-755" frameY="-737" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0006" x="1718" y="0" width="630" height="866" frameX="-755" frameY="-727" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0007" x="1718" y="0" width="630" height="866" frameX="-755" frameY="-727" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0008" x="0" y="881" width="632" height="865" frameX="-754" frameY="-728" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0009" x="0" y="881" width="632" height="865" frameX="-754" frameY="-728" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0010" x="1084" y="0" width="634" height="867" frameX="-754" frameY="-726" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0011" x="1084" y="0" width="634" height="867" frameX="-754" frameY="-726" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0012" x="1084" y="0" width="634" height="867" frameX="-754" frameY="-726" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0013" x="1084" y="0" width="634" height="867" frameX="-754" frameY="-726" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0014" x="1084" y="0" width="634" height="867" frameX="-754" frameY="-726" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0015" x="1084" y="0" width="634" height="867" frameX="-754" frameY="-726" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0016" x="487" y="0" width="597" height="878" frameX="-789" frameY="-728" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0017" x="487" y="0" width="597" height="878" frameX="-789" frameY="-728" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0018" x="0" y="2587" width="528" height="840" frameX="-838" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0019" x="0" y="2587" width="528" height="840" frameX="-838" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0020" x="2979" y="840" width="516" height="840" frameX="-823" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0021" x="2979" y="840" width="516" height="840" frameX="-823" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned oop0022" x="2979" y="0" width="520" height="840" frameX="-830" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned reaction0000" x="528" y="2587" width="525" height="840" frameX="-836" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned reaction0001" x="499" y="1746" width="525" height="841" frameX="-848" frameY="-729" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned reaction0002" x="1024" y="1746" width="523" height="841" frameX="-839" frameY="-729" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned reaction0003" x="1024" y="1746" width="523" height="841" frameX="-839" frameY="-729" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned reaction0004" x="2979" y="1680" width="520" height="840" frameX="-830" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned miss0000" x="2348" y="848" width="501" height="846" frameX="-850" frameY="-722" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned aim reaction0000" x="1053" y="2587" width="520" height="840" frameX="-830" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned aim reaction0001" x="1573" y="2587" width="529" height="840" frameX="-833" frameY="-730" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned aim reaction0002" x="1547" y="1746" width="525" height="841" frameX="-831" frameY="-729" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned shoot reaction0000" x="4023" y="0" width="538" height="826" frameX="-877" frameY="-744" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf_turned shoot reaction0001" x="0" y="3427" width="539" height="826" frameX="-867" frameY="-744" frameWidth="2160" frameHeight="2302" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abnormal_entrance.png"><SubTexture name="abnormal_entrance idle0000" x="952" y="0" width="960" height="1083" frameX="-1164" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_entrance idle0001" x="1912" y="0" width="960" height="1083" frameX="-1165" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_entrance idle0002" x="0" y="1087" width="956" height="1082" frameX="-1168" frameY="-717" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_entrance idle0003" x="956" y="1087" width="955" height="1082" frameX="-1168" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_entrance idle0004" x="0" y="0" width="952" height="1087" frameX="-1167" frameY="-717" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

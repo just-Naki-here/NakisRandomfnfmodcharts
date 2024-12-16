@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "na_weapon idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1570,
+				1105
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "na_weapon left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1005
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "na_weapon down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1225
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "na_weapon up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1350,
+				1105
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "na_weapon right note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/na_weapon",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "freeplay/icon-na-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		168,
+		168
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

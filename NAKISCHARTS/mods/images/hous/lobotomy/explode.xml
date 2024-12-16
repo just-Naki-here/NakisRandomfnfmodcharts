@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="explode.png"><SubTexture name="explode cmc0000" x="3299" y="960" width="125" height="80" frameX="-174" frameY="-190" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0001" x="3299" y="723" width="239" height="237" frameX="-118" frameY="-111" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0002" x="3299" y="392" width="333" height="331" frameX="-71" frameY="-64" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0003" x="3299" y="0" width="357" height="392" frameX="-59" frameY="-20" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0004" x="2232" y="2505" width="376" height="399" frameX="-59" frameY="-13" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0005" x="1348" y="2505" width="422" height="405" frameX="-19" frameY="-7" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0006" x="447" y="2505" width="434" height="407" frameX="-11" frameY="-5" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0007" x="0" y="2505" width="447" height="410" frameX="-6" frameY="-2" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0008" x="1770" y="2505" width="462" height="404" frameX="-3" frameY="-8" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0009" x="881" y="2505" width="467" height="406" frameX="-2" frameY="-6" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0010" x="2608" y="2505" width="460" height="395" frameX="-4" frameY="-17" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0011" x="0" y="2915" width="397" height="300" frameX="-7" frameY="-112" frameWidth="476" frameHeight="461" />
+<SubTexture name="explode cmc0012" x="0" y="0" width="3299" height="2505" frameX="0" frameY="0" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

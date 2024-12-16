@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "auto_face idle dance"
+		},
+		{
+			"offsets": [
+				1550,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "auto_face left note"
+		},
+		{
+			"offsets": [
+				1470,
+				1025
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "auto_face down note"
+		},
+		{
+			"offsets": [
+				1470,
+				1185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "auto_face up note"
+		},
+		{
+			"offsets": [
+				1390,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "auto_face right note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "auto_face miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "auto_face miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "auto_face miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "auto_face miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/auto_face",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "auto-face",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		173,
+		99
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

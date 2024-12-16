@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				546,
+				828
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bf_sftg_gameover dead",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				546,
+				828
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "bf_sftg_gameover bop mush",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				546,
+				828
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bf_sftg_gameover accept",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gameovers/bf_sftg_gameover",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bffith",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		370,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 0.96
+}

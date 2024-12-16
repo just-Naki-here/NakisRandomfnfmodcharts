@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf-corpse.png"><SubTexture name="gf-corpse loop0000" x="0" y="443" width="442" height="434" frameX="-892" frameY="-1336" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf-corpse loop0001" x="442" y="0" width="442" height="442" frameX="-892" frameY="-1328" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf-corpse loop0002" x="0" y="0" width="442" height="443" frameX="-892" frameY="-1327" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf-corpse loop0003" x="442" y="443" width="442" height="422" frameX="-892" frameY="-1348" frameWidth="2160" frameHeight="2302" />
+<SubTexture name="gf-corpse loop0004" x="884" y="0" width="442" height="386" frameX="-892" frameY="-1384" frameWidth="2160" frameHeight="2302" />
+</TextureAtlas>

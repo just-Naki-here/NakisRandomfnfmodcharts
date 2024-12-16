@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abnormal_shoot_wftl.png"><SubTexture name="abnormal_shoot_wftl shoot0000" x="5436" y="1009" width="1344" height="956" frameX="-1212" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0001" x="5436" y="1965" width="1344" height="956" frameX="-1212" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0002" x="2120" y="0" width="1344" height="1299" frameX="-1212" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0003" x="1862" y="4638" width="1798" height="956" frameX="-758" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0004" x="1998" y="2562" width="1718" height="1020" frameX="-838" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0005" x="3716" y="2562" width="1718" height="1020" frameX="-838" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0006" x="5436" y="0" width="1766" height="1009" frameX="-792" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0007" x="0" y="4638" width="1862" height="1007" frameX="-689" frameY="-607" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0008" x="1876" y="3626" width="1875" height="1010" frameX="-674" frameY="-607" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0009" x="0" y="3626" width="1876" height="1012" frameX="-674" frameY="-607" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0010" x="0" y="1395" width="1977" height="1167" frameX="-571" frameY="-607" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0011" x="0" y="2562" width="1998" height="1064" frameX="-552" frameY="-607" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0012" x="3464" y="0" width="1972" height="1105" frameX="-576" frameY="-607" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl shoot0013" x="3464" y="1105" width="1969" height="1105" frameX="-576" frameY="-607" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl idle dance0000" x="3464" y="0" width="1972" height="1105" frameX="-576" frameY="-607" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl idle dance0001" x="3464" y="1105" width="1969" height="1105" frameX="-576" frameY="-607" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_shoot_wftl pew0000" x="0" y="0" width="2120" height="1395" frameX="-433" frameY="-413" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="firesmall.png"><SubTexture name="firesmall idle0000" x="0" y="139" width="198" height="32" frameX="-23" frameY="-94" frameWidth="243" frameHeight="145" />
+<SubTexture name="firesmall idle0001" x="0" y="85" width="188" height="54" frameX="-25" frameY="-71" frameWidth="243" frameHeight="145" />
+<SubTexture name="firesmall idle0002" x="0" y="0" width="178" height="85" frameX="-30" frameY="-41" frameWidth="243" frameHeight="145" />
+<SubTexture name="firesmall idle0003" x="178" y="0" width="182" height="81" frameX="-26" frameY="-43" frameWidth="243" frameHeight="145" />
+</TextureAtlas>

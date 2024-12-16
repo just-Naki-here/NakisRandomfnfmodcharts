@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="twonorm.png"><SubTexture name="twonorm idle0000" x="666" y="2387" width="540" height="545" frameX="-371" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0001" x="1206" y="2387" width="530" height="543" frameX="-371" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0002" x="1206" y="2387" width="530" height="543" frameX="-371" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0003" x="2529" y="1829" width="533" height="554" frameX="-371" frameY="-120" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0004" x="2529" y="1829" width="533" height="554" frameX="-371" frameY="-120" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0005" x="2357" y="565" width="542" height="558" frameX="-372" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0006" x="2357" y="565" width="542" height="558" frameX="-372" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0007" x="2357" y="1123" width="543" height="558" frameX="-372" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0008" x="0" y="1829" width="544" height="558" frameX="-372" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0009" x="0" y="1829" width="544" height="558" frameX="-372" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0010" x="544" y="1829" width="546" height="558" frameX="-372" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0011" x="544" y="1829" width="546" height="558" frameX="-372" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0012" x="544" y="1829" width="546" height="558" frameX="-372" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0013" x="544" y="1829" width="546" height="558" frameX="-372" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm idle0014" x="544" y="1829" width="546" height="558" frameX="-372" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singLEFT0000" x="1733" y="0" width="624" height="610" frameX="-350" frameY="-66" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singLEFT0001" x="1152" y="0" width="581" height="628" frameX="-327" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singLEFT0002" x="1152" y="0" width="581" height="628" frameX="-327" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singLEFT0003" x="1156" y="632" width="571" height="613" frameX="-323" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singLEFT0004" x="1156" y="632" width="571" height="613" frameX="-323" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singLEFT0005" x="1733" y="610" width="567" height="610" frameX="-325" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singLEFT0006" x="1733" y="610" width="567" height="610" frameX="-325" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singRIGHT0000" x="1090" y="1829" width="774" height="558" frameX="-336" frameY="-126" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singRIGHT0001" x="2357" y="0" width="768" height="565" frameX="-330" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singRIGHT0002" x="2357" y="0" width="768" height="565" frameX="-330" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singRIGHT0003" x="766" y="1259" width="766" height="568" frameX="-330" frameY="-115" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singRIGHT0004" x="766" y="1259" width="766" height="568" frameX="-330" frameY="-115" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singRIGHT0005" x="1532" y="1259" width="766" height="568" frameX="-330" frameY="-115" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singRIGHT0006" x="0" y="1259" width="766" height="570" frameX="-330" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singRIGHT0007" x="0" y="1259" width="766" height="570" frameX="-330" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singRIGHT0008" x="0" y="1259" width="766" height="570" frameX="-330" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singRIGHT0009" x="0" y="1259" width="766" height="570" frameX="-330" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singUP0000" x="0" y="632" width="586" height="627" frameX="-381" frameY="-58" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singUP0001" x="573" y="0" width="579" height="631" frameX="-384" frameY="-54" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singUP0002" x="0" y="0" width="573" height="632" frameX="-387" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singUP0003" x="0" y="0" width="573" height="632" frameX="-387" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singUP0004" x="586" y="632" width="570" height="626" frameX="-387" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singUP0005" x="586" y="632" width="570" height="626" frameX="-387" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singDOWN0000" x="2405" y="2387" width="670" height="532" frameX="-354" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singDOWN0001" x="1736" y="2387" width="669" height="542" frameX="-354" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singDOWN0002" x="1736" y="2387" width="669" height="542" frameX="-354" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singDOWN0003" x="0" y="2387" width="666" height="553" frameX="-354" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singDOWN0004" x="0" y="2387" width="666" height="553" frameX="-354" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singDOWN0005" x="1864" y="1829" width="665" height="557" frameX="-354" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="twonorm singDOWN0006" x="1864" y="1829" width="665" height="557" frameX="-354" frameY="-129" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

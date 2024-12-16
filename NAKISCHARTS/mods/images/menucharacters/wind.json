@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Menu_wind",
+	"confirm_anim": "Menu_wind",
+	"position": [
+		151,
+		125
+	],
+	"scale": 0.6,
+	"image": "Menu_wind"
+}

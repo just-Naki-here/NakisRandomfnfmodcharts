@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hard_desk2 idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hard_desk2 left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hard_desk2 down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hard_desk2 up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hard_desk2 right note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "hard_desk2 miss"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "hard_desk2 miss"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "hard_desk2 miss"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "hard_desk2 miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hard_desk2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "hard-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		201,
+		0
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

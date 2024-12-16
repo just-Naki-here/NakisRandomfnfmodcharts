@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="battle-abnormal.png"><SubTexture name="battle-abnormal idle dance0000" x="2526" y="1089" width="956" height="1088" frameX="-1168" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal idle dance0001" x="2526" y="1089" width="956" height="1088" frameX="-1168" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal idle dance0002" x="1557" y="1172" width="945" height="1087" frameX="-1174" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal idle dance0003" x="1557" y="1172" width="945" height="1087" frameX="-1174" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal idle dance0004" x="0" y="2279" width="934" height="1087" frameX="-1179" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal idle dance0005" x="0" y="2279" width="934" height="1087" frameX="-1179" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal idle dance0006" x="934" y="2279" width="954" height="1083" frameX="-1166" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal idle dance0007" x="934" y="2279" width="954" height="1083" frameX="-1166" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal idle dance0008" x="1888" y="2279" width="960" height="1083" frameX="-1164" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal idle dance0009" x="1888" y="2279" width="960" height="1083" frameX="-1164" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal shootone0000" x="2419" y="3366" width="1364" height="893" frameX="-852" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal shootone0001" x="1199" y="3366" width="1220" height="910" frameX="-971" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal shootone0002" x="0" y="3366" width="1199" height="911" frameX="-991" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal shoottwo0000" x="4023" y="1038" width="1034" height="972" frameX="-1315" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal shoottwo0001" x="4023" y="2010" width="1036" height="940" frameX="-1305" frameY="-725" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal shoottwo0002" x="2848" y="2279" width="1034" height="920" frameX="-1304" frameY="-725" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal ouchtwo0000" x="0" y="1172" width="1557" height="1107" frameX="-969" frameY="-655" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal ouchtwo0001" x="2526" y="0" width="1497" height="1089" frameX="-987" frameY="-525" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal ouchtwo0002" x="3783" y="3366" width="1474" height="860" frameX="-984" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal ouchone0000" x="4023" y="0" width="1376" height="1038" frameX="-1038" frameY="-569" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal ouchone0001" x="1199" y="0" width="1327" height="1117" frameX="-1069" frameY="-606" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="battle-abnormal ouchone0002" x="0" y="0" width="1199" height="1172" frameX="-1108" frameY="-615" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

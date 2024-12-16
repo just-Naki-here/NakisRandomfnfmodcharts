@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "idle",
+			"indices": [],
+			"name": "na_dialouge1 idle dance"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turned",
+			"indices": [],
+			"name": "na_dialouge1 elsoy"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "t1",
+			"indices": [],
+			"name": "na_dialouge1 t1 "
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "t2",
+			"indices": [],
+			"name": "na_dialouge1 t2 "
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "turn",
+			"indices": [],
+			"name": "na_dialouge1 turn"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "t3",
+			"indices": [],
+			"name": "na_dialouge1 three"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "t4",
+			"indices": [],
+			"name": "na_dialouge1 four"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cutscenes/na_dialouge1",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "freeplay/icon-na-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		168,
+		168
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

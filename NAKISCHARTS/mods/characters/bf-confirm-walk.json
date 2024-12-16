@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "bf_walking hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf_walking left note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf_walking down note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf_walking up note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf_walking right note"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf_walking idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf_walking miss"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf_walking miss"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf_walking miss"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf_walking miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "oh",
+			"indices": [],
+			"name": "bf_walking oh"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "bf_walking confuse walk"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "tap",
+			"indices": [],
+			"name": "bf_walking tap"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "tapping",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "bf_walking tap"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_walking",
+	"position": [
+		-860,
+		-710
+	],
+	"healthicon": "bffith",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-270,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 0.56
+}

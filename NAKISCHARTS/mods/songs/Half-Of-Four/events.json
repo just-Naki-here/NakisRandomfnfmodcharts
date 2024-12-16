@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				10178.5714285714,
+				[
+					[
+						"Black flash",
+						"0.79",
+						""
+					]
+				]
+			],
+			[
+				10285.7142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"twohush"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.600",
+						"0.03"
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"twofly"
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"twoalt"
+					]
+				]
+			],
+			[
+				30857.1428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"twofly"
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"HealthDrain",
+						"0.5",
+						"0.01"
+					]
+				]
+			]
+		]
+	}
+}

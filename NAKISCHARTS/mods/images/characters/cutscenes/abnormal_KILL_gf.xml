@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abnormal_KILL_gf.png"><SubTexture name="abnormal_KILL_gf aim0000" x="3828" y="2990" width="1046" height="1221" frameX="-1143" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0001" x="3828" y="2990" width="1046" height="1221" frameX="-1143" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0002" x="2800" y="2990" width="1028" height="1232" frameX="-1161" frameY="-601" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0003" x="2800" y="2990" width="1028" height="1232" frameX="-1161" frameY="-601" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0004" x="2816" y="5454" width="1440" height="994" frameX="-768" frameY="-577" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0005" x="2816" y="5454" width="1440" height="994" frameX="-768" frameY="-577" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0006" x="1333" y="5454" width="1483" height="1029" frameX="-736" frameY="-548" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0007" x="1333" y="5454" width="1483" height="1029" frameX="-736" frameY="-548" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0008" x="4256" y="5454" width="1453" height="981" frameX="-747" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0009" x="4256" y="5454" width="1453" height="981" frameX="-747" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0010" x="6955" y="0" width="1394" height="964" frameX="-785" frameY="-626" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0011" x="6955" y="0" width="1394" height="964" frameX="-785" frameY="-626" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0012" x="2786" y="4244" width="1325" height="1169" frameX="-850" frameY="-631" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0013" x="2786" y="4244" width="1325" height="1169" frameX="-850" frameY="-631" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0014" x="0" y="5454" width="1333" height="1159" frameX="-845" frameY="-626" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0015" x="0" y="5454" width="1333" height="1159" frameX="-845" frameY="-626" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0016" x="4111" y="4244" width="1330" height="1164" frameX="-849" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0017" x="4111" y="4244" width="1330" height="1164" frameX="-849" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0018" x="5625" y="0" width="1330" height="1164" frameX="-849" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0019" x="5625" y="0" width="1330" height="1164" frameX="-849" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0020" x="5625" y="1164" width="1330" height="1164" frameX="-849" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0021" x="5625" y="1164" width="1330" height="1164" frameX="-849" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0022" x="1346" y="4244" width="1440" height="1202" frameX="-739" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0023" x="1346" y="4244" width="1440" height="1202" frameX="-739" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0024" x="1639" y="0" width="1343" height="1300" frameX="-836" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0025" x="1639" y="0" width="1343" height="1300" frameX="-836" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0026" x="4230" y="1256" width="1390" height="1252" frameX="-789" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf aim0027" x="4230" y="1256" width="1390" height="1252" frameX="-789" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf turn0000" x="4230" y="1256" width="1390" height="1252" frameX="-789" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf turn0001" x="0" y="1703" width="1005" height="1287" frameX="-1207" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf turn0002" x="0" y="1703" width="1005" height="1287" frameX="-1207" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf turn0003" x="0" y="4244" width="1346" height="1210" frameX="-1207" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf turn0004" x="0" y="4244" width="1346" height="1210" frameX="-1207" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf turn0005" x="2982" y="0" width="1248" height="1293" frameX="-1194" frameY="-624" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf turn0006" x="2982" y="0" width="1248" height="1293" frameX="-1194" frameY="-624" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf turn0007" x="1005" y="1703" width="1265" height="1283" frameX="-1192" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf turn0008" x="1005" y="1703" width="1265" height="1283" frameX="-1192" frameY="-625" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf shoot0000" x="0" y="0" width="1639" height="1703" frameX="-1192" frameY="-424" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf idle dance0000" x="3828" y="2990" width="1046" height="1221" frameX="-1143" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf idle shake0000" x="2270" y="1703" width="1406" height="1264" frameX="-785" frameY="-617" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abnormal_KILL_gf idle shake0001" x="4230" y="0" width="1395" height="1256" frameX="-789" frameY="-621" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

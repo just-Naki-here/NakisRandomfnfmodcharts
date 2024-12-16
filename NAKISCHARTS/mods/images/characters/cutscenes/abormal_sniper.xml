@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abormal_sniper.png"><SubTexture name="abormal_sniper body0000" x="0" y="1241" width="1112" height="1173" frameX="-1156" frameY="-461" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper body0001" x="1112" y="1241" width="1112" height="1173" frameX="-1156" frameY="-461" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper body0002" x="1156" y="0" width="1114" height="1175" frameX="-1156" frameY="-460" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper body0003" x="2270" y="0" width="1114" height="1175" frameX="-1156" frameY="-460" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0000" x="3384" y="2385" width="519" height="446" frameX="-781" frameY="-1197" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0001" x="3384" y="2385" width="519" height="446" frameX="-781" frameY="-1197" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0002" x="3384" y="2831" width="542" height="399" frameX="-735" frameY="-1115" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0003" x="3384" y="2831" width="542" height="399" frameX="-735" frameY="-1115" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0004" x="2161" y="2899" width="551" height="375" frameX="-725" frameY="-1034" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0005" x="2161" y="2899" width="551" height="375" frameX="-725" frameY="-1034" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0006" x="2712" y="2899" width="562" height="375" frameX="-722" frameY="-1011" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0007" x="2712" y="2899" width="562" height="375" frameX="-722" frameY="-1011" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0008" x="1606" y="2899" width="555" height="376" frameX="-724" frameY="-1025" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0009" x="1606" y="2899" width="555" height="376" frameX="-724" frameY="-1025" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0010" x="1901" y="3376" width="559" height="375" frameX="-723" frameY="-1016" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0011" x="1901" y="3376" width="559" height="375" frameX="-723" frameY="-1016" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0012" x="3384" y="1927" width="629" height="458" frameX="-657" frameY="-970" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0013" x="3384" y="1927" width="629" height="458" frameX="-657" frameY="-970" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0014" x="3384" y="1451" width="620" height="476" frameX="-658" frameY="-982" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0015" x="3384" y="1451" width="620" height="476" frameX="-658" frameY="-982" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0016" x="634" y="3376" width="633" height="482" frameX="-652" frameY="-953" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0017" x="634" y="3376" width="633" height="482" frameX="-652" frameY="-953" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0018" x="3384" y="968" width="626" height="483" frameX="-655" frameY="-968" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0019" x="3384" y="968" width="626" height="483" frameX="-655" frameY="-968" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0020" x="1267" y="3376" width="634" height="482" frameX="-651" frameY="-948" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0021" x="1267" y="3376" width="634" height="482" frameX="-651" frameY="-948" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0022" x="1606" y="2414" width="607" height="485" frameX="-661" frameY="-1001" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0023" x="1606" y="2414" width="607" height="485" frameX="-661" frameY="-1001" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0024" x="2224" y="1762" width="617" height="486" frameX="-659" frameY="-977" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0025" x="2224" y="1762" width="617" height="486" frameX="-659" frameY="-977" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0026" x="2224" y="1241" width="634" height="521" frameX="-653" frameY="-940" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0027" x="2224" y="1241" width="634" height="521" frameX="-653" frameY="-940" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0028" x="2213" y="2414" width="625" height="485" frameX="-658" frameY="-997" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0029" x="2213" y="2414" width="625" height="485" frameX="-658" frameY="-997" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0030" x="0" y="3376" width="634" height="483" frameX="-659" frameY="-974" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0031" x="0" y="3376" width="634" height="483" frameX="-659" frameY="-974" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0032" x="3384" y="0" width="630" height="484" frameX="-661" frameY="-983" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0033" x="3384" y="0" width="630" height="484" frameX="-661" frameY="-983" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0034" x="3384" y="0" width="630" height="484" frameX="-661" frameY="-983" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0035" x="3384" y="0" width="630" height="484" frameX="-661" frameY="-983" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0036" x="0" y="0" width="1156" height="1241" frameX="-471" frameY="-239" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0037" x="0" y="2414" width="1606" height="962" frameX="0" frameY="-279" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="abormal_sniper arm blaster0038" x="3384" y="484" width="523" height="484" frameX="-1063" frameY="-372" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

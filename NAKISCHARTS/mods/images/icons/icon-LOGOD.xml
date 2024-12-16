@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icon-LOGOD.png"><SubTexture name="icon-LOGOD idle0000" x="238" y="0" width="284" height="243" frameX="-4" frameY="-28" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD idle0001" x="238" y="0" width="284" height="243" frameX="-4" frameY="-28" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD idle0002" x="222" y="493" width="271" height="227" frameX="0" frameY="-42" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD idle0003" x="222" y="493" width="271" height="227" frameX="0" frameY="-42" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD idle0004" x="760" y="225" width="281" height="220" frameX="-9" frameY="-41" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD idle0005" x="760" y="225" width="281" height="220" frameX="-9" frameY="-41" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD idle0006" x="760" y="0" width="285" height="225" frameX="-7" frameY="-36" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD idle0007" x="760" y="0" width="285" height="225" frameX="-7" frameY="-36" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD idle0008" x="0" y="493" width="222" height="228" frameX="-41" frameY="-33" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD idle0009" x="0" y="493" width="222" height="228" frameX="-41" frameY="-33" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD lose0000" x="238" y="255" width="239" height="237" frameX="-36" frameY="-18" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD lose0001" x="522" y="0" width="238" height="237" frameX="-39" frameY="-18" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD lose0002" x="0" y="0" width="238" height="255" frameX="-30" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD lose0003" x="0" y="255" width="238" height="238" frameX="-21" frameY="-17" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD lose0004" x="522" y="237" width="238" height="237" frameX="-16" frameY="-18" frameWidth="300" frameHeight="300" />
+<SubTexture name="icon-LOGOD lose0005" x="0" y="0" width="238" height="255" frameX="-30" frameY="0" frameWidth="300" frameHeight="300" />
+</TextureAtlas>

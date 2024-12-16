@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="insane_battle.png"><SubTexture name="insane_battle idle dance0000" x="0" y="5861" width="1179" height="849" frameX="-1386" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle idle dance0001" x="0" y="5861" width="1179" height="849" frameX="-1386" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle idle dance0002" x="1179" y="5861" width="1184" height="849" frameX="-1376" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle idle dance0003" x="1179" y="5861" width="1184" height="849" frameX="-1376" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle idle dance0004" x="5842" y="5861" width="1187" height="834" frameX="-1367" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle idle dance0005" x="5842" y="5861" width="1187" height="834" frameX="-1367" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle idle dance0006" x="4673" y="5861" width="1169" height="835" frameX="-1360" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle idle dance0007" x="4673" y="5861" width="1169" height="835" frameX="-1360" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle idle dance0008" x="2363" y="5861" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle idle dance0009" x="2363" y="5861" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle shoot0000" x="0" y="6710" width="1341" height="763" frameX="-1357" frameY="-658" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle shoot0001" x="0" y="0" width="1535" height="1189" frameX="-1322" frameY="-233" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle shoot0002" x="1535" y="0" width="706" height="1139" frameX="-1332" frameY="-283" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle shoot0003" x="1535" y="0" width="706" height="1139" frameX="-1332" frameY="-283" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle shoot0004" x="2241" y="0" width="760" height="1090" frameX="-1340" frameY="-332" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle shoot0005" x="2241" y="0" width="760" height="1090" frameX="-1340" frameY="-332" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle shoot0006" x="1168" y="4985" width="953" height="875" frameX="-1340" frameY="-547" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle shoot0007" x="1168" y="4985" width="953" height="875" frameX="-1340" frameY="-547" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle shoot0008" x="7077" y="1581" width="1133" height="701" frameX="-1340" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle down note0000" x="4075" y="928" width="849" height="899" frameX="-1228" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle down note0001" x="4075" y="928" width="849" height="899" frameX="-1228" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle down note0002" x="3001" y="973" width="836" height="945" frameX="-1225" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle down note0003" x="3001" y="973" width="836" height="945" frameX="-1225" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle down note0004" x="1940" y="1189" width="814" height="983" frameX="-1224" frameY="-704" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle right note0000" x="0" y="1189" width="927" height="1000" frameX="-1393" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle right note0001" x="0" y="1189" width="927" height="1000" frameX="-1393" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle right note0002" x="1079" y="2189" width="1007" height="940" frameX="-1374" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle right note0003" x="1079" y="2189" width="1007" height="940" frameX="-1374" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle right note0004" x="3069" y="4060" width="1045" height="894" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle left note0000" x="1341" y="6710" width="1356" height="750" frameX="-1336" frameY="-672" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle left note0001" x="1341" y="6710" width="1356" height="750" frameX="-1336" frameY="-672" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle left note0002" x="2697" y="6710" width="1299" height="718" frameX="-1357" frameY="-703" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle left note0003" x="2697" y="6710" width="1299" height="718" frameX="-1357" frameY="-703" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle left note0004" x="3996" y="6710" width="1213" height="702" frameX="-1376" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle up note0000" x="3001" y="0" width="1074" height="973" frameX="-1345" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle up note0001" x="3001" y="0" width="1074" height="973" frameX="-1345" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle up note0002" x="0" y="2189" width="1079" height="942" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle up note0003" x="0" y="2189" width="1079" height="942" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle up note0004" x="922" y="4060" width="1040" height="917" frameX="-1376" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0000" x="5916" y="4233" width="888" height="840" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0001" x="5916" y="3392" width="901" height="841" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0002" x="4995" y="0" width="921" height="893" frameX="-1357" frameY="-702" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0003" x="0" y="4060" width="922" height="925" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0004" x="4075" y="0" width="920" height="928" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0005" x="0" y="3131" width="918" height="929" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0006" x="918" y="3131" width="1257" height="929" frameX="-1018" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0007" x="7077" y="831" width="1042" height="750" frameX="-1018" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0008" x="927" y="1189" width="1013" height="992" frameX="-1357" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0009" x="7077" y="2282" width="1048" height="701" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0010" x="2175" y="3131" width="1067" height="929" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0011" x="0" y="5861" width="1179" height="849" frameX="-1386" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0012" x="1179" y="5861" width="1184" height="849" frameX="-1376" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0013" x="5842" y="5861" width="1187" height="834" frameX="-1367" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0014" x="4673" y="5861" width="1169" height="835" frameX="-1360" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle prepare0015" x="2363" y="5861" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle miss0000" x="0" y="4985" width="1168" height="876" frameX="-1357" frameY="-683" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle aimreaction0000" x="3531" y="5861" width="1142" height="837" frameX="-1395" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle aimreaction0001" x="3531" y="5861" width="1142" height="837" frameX="-1395" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle aimreaction0002" x="7077" y="0" width="1149" height="831" frameX="-1403" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle aimreaction0003" x="7077" y="0" width="1149" height="831" frameX="-1403" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle aimreaction0004" x="5916" y="2547" width="1129" height="845" frameX="-1344" frameY="-706" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle aimreaction0005" x="5916" y="2547" width="1129" height="845" frameX="-1344" frameY="-706" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle aimreaction0006" x="5916" y="1700" width="1142" height="847" frameX="-1352" frameY="-714" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle aimreaction0007" x="5916" y="1700" width="1142" height="847" frameX="-1352" frameY="-714" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle aimreaction0008" x="3278" y="4985" width="1161" height="850" frameX="-1356" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle aimreaction0009" x="3278" y="4985" width="1161" height="850" frameX="-1356" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle turnreaction0000" x="4439" y="4985" width="1161" height="850" frameX="-1356" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle turnreaction0001" x="4439" y="4985" width="1161" height="850" frameX="-1356" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle turnreaction0002" x="5916" y="0" width="1161" height="850" frameX="-1356" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle turnreaction0003" x="5916" y="0" width="1161" height="850" frameX="-1356" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle turnreaction0004" x="5916" y="850" width="1161" height="850" frameX="-1356" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle turnreaction0005" x="5916" y="850" width="1161" height="850" frameX="-1356" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle turnreaction0006" x="2121" y="4985" width="1157" height="863" frameX="-1357" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle turnreaction0007" x="2121" y="4985" width="1157" height="863" frameX="-1357" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle turnreaction0008" x="1962" y="4060" width="1107" height="900" frameX="-1357" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle turnreaction0009" x="1962" y="4060" width="1107" height="900" frameX="-1357" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_battle reactionshoot0000" x="2086" y="2189" width="1107" height="936" frameX="-1357" frameY="-682" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

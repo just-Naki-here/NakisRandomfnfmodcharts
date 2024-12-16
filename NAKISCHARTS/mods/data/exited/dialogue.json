@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Phew! Thank goodness I got outta that one..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I hope Donut was still holding up okay..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "corruptport",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "WE#LL, WELL, #^WELL, LOOK W%HO CA@ME \\TO ^*^JOI&N TH^E &%PARTY...."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Please don't make me do this again..."
+		},
+		{
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I just wanna go home..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "corruptport",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "T2OO BA@D!! >:DDD"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "corruptport",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "YOOU'REE GONNA^$^ BE STUCK%&% WI#%TH\\nUS $^FOR A WHILE N&9NOW..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "As, I expected..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Alright, show me what you got! I guess..."
+		}
+	]
+}

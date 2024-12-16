@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-alone-dark.png"><SubTexture name="bf-alone-dark idle dance0000" x="3644" y="0" width="721" height="804" frameX="-1172" frameY="-746" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark idle dance0001" x="3644" y="0" width="721" height="804" frameX="-1172" frameY="-746" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark idle dance0002" x="2825" y="2736" width="721" height="811" frameX="-1168" frameY="-739" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark idle dance0003" x="2825" y="2736" width="721" height="811" frameX="-1168" frameY="-739" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark idle dance0004" x="707" y="2736" width="716" height="817" frameX="-1166" frameY="-733" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark idle dance0005" x="707" y="2736" width="716" height="817" frameX="-1166" frameY="-733" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark idle dance0006" x="0" y="2736" width="707" height="821" frameX="-1164" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark idle dance0007" x="0" y="2736" width="707" height="821" frameX="-1164" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark idle dance0008" x="2938" y="0" width="706" height="822" frameX="-1163" frameY="-728" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark idle dance0009" x="2938" y="0" width="706" height="822" frameX="-1163" frameY="-728" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark down note0000" x="743" y="3557" width="750" height="762" frameX="-1158" frameY="-788" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark down note0001" x="743" y="3557" width="750" height="762" frameX="-1158" frameY="-788" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark down note0002" x="0" y="3557" width="743" height="771" frameX="-1160" frameY="-779" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark left note0000" x="2938" y="822" width="697" height="820" frameX="-1095" frameY="-730" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark left note0001" x="2938" y="822" width="697" height="820" frameX="-1095" frameY="-730" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark left note0002" x="2938" y="1642" width="697" height="820" frameX="-1113" frameY="-730" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark right note0000" x="1423" y="2736" width="698" height="816" frameX="-1239" frameY="-734" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark right note0001" x="1423" y="2736" width="698" height="816" frameX="-1239" frameY="-734" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark right note0002" x="2121" y="2736" width="704" height="816" frameX="-1220" frameY="-734" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark up note0000" x="711" y="1884" width="658" height="846" frameX="-1168" frameY="-704" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark up note0001" x="711" y="1884" width="658" height="846" frameX="-1168" frameY="-704" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark up note0002" x="1369" y="1884" width="676" height="832" frameX="-1164" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0000" x="3644" y="804" width="717" height="782" frameX="-1167" frameY="-768" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0001" x="3644" y="1586" width="721" height="776" frameX="-1168" frameY="-774" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0002" x="685" y="942" width="702" height="875" frameX="-1155" frameY="-675" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0003" x="1387" y="942" width="704" height="873" frameX="-1157" frameY="-677" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0004" x="2231" y="0" width="707" height="864" frameX="-1157" frameY="-686" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0005" x="0" y="1884" width="711" height="852" frameX="-1158" frameY="-698" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0006" x="2231" y="864" width="707" height="854" frameX="-1158" frameY="-696" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0007" x="2231" y="864" width="707" height="854" frameX="-1158" frameY="-696" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0008" x="2045" y="1884" width="712" height="830" frameX="-1163" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0009" x="0" y="0" width="781" height="942" frameX="-1208" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0010" x="781" y="0" width="742" height="942" frameX="-1234" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0011" x="1523" y="0" width="708" height="942" frameX="-1261" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0012" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0013" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0014" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0015" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0016" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0017" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0018" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0019" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0020" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0021" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0022" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0023" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="bf-alone-dark turn0024" x="0" y="942" width="685" height="942" frameX="-1251" frameY="-657" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

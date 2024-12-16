@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "idle",
+			"indices": [],
+			"name": "na_lyrics2 still"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "zero",
+			"indices": [],
+			"name": "na_lyrics2 zero"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "one",
+			"indices": [],
+			"name": "na_lyrics2 one"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "two",
+			"indices": [],
+			"name": "na_lyrics2 two"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "three",
+			"indices": [],
+			"name": "na_lyrics2 three"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "four",
+			"indices": [],
+			"name": "na_lyrics2 fourf"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "five",
+			"indices": [],
+			"name": "na_lyrics2 five"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "six",
+			"indices": [],
+			"name": "na_lyrics2 sixs"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "seven",
+			"indices": [],
+			"name": "na_lyrics2 seven"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eight",
+			"indices": [],
+			"name": "na_lyrics2 eight"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "nine",
+			"indices": [],
+			"name": "na_lyrics2 nine"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ten",
+			"indices": [],
+			"name": "na_lyrics2 ten"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eleven",
+			"indices": [],
+			"name": "na_lyrics2 eleven"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "twelve",
+			"indices": [],
+			"name": "na_lyrics2 twelve"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "thirteen",
+			"indices": [],
+			"name": "na_lyrics2 thirteen"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "fourteen",
+			"indices": [],
+			"name": "na_lyrics2 fourteen"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "fifteen",
+			"indices": [],
+			"name": "na_lyrics2 fifteen"
+		},
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "sixteen",
+			"indices": [],
+			"name": "na_lyrics2 sixteen"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cutscenes/na_lyrics2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "freeplay/icon-na-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		168,
+		168
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

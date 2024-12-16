@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="auto_face_male.png"><SubTexture name="auto_face_male idle dance0000" x="851" y="2238" width="919" height="703" frameX="-1397" frameY="-739" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male idle dance0001" x="851" y="2238" width="919" height="703" frameX="-1397" frameY="-739" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male idle dance0002" x="1770" y="2238" width="923" height="702" frameX="-1387" frameY="-739" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male idle dance0003" x="1770" y="2238" width="923" height="702" frameX="-1387" frameY="-739" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male idle dance0004" x="3236" y="0" width="928" height="702" frameX="-1377" frameY="-739" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male idle dance0005" x="3236" y="0" width="928" height="702" frameX="-1377" frameY="-739" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male idle dance0006" x="3236" y="702" width="908" height="701" frameX="-1362" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male idle dance0007" x="3236" y="702" width="908" height="701" frameX="-1362" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male idle dance0008" x="3236" y="1403" width="899" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male idle dance0009" x="3236" y="1403" width="899" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male down note0000" x="0" y="0" width="840" height="753" frameX="-1369" frameY="-741" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male down note0001" x="0" y="0" width="840" height="753" frameX="-1369" frameY="-741" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male down note0002" x="871" y="1500" width="844" height="728" frameX="-1364" frameY="-734" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male down note0003" x="871" y="1500" width="844" height="728" frameX="-1364" frameY="-734" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male down note0004" x="0" y="2238" width="851" height="708" frameX="-1356" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male down note0005" x="0" y="2238" width="851" height="708" frameX="-1356" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male left note0000" x="0" y="753" width="740" height="747" frameX="-1285" frameY="-722" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male left note0001" x="0" y="753" width="740" height="747" frameX="-1285" frameY="-722" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male left note0002" x="740" y="753" width="748" height="747" frameX="-1307" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male left note0003" x="740" y="753" width="748" height="747" frameX="-1307" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male left note0004" x="840" y="0" width="724" height="748" frameX="-1336" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male right note0000" x="1564" y="738" width="811" height="737" frameX="-1386" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male right note0001" x="1564" y="738" width="811" height="737" frameX="-1386" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male right note0002" x="1564" y="0" width="843" height="738" frameX="-1369" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male right note0003" x="1564" y="0" width="843" height="738" frameX="-1369" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male right note0004" x="0" y="1500" width="871" height="738" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male up note0000" x="2407" y="1442" width="828" height="703" frameX="-1323" frameY="-694" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male up note0001" x="2407" y="1442" width="828" height="703" frameX="-1323" frameY="-694" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male up note0002" x="2407" y="724" width="828" height="718" frameX="-1340" frameY="-706" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male up note0003" x="2407" y="724" width="828" height="718" frameX="-1340" frameY="-706" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_face_male up note0004" x="2407" y="0" width="829" height="724" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

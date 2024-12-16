@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "insane_face idle dance"
+		},
+		{
+			"offsets": [
+				1550,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "insane_face left note"
+		},
+		{
+			"offsets": [
+				1470,
+				1025
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "insane_face down note"
+		},
+		{
+			"offsets": [
+				1470,
+				1185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "insane_face up note"
+		},
+		{
+			"offsets": [
+				1390,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "insane_face right note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/insane_face",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "insane-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		237,
+		59,
+		230
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

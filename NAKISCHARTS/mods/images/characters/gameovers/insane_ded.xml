@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="insane_ded.png"><SubTexture name="insane_ded death0000" x="1168" y="1120" width="1154" height="854" frameX="-1407" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0001" x="1168" y="1120" width="1154" height="854" frameX="-1407" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0002" x="1375" y="1997" width="1159" height="846" frameX="-1397" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0003" x="1375" y="1997" width="1159" height="846" frameX="-1397" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0004" x="2534" y="1997" width="1161" height="843" frameX="-1387" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0005" x="2534" y="1997" width="1161" height="843" frameX="-1387" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0006" x="0" y="2866" width="1164" height="841" frameX="-1377" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0007" x="0" y="2866" width="1164" height="841" frameX="-1377" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0008" x="1164" y="2866" width="1164" height="839" frameX="-1366" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0009" x="1164" y="2866" width="1164" height="839" frameX="-1366" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0010" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0011" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0012" x="3825" y="0" width="1169" height="839" frameX="-1347" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0013" x="3825" y="0" width="1169" height="839" frameX="-1347" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0014" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0015" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0016" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0017" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0018" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0019" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0020" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0021" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0022" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0023" x="2328" y="2866" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0024" x="0" y="0" width="1301" height="1120" frameX="-1357" frameY="-439" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0025" x="0" y="1120" width="1168" height="877" frameX="-1357" frameY="-682" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0026" x="3825" y="839" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0027" x="3825" y="1678" width="1168" height="839" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0028" x="1301" y="0" width="1171" height="883" frameX="-1354" frameY="-676" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0029" x="1301" y="0" width="1171" height="883" frameX="-1354" frameY="-676" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0030" x="2472" y="0" width="1353" height="871" frameX="-1227" frameY="-688" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0031" x="2472" y="0" width="1353" height="871" frameX="-1227" frameY="-688" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0032" x="0" y="1997" width="1375" height="869" frameX="-1208" frameY="-691" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0033" x="0" y="1997" width="1375" height="869" frameX="-1208" frameY="-691" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0034" x="2472" y="871" width="1280" height="861" frameX="-1325" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0035" x="2472" y="871" width="1280" height="861" frameX="-1325" frameY="-718" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0036" x="863" y="3707" width="882" height="764" frameX="-1724" frameY="-934" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0037" x="863" y="3707" width="882" height="764" frameX="-1724" frameY="-934" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0038" x="3825" y="2517" width="856" height="782" frameX="-1750" frameY="-894" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0039" x="3825" y="2517" width="856" height="782" frameX="-1750" frameY="-894" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded death0040" x="0" y="3707" width="863" height="782" frameX="-1744" frameY="-935" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded loop0000" x="0" y="3707" width="863" height="782" frameX="-1744" frameY="-935" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="insane_ded retry0000" x="0" y="3707" width="863" height="782" frameX="-1744" frameY="-935" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

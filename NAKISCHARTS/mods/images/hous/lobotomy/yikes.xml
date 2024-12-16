@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yikes.png"><SubTexture name="yikes loop0000" x="1007" y="701" width="995" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="yikes loop0001" x="0" y="0" width="1000" height="701" frameX="-1357" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="yikes loop0002" x="1000" y="0" width="1014" height="701" frameX="-1352" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="yikes loop0003" x="0" y="701" width="1007" height="701" frameX="-1357" frameY="-725" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

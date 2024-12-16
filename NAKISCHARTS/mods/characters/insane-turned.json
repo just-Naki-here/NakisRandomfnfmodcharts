@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "insane-turned idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1550,
+				1105
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "insane_turned left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1025
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "insane_turned down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1185
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "insane-turned up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1390,
+				1105
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "insane-turned right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "whar",
+			"fps": 12,
+			"name": "insane_turned what",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "insane_turned miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "insane_turned miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "insane_turned miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "insane_turned miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/insane_turned",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "insane-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		237,
+		59,
+		230
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "gf_playable_wftl Cheer"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-39
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gf_playable_wftl left note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gf_playable_wftl down note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-46
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gf_playable_wftl up note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-39
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gf_playable_wftl right note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gf_playable_wftl idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "gf_playable_wftl miss"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "gf_playable_wftl miss"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "gf_playable_wftl miss"
+		},
+		{
+			"offsets": [
+				0,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "gf_playable_wftl miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-39
+			],
+			"fps": 12,
+			"anim": "appear",
+			"indices": [],
+			"name": "gf_playable_wftl appear"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf_playable_wftl",
+	"position": [
+		-860,
+		-710
+	],
+	"healthicon": "gf-new",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-270,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 0.56
+}

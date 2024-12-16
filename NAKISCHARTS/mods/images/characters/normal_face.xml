@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="normal_face.png"><SubTexture name="normal_face idle dance0000" x="976" y="3142" width="970" height="702" frameX="-1399" frameY="-745" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face idle dance0001" x="976" y="3142" width="970" height="702" frameX="-1399" frameY="-745" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face idle dance0002" x="1946" y="3142" width="993" height="702" frameX="-1389" frameY="-745" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face idle dance0003" x="1946" y="3142" width="993" height="702" frameX="-1389" frameY="-745" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face idle dance0004" x="2939" y="3142" width="992" height="702" frameX="-1379" frameY="-745" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face idle dance0005" x="2939" y="3142" width="992" height="702" frameX="-1379" frameY="-745" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face idle dance0006" x="4699" y="1404" width="980" height="701" frameX="-1367" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face idle dance0007" x="4699" y="1404" width="980" height="701" frameX="-1367" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face idle dance0008" x="4699" y="3507" width="969" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face idle dance0009" x="4699" y="3507" width="969" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face down note0000" x="2494" y="1502" width="946" height="716" frameX="-1364" frameY="-735" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face down note0001" x="2494" y="1502" width="946" height="716" frameX="-1364" frameY="-735" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face down note0002" x="3749" y="0" width="950" height="703" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face down note0003" x="3749" y="0" width="950" height="703" frameX="-1356" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face down note0004" x="2253" y="2400" width="954" height="704" frameX="-1347" frameY="-705" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face left note0000" x="4699" y="2105" width="978" height="701" frameX="-1335" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face left note0001" x="4699" y="2105" width="978" height="701" frameX="-1335" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face left note0002" x="3462" y="3845" width="974" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face left note0003" x="3462" y="3845" width="974" height="699" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face left note0004" x="4699" y="2806" width="977" height="701" frameX="-1368" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face right note0000" x="0" y="837" width="938" height="789" frameX="-1379" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face right note0001" x="0" y="837" width="938" height="789" frameX="-1379" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face right note0002" x="0" y="1626" width="942" height="774" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face right note0003" x="0" y="1626" width="942" height="774" frameX="-1358" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face right note0004" x="942" y="1626" width="954" height="773" frameX="-1338" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face up note0000" x="1264" y="2400" width="989" height="709" frameX="-1343" frameY="-699" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face up note0001" x="1264" y="2400" width="989" height="709" frameX="-1343" frameY="-699" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face up note0002" x="0" y="3142" width="976" height="703" frameX="-1357" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face up note0003" x="0" y="3142" width="976" height="703" frameX="-1357" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face up note0004" x="0" y="3845" width="962" height="702" frameX="-1373" frameY="-729" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face laugh0000" x="0" y="0" width="1258" height="837" frameX="-1080" frameY="-663" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face laugh0001" x="0" y="0" width="1258" height="837" frameX="-1080" frameY="-663" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face laugh0002" x="2494" y="0" width="1255" height="764" frameX="-1073" frameY="-710" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face laugh0003" x="2494" y="0" width="1255" height="764" frameX="-1073" frameY="-710" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face laugh0004" x="2494" y="764" width="1243" height="738" frameX="-1068" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt down0000" x="962" y="3845" width="1278" height="702" frameX="-1060" frameY="-734" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt down0001" x="962" y="3845" width="1278" height="702" frameX="-1060" frameY="-734" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt down0002" x="2689" y="4547" width="1321" height="699" frameX="-1040" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt down0003" x="2689" y="4547" width="1321" height="699" frameX="-1040" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt down0004" x="0" y="4547" width="1342" height="701" frameX="-1024" frameY="-712" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt left0000" x="2240" y="3845" width="1222" height="702" frameX="-1043" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt left0001" x="2240" y="3845" width="1222" height="702" frameX="-1043" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt left0002" x="4699" y="702" width="1197" height="702" frameX="-1092" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt left0003" x="4699" y="702" width="1197" height="702" frameX="-1092" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt left0004" x="4010" y="4547" width="1179" height="699" frameX="-1112" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt right0000" x="1342" y="4547" width="1347" height="701" frameX="-1113" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt right0001" x="1342" y="4547" width="1347" height="701" frameX="-1113" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt right0002" x="0" y="5248" width="1321" height="699" frameX="-1112" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt right0003" x="0" y="5248" width="1321" height="699" frameX="-1112" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt right0004" x="4699" y="0" width="1305" height="702" frameX="-1100" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt up0000" x="1258" y="0" width="1236" height="817" frameX="-1079" frameY="-604" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt up0001" x="1258" y="0" width="1236" height="817" frameX="-1079" frameY="-604" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt up0002" x="938" y="837" width="1250" height="785" frameX="-1070" frameY="-635" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt up0003" x="938" y="837" width="1250" height="785" frameX="-1070" frameY="-635" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="normal_face alt up0004" x="0" y="2400" width="1264" height="742" frameX="-1062" frameY="-690" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

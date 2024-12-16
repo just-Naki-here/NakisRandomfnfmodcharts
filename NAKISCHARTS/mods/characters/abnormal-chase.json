@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "abnormal_chase idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1105
+			],
+			"anim": "woah",
+			"fps": 24,
+			"name": "abnormal_chase woag",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1670,
+				1105
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "abnormal_chase left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				935
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "abnormal_chase down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1470,
+				1285
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "abnormal_chase up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1210,
+				1105
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "abnormal_chase right note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/abnormal_chase",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "normal-chase",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		228,
+		-2147483648
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

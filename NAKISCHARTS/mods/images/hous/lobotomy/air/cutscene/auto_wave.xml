@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="auto_wave.png"><SubTexture name="auto_wave loop0000" x="2692" y="0" width="1061" height="990" frameX="-1141" frameY="-541" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_wave loop0001" x="0" y="2105" width="1082" height="976" frameX="-1122" frameY="-552" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_wave loop0002" x="1082" y="2105" width="1110" height="935" frameX="-1099" frameY="-582" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_wave loop0003" x="2192" y="2105" width="1108" height="919" frameX="-1101" frameY="-591" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_wave loop0004" x="971" y="1079" width="1026" height="994" frameX="-1181" frameY="-520" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_wave loop0005" x="0" y="0" width="900" height="1079" frameX="-1307" frameY="-441" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_wave loop0006" x="900" y="0" width="897" height="1072" frameX="-1309" frameY="-454" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_wave loop0007" x="1797" y="0" width="895" height="1058" frameX="-1309" frameY="-471" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="auto_wave loop0008" x="0" y="1079" width="971" height="1026" frameX="-1233" frameY="-506" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

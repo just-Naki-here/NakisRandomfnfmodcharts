@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fire.png"><SubTexture name="fire anim effects0000" x="5284" y="0" width="2643" height="2179" frameX="-14" frameY="-365" frameWidth="2948" frameHeight="2550" />
+<SubTexture name="fire anim effects0001" x="5284" y="0" width="2643" height="2179" frameX="-14" frameY="-365" frameWidth="2948" frameHeight="2550" />
+<SubTexture name="fire anim effects0002" x="0" y="2475" width="2664" height="2325" frameX="0" frameY="-225" frameWidth="2948" frameHeight="2550" />
+<SubTexture name="fire anim effects0003" x="0" y="2475" width="2664" height="2325" frameX="0" frameY="-225" frameWidth="2948" frameHeight="2550" />
+<SubTexture name="fire anim effects0004" x="2652" y="0" width="2632" height="2440" frameX="-45" frameY="-110" frameWidth="2948" frameHeight="2550" />
+<SubTexture name="fire anim effects0005" x="2652" y="0" width="2632" height="2440" frameX="-45" frameY="-110" frameWidth="2948" frameHeight="2550" />
+<SubTexture name="fire anim effects0006" x="0" y="0" width="2652" height="2475" frameX="-45" frameY="-73" frameWidth="2948" frameHeight="2550" />
+<SubTexture name="fire anim effects0007" x="0" y="0" width="2652" height="2475" frameX="-45" frameY="-73" frameWidth="2948" frameHeight="2550" />
+</TextureAtlas>

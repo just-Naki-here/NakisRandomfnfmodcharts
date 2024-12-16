@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="featured_abnormal_1.png"><SubTexture name="featured_abnormal_1 idle dance0000" x="0" y="3879" width="1246" height="1213" frameX="-1073" frameY="-611" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle dance0001" x="0" y="3879" width="1246" height="1213" frameX="-1073" frameY="-611" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle dance0002" x="2344" y="2643" width="1227" height="1224" frameX="-1084" frameY="-611" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle dance0003" x="2344" y="2643" width="1227" height="1224" frameX="-1084" frameY="-611" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle dance0004" x="1134" y="2643" width="1210" height="1233" frameX="-1092" frameY="-612" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle dance0005" x="1134" y="2643" width="1210" height="1233" frameX="-1092" frameY="-612" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle dance0006" x="4490" y="0" width="1207" height="1224" frameX="-1078" frameY="-601" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle dance0007" x="4490" y="0" width="1207" height="1224" frameX="-1078" frameY="-601" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle dance0008" x="4490" y="1224" width="1206" height="1221" frameX="-1070" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle dance0009" x="4490" y="1224" width="1206" height="1221" frameX="-1070" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle alt0000" x="3380" y="3879" width="1026" height="1192" frameX="-1125" frameY="-613" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle alt0001" x="3380" y="3879" width="1026" height="1192" frameX="-1125" frameY="-613" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle alt0002" x="2244" y="1336" width="1029" height="1202" frameX="-1134" frameY="-613" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle alt0003" x="2244" y="1336" width="1029" height="1202" frameX="-1134" frameY="-613" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle alt0004" x="3365" y="1262" width="1029" height="1210" frameX="-1145" frameY="-614" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle alt0005" x="3365" y="1262" width="1029" height="1210" frameX="-1145" frameY="-614" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle alt0006" x="1246" y="3879" width="1052" height="1201" frameX="-1128" frameY="-603" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle alt0007" x="1246" y="3879" width="1052" height="1201" frameX="-1128" frameY="-603" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle alt0008" x="2298" y="3879" width="1082" height="1199" frameX="-1107" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 idle alt0009" x="2298" y="3879" width="1082" height="1199" frameX="-1107" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 right note0000" x="7344" y="1917" width="1574" height="956" frameX="-897" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 right note0001" x="2746" y="7019" width="1566" height="954" frameX="-904" frameY="-597" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 right note0002" x="7344" y="4785" width="1510" height="955" frameX="-929" frameY="-595" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 right note0003" x="7344" y="4785" width="1510" height="955" frameX="-929" frameY="-595" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 right note0004" x="7344" y="2873" width="1459" height="956" frameX="-953" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 up note0000" x="0" y="1336" width="1119" height="1307" frameX="-1161" frameY="-258" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 up note0001" x="2239" y="0" width="1126" height="1310" frameX="-1152" frameY="-260" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 up note0002" x="1119" y="1336" width="1125" height="1262" frameX="-1150" frameY="-291" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 up note0003" x="1119" y="1336" width="1125" height="1262" frameX="-1150" frameY="-291" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 up note0004" x="4490" y="2445" width="1116" height="1221" frameX="-1169" frameY="-334" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 down note0000" x="1692" y="5092" width="1378" height="965" frameX="-948" frameY="-610" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 down note0001" x="5711" y="5092" width="1368" height="960" frameX="-952" frameY="-611" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 down note0002" x="4312" y="7019" width="1382" height="954" frameX="-938" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 down note0003" x="4312" y="7019" width="1382" height="954" frameX="-938" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 down note0004" x="7344" y="5740" width="1379" height="955" frameX="-943" frameY="-584" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 left note0000" x="4176" y="5092" width="1535" height="961" frameX="-988" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 left note0001" x="1696" y="6058" width="1539" height="960" frameX="-987" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 left note0002" x="3235" y="6058" width="1520" height="959" frameX="-974" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 left note0003" x="3235" y="6058" width="1520" height="959" frameX="-974" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 left note0004" x="7344" y="959" width="1517" height="958" frameX="-954" frameY="-595" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt right0000" x="0" y="5092" width="1692" height="966" frameX="-889" frameY="-591" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt right0001" x="0" y="6058" width="1696" height="961" frameX="-886" frameY="-595" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt right0002" x="4755" y="6058" width="1637" height="959" frameX="-929" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt right0003" x="4755" y="6058" width="1637" height="959" frameX="-929" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt right0004" x="7344" y="0" width="1604" height="959" frameX="-948" frameY="-594" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt left0000" x="5697" y="0" width="1647" height="1129" frameX="-787" frameY="-595" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt left0001" x="5697" y="1129" width="1631" height="1108" frameX="-807" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt left0002" x="5697" y="2237" width="1581" height="1051" frameX="-857" frameY="-595" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt left0003" x="5697" y="2237" width="1581" height="1051" frameX="-857" frameY="-595" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt left0004" x="5697" y="3288" width="1551" height="1021" frameX="-887" frameY="-595" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt up0000" x="1123" y="0" width="1116" height="1333" frameX="-1166" frameY="-247" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt up0001" x="0" y="0" width="1123" height="1336" frameX="-1156" frameY="-249" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt up0002" x="3365" y="0" width="1125" height="1262" frameX="-1150" frameY="-291" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt up0003" x="3365" y="0" width="1125" height="1262" frameX="-1150" frameY="-291" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt up0004" x="0" y="2643" width="1134" height="1236" frameX="-1134" frameY="-317" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt down0000" x="3070" y="5092" width="1106" height="962" frameX="-1064" frameY="-608" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt down0001" x="4406" y="3879" width="1109" height="975" frameX="-1070" frameY="-607" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt down0002" x="5694" y="7019" width="1127" height="954" frameX="-1060" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt down0003" x="5694" y="7019" width="1127" height="954" frameX="-1060" frameY="-596" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 alt down0004" x="0" y="7019" width="1140" height="955" frameX="-1059" frameY="-593" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 seriously0000" x="6821" y="7019" width="1590" height="954" frameX="-903" frameY="-597" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 seriously0001" x="6821" y="7019" width="1590" height="954" frameX="-903" frameY="-597" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 seriously0002" x="1140" y="7019" width="1606" height="955" frameX="-860" frameY="-595" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 seriously0003" x="1140" y="7019" width="1606" height="955" frameX="-860" frameY="-595" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="featured_abnormal_1 seriously0004" x="7344" y="3829" width="1578" height="956" frameX="-850" frameY="-594" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

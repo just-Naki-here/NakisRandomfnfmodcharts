@@ -1,0 +1,6 @@
+-- Created by RamenDominoes (Feel free to credit or not I don't really care)
+--Not bad for my first event created... I think
+
+
+Throw these bad boys into your mods/custom_events folder and
+read the guidelines in the 'Chart Editor'
