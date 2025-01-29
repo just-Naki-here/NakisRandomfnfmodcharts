@@ -1,3 +1,0 @@
-Heal animation and skill. Never kills The player. Used in Reverie.
-Value 1: Character healed (0 - dad, 1 - bf)
-Value 2: Heal amount (2 is max hp)

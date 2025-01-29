@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="enso/insomnia" x="500" y="-200" camx="-280" camy="-180" icon="face" holdTime="8" isGF="false">
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="up0" x="115" y="398" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="right" x="103" y="49" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="left0" x="680" y="105" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="131" y="25" fps="24" loop="false"/>
+</character>

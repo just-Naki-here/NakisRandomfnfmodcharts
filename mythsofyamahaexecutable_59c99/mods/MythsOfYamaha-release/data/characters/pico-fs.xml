@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="smiledog/pico-fs" >
+	<anim name="singDOWN" anim="d" x="-105" y="-90" fps="24" loop="false"/>
+	<anim name="idle" anim="i" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="l" x="-53" y="50" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="r" x="-76" y="-16" fps="24" loop="false"/>
+	<anim name="singUP" anim="u" x="-115" y="70" fps="24" loop="false"/>
+	<anim name="idle-loop" anim="i" x="0" y="0" fps="24" loop="true" indices="12..24"/>
+</character>

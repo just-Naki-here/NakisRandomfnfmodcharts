@@ -1,0 +1,21 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Stargazer/sonic" scale="2.5" antialiasing="false" camx="80" camy="60" isPlayer="true" icon="fd-sonic">
+	<anim name="idle-alt" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="up0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss-alt" anim="missup0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="right0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss-alt" anim="missright0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="left0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss-alt" anim="missleft0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="down0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss-alt" anim="missdown0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle" anim="idlealt" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="upalt" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="missupalt" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="rightalt" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="missleftalt" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="leftalt" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="missrightalt" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="downalt" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="missdownalt" x="0" y="0" fps="24" loop="false"/>
+</character>

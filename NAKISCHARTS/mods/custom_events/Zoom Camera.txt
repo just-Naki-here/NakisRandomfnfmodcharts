@@ -1,3 +1,0 @@
-Zooms the camera in or out.
-
-Value 1: Zoom distance

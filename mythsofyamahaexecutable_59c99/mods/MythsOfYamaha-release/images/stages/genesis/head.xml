@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="head.png">
+<SubTexture name="idle0000" x="640" y="480" width="161" height="200" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0001" x="640" y="480" width="161" height="200" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0002" x="640" y="480" width="161" height="200" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0003" x="640" y="480" width="161" height="200" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0004" x="640" y="480" width="161" height="200" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0005" x="640" y="480" width="161" height="200" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0006" x="640" y="480" width="161" height="200" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0007" x="317" y="480" width="160" height="203" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0008" x="317" y="480" width="160" height="203" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0009" x="317" y="480" width="160" height="203" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0010" x="317" y="480" width="160" height="203" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0011" x="317" y="480" width="160" height="203" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0012" x="317" y="480" width="160" height="203" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="idle0013" x="317" y="480" width="160" height="203" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0000" x="477" y="480" width="163" height="202" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0001" x="477" y="480" width="163" height="202" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0002" x="522" y="217" width="156" height="216" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0003" x="681" y="216" width="158" height="213" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0004" x="317" y="480" width="160" height="203" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0005" x="159" y="480" width="158" height="205" frameX="-13" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0006" x="0" y="480" width="159" height="206" frameX="-11" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0007" x="522" y="0" width="159" height="217" frameX="-15" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0008" x="0" y="258" width="169" height="222" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0009" x="681" y="0" width="173" height="216" frameX="-8" frameY="-12" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0010" x="169" y="258" width="177" height="222" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0011" x="346" y="258" width="174" height="222" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0012" x="345" y="0" width="177" height="224" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0013" x="345" y="0" width="177" height="224" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0014" x="171" y="0" width="174" height="233" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0015" x="171" y="0" width="174" height="233" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0016" x="0" y="0" width="171" height="258" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0017" x="0" y="0" width="171" height="258" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0018" x="0" y="0" width="171" height="258" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+<SubTexture name="chew0019" x="0" y="0" width="171" height="258" frameX="-8" frameY="-10" frameWidth="170" frameHeight="255" />
+</TextureAtlas>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="alarm_siren_tower.png"><SubTexture name="alarm_siren_tower idle0000" x="1296" y="0" width="324" height="1387" frameX="-26" frameY="-50" frameWidth="379" frameHeight="1437" />
-<SubTexture name="alarm_siren_tower danger0000" x="972" y="0" width="324" height="1409" frameX="-26" frameY="-28" frameWidth="379" frameHeight="1437" />
-<SubTexture name="alarm_siren_tower danger0001" x="324" y="0" width="324" height="1412" frameX="-26" frameY="-25" frameWidth="379" frameHeight="1437" />
-<SubTexture name="alarm_siren_tower danger0002" x="0" y="0" width="324" height="1414" frameX="-26" frameY="-23" frameWidth="379" frameHeight="1437" />
-<SubTexture name="alarm_siren_tower danger0003" x="648" y="0" width="324" height="1412" frameX="-26" frameY="-25" frameWidth="379" frameHeight="1437" />
-</TextureAtlas>

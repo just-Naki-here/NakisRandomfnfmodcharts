@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="2" name="false-security" folder="stages/smiledog/" noteSkin="moy" startCamPosY="720" startCamPosX="1300">
+	<sprite name="computer-overlay" x="0" y="0" sprite="computer-overlay" alpha="0.4"/>
+	<dad x="1637.5" y="325" scale="2.25" camxoffset="-262.5" camyoffset="215"/>
+	<sprite name="bg" x="0" y="0" sprite="bg"/>
+	<boyfriend x="50" y="485" flipX="false" scale="1.75" camxoffset="750"/>
+</stage>

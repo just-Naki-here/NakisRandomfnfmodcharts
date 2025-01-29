@@ -1,0 +1,9 @@
+{
+	"params": [
+		{
+			"name": "invert?",
+			"type": "Bool",
+			"defaultValue": false
+		}
+	]
+}

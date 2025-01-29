@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-368" y="-40" camx="200" sprite="Nmi/NMI jumping" scale="1.4" icon="nmi" holdTime="8" isGF="false">
+	<anim name="jump" anim="JUMP0" x="0" y="0" fps="24" loop="false"/>
+</character>

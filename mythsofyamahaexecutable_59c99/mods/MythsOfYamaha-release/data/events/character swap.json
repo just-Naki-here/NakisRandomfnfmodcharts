@@ -1,0 +1,14 @@
+{
+	"params": [
+        {
+			"name": "isPlayer",
+			"type": "Bool",
+			"defaultValue": false
+		},
+		{
+			"name": "Character Num (from 0 to char count)",
+			"type": "Int(0, 20, 1)",
+			"defaultValue": 0
+		}
+	]
+}

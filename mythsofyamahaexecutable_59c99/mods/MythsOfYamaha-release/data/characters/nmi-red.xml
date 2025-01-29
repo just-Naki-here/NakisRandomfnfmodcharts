@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Nmi/nmiawesome" x="90" scale="2.7" icon="nmi" color="#FF0000" holdTime="5.8" isGF="false">
+	<anim name="singLEFT" anim="Left0" x="175" y="-33" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right0" x="-2" y="71" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="13" y="-11" fps="24" loop="false"/>
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="up0" x="-10" y="115" fps="24" loop="false"/>
+</character>
