@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character sprite="smiley/DESmiley" x="100" y="230" scale="1.4" icon="smileNormal2" holdTime="8" isGF="false">
-	<anim name="singDOWN" anim="red down0" x="122" y="0" fps="24" loop="false"/>
-	<anim name="idle" anim="red idle0" x="0" y="0" fps="24" loop="true"/>
-	<anim name="singLEFT" anim="red left0" x="262" y="-13" fps="24" loop="false"/>
-	<anim name="singRIGHT" anim="red right0" x="0" y="-16" fps="24" loop="false"/>
-	<anim name="singUP" anim="red up0" x="50" y="47" fps="24" loop="false"/>
-</character>

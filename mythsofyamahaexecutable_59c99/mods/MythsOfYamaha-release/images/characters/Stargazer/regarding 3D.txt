@@ -1,2 +1,0 @@
-Programmers Note (Yanni):
-I am SO sorry stargazer is an image instead of a rendered 3D Model, a whole 3D integration just wasn't worth it considering the current time constraints and lack of 3D usage aside from Stargazer and Sonic

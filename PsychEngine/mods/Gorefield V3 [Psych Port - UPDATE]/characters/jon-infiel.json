@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				57,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jon infidelidad left"
+		},
+		{
+			"offsets": [
+				127,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jon infidelidad down"
+		},
+		{
+			"offsets": [
+				-8,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jon infidelidad up"
+		},
+		{
+			"offsets": [
+				-51,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jon infidelidad right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jon infidelidad idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jhon_infidelidad",
+	"position": [
+		650,
+		-240
+	],
+	"healthicon": "pololos",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		210,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

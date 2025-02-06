@@ -1,4 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character sprite="Stargazer/SonicToSuper" scale="3" x="-30" y="-170" camx="200" camy="400" antialiasing="false" flipX="true" isPlayer="true" icon="bf">
-	<anim name="change" anim="transformation0" x="0" y="0" fps="24" loop="false"/>
-</character>

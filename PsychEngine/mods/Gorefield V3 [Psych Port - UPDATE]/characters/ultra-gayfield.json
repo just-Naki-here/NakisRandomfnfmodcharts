@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ULTRA GOREFIELD I",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				151
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ULTRA GOREFIELD D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ULTRA GOREFIELD U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				130
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ULTRA GOREFIELD R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				219
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ULTRA GOREFIELD  L",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/ultra-gorefield",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "ultra-gorefield",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		204,
+		204
+	],
+	"camera_position": [
+		-410,
+		-500
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

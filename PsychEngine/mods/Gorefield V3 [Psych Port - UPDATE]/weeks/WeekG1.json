@@ -1,0 +1,77 @@
+{
+	"songs": [
+		[
+			"the-great-punishment",
+			"gorefield-phase-0",
+			[
+				66,
+				120,
+				73
+			]
+		],
+		[
+			"curious-cat",
+			"garfield",
+			[
+				246,
+				133,
+				73
+			]
+		],
+		[
+			"metamorphosis",
+			"gorefield-phase-2",
+			[
+				255,
+				113,
+				73
+			]
+		],
+		[
+			"hi-jon",
+			"gorefield-phase-3",
+			[
+				255,
+				255,
+				255
+       ]
+      ],
+      [
+       "terror-in-the-heights",
+			"gorefield-phase-4",
+			[
+				246,
+				133,
+				73
+			]
+		],
+		[
+       "bigotes",
+			"big",
+			[
+				255,
+				113,
+				73
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "gore",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Where is lasagna JON",
+	"weekName": "WeekG1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

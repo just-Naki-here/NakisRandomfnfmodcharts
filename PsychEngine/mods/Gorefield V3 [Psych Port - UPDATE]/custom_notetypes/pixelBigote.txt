@@ -1,0 +1,3 @@
+texture = "noteSkins/Note_Orange"
+noteSplashData.texture = "noteSplashes/noteSplashes-orange-pixel"
+rgbShader.enabled = false

@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "JON IDLE"
+		},
+		{
+			"offsets": [
+				22,
+				-41
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "JON DOWN"
+		},
+		{
+			"offsets": [
+				35,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "JON LEFT"
+		},
+		{
+			"offsets": [
+				-1,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "JON UP"
+		},
+		{
+			"offsets": [
+				-8,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "JON RIGHT"
+		},
+		{
+			"offsets": [
+				34,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "JON MISS LEFT"
+		},
+		{
+			"offsets": [
+				39,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "JON MISS DOWN"
+		},
+		{
+			"offsets": [
+				-2,
+				-11
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "JON MISS UP"
+		},
+		{
+			"offsets": [
+				-40,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "JON MISS RIGHT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JON_GOD",
+	"position": [
+		-120,
+		550
+	],
+	"healthicon": "jon-god",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-10,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

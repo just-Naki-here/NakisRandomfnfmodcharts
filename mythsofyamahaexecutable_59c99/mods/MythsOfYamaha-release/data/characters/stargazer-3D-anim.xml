@@ -1,4 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character sprite="Stargazer/StargazerTransform" x="300" y="240" camx="-180" camy="-300" scale="3.2" antialiasing="false" icon="fd-gazer-grey" holdTime="3" isGF="false" >
-	<anim name="change" anim="stargazer turns red0" x="0" y="0" fps="24" loop="false"/>
-</character>

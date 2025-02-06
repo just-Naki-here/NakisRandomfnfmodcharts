@@ -1,9 +1,0 @@
-{
-	"params": [
-		{
-			"name": "Event number (from 0 to 4)",
-			"type": "Int(0, 4, 1)",
-			"defaultValue": 0
-		}
-	]
-}

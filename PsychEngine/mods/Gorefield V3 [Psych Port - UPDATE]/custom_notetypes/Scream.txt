@@ -1,0 +1,7 @@
+ignoreNote = true
+missHealth = 0
+hitCausesMiss = true
+
+noteSplashData.texture = "noteSplashes/noteSplashes-none"
+texture = "mechanics/Scream Note"
+rgbShader.enabled = false

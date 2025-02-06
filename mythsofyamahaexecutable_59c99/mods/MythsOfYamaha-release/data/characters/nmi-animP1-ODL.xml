@@ -1,4 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character x="-500" y="270" sprite="Nmi/NMI Iconic pose" scale="1.4" camy="340" icon="nmi" holdTime="8" isGF="false">
-	<anim name="fuckoff" anim="idle look0" x="0" y="0" fps="24" loop="false" indices="11..26"/>
-</character>

@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle poses",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left poses",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-96
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down poses",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up poses",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				-35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right pose"
+		},
+		{
+			"offsets": [
+				69,
+				-34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "miss1"
+		},
+		{
+			"offsets": [
+				-17,
+				-31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "miss4"
+		},
+		{
+			"offsets": [
+				-24,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "miss2"
+		},
+		{
+			"offsets": [
+				-3,
+				-94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "miss3"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/jon-cc",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "team2",
+	"flip_x": false,
+	"healthbar_colors": [
+	  5,
+		19,
+		29
+	],
+	"camera_position": [
+		-160,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

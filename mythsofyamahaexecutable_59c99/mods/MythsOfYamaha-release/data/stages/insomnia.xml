@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage zoom="1" name="insomnia" folder="stages/classic/" startCamPosY="420" startCamPosX="660" noteSkin="insomnia">
-	<sprite name="bg"          x="-1240" y="-380"   sprite="beddd"       scroll="1"/>
-	
-	<dad />
-	<boyfriend x="600" y="620"/>
-	
-</stage>

@@ -1,0 +1,5 @@
+missHealth = 2
+lowPriority = true
+noteSplashData.texture = "noteSplashes/noteSplashes-none"
+texture = "mechanics/Warning Pixel Note"
+rgbShader.enabled = false

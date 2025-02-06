@@ -1,9 +1,0 @@
-{
-	"params": [
-		{
-			"name": "No.",
-			"type": "Bool",
-			"defaultValue": true
-		}
-	]
-}

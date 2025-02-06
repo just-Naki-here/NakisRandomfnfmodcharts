@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-131,
+				-490
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GOREFIELDBED L"
+		},
+		{
+			"offsets": [
+				-130,
+				-491
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GOREFIELDBED D"
+		},
+		{
+			"offsets": [
+				-130,
+				-485
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GOREFIELDBED U"
+		},
+		{
+			"offsets": [
+				-130,
+				-490
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GOREFIELDBED R"
+		},
+		{
+			"offsets": [
+				-131,
+				-490
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GOREFIELDBED I"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/altergarfield",
+	"position": [
+		250,
+		180
+	],
+	"healthicon": "altergarfield",
+	"flip_x": false,
+	"healthbar_colors": [
+		212,
+		77,
+		41
+	],
+	"camera_position": [
+		30,
+		430
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BOOMF I",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				53
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BOOMF MISSLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				41
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BOOMF MISSDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				109
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BOOMF MISSUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				58
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BOOMF MISSRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-28,
+				61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BOOMF L"
+		},
+		{
+			"offsets": [
+				-38,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BOOMF D"
+		},
+		{
+			"offsets": [
+				-43,
+				102
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BOOMF U"
+		},
+		{
+			"offsets": [
+				-46,
+				62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BOOMF R"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/boomf",
+	"position": [
+		440,
+		520
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		90,
+		80,
+		211
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

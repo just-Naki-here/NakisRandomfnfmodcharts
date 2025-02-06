@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"laughter-and-cries",
+			"Binky_icon",
+			[
+				40,
+				135,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "binky",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Happy birthday happy birthday Whoop-de-doo Whoop-de-doo",
+	"weekName": "BINKY",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle garfield anime"
+		},
+		{
+			"offsets": [
+				95,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left garfield anime miss"
+		},
+		{
+			"offsets": [
+				15,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down garfield anime miss"
+		},
+		{
+			"offsets": [
+				-68,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up garfield anime miss"
+		},
+		{
+			"offsets": [
+				79,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left garfield anime0"
+		},
+		{
+			"offsets": [
+				-45,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right garfield anime0"
+		},
+		{
+			"offsets": [
+				-63,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up garfield anime0"
+		},
+		{
+			"offsets": [
+				-43,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right garfield anime miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down garfield anime0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/garfield_anime",
+	"position": [
+		-550,
+		-60
+	],
+	"healthicon": "garsad",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		122,
+		40
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

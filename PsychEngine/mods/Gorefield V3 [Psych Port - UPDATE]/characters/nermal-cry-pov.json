@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-51,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "NERMAL LEFT"
+		},
+		{
+			"offsets": [
+				-48,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "NERMALL DOWN"
+		},
+		{
+			"offsets": [
+				-65,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "NERMALL UP"
+		},
+		{
+			"offsets": [
+				-67,
+				32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "NERMAL RIGHT"
+		},
+		{
+			"offsets": [
+				-60,
+				37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "NERMAL IDLE"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/NERMALL_SMALL",
+	"position": [
+		180,
+		500
+	],
+	"healthicon": "nermal-cry",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		106,
+		106
+	],
+	"camera_position": [
+		-100,
+		0
+	],
+	"sing_duration": 5.4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

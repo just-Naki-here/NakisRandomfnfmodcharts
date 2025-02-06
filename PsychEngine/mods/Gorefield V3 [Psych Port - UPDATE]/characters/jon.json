@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "JHON",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "JHON",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				13
+			],
+			"anim": "boom",
+			"fps": 24,
+			"name": "JHON B",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JHON",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		201,
+		141
+	],
+	"camera_position": [
+		-280,
+		0
+	],
+	"sing_duration": 6.10000000000001,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

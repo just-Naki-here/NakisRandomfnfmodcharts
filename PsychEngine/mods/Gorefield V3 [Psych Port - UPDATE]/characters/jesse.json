@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				-111
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "JESSEE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				79
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "JESSEE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-26
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JESSEE RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "JESSEE IDLE"
+		},
+		{
+			"offsets": [
+				42,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "JESSEE LEFT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JESSEE_ASSETS",
+	"position": [
+		-80,
+    540
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		32,
+		16,
+		53
+	],
+	"camera_position": [
+		90,
+		200
+	],
+	"sing_duration": 1.5,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="jack.png">
-<SubTexture name="red0000" x="0" y="0" width="117" height="92" frameX="0" frameY="0" frameWidth="117" frameHeight="92" />
-<SubTexture name="green0000" x="0" y="0" width="117" height="92" frameX="0" frameY="0" frameWidth="117" frameHeight="92" />
-<SubTexture name="purple0000" x="0" y="0" width="117" height="92" frameX="0" frameY="0" frameWidth="117" frameHeight="92" />
-<SubTexture name="blue0000" x="0" y="0" width="117" height="92" frameX="0" frameY="0" frameWidth="117" frameHeight="92" />
-</TextureAtlas>

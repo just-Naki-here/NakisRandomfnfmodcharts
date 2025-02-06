@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage startCamPosX="290" folder="stages/premed/" startCamPosY="460" name="premed" zoom="1.0" noteSkin="smile">
-	<sprite x="-43" y="282" sprite="static" type="loop" zoomfactor="0" scale="2" name="staticc"/>
-	<dad/>
-	<boyfriend/>
-	<gf/>
-	<combo/>
-</stage>

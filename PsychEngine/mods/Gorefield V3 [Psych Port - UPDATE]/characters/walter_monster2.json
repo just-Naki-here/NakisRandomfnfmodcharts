@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				209,
+				-213
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MONSTER WALTER IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				-213
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MONSTER WALTER LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				209,
+				-213
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MONSTER WALTER DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				208,
+				-213
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MONSTER WALTER UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				208,
+				-212
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MONSTER WALTER RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				237,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "talk",
+			"indices": [],
+			"name": "RUNNING"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/MONSTER_WALTER",
+	"position": [
+		55,
+		-290
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		33,
+		16,
+		53
+	],
+	"camera_position": [
+		-220,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

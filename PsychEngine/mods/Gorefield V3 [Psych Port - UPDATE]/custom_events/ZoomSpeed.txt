@@ -1,0 +1,5 @@
+Value 1: Tween camGame, Tween camHUD (like the Add Camera Zoom)
+Like this: 0.015, 0.03
+Value 2: Speed
+Like this: 1
+

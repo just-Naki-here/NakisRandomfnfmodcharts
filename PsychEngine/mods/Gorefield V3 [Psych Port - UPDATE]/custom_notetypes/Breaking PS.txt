@@ -1,0 +1,8 @@
+ignoreNote = true
+lowPriority = true
+hitCausesMiss = true
+hitHealth = 0.2
+missHealth = 0.2
+noteSplashData.texture = "noteSplashes/noteSplashes-none"
+texture = "mechanics/Breaking PS Note"
+rgbShader.enabled = false

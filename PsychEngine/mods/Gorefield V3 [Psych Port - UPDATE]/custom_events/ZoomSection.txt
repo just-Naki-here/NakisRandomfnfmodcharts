@@ -1,0 +1,6 @@
+Put zoom on each section of Bf or Dad ( Depending on the stage)
+Value 1: Zoom BF
+
+value 2:Zoom Dad
+
+You have to put the event at the beginning of the song or it will bug.

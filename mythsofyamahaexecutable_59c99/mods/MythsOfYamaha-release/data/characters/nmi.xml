@@ -1,9 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character x="60" y="60" sprite="Nmi/nmi_last" scale="1.6" camy="300" icon="nmi" holdTime="10" isGF="false">
-	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="true"/>
-	<anim name="singUP" anim="up" x="41" y="25" fps="24" loop="false"/>
-	<anim name="singLEFT" anim="left0" x="649" y="72" fps="24" loop="false"/>
-	<anim name="singRIGHT" anim="right0" x="46" y="-187" fps="24" loop="false"/>
-	<anim name="singDOWN" anim="down" x="170" y="-103" fps="24" loop="false"/>
-	<anim name="singLEFT-alt" anim="left0" x="649" y="75" fps="29" loop="false" indices="8..20"/>
-</character>

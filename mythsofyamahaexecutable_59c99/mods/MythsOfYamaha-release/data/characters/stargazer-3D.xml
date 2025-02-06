@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character sprite="Stargazer/gazer" x="-300" y="-240" camx="720" camy="450" scale="2.5" antialiasing="false" holdTime="3" icon="fd-gazer-grey" color="#FFFFFF">
-	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="true"/>
-	<anim name="singUP" anim="up0" x="0" y="0" fps="24" loop="false"/>
-	<anim name="singDOWN" anim="down0" x="0" y="0" fps="24" loop="false"/>
-	<anim name="singLEFT" anim="left0" x="0" y="0" fps="24" loop="false"/>
-	<anim name="singRIGHT" anim="right0" x="0" y="0" fps="24" loop="false"/>
-</character>

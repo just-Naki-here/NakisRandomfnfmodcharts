@@ -1,9 +1,0 @@
-{
-	"params": [
-		{
-			"name": "Stage val (from 0 to how ever many stages)",
-			"type": "Int(0, 20, 1)",
-			"defaultValue": 0
-		}
-	]
-}

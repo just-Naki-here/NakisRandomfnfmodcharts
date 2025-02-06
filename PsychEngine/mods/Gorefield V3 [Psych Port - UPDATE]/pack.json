@@ -1,0 +1,9 @@
+{
+	"name": "Gorefield V2 - Update Charts [Psych Port]",
+	"description": " Welcome back :3 New update? Wow, I hope it's better than the others. or not",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [246, 133, 73],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}
