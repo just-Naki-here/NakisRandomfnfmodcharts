@@ -1,0 +1,105 @@
+function onCreatePost()
+if downscroll then
+ii = 550
+end
+if not downscroll then
+ii = 50
+end
+
+end
+
+trigger = 12
+function onEvent(n,v1,v2)
+
+if n == "trigger" then
+
+trigger = tonumber(v1)
+
+trigger2 = tonumber(v2)
+
+end
+
+end
+
+function onUpdate()
+if trigger == 1 or trigger == 12 then
+function onBeatHit()
+    i = math.random(0,3)
+    i2 = math.random(0,3)
+    i3 = math.random(4,7)
+    i4 = math.random(4,7)
+    t = getRandomInt(-50, 50 , '0')
+    t2 = getRandomInt(-50, 50 , '0')
+    t3 = getRandomInt(-50, 50 , '0')
+    t4 = getRandomInt(-50, 50 , '0')
+    
+    runTimer('wait',0.1);
+    if trigger == 1 or trigger == 12 then
+    if i == i2 and t ~= t2 then 
+    noteTweenY('note1',i,ii-t, 0.1, 'linear')
+    noteTweenY('notea1',i2,ii-t2, 0.1, 'linear')
+    else
+    noteTweenY('note1',i,ii-t, 0.1, 'linear')
+    end
+    if i3 == i4 and t3 ~= t4 then 
+    noteTweenY('notea2',i3,ii-t3, 0.1, 'linear')
+    noteTweenY('noteaa3',i4,ii-t4, 0.1, 'linear')
+    else
+    noteTweenY('notea2',i3,ii-t3, 0.1, 'linear')
+    end
+    
+    if i ~= i2 then 
+    noteTweenY('note1',i,ii-t, 0.1, 'linear')
+    noteTweenY('notea1',i2,ii-t2, 0.1, 'linear')
+    end
+    if i3 ~= i4 then 
+    noteTweenY('notea2',i3,ii-t3, 0.1, 'linear')
+    noteTweenY('noteaa3',i4,ii-t4, 0.1, 'linear')
+            end
+        end
+    end
+end
+function onTimerCompleted(tag, loops, loopsleft)
+if tag == 'wait' then
+e = 0.75
+	noteTweenY('note2',0,ii, e, 'elasticOut')
+	noteTweenY('note3',1,ii, e, 'elasticOut')
+	noteTweenY('note4',2,ii, e, 'elasticOut')
+	noteTweenY('note5',3,ii, e, 'elasticOut')
+	noteTweenY('note6',4,ii, e, 'elasticOut')
+	noteTweenY('note7',5,ii, e, 'elasticOut')
+	noteTweenY('note8',6,ii, e, 'elasticOut')
+	noteTweenY('note9',7,ii, e, 'elasticOut')
+	end
+end
+
+if trigger == 2 or trigger == 12 then
+a = 400
+b = -400
+s = -310
+d = -310
+songPos = getSongPosition()
+	local currentBeat = (songPos/2000)
+    noteTweenX('opponentx1', 0, defaultOpponentStrumX0 - b*math.sin((currentBeat+8*0.1)*math.pi)-d, 0.1)
+	noteTweenX('opponentx2', 1, defaultOpponentStrumX1 - b*math.sin((currentBeat+8*0.1)*math.pi)-d, 0.1)
+	noteTweenX('opponentx3', 2, defaultOpponentStrumX2 - b*math.sin((currentBeat+8*0.1)*math.pi)-d, 0.1)
+	noteTweenX('opponentx4', 3, defaultOpponentStrumX3 - b*math.sin((currentBeat+8*0.1)*math.pi)-d, 0.1)
+	
+	noteTweenX('player1', 4, defaultOpponentStrumX0 - a*math.sin((currentBeat+8*0.1)*math.pi)-s, 0.1)
+	noteTweenX('player2', 5, defaultOpponentStrumX1 - a*math.sin((currentBeat+8*0.1)*math.pi)-s, 0.1)
+	noteTweenX('player3', 6, defaultOpponentStrumX2 - a*math.sin((currentBeat+8*0.1)*math.pi)-s, 0.1)
+	noteTweenX('player4', 7, defaultOpponentStrumX3 - a*math.sin((currentBeat+8*0.1)*math.pi)-s, 0.1)
+	else
+	noteTweenX('opponentx1', 0, defaultOpponentStrumX0, 0.5)
+	noteTweenX('opponentx2', 1, defaultOpponentStrumX1, 0.5)
+	noteTweenX('opponentx3', 2, defaultOpponentStrumX2, 0.5)
+	noteTweenX('opponentx4', 3, defaultOpponentStrumX3, 0.5)
+	
+	noteTweenX('player1', 4, defaultPlayerStrumX0, 0.5)
+	noteTweenX('player2', 5, defaultPlayerStrumX1, 0.5)
+	noteTweenX('player3', 6, defaultPlayerStrumX2, 0.5)
+	noteTweenX('player4', 7, defaultPlayerStrumX3, 0.5)
+end
+
+
+end

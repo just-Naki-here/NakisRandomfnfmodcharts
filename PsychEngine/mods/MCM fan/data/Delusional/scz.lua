@@ -1,0 +1,48 @@
+j = 0
+function onEvent(name,value1,value2)
+
+    if name == "SCZ" then
+        
+	if tonumber(value1) ~= 0 then
+	doTweenZoom('camz','camGame',tonumber(value1)+0.8+j,0.2,'sineInOut')
+            --doTweenZoom('camz1','camHUD',tonumber(value1)+0.7,0.2,'sineInOut')
+            end
+            if tonumber(value1) == 0 then
+	doTweenZoom('camz','camGame',1+j,0.2,'sineInOut')
+            --doTweenZoom('camz1','camHUD',tonumber(value1)+0.7,0.2,'sineInOut')
+            end
+            end
+    
+
+
+end
+
+function onTweenCompleted(name)
+
+if name == 'camz' then
+if mustHitSection == false then
+      	 j = 0
+      	 else
+      	 j = 0.3
+      	 end
+
+      	 --setProperty("defaultCamZoom",getProperty('camGame.zoom')) 
+      	 --setProperty('camHUD.zoom', getProperty('camHUD.zoom'))
+runTimer('scz', 0.1, 0.1)
+end
+
+if name == 'scz' then
+
+if mustHitSection == false then
+      	 setProperty("defaultCamZoom",0.85) 
+      	 doTweenZoom('camz','camGame',0.85,0.1,'sineInOut')
+      	 --setProperty('camHUD.zoom', 0.95)
+      	 --doTweenZoom('camz1','camHUD',0.95,0.2,'sineInOut')
+      	 else
+      	 setProperty("defaultCamZoom",1.1) 
+      	 doTweenZoom('camz','camGame',1.1,0.1,'sineInOut')
+      	 --setProperty('camHUD.zoom', 0.95)
+      	 --doTweenZoom('camz1','camHUD',0.95,0.2,'sineInOut')
+      	 end
+end
+end

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" iconScale="0.75" iconoffsety="10" flipX="false" holdTime="7.4" x="280" y="100" camX="-190" camy="80" sprite="MCM/Dead Hope/fatass_bitch"  icon="faceless" color="#fffc5a">
+
+   <anim name="idle" anim="patrick idle" x="0" y="0"/>
+   <anim name="singLEFT" anim="patrick left" x="252" y="44"/>
+   <anim name="singRIGHT" anim="patrick right" x="0" y="0"/>
+   <anim name="singUP" anim="patrick up" x="66" y="223"/>
+   <anim name="singDOWN" anim="patrick down" x="0" y="-1"/>
+
+</character>

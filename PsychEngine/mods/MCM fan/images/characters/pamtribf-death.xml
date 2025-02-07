@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Unbenannt-1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="die0000" x="100" y="100" width="476" height="450" frameX="0" frameY="-1180" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0001" x="676" y="100" width="476" height="450" frameX="0" frameY="-1180" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0002" x="1252" y="100" width="529" height="545" frameX="-74" frameY="-1065" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0003" x="1881" y="100" width="529" height="545" frameX="-74" frameY="-1065" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0004" x="2510" y="100" width="575" height="585" frameX="-394" frameY="-826" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0005" x="3185" y="100" width="575" height="585" frameX="-394" frameY="-826" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0006" x="100" y="785" width="595" height="604" frameX="-712" frameY="-610" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0007" x="795" y="785" width="595" height="604" frameX="-712" frameY="-610" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0008" x="1490" y="785" width="619" height="619" frameX="-1061" frameY="-307" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0009" x="2209" y="785" width="619" height="619" frameX="-1061" frameY="-307" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0010" x="2928" y="785" width="596" height="604" frameX="-1439" frameY="0" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0011" x="100" y="1504" width="596" height="604" frameX="-1439" frameY="0" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0012" x="796" y="1504" width="0" height="0" frameX="0" frameY="-1180" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0013" x="896" y="1504" width="0" height="0" frameX="0" frameY="-1180" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0014" x="996" y="1504" width="0" height="0" frameX="0" frameY="-1180" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0015" x="1096" y="1504" width="0" height="0" frameX="0" frameY="-1180" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0016" x="1196" y="1504" width="0" height="0" frameX="0" frameY="-1180" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0017" x="1296" y="1504" width="0" height="0" frameX="0" frameY="-1180" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0018" x="1396" y="1504" width="0" height="0" frameX="0" frameY="-1180" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="die0019" x="1496" y="1504" width="0" height="0" frameX="0" frameY="-1180" frameWidth="2035" frameHeight="1630"/>
+	<SubTexture name="loop0000" x="1596" y="1504" width="596" height="604"/>
+	<SubTexture name="loop0001" x="2292" y="1504" width="596" height="604"/>
+	<SubTexture name="loop0002" x="2988" y="1504" width="0" height="0" frameX="1439" frameY="-1180" frameWidth="596" frameHeight="604"/>
+	<SubTexture name="loop0003" x="3088" y="1504" width="0" height="0" frameX="1439" frameY="-1180" frameWidth="596" frameHeight="604"/>
+	<SubTexture name="loop0004" x="3188" y="1504" width="0" height="0" frameX="1439" frameY="-1180" frameWidth="596" frameHeight="604"/>
+	<SubTexture name="loop0005" x="3288" y="1504" width="0" height="0" frameX="1439" frameY="-1180" frameWidth="596" frameHeight="604"/>
+	<SubTexture name="loop0006" x="3388" y="1504" width="0" height="0" frameX="1439" frameY="-1180" frameWidth="596" frameHeight="604"/>
+	<SubTexture name="loop0007" x="3488" y="1504" width="0" height="0" frameX="1439" frameY="-1180" frameWidth="596" frameHeight="604"/>
+	<SubTexture name="loop0008" x="3588" y="1504" width="0" height="0" frameX="1439" frameY="-1180" frameWidth="596" frameHeight="604"/>
+	<SubTexture name="loop0009" x="3688" y="1504" width="0" height="0" frameX="1439" frameY="-1180" frameWidth="596" frameHeight="604"/>
+	<SubTexture name="yay0000" x="100" y="2208" width="465" height="451"/>
+</TextureAtlas>

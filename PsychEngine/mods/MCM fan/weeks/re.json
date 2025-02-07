@@ -1,0 +1,29 @@
+{
+	"songs": [
+			["Sanguilacrimae re old", "canonsquiddy", [182, 203, 194]],
+			["Mist re old", "lolward", [105, 157, 121]],
+			["doomsday re old", "darkward", [171, 186, 183]],
+			["doomsday re", "darkward", [171, 186, 183]],
+	["dead hope re old", "faceless", [197, 48, 47]],
+	["tonight re", "icon-squidward", [182, 203, 194]],
+	["pat", "icon-pt", [234,
+		152,
+		138]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "squid",
+
+	"storyName": "Mistful Crimson Morning",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"difficulties": "hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

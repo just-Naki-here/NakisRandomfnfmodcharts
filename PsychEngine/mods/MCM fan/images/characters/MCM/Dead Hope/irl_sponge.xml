@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="irl_sponge.png">
+	<!-- Created with Adobe Animate version 23.0.4.127 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spongRIGHT0000" x="0" y="0" width="435" height="474" frameX="-149" frameY="-19" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0001" x="0" y="0" width="435" height="474" frameX="-149" frameY="-19" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0002" x="435" y="0" width="430" height="468" frameX="-79" frameY="-23" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0003" x="435" y="0" width="430" height="468" frameX="-79" frameY="-23" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0004" x="435" y="0" width="430" height="468" frameX="-79" frameY="-23" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0005" x="865" y="0" width="387" height="473" frameX="-48" frameY="-22" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0006" x="865" y="0" width="387" height="473" frameX="-48" frameY="-22" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0007" x="1252" y="0" width="385" height="475" frameX="-24" frameY="-17" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0008" x="1252" y="0" width="385" height="475" frameX="-24" frameY="-17" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0009" x="1637" y="0" width="358" height="483" frameX="-22" frameY="-7" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0010" x="1637" y="0" width="358" height="483" frameX="-22" frameY="-7" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0011" x="1995" y="0" width="360" height="481" frameX="-1" frameY="-4" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0012" x="1995" y="0" width="360" height="481" frameX="-1" frameY="-4" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0013" x="1995" y="0" width="360" height="481" frameX="-1" frameY="-4" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="spongRIGHT0014" x="2355" y="0" width="358" height="482" frameX="0" frameY="0" frameWidth="584" frameHeight="495"/>
+	<SubTexture name="sponge idle0000" x="2713" y="0" width="358" height="482"/>
+	<SubTexture name="spongeDOWN0000" x="3071" y="0" width="418" height="499" frameX="-44" frameY="-81" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0001" x="3071" y="0" width="418" height="499" frameX="-44" frameY="-81" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0002" x="3489" y="0" width="439" height="485" frameX="-28" frameY="-41" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0003" x="3489" y="0" width="439" height="485" frameX="-28" frameY="-41" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0004" x="3489" y="0" width="439" height="485" frameX="-28" frameY="-41" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0005" x="0" y="499" width="468" height="418" frameX="0" frameY="-91" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0006" x="0" y="499" width="468" height="418" frameX="0" frameY="-91" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0007" x="468" y="499" width="441" height="365" frameX="-45" frameY="-138" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0008" x="468" y="499" width="441" height="365" frameX="-45" frameY="-138" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0009" x="909" y="499" width="352" height="446" frameX="-157" frameY="-42" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0010" x="909" y="499" width="352" height="446" frameX="-157" frameY="-42" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0011" x="1261" y="499" width="354" height="479" frameX="-169" frameY="-6" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0012" x="1261" y="499" width="354" height="479" frameX="-169" frameY="-6" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0013" x="1261" y="499" width="354" height="479" frameX="-169" frameY="-6" frameWidth="528" frameHeight="580"/>
+	<SubTexture name="spongeDOWN0014" x="2713" y="0" width="358" height="482" frameX="-170" frameY="0" frameWidth="358" frameHeight="482"/>
+	<SubTexture name="spongeLEFT0000" x="1615" y="499" width="560" height="383" frameX="0" frameY="-137" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0001" x="1615" y="499" width="560" height="383" frameX="0" frameY="-137" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0002" x="2175" y="499" width="548" height="396" frameX="-72" frameY="-101" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0003" x="2175" y="499" width="548" height="396" frameX="-72" frameY="-101" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0004" x="2175" y="499" width="548" height="396" frameX="-72" frameY="-101" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0005" x="2723" y="499" width="419" height="439" frameX="-248" frameY="-48" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0006" x="2723" y="499" width="419" height="439" frameX="-248" frameY="-48" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0007" x="3142" y="499" width="457" height="469" frameX="-345" frameY="-11" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0008" x="3142" y="499" width="457" height="469" frameX="-345" frameY="-11" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0009" x="3599" y="499" width="392" height="480" frameX="-385" frameY="0" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0010" x="3599" y="499" width="392" height="480" frameX="-385" frameY="0" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0011" x="0" y="979" width="357" height="484" frameX="-433" frameY="0" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0012" x="0" y="979" width="357" height="484" frameX="-433" frameY="0" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0013" x="0" y="979" width="357" height="484" frameX="-433" frameY="0" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeLEFT0014" x="357" y="979" width="358" height="482" frameX="-437" frameY="-4" frameWidth="802" frameHeight="520"/>
+	<SubTexture name="spongeUP0000" x="715" y="979" width="332" height="720" frameX="-82" frameY="0" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0001" x="715" y="979" width="332" height="720" frameX="-82" frameY="0" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0002" x="1047" y="979" width="381" height="691" frameX="-66" frameY="-110" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0003" x="1047" y="979" width="381" height="691" frameX="-66" frameY="-110" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0004" x="1047" y="979" width="381" height="691" frameX="-66" frameY="-110" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0005" x="1428" y="979" width="511" height="627" frameX="0" frameY="-214" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0006" x="1428" y="979" width="511" height="627" frameX="0" frameY="-214" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0007" x="1939" y="979" width="472" height="497" frameX="-21" frameY="-361" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0008" x="1939" y="979" width="472" height="497" frameX="-21" frameY="-361" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0009" x="2411" y="979" width="378" height="491" frameX="-67" frameY="-390" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0010" x="2411" y="979" width="378" height="491" frameX="-67" frameY="-390" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0011" x="2789" y="979" width="356" height="487" frameX="-94" frameY="-403" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0012" x="2789" y="979" width="356" height="487" frameX="-94" frameY="-403" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0013" x="2789" y="979" width="356" height="487" frameX="-94" frameY="-403" frameWidth="511" frameHeight="890"/>
+	<SubTexture name="spongeUP0014" x="3145" y="979" width="358" height="483" frameX="-95" frameY="-407" frameWidth="511" frameHeight="890"/>
+</TextureAtlas>

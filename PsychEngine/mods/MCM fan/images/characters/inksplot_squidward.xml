@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="inksplot_squidward.png">
+<SubTexture name="inksplot_squidward down0000" x="470" y="1982" width="492" height="432" frameX="-261" frameY="-370" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward down0001" x="0" y="1982" width="470" height="446" frameX="-270" frameY="-356" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward down0002" x="2001" y="1384" width="445" height="466" frameX="-278" frameY="-336" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward idle0000" x="1540" y="1384" width="461" height="580" frameX="-278" frameY="-235" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward idle0001" x="0" y="1384" width="452" height="598" frameX="-283" frameY="-219" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward idle0002" x="969" y="754" width="428" height="614" frameX="-291" frameY="-203" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward idle0003" x="553" y="754" width="416" height="623" frameX="-301" frameY="-193" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward left0000" x="1040" y="1384" width="500" height="583" frameX="-108" frameY="-229" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward left0001" x="1918" y="606" width="455" height="602" frameX="-167" frameY="-210" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward left0002" x="1515" y="0" width="403" height="610" frameX="-228" frameY="-200" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward right0000" x="452" y="1384" width="588" height="587" frameX="-314" frameY="-229" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward right0001" x="1918" y="0" width="571" height="606" frameX="-297" frameY="-210" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward right0002" x="0" y="754" width="553" height="630" frameX="-281" frameY="-186" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward up0000" x="0" y="0" width="508" height="754" frameX="-233" frameY="-64" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward up0001" x="508" y="0" width="508" height="733" frameX="-224" frameY="-84" frameWidth="1000" frameHeight="900" />
+<SubTexture name="inksplot_squidward up0002" x="1016" y="0" width="499" height="710" frameX="-222" frameY="-106" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "squ i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "squ d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-250
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "squ l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-250
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "squ u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-250
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "squ r",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squ",
+	"position": [
+		-440,
+		-750
+	],
+	"healthicon": "squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		125,
+		145
+	],
+	"camera_position": [
+		300,
+		680
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

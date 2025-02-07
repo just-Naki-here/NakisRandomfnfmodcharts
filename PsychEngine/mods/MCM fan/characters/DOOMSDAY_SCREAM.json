@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-5
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "SCREAM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				274,
+				70
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "SCREAM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scream",
+	"position": [
+		250,
+		160
+	],
+	"healthicon": "darkward",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-370,
+		-260
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}

@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				90
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				580,
+				440
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "W Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				571,
+				447
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "W Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				540,
+				441
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "W Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				550,
+				455
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "W Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				562,
+				471
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "W Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Squidnomal",
+	"position": [
+		-50,
+		50
+	],
+	"healthicon": "squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		182,
+		195
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

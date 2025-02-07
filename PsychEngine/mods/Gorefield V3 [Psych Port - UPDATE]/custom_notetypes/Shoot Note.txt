@@ -1,5 +1,0 @@
-missHealth = 2
-lowPriority = true
-noteSplashData.texture = "noteSplashes/noteSplashes-none"
-texture = "mechanics/Shoot Note"
-rgbShader.enabled = false

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="phase 2 sheet thingy alt.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down pose shotgun instance 10000" x="0" y="0" width="717" height="935" frameX="0" frameY="-9" frameWidth="718" frameHeight="944"/>
+	<SubTexture name="down pose shotgun instance 10001" x="717" y="0" width="717" height="935" frameX="0" frameY="-9" frameWidth="718" frameHeight="944"/>
+	<SubTexture name="down pose shotgun instance 10002" x="1434" y="0" width="709" height="943" frameX="-9" frameY="-1" frameWidth="718" frameHeight="944"/>
+	<SubTexture name="down pose shotgun instance 10003" x="2143" y="0" width="709" height="943" frameX="-9" frameY="-1" frameWidth="718" frameHeight="944"/>
+	<SubTexture name="down pose shotgun instance 10004" x="2852" y="0" width="708" height="944" frameX="-9" frameY="0" frameWidth="718" frameHeight="944"/>
+	<SubTexture name="down pose shotgun instance 10005" x="3560" y="0" width="708" height="944" frameX="-9" frameY="0" frameWidth="718" frameHeight="944"/>
+	<SubTexture name="down pose shotgun instance 10006" x="4268" y="0" width="708" height="944" frameX="-9" frameY="0" frameWidth="718" frameHeight="944"/>
+	<SubTexture name="down pose shotgun instance 10007" x="4976" y="0" width="708" height="944" frameX="-9" frameY="0" frameWidth="718" frameHeight="944"/>
+	<SubTexture name="down pose shotgun instance 10008" x="5684" y="0" width="708" height="944" frameX="-9" frameY="0" frameWidth="718" frameHeight="944"/>
+	<SubTexture name="down pose shotgun instance 10009" x="6392" y="0" width="708" height="944" frameX="-9" frameY="0" frameWidth="718" frameHeight="944"/>
+	<SubTexture name="alt-left pose shotgun instance 10000" x="7100" y="0" width="648" height="998"/>
+	<SubTexture name="left pose shotgun instance 10001" x="0" y="998" width="648" height="998"/>
+	<SubTexture name="alt-left pose shotgun instance 10002" x="648" y="998" width="638" height="993" frameX="-10" frameY="-5" frameWidth="648" frameHeight="998"/>
+	<SubTexture name="alt-left pose shotgun instance 10003" x="1286" y="998" width="638" height="993" frameX="-10" frameY="-5" frameWidth="648" frameHeight="998"/>
+	<SubTexture name="alt-left pose shotgun instance 10004" x="1924" y="998" width="634" height="992" frameX="-14" frameY="-6" frameWidth="648" frameHeight="998"/>
+	<SubTexture name="alt-left pose shotgun instance 10005" x="2558" y="998" width="634" height="992" frameX="-14" frameY="-6" frameWidth="648" frameHeight="998"/>
+	<SubTexture name="alt-left pose shotgun instance 10006" x="3192" y="998" width="634" height="992" frameX="-14" frameY="-6" frameWidth="648" frameHeight="998"/>
+	<SubTexture name="alt-left pose shotgun instance 10007" x="3826" y="998" width="634" height="992" frameX="-14" frameY="-6" frameWidth="648" frameHeight="998"/>
+	<SubTexture name="alt-left pose shotgun instance 10008" x="4460" y="998" width="634" height="992" frameX="-14" frameY="-6" frameWidth="648" frameHeight="998"/>
+	<SubTexture name="alt-left pose shotgun instance 10009" x="5094" y="998" width="634" height="992" frameX="-14" frameY="-6" frameWidth="648" frameHeight="998"/>
+	<SubTexture name="right pose shotgun instance 10000" x="5728" y="998" width="713" height="965"/>
+	<SubTexture name="right pose shotgun instance 10001" x="6441" y="998" width="713" height="965"/>
+	<SubTexture name="right pose shotgun instance 10002" x="7154" y="998" width="708" height="960" frameX="0" frameY="-5" frameWidth="713" frameHeight="965"/>
+	<SubTexture name="right pose shotgun instance 10003" x="0" y="1996" width="708" height="960" frameX="0" frameY="-5" frameWidth="713" frameHeight="965"/>
+	<SubTexture name="right pose shotgun instance 10004" x="708" y="1996" width="702" height="959" frameX="0" frameY="-6" frameWidth="713" frameHeight="965"/>
+	<SubTexture name="right pose shotgun instance 10005" x="1410" y="1996" width="702" height="959" frameX="0" frameY="-6" frameWidth="713" frameHeight="965"/>
+	<SubTexture name="right pose shotgun instance 10006" x="2112" y="1996" width="702" height="959" frameX="0" frameY="-6" frameWidth="713" frameHeight="965"/>
+	<SubTexture name="right pose shotgun instance 10007" x="2814" y="1996" width="702" height="959" frameX="0" frameY="-6" frameWidth="713" frameHeight="965"/>
+	<SubTexture name="right pose shotgun instance 10008" x="3516" y="1996" width="702" height="959" frameX="0" frameY="-6" frameWidth="713" frameHeight="965"/>
+	<SubTexture name="right pose shotgun instance 10009" x="4218" y="1996" width="702" height="959" frameX="0" frameY="-6" frameWidth="713" frameHeight="965"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10000" x="4920" y="1996" width="682" height="949" frameX="-2" frameY="-10" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10001" x="5602" y="1996" width="682" height="949" frameX="-2" frameY="-10" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10002" x="6284" y="1996" width="682" height="943" frameX="-1" frameY="-16" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10003" x="6966" y="1996" width="682" height="943" frameX="-1" frameY="-16" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10004" x="0" y="2956" width="681" height="951" frameX="-1" frameY="-8" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10005" x="681" y="2956" width="680" height="951" frameX="-1" frameY="-8" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10006" x="1361" y="2956" width="679" height="955" frameX="-2" frameY="-4" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10007" x="2040" y="2956" width="678" height="955" frameX="-2" frameY="-4" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10008" x="2718" y="2956" width="680" height="958" frameX="0" frameY="-1" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10009" x="3398" y="2956" width="680" height="959" frameX="0" frameY="0" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10010" x="4078" y="2956" width="680" height="959" frameX="0" frameY="0" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10011" x="4758" y="2956" width="680" height="959" frameX="0" frameY="0" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10012" x="5438" y="2956" width="680" height="959" frameX="0" frameY="0" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10013" x="6118" y="2956" width="680" height="959" frameX="0" frameY="0" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="shotgun squidy phase 2 idle instance 10014" x="6798" y="2956" width="680" height="959" frameX="0" frameY="0" frameWidth="684" frameHeight="959"/>
+	<SubTexture name="up pose shotgun instance 10000" x="7478" y="2956" width="677" height="1021"/>
+	<SubTexture name="up pose shotgun instance 10001" x="0" y="3977" width="677" height="1021"/>
+	<SubTexture name="up pose shotgun instance 10002" x="677" y="3977" width="673" height="1012" frameX="-3" frameY="-9" frameWidth="677" frameHeight="1021"/>
+	<SubTexture name="up pose shotgun instance 10003" x="1350" y="3977" width="673" height="1012" frameX="-3" frameY="-9" frameWidth="677" frameHeight="1021"/>
+	<SubTexture name="up pose shotgun instance 10004" x="2023" y="3977" width="671" height="1009" frameX="-3" frameY="-12" frameWidth="677" frameHeight="1021"/>
+	<SubTexture name="up pose shotgun instance 10005" x="2694" y="3977" width="671" height="1009" frameX="-3" frameY="-12" frameWidth="677" frameHeight="1021"/>
+	<SubTexture name="up pose shotgun instance 10006" x="3365" y="3977" width="671" height="1009" frameX="-3" frameY="-12" frameWidth="677" frameHeight="1021"/>
+	<SubTexture name="up pose shotgun instance 10007" x="4036" y="3977" width="671" height="1009" frameX="-3" frameY="-12" frameWidth="677" frameHeight="1021"/>
+	<SubTexture name="up pose shotgun instance 10008" x="4707" y="3977" width="671" height="1009" frameX="-3" frameY="-12" frameWidth="677" frameHeight="1021"/>
+	<SubTexture name="up pose shotgun instance 10009" x="5378" y="3977" width="671" height="1009" frameX="-3" frameY="-12" frameWidth="677" frameHeight="1021"/>
+</TextureAtlas>

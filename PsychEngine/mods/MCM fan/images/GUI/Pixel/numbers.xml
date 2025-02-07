@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BaseSheet.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="one0000" x="0" y="0" width="94" height="119" frameX="0" frameY="0" frameWidth="94" frameHeight="119"/>
+	<SubTexture name="two0000" x="94" y="0" width="94" height="119" frameX="0" frameY="0" frameWidth="94" frameHeight="119"/>
+	<SubTexture name="three0000" x="188" y="0" width="94" height="119" frameX="0" frameY="0" frameWidth="94" frameHeight="119"/>
+	<SubTexture name="four0000" x="282" y="0" width="94" height="119" frameX="0" frameY="0" frameWidth="94" frameHeight="119"/>
+	<SubTexture name="five0000" x="376" y="0" width="94" height="119" frameX="0" frameY="0" frameWidth="94" frameHeight="119"/>
+	<SubTexture name="six0000" x="0" y="119" width="94" height="119" frameX="0" frameY="0" frameWidth="94" frameHeight="119"/>
+	<SubTexture name="seven0000" x="92" y="119" width="94" height="119" frameX="0" frameY="0" frameWidth="94" frameHeight="119"/>
+	<SubTexture name="eight0000" x="188" y="119" width="94" height="119" frameX="0" frameY="0" frameWidth="94" frameHeight="119"/>
+	<SubTexture name="nine0000" x="282" y="119" width="94" height="119" frameX="0" frameY="0" frameWidth="94" frameHeight="119"/>
+	<SubTexture name="zero0000" x="376" y="119" width="94" height="119" frameX="0" frameY="0" frameWidth="94" frameHeight="119"/>
+</TextureAtlas>

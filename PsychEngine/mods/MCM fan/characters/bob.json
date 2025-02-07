@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-521,
+				-1022
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-390,
+				-1052
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-349,
+				-945
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-508,
+				-1016
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-472,
+				-1016
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-326,
+				-599
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "game over"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spongetroll",
+	"position": [
+		-490,
+		-610
+	],
+	"healthicon": "bb",
+	"flip_x": true,
+	"healthbar_colors": [
+		247,
+		252,
+		0
+	],
+	"camera_position": [
+		-540,
+		1190
+	],
+	"sing_duration": 4,
+	"scale": 0.85
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sanguilacrimae.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sanguilacrimae0000" x="0" y="0" width="919" height="919" />
+	<SubTexture name="Sanguilacrimae0001" x="919" y="0" width="919" height="919" />
+	<SubTexture name="Sanguilacrimae0002" x="1838" y="0" width="919" height="919" />
+	<SubTexture name="Sanguilacrimae0003" x="2757" y="0" width="919" height="919" />
+	<SubTexture name="Sanguilacrimae0004" x="3676" y="0" width="919" height="919" />
+</TextureAtlas>

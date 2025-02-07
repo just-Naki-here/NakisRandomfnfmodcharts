@@ -1,0 +1,8 @@
+
+
+
+function onUpdate()
+
+        triggerEvent('Camera Follow Pos','','')
+    
+end

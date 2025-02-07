@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Patrick.png"><SubTexture name="Patrick Idle0000" x="0" y="0" width="1068" height="1404" frameX="0" frameY="0" frameWidth="1068" frameHeight="1404" />
+<SubTexture name="Patrick Right0000" x="0" y="1404" width="1068" height="1404" frameX="0" frameY="0" frameWidth="1068" frameHeight="1404" />
+<SubTexture name="Patrick Right0001" x="1068" y="1404" width="1068" height="1404" frameX="0" frameY="0" frameWidth="1068" frameHeight="1404" />
+<SubTexture name="Patrick Up0000" x="2136" y="1404" width="1068" height="1404" frameX="0" frameY="0" frameWidth="1068" frameHeight="1404" />
+<SubTexture name="Patrick Up0001" x="0" y="2808" width="1068" height="1404" frameX="0" frameY="0" frameWidth="1068" frameHeight="1404" />
+<SubTexture name="Patrick Down0000" x="1068" y="2808" width="1068" height="1404" frameX="0" frameY="0" frameWidth="1068" frameHeight="1404" />
+<SubTexture name="Patrick Down0001" x="2136" y="2808" width="1068" height="1404" frameX="0" frameY="0" frameWidth="1068" frameHeight="1404" />
+<SubTexture name="Patrick Left0000" x="0" y="4212" width="1068" height="1404" frameX="0" frameY="0" frameWidth="1068" frameHeight="1404" />
+<SubTexture name="Patrick Left0001" x="1068" y="4212" width="1068" height="1404" frameX="0" frameY="0" frameWidth="1068" frameHeight="1404" />
+</TextureAtlas>

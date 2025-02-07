@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vase note.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="192" height="192"/>
+	<SubTexture name="blue0001" x="0" y="0" width="192" height="192"/>
+	<SubTexture name="blue0002" x="192" y="0" width="192" height="192"/>
+	<SubTexture name="blue0003" x="192" y="0" width="192" height="192"/>
+	<SubTexture name="blue0004" x="384" y="0" width="192" height="192"/>
+	<SubTexture name="blue0005" x="384" y="0" width="192" height="192"/>
+	<SubTexture name="blue0006" x="0" y="192" width="192" height="192"/>
+	<SubTexture name="blue0007" x="0" y="192" width="192" height="192"/>
+	<SubTexture name="blue0008" x="192" y="192" width="192" height="192"/>
+	<SubTexture name="blue0009" x="192" y="192" width="192" height="192"/>
+	<SubTexture name="green0000" x="0" y="0" width="192" height="192"/>
+	<SubTexture name="green0001" x="0" y="0" width="192" height="192"/>
+	<SubTexture name="green0002" x="192" y="0" width="192" height="192"/>
+	<SubTexture name="green0003" x="192" y="0" width="192" height="192"/>
+	<SubTexture name="green0004" x="384" y="0" width="192" height="192"/>
+	<SubTexture name="green0005" x="384" y="0" width="192" height="192"/>
+	<SubTexture name="green0006" x="0" y="192" width="192" height="192"/>
+	<SubTexture name="green0007" x="0" y="192" width="192" height="192"/>
+	<SubTexture name="green0008" x="192" y="192" width="192" height="192"/>
+	<SubTexture name="green0009" x="192" y="192" width="192" height="192"/>
+	<SubTexture name="purple0000" x="0" y="0" width="192" height="192"/>
+	<SubTexture name="purple0001" x="0" y="0" width="192" height="192"/>
+	<SubTexture name="purple0002" x="192" y="0" width="192" height="192"/>
+	<SubTexture name="purple0003" x="192" y="0" width="192" height="192"/>
+	<SubTexture name="purple0004" x="384" y="0" width="192" height="192"/>
+	<SubTexture name="purple0005" x="384" y="0" width="192" height="192"/>
+	<SubTexture name="purple0006" x="0" y="192" width="192" height="192"/>
+	<SubTexture name="purple0007" x="0" y="192" width="192" height="192"/>
+	<SubTexture name="purple0008" x="192" y="192" width="192" height="192"/>
+	<SubTexture name="purple0009" x="192" y="192" width="192" height="192"/>
+	<SubTexture name="red0000" x="0" y="0" width="192" height="192"/>
+	<SubTexture name="red0001" x="0" y="0" width="192" height="192"/>
+	<SubTexture name="red0002" x="192" y="0" width="192" height="192"/>
+	<SubTexture name="red0003" x="192" y="0" width="192" height="192"/>
+	<SubTexture name="red0004" x="384" y="0" width="192" height="192"/>
+	<SubTexture name="red0005" x="384" y="0" width="192" height="192"/>
+	<SubTexture name="red0006" x="0" y="192" width="192" height="192"/>
+	<SubTexture name="red0007" x="0" y="192" width="192" height="192"/>
+	<SubTexture name="red0008" x="192" y="192" width="192" height="192"/>
+	<SubTexture name="red0009" x="192" y="192" width="192" height="192"/>
+</TextureAtlas>

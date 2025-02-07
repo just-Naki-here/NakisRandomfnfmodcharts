@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="other.png"><SubTexture name="other dance0000" x="3719" y="0" width="3719" height="1374" frameX="-1078" frameY="-495" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0001" x="3719" y="0" width="3719" height="1374" frameX="-1078" frameY="-495" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0002" x="3719" y="1374" width="3719" height="1374" frameX="-940" frameY="-450" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0003" x="3719" y="1374" width="3719" height="1374" frameX="-940" frameY="-450" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0004" x="0" y="2750" width="3719" height="1374" frameX="-829" frameY="-412" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0005" x="0" y="2750" width="3719" height="1374" frameX="-829" frameY="-412" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0006" x="0" y="4124" width="3720" height="1374" frameX="-752" frameY="-387" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0007" x="0" y="4124" width="3720" height="1374" frameX="-752" frameY="-387" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0008" x="3719" y="2750" width="3719" height="1374" frameX="-645" frameY="-350" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0009" x="3719" y="2750" width="3719" height="1374" frameX="-645" frameY="-350" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0010" x="0" y="5498" width="3719" height="1374" frameX="-589" frameY="-331" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0011" x="0" y="5498" width="3719" height="1374" frameX="-589" frameY="-331" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0012" x="7438" y="0" width="3720" height="1374" frameX="-369" frameY="-259" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0013" x="7438" y="0" width="3720" height="1374" frameX="-369" frameY="-259" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0014" x="7438" y="1374" width="3719" height="1374" frameX="-266" frameY="-224" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0015" x="7438" y="1374" width="3719" height="1374" frameX="-266" frameY="-224" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0016" x="0" y="0" width="3719" height="1375" frameX="-119" frameY="-172" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0017" x="0" y="0" width="3719" height="1375" frameX="-119" frameY="-172" frameWidth="4807" frameHeight="2027" />
+<SubTexture name="other dance0018" x="0" y="1375" width="3719" height="1375" frameX="-10" frameY="-136" frameWidth="4807" frameHeight="2027" />
+</TextureAtlas>

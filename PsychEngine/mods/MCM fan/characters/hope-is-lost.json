@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				127
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hope_Is_Lost_Sponge idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				127
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "Hope_Is_Lost_Sponge left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				127
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "Hope_Is_Lost_Sponge up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				127
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "Hope_Is_Lost_Sponge right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				127
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "Hope_Is_Lost_Sponge down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Hope_Is_Lost_Sponge",
+	"position": [
+		-200,
+		-130
+	],
+	"healthicon": "hil-sponge",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		153,
+		2
+	],
+	"camera_position": [
+		-10,
+		60
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

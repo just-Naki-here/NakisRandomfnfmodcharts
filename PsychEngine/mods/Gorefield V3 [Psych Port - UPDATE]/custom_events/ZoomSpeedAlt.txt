@@ -1,6 +1,0 @@
-An alternative zoomSpeed thats it
-Value 1: Tween camGame, Tween camHUD
-Like this: 0.04, 0.03 ( This is not the same as the add camera zoom is different)
-Value 2: Speed
-Like this: 1
-

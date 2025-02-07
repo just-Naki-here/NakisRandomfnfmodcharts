@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spongebob.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+  <SubTexture name="down miss instance 10000" x="0" y="0"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="down pose instance 10000" x="523" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="down pose instance 10001" x="523" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="down pose instance 10002" x="0" y="412" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="down pose instance 10003" x="0" y="412" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="down pose instance 10004" x="0" y="412" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="down pose instance 10005" x="0" y="412" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="down pose instance 10006" x="0" y="412" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="down pose instance 10007" x="0" y="412" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="down pose instance 10008" x="0" y="412" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="left miss instance 10000" x="412" y="523"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="left pose instance 10000" x="935" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="left pose instance 10001" x="935" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="left pose instance 10002" x="935" y="523" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="left pose instance 10003" x="935" y="523" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="left pose instance 10004" x="935" y="523" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="left pose instance 10005" x="935" y="523" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="left pose instance 10006" x="935" y="523" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="left pose instance 10007" x="935" y="523" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="left pose instance 10008" x="935" y="523" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="right miss instance 10000" x="1759" y="523" width="411" height="523" rotated="true"  frameX="-2" frameY="-0" frameWidth="532" frameHeight="413"/>
+  <SubTexture name="right pose instance 10000" x="0" y="935" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="right pose instance 10001" x="0" y="935" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="right pose instance 10002" x="412" y="935" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="right pose instance 10003" x="412" y="935" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="right pose instance 10004" x="412" y="935" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="right pose instance 10005" x="412" y="935" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="right pose instance 10006" x="412" y="935" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="right pose instance 10007" x="412" y="935" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="right pose instance 10008" x="412" y="935" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="right pose instance 10009" x="412" y="935" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10000" x="824" y="1046"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10001" x="824" y="1046"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10002" x="1347" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10003" x="1347" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10004" x="1347" y="523" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10005" x="1347" y="523" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10006" x="1347" y="1046" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10007" x="1347" y="1046" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10008" x="0" y="1458"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10009" x="0" y="1458"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10010" x="523" y="1458"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10011" x="523" y="1458"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10012" x="523" y="1458"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10013" x="523" y="1458"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="spong idle instance 10014" x="523" y="1458"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="up miss instance 10000" x="1046" y="1569"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="up pose instance 10000" x="1569" y="1569"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="up pose instance 10001" x="1569" y="1569"  width="523" height="412" frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="up pose instance 10002" x="1759" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="up pose instance 10003" x="1759" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="up pose instance 10004" x="1759" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="up pose instance 10005" x="1759" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="up pose instance 10006" x="1759" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="up pose instance 10007" x="1759" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+  <SubTexture name="up pose instance 10008" x="1759" y="0" width="412" height="523" rotated="true"  frameX="-0" frameY="-0" frameWidth="523" frameHeight="412"/>
+</TextureAtlas>

@@ -1,2 +1,0 @@
-Value 1: true or false
-Value 2: Timer 

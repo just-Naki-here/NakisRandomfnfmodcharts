@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BlossomRight"
+		},
+		{
+			"offsets": [
+				70,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftBlossom"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BlossomUp",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleBlossom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				796,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownBlossom"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Blossom",
+	"position": [
+		0,
+		-210
+	],
+	"healthicon": "ppg",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		97,
+		111
+	],
+	"camera_position": [
+		70,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 0.84,
+	"_editor_isPlayer": false
+}

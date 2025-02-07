@@ -1,0 +1,16 @@
+function formatTime(millisecond)
+    local seconds = math.floor(millisecond / 1000)
+
+    return string.format("%01d:%02d", (seconds / 60) % 60, seconds % 60)  
+end
+
+function onUpdatePost(elapsed)
+    setTextString('timeTxt', formatTime(getSongPosition() - noteOffset) .. ' / ' .. '2:51')
+end
+scale = 0
+function onCreatePost()
+setProperty('timeBar.scale.x',scale)
+setProperty('timeBarBG.scale.x',scale)
+setProperty('timeBar.scale.y',scale)
+setProperty('timeBarBG.scale.y',scale)
+end

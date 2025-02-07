@@ -1,0 +1,116 @@
+local allowCountdown = false
+function onStartCountdown()
+    if not allowCountdown then
+        return Function_Stop
+    end
+    if allowCountdown then
+        return Function_Continue
+    end
+    return Function_Continue;
+end
+
+function onCreate()
+--setProperty('playbackRate', 0)
+
+end
+local fgi = 2
+local iii = 0
+local x = 0
+d = 0
+function onCreatePost()
+f = getProperty('healthGain')
+startCountdown()
+
+end
+function onUpdate()
+if f == 0 then
+i = 0.1
+ii = -0.05
+end
+if f > 0 then
+i = 0.5
+ii = -0.5
+end
+health = getProperty('health')
+if iii == 0 then
+if keyJustPressed('LEFT') then
+fgi = fgi - 1
+--playSound('scroll_Test');
+end
+if keyJustPressed('RIGHT') then
+fgi = fgi + 1
+--playSound('scroll_Test');
+end
+
+if keyJustPressed('UP') then
+y = y + 1
+--playSound('scroll_Test');
+end
+
+if keyJustPressed('DOWN') then
+
+iii = 1
+playSound('scroll_Test');
+
+--setProperty('canPause', true)
+--setProperty('playbackRate', 1)
+allowCountdown = true
+        startCountdown();
+end
+if keyJustPressed('ENTER') then
+fgi = fgi + 1
+--playSound('scroll_Test');
+end
+end
+if fgi == 1 then
+difficulties = 'easy'
+
+setProperty('healthGain', f+i)
+
+end
+
+if x > - 500 and iii == 1 then
+x = x + 5 - d
+d = d + 1
+
+end
+
+if fgi == 2 then
+difficulties = 'normal'
+veryhard = 0
+setProperty('healthGain', f)
+end
+
+if fgi == 3 then
+difficulties = 'hard'
+veryhard = true
+setProperty('healthGain', f-ii)
+end
+
+if fgi > 3 then
+fgi = 3
+end
+
+if fgi < 1 then
+fgi = 1
+end
+
+makeLuaText('sub4333', difficulties, 0, x+80, 0)
+	setTextSize('sub4333', 52.5);
+	setObjectCamera('sub4333', 'other')
+	addLuaText('sub4333')
+	setTextAlignment('sub4333', 'center')
+	setObjectOrder('sub4333', 99999)
+	
+	makeLuaText('sub14333', '<--->\nPress down', 0, x, 50)
+	setTextSize('sub14333', 52.5);
+	setObjectCamera('sub14333', 'other')
+	addLuaText('sub14333')
+	setObjectOrder('sub14333', 99999)
+	
+	-- makeLuaText('sub124333', getProperty('healthGain'), 0, x, 100)
+	-- setTextSize('sub124333', 52.5);
+	-- setObjectCamera('sub124333', 'other')
+	-- addLuaText('sub124333')
+	-- setObjectOrder('sub124333', 99999)
+end

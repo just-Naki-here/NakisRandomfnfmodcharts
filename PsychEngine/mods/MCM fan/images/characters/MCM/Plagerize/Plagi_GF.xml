@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Plagi_GF.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fruitygfdance0000" x="23" y="23" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0001" x="23" y="23" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0002" x="834" y="23" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0003" x="834" y="23" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0004" x="1645" y="23" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0005" x="1645" y="23" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0006" x="2456" y="23" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0007" x="2456" y="23" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0008" x="3267" y="23" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0009" x="3267" y="23" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0010" x="23" y="906" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0011" x="23" y="906" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0012" x="834" y="906" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0013" x="834" y="906" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0014" x="1645" y="906" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0015" x="1645" y="906" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0016" x="2456" y="906" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0017" x="2456" y="906" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0018" x="3267" y="906" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0019" x="3267" y="906" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0020" x="23" y="1789" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0021" x="23" y="1789" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0022" x="834" y="1789" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0023" x="834" y="1789" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0024" x="1645" y="1789" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0025" x="1645" y="1789" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0026" x="2456" y="1789" width="799" height="871"/>
+	<SubTexture name="fruitygfdance0027" x="2456" y="1789" width="799" height="871"/>
+</TextureAtlas>

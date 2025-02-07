@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sky.png"><SubTexture name="sky dance0000" x="3075" y="0" width="1845" height="1055" frameX="-1148" frameY="-400" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0001" x="3075" y="0" width="1845" height="1055" frameX="-1148" frameY="-400" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0002" x="0" y="2951" width="1845" height="1054" frameX="-1061" frameY="-371" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0003" x="0" y="2951" width="1845" height="1054" frameX="-1061" frameY="-371" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0004" x="1845" y="2951" width="1845" height="1054" frameX="-980" frameY="-342" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0005" x="1845" y="2951" width="1845" height="1054" frameX="-980" frameY="-342" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0006" x="4920" y="0" width="1844" height="1054" frameX="-1363" frameY="-471" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0007" x="4920" y="0" width="1844" height="1054" frameX="-1363" frameY="-471" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0008" x="3075" y="1055" width="1845" height="1055" frameX="-1165" frameY="-402" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0009" x="3075" y="1055" width="1845" height="1055" frameX="-1165" frameY="-402" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0010" x="0" y="4005" width="1845" height="1054" frameX="-1078" frameY="-372" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0011" x="0" y="4005" width="1845" height="1054" frameX="-1078" frameY="-372" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0012" x="1845" y="4005" width="1845" height="1054" frameX="-990" frameY="-341" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0013" x="1845" y="4005" width="1845" height="1054" frameX="-990" frameY="-341" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0014" x="3690" y="4005" width="1845" height="1054" frameX="-876" frameY="-301" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0015" x="3690" y="4005" width="1845" height="1054" frameX="-876" frameY="-301" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0016" x="0" y="1476" width="3075" height="1475" frameX="-166" frameY="-58" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0017" x="0" y="1476" width="3075" height="1475" frameX="-166" frameY="-58" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0018" x="0" y="0" width="3075" height="1476" frameX="0" frameY="0" frameWidth="3241" frameHeight="1533" />
+<SubTexture name="sky dance0019" x="0" y="0" width="3075" height="1476" frameX="0" frameY="0" frameWidth="3241" frameHeight="1533" />
+</TextureAtlas>

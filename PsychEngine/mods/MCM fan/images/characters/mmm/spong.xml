@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spong.png"><SubTexture name="spong singDOWN0000" x="0" y="1117" width="311" height="327" frameX="0" frameY="0" frameWidth="311" frameHeight="327" />
+<SubTexture name="spong singDOWN0001" x="311" y="1117" width="311" height="327" frameX="0" frameY="0" frameWidth="311" frameHeight="327" />
+<SubTexture name="spong singDOWN0002" x="622" y="1117" width="311" height="327" frameX="0" frameY="0" frameWidth="311" frameHeight="327" />
+<SubTexture name="spong idle0000" x="361" y="768" width="207" height="340" frameX="0" frameY="0" frameWidth="207" frameHeight="340" />
+<SubTexture name="spong idle0001" x="1424" y="333" width="207" height="328" frameX="0" frameY="0" frameWidth="207" frameHeight="328" />
+<SubTexture name="spong idle0002" x="1217" y="0" width="207" height="334" frameX="0" frameY="0" frameWidth="207" frameHeight="334" />
+<SubTexture name="spong idle0003" x="884" y="768" width="207" height="335" frameX="0" frameY="0" frameWidth="207" frameHeight="335" />
+<SubTexture name="spong singLEFT0000" x="568" y="768" width="316" height="337" frameX="0" frameY="0" frameWidth="316" frameHeight="337" />
+<SubTexture name="spong singLEFT0001" x="1424" y="0" width="301" height="333" frameX="0" frameY="0" frameWidth="301" frameHeight="333" />
+<SubTexture name="spong singLEFT0002" x="860" y="353" width="289" height="341" frameX="0" frameY="0" frameWidth="289" frameHeight="341" />
+<SubTexture name="spong singRIGHT0000" x="0" y="768" width="361" height="349" frameX="0" frameY="0" frameWidth="361" frameHeight="349" />
+<SubTexture name="spong singRIGHT0001" x="860" y="0" width="357" height="353" frameX="0" frameY="0" frameWidth="357" frameHeight="353" />
+<SubTexture name="spong singRIGHT0002" x="430" y="389" width="355" height="355" frameX="0" frameY="0" frameWidth="355" frameHeight="355" />
+<SubTexture name="spong singUP0000" x="0" y="0" width="430" height="389" frameX="0" frameY="0" frameWidth="430" frameHeight="389" />
+<SubTexture name="spong singUP0001" x="430" y="0" width="430" height="385" frameX="0" frameY="0" frameWidth="430" frameHeight="385" />
+<SubTexture name="spong singUP0002" x="0" y="389" width="430" height="379" frameX="0" frameY="0" frameWidth="430" frameHeight="379" />
+</TextureAtlas>

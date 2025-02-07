@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="intro1.png" width="1728" height="1440">
+  <SubTexture name="scene0011" x="0" y="0"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0000" x="0" y="240"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0002" x="432" y="0"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0003" x="432" y="240"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0004" x="0" y="480"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0005" x="432" y="480"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0006" x="0" y="720"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0007" x="432" y="720"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0008" x="864" y="0"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0009" x="864" y="240"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0010" x="864" y="480"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0001" x="864" y="720"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0012" x="0" y="960"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0013" x="432" y="960"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0014" x="864" y="960"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0015" x="0" y="1200"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0016" x="432" y="1200"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0017" x="864" y="1200"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0018" x="1296" y="0"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0019" x="1296" y="240"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0020" x="1296" y="480"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0021" x="1296" y="720"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene0022" x="1296" y="960"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+</TextureAtlas>

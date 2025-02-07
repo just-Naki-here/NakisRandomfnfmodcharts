@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="name.png">
+    <SubTexture
+        name="hbfnname doors2"
+        x="0"
+        y="0"
+        width="865"
+        height="718"
+        frameX="0"
+        frameY="0"
+        frameWidth="500"
+        frameHeight="500" />
+    <SubTexture
+        name="hbfnname doors3"
+        x="865"
+        y="0"
+        width="864"
+        height="716"
+        frameX="0"
+        frameY="0"
+        frameWidth="500"
+        frameHeight="500" />
+    <SubTexture
+        name="hbfnname doors1"
+        x="865"
+        y="716"
+        width="862"
+        height="714"
+        frameX="0"
+        frameY="0"
+        frameWidth="500"
+        frameHeight="500" />
+    <SubTexture
+        name="hbfnname doors"
+        x="0"
+        y="718"
+        width="862"
+        height="713"
+        frameX="0"
+        frameY="0"
+        frameWidth="500"
+        frameHeight="500" />
+</TextureAtlas>

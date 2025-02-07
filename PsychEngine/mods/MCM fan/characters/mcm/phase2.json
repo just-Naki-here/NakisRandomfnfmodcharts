@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "phase2 idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "phase2 left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "phase2 down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "phase2 up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "phase2 right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mcm/phase2",
+	"position": [
+		-130,
+		-280
+	],
+	"healthicon": "squidward2",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		157,
+		121
+	],
+	"camera_position": [
+		130,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

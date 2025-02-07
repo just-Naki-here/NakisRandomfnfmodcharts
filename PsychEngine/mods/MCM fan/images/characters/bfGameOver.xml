@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfGameOver.png">
+<SubTexture name="bfGameOver idle dance0000" x="0" y="2332" width="430" height="458" frameX="-478" frameY="-262" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver idle dance0001" x="2517" y="1455" width="435" height="473" frameX="-482" frameY="-247" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver idle dance0002" x="2517" y="493" width="441" height="484" frameX="-489" frameY="-236" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver idle dance0003" x="2517" y="0" width="446" height="493" frameX="-495" frameY="-227" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver idle dance0004" x="1252" y="1315" width="451" height="507" frameX="-498" frameY="-213" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver right0000" x="0" y="1833" width="438" height="499" frameX="-504" frameY="-221" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver right0001" x="438" y="1833" width="450" height="499" frameX="-511" frameY="-221" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver right0002" x="888" y="1833" width="460" height="499" frameX="-507" frameY="-221" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver down0000" x="409" y="1315" width="413" height="509" frameX="-495" frameY="-211" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver down0001" x="1348" y="1833" width="428" height="499" frameX="-491" frameY="-221" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver down0002" x="2517" y="977" width="434" height="478" frameX="-482" frameY="-241" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver up0000" x="822" y="1315" width="430" height="508" frameX="-496" frameY="-212" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver up0001" x="0" y="1315" width="409" height="518" frameX="-501" frameY="-202" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver up0002" x="1666" y="580" width="383" height="531" frameX="-508" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver left0000" x="1776" y="1833" width="399" height="495" frameX="-497" frameY="-225" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver left0001" x="2119" y="0" width="398" height="505" frameX="-494" frameY="-215" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver left0002" x="1703" y="1315" width="395" height="506" frameX="-487" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver miss0000" x="570" y="662" width="372" height="580" frameX="-498" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver miss0001" x="942" y="662" width="403" height="580" frameX="-484" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver miss0002" x="1666" y="0" width="453" height="580" frameX="-462" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver miss0003" x="942" y="662" width="403" height="580" frameX="-484" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver miss0004" x="570" y="662" width="372" height="580" frameX="-498" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver death0000" x="0" y="0" width="574" height="662" frameX="-354" frameY="-58" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver death0001" x="1119" y="0" width="547" height="658" frameX="-363" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver death0002" x="0" y="0" width="574" height="662" frameX="-354" frameY="-58" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver death0003" x="1119" y="0" width="547" height="658" frameX="-363" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver confirm0000" x="574" y="0" width="545" height="660" frameX="-354" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver confirm0001" x="0" y="662" width="570" height="653" frameX="-341" frameY="-67" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfGameOver confirm0002" x="574" y="0" width="545" height="660" frameX="-354" frameY="-60" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

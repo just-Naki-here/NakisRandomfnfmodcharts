@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gf_full"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MCM/gf_mcm",
+	"position": [
+		90,
+		40
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-320,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

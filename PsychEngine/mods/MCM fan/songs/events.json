@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				117791.411042945,
+				[
+					[
+						"Flash Camera",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				117795.245398773,
+				[
+					[
+						"Change Character",
+						"2",
+						"cringepat"
+					]
+				]
+			],
+			[
+				117799.079754601,
+				[
+					[
+						"Change Character",
+						"1",
+						"megamind2 electric boogaloo"
+					]
+				]
+			],
+			[
+				117799.942484662,
+				[
+					[
+						"Change Character",
+						"0",
+						"mrkrabs"
+					]
+				]
+			]
+		]
+	}
+}

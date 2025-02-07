@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "PatDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				391,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "PatLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				439,
+				365
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "PatUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				152
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "PatRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				90
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "PatIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LeatherfacePat",
+	"position": [
+		210,
+		220
+	],
+	"healthicon": "leather",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		151,
+		153
+	],
+	"camera_position": [
+		-360,
+		-220
+	],
+	"sing_duration": 3,
+	"scale": 1.4
+}

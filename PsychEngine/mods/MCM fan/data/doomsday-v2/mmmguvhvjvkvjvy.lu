@@ -1,0 +1,146 @@
+function onEndSong()
+    saveFile(currentModDirectory..'/weeks/marWeek.json', [[{
+        "storyName": "Your New Week",
+        "difficulties": "hard",
+        "hideFreeplay": false,
+        "weekBackground": "stage",
+        "weekBefore": "tutorial",
+        "freeplayColor": [
+            146,
+            113,
+            253
+        ],
+        "startUnlocked": true,
+        "hideStoryMode": true,
+        "songs": [
+            ["Humiliation old", "squidward", [103, 174, 175]],["Humiliation", "squidward", [103, 174, 175]],
+		["Mist mmm", "lolward", [105, 157, 121]],
+		["Mist old", "lolward", [105, 157, 121]],	["Mist", "lolward", [105, 157, 121]],
+		["doomsday old", "icon-sadward", [171, 186, 183]],	
+			["doomsday", "darkward", [171, 186, 183]],
+			["doomsday new", "darkward", [171, 186, 183]],
+			["doomsday new at", "darkward", [171, 186, 183]],
+			["Sanguilacrimae old", "canonsquiddy", [182, 203, 194]],
+			["Sanguilacrimae", "canonsquiddy", [182, 203, 194]],
+			["Cannibalism test", "rckr", [130, 6, 24]],["Cannibalism old", "rckr", [130, 6, 24]],
+			["Cannibalism", "rckr", [130, 6, 24]],["Cannibalism midi", "rckr", [130, 6, 24]],
+			["Served old", "plankton", [63, 92, 93]],["Served no", "plankton", [63, 92, 93]],["Served", "plankton", [63, 92, 93]],
+			["Satisfaction old", "spongebob", [255, 198, 26]],["Satisfaction no", "spongebob", [255, 198, 26]],["Satisfaction", "spongebob", [255, 198, 26]],
+			["Dehydrated old", "driedup", [181, 149, 26]],
+			["Dehydrated", "driedup", [181, 149, 26]],["Dumped mmm", "icon_sponge", [60, 83, 47]],["Dumped old", "icon_sponge", [60, 83, 47]],["Dumped", "bootleg", [60, 83, 47]],["Dumped midi", "bootleg", [60, 83, 47]],["Propaganda old", "reagan", [116, 79, 77]],["Propaganda", "reagan", [116, 79, 77]],["Tortured old", "TP", [10, 10, 10]],["Tortured", "TP", [10, 10, 10]],["Tortured Fg", "TP", [10, 10, 10]],["Plagerize test", "fred", [116, 79, 77]],["Plagerize", "fred", [116, 79, 77]],["Plagerize midi", "fred", [116, 79, 77]],["Plagerize new", "fred", [116, 79, 77]],
+			["Bold or Brash", "starved", [0, 0, 255]],
+["Darnell Wet Fart", "starved", [0, 0, 255]],
+		["dead hope", "faceless", [197, 48, 47]],
+		["he gets ya old", "slinger", [63, 92,93]],["he gets ya", "slinger", [63, 92,93]],
+		["massacre", "leather", [166, 135, 133]],
+		["Joe Mama", "joe", [105, 157, 121]],
+		[
+			"road rage",
+			"bob",
+			[
+				226,
+				233,
+				35
+			]
+		],
+		["inksplot", "ink-squid", [10, 10, 10]],["Last meal", "starvedd", [0, 0, 255]],	
+		[
+			"Deadly Reflection",
+			"icon_sponge",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"baked",
+			"Slendybob",
+			[
+				163,
+				138,
+				108
+			]
+		],["final night", "icon-robot-squid", [181, 149, 26]],
+	[
+			"Datamine",
+			"yummer",
+			[
+				163,
+				138,
+				108
+			]
+		],
+		[
+			"Insert Soul",
+			"inky",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"judgement day",
+			"lolward",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"misery",
+			"squidward",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"misery-new",
+			"squidward",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Delusional",
+			"sadward",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Unpoppable",
+			"icon-sponge",
+			[
+				140,
+				140,
+				60
+			]
+		],
+			[
+			"Delivery",
+			"pamtrispong",
+			[
+				255,
+				255,
+				255
+			]
+		]
+        ],
+        "weekCharacters": [
+            "dad",
+            "bf",
+            "gf"
+        ],
+        "hiddenUntilUnlocked": false,
+        "weekName": "mario kills you and you die"
+  }]], false)
+end

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "phase2alt idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "phase2alt left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "phase2alt right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "phase2alt down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "phase2alt up"
+		},
+		{
+			"offsets": [
+				171,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fire",
+			"indices": [],
+			"name": "phase2alt shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squidy-alt",
+	"position": [
+		10,
+		-230
+	],
+	"healthicon": "squidward2",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		157,
+		121
+	],
+	"camera_position": [
+		130,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

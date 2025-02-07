@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "Yummer Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "Yummer Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "Yummer Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "Yummer Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "Yummer Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yummer2",
+	"position": [
+		-400,
+		-480
+	],
+	"healthicon": "yummer",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		175,
+		135
+	],
+	"camera_position": [
+		410,
+		530
+	],
+	"sing_duration": 4,
+	"scale": 0.43
+}

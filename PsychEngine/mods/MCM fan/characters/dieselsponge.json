@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "spongebob idle instance"
+		},
+		{
+			"offsets": [
+				26,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spongebob left instance"
+		},
+		{
+			"offsets": [
+				0,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spongebob down instance"
+		},
+		{
+			"offsets": [
+				12,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spongebob up instance"
+		},
+		{
+			"offsets": [
+				-1,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spongebob right instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xomlet",
+	"position": [
+		-1000,
+		170
+	],
+	"healthicon": "road_rage",
+	"flip_x": true,
+	"healthbar_colors": [
+		238,
+		247,
+		56
+	],
+	"camera_position": [
+		-500,
+		-130
+	],
+	"sing_duration": 2.80000000000001,
+	"scale": 1
+}

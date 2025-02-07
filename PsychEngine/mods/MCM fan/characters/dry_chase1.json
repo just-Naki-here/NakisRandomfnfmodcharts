@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 60,
+			"name": " idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 60,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 60,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 60,
+			"name": " up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 60,
+			"name": " right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/largespritesheets/DrySpongeTop",
+	"position": [
+		-590,
+		-300
+	],
+	"healthicon": "driedup",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		155,
+		48
+	],
+	"camera_position": [
+		-882,
+		-352
+	],
+	"sing_duration": 8,
+	"scale": 1.25
+}

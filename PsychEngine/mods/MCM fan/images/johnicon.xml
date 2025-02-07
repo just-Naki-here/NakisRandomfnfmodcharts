@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="johnicon.png">
+<SubTexture name="johnicon danceLeft0000" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0001" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0002" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0003" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0004" x="78" y="31" width="39" height="30" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0005" x="0" y="0" width="39" height="35" frameX="0" frameY="0" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0006" x="0" y="35" width="40" height="31" frameX="0" frameY="-4" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0007" x="0" y="0" width="39" height="35" frameX="0" frameY="0" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0008" x="0" y="35" width="40" height="31" frameX="0" frameY="-4" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0009" x="78" y="31" width="39" height="30" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0010" x="78" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0011" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceLeft0012" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0000" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0001" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0002" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0003" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0004" x="0" y="66" width="39" height="30" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0005" x="39" y="0" width="39" height="35" frameX="-1" frameY="0" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0006" x="78" y="0" width="40" height="31" frameX="0" frameY="-4" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0007" x="39" y="0" width="39" height="35" frameX="-1" frameY="0" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0008" x="78" y="0" width="40" height="31" frameX="0" frameY="-4" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0009" x="0" y="66" width="39" height="30" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0010" x="118" y="0" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0011" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+<SubTexture name="johnicon danceRight0012" x="39" y="66" width="39" height="29" frameX="0" frameY="-5" frameWidth="40" frameHeight="35" />
+</TextureAtlas>

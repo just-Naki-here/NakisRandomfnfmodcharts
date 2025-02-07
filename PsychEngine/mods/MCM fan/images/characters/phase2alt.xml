@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phase2alt.png">
+    <SubTexture
+        name="phase2alt idle0000"
+        x="0"
+        y="0"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt idle0001"
+        x="606.6"
+        y="0"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt idle0002"
+        x="1213.2"
+        y="0"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt idle0003"
+        x="1819.8"
+        y="0"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt up0000"
+        x="2426.4"
+        y="0"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt up0001"
+        x="0"
+        y="999.9"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt up0002"
+        x="606.6"
+        y="999.9"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt right0000"
+        x="1213.2"
+        y="999.9"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt right0001"
+        x="1819.8"
+        y="999.9"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt right0002"
+        x="2426.4"
+        y="999.9"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt left0000"
+        x="0"
+        y="1999.8"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt left0001"
+        x="606.6"
+        y="1999.8"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt left0002"
+        x="1213.2"
+        y="1999.8"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt down0000"
+        x="1819.8"
+        y="1999.8"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt down0001"
+        x="2426.4"
+        y="1999.8"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt down0002"
+        x="0"
+        y="2999.7"
+        width="606.6"
+        height="999.9"
+        frameX="0"
+        frameY="0"
+        frameWidth="606.6"
+        frameHeight="999.9" />
+    <SubTexture
+        name="phase2alt shoot0000"
+        x="606.6"
+        y="2999.7"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0001"
+        x="2184.4"
+        y="2999.7"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0002"
+        x="3286.2"
+        y="2999.7"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0003"
+        x="4388.0"
+        y="2999.7"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0004"
+        x="0"
+        y="3899.8"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0005"
+        x="1329.9"
+        y="3899.8"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0006"
+        x="2659.8"
+        y="3899.8"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0007"
+        x="3989.6"
+        y="3899.8"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0008"
+        x="5320.5"
+        y="3899.8"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0009"
+        x="0"
+        y="4909.7"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0010"
+        x="1329.9"
+        y="4909.7"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0011"
+        x="2659.8"
+        y="4909.7"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0012"
+        x="3989.6"
+        y="4909.7"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0013"
+        x="5320.5"
+        y="4909.7"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+    <SubTexture
+        name="phase2alt shoot0014"
+        x="0"
+        y="5816.8"
+        width="1477.8"
+        height="908.1"
+        frameX="0"
+        frameY="0"
+        frameWidth="1477.8"
+        frameHeight="908.1" />
+</TextureAtlas>

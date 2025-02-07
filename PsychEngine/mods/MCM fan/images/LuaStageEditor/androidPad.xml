@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="virtualpad.png">
+
+	<SubTexture name="left000" x="0" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="left001" x="132" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="left002" x="264" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="left1" x="0" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="left2" x="264" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="down000" x="396" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="down001" x="528" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="down002" x="660" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="down1" x="396" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="down2" x="660" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="up000" x="792" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="up001" x="924" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="up002" x="1056" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="up1" x="792" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="up2" x="1056" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="right000" x="1188" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="right001" x="1320" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="right002" x="1452" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="right1" x="1188" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="right2" x="1452" y="0" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="a000" x="0" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="a001" x="132" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="a002" x="264" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="a1" x="0" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="a2" x="264" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="b000" x="396" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="b001" x="528" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="b002" x="660" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="b1" x="396" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="b2" x="660" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="c" x="792" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="c1" x="792" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="c2" x="1056" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="d" x="1188" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="d1" x="1188" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="d2" x="1452" y="127" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="e" x="0" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="e1" x="0" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="e2" x="264" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="f" x="396" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="f1" x="396" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="f2" x="660" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="g" x="792" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="g1" x="792" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="g2" x="1056" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="s" x="1188" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="s1" x="1188" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="s2" x="1452" y="254" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="v" x="0" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="v1" x="0" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="v2" x="264" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="x" x="396" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="x1" x="396" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="x2" x="660" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="y" x="792" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="y1" x="792" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="y2" x="1056" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+	<SubTexture name="z" x="1188" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="z1" x="1188" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	<SubTexture name="z2" x="1452" y="381" width="132" height="127" frameX="0" frameY="0" frameWidth="132" frameHeight="127"/>
+	
+</TextureAtlas>

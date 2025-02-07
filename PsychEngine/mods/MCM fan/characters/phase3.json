@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ph",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Phase3LEFT"
+		},
+		{
+			"offsets": [
+				-98,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Phase3DOWN"
+		},
+		{
+			"offsets": [
+				-71,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Phase3UP"
+		},
+		{
+			"offsets": [
+				-101,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Phase3RIGHT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/phase3_sprites",
+	"position": [
+		-70,
+		-40
+	],
+	"healthicon": "sadward",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		114,
+		133
+	],
+	"camera_position": [
+		130,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

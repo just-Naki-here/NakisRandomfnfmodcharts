@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Soul_Keeper_Monster.png">
+<SubTexture name="Soul_Keeper_Monster down0000" x="0" y="0" width="320" height="810" frameX="-353" frameY="-208" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster down0001" x="320" y="0" width="320" height="826" frameX="-353" frameY="-192" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster down0002" x="640" y="0" width="320" height="835" frameX="-353" frameY="-183" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster idle0000" x="960" y="0" width="320" height="846" frameX="-353" frameY="-173" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster left0000" x="1280" y="0" width="340" height="846" frameX="-350" frameY="-173" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster left0001" x="0" y="846" width="328" height="846" frameX="-351" frameY="-173" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster left0002" x="328" y="846" width="321" height="846" frameX="-352" frameY="-173" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster right0000" x="649" y="846" width="402" height="846" frameX="-287" frameY="-173" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster right0001" x="1051" y="846" width="361" height="846" frameX="-314" frameY="-173" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster right0002" x="1412" y="846" width="337" height="846" frameX="-337" frameY="-173" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster up0000" x="0" y="1692" width="320" height="871" frameX="-353" frameY="-150" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster up0001" x="320" y="1692" width="320" height="861" frameX="-353" frameY="-159" frameWidth="1000" frameHeight="1142" />
+<SubTexture name="Soul_Keeper_Monster up0002" x="640" y="1692" width="320" height="856" frameX="-353" frameY="-163" frameWidth="1000" frameHeight="1142" />
+</TextureAtlas>

@@ -1,0 +1,27 @@
+{
+	"song": {
+		"sectionLengths": [],
+		"player1": "gf-no",
+		"events": [],
+		"gfVersion": "gf-no",
+		"player2": "gf-no",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"bpm": 120,
+				"mustHitSection": false,
+				"changeBPM": true
+			}
+		],
+		"player3": null,
+		"song": "Special-offer",
+		"stage": "freeplay",
+		"validScore": true,
+		"sections": 0,
+		"needsVoices": true,
+		"speed": 3,
+		"bpm": 120
+	}
+}

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Apat.png">
+<SubTexture name="Apat idle0000" x="1697" y="1429" width="492" height="644" frameX="-132" frameY="-136" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat idle0001" x="1697" y="1429" width="492" height="644" frameX="-132" frameY="-136" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat idle0002" x="1209" y="1429" width="488" height="660" frameX="-135" frameY="-120" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat idle0003" x="1209" y="1429" width="488" height="660" frameX="-135" frameY="-120" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat idle0004" x="965" y="0" width="477" height="708" frameX="-140" frameY="-72" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat idle0005" x="965" y="0" width="477" height="708" frameX="-140" frameY="-72" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat idle0006" x="479" y="723" width="476" height="692" frameX="-140" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat idle0007" x="479" y="723" width="476" height="692" frameX="-140" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat right0000" x="1442" y="0" width="599" height="692" frameX="-31" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat right0001" x="1442" y="0" width="599" height="692" frameX="-31" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat right0002" x="1442" y="692" width="596" height="692" frameX="-28" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat right0003" x="1442" y="692" width="596" height="692" frameX="-28" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat right0004" x="2041" y="0" width="600" height="692" frameX="-24" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat right0005" x="2041" y="0" width="600" height="692" frameX="-24" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat down0000" x="2641" y="616" width="458" height="591" frameX="-149" frameY="-189" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat down0001" x="2641" y="616" width="458" height="591" frameX="-149" frameY="-189" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat down0002" x="2641" y="0" width="463" height="616" frameX="-146" frameY="-164" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat down0003" x="2641" y="0" width="463" height="616" frameX="-146" frameY="-164" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat down0004" x="955" y="723" width="465" height="642" frameX="-145" frameY="-138" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat down0005" x="955" y="723" width="465" height="642" frameX="-145" frameY="-138" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat left0000" x="2041" y="692" width="593" height="692" frameX="-129" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat left0001" x="2041" y="692" width="593" height="692" frameX="-129" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat left0002" x="0" y="1429" width="600" height="692" frameX="-129" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat left0003" x="0" y="1429" width="600" height="692" frameX="-129" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat left0004" x="600" y="1429" width="609" height="692" frameX="-130" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat left0005" x="600" y="1429" width="609" height="692" frameX="-130" frameY="-88" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat up0000" x="0" y="0" width="484" height="723" frameX="-136" frameY="-57" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat up0001" x="0" y="0" width="484" height="723" frameX="-136" frameY="-57" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat up0002" x="484" y="0" width="481" height="712" frameX="-138" frameY="-68" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat up0003" x="484" y="0" width="481" height="712" frameX="-138" frameY="-68" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat up0004" x="0" y="723" width="479" height="706" frameX="-139" frameY="-74" frameWidth="768" frameHeight="768" />
+<SubTexture name="Apat up0005" x="0" y="723" width="479" height="706" frameX="-139" frameY="-74" frameWidth="768" frameHeight="768" />
+</TextureAtlas>

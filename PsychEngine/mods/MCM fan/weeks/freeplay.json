@@ -1,0 +1,110 @@
+{
+	"songs": [
+		["Sadness", "icon-squidward", [103, 174, 175]],
+		//["Sadness-Scrapped-Remaster", "icon-squidward", [103, 174, 175]],
+		["Humiliation v2", "icon-squidward", [103, 174, 175]],
+		["Humiliation v3", "newsquidward", [117, 176, 165]],
+		
+		["Mist mmm", "icon-s", [105, 157, 121]],
+		["Mist v1", "lolward", [105, 157, 121]],	
+		["Mist v2", "lolward", [105, 157, 121]],
+		
+		["doomsday v1", "icon-sadward", [171, 186, 183]],
+		["doomsday v2", "darkward", [171, 186, 183]],
+		["doomsday oldv2", "darkward", [171, 186, 183]],
+		["doomsday poproxx Mix", "darkward", [171, 186, 183]],
+		
+		["Sanguilacrimae v1", "canonsquiddy", [182, 203, 194]],
+		["Sanguilacrimae v2", "canonsquiddy", [182, 203, 194]],
+		["Sanguilacrimae v1 v2Voices", "canonsquiddy", [182, 203, 194]],
+		["Sanguilacrimae v2 v1Voices", "canonsquiddy", [182, 203, 194]],
+		["Sanguilacrimae Retake", "canonsquiddy", [182, 203, 194]],
+		
+		["Cannibalism test", "rckr", [130, 6, 24]],
+		["Cannibalism old", "rckr", [130, 6, 24]],
+		["Cannibalism", "rckr", [130, 6, 24]],
+		["Cannibalism midi", "rckr", [130, 6, 24]],
+		
+	    ["Served v1", "plankton", [63, 92, 93]],
+	    ["Serving The Served", "plankton", [63, 92, 93]],
+    	["Served v2", "plankton", [63, 92, 93]],
+       	["Served v3", "Served", [63, 92, 93]],
+       	
+		["Satisfaction old", "spongebob", [255, 198, 26]],
+		["Satisfaction", "spongebob", [255, 198, 26]],
+		
+		["Dehydrated v1", "icon-driedup-old", [181, 149, 26]],
+		["Dehydrated v1 remake", "icon-driedup-old", [181, 149, 26]],
+		["Dehydrated v2", "icon-driedup-old", [181, 149, 26]],
+		["Dehydrated v3", "icon-driedup-old", [181, 149, 26]],
+		["Dehydrated v4", "driedup", [181, 149, 26]],
+		
+		["Dumped oldest", "icon_sponge", [60, 83, 47]],
+		["Devious", "icon_sponge", [60, 83, 47]],
+		["Dumped mmm", "icon-spong", [60, 83, 47]],
+		["Dumped v1", "icon_sponge", [60, 83, 47]],
+		["Deadly Reflection","icon_sponge",[60, 83, 47]],
+		["Deadly Reflection v2","icon_sponge",[60, 83, 47]],
+		["Dumped v2", "bootleg", [60, 83, 47]],
+		["Dumped midi", "bootleg", [60, 83, 47]],
+		
+		["Propaganda old", "reagan", [116, 79, 77]],
+		["Propaganda", "reagan", [116, 79, 77]],
+		
+		["Tortured v1", "TP", [10, 10, 10]],
+		["Tortured v1 remake", "TP", [10, 10, 10]],
+		["Tortured v2", "TP", [10, 10, 10]],
+		["tortured DogeRemake", "TP", [10, 10, 10]],
+		["Tortured Legacy", "TP", [10, 10, 10]],
+		
+		["Plagerize test", "fred", [116, 79, 77]],
+		["Plagerize midi", "fred", [116, 79, 77]],
+		["Plagerize v1", "fred", [116, 79, 77]],
+		["Plagerize v2", "coconut", [116, 79, 77]],
+		
+		["Bold or Brash", "starved", [0, 0, 255]],
+        ["Darnell Wet Fart", "starved", [0, 0, 255]],
+        
+		["dead hope", "faceless", [197, 48, 47]],
+		["dead hope v2", "new-faceless", [197, 48, 47]],
+		
+		["he gets ya", "slinger", [63, 92,93]],
+		["massacre", "leather", [166, 135, 133]],
+		["Joe Mama", "joe", [105, 157, 121]],
+		["inksplot", "ink-squid", [10, 10, 10]],
+		["Last meal", "starvedd", [0, 0, 255]],	
+		["baked","Slendybob",[163,138,108]],
+		["final night", "icon-robot-squid", [181, 149, 26]],
+	    ["Datamine","yummer",[163,138,108]],
+		["Insert Soul","inky",[0,0,0]],
+		["judgement day","lolward",[171, 186, 183]],
+		
+		["ERSATZ","icon-squidward",[103, 174, 175]],
+		["misery v1","icon-s",[103, 174, 175]],
+		["misery old v2","icon-squidward",[103, 174, 175]],
+		["misery v2","icon-squidward",[103, 174, 175]],
+		["Delusional","icon-sadward",[171, 186, 183]],
+		["Delusional old","icon-sadward",[0,0,0]],
+		["Unpoppable","icon-sponge",[140,140,60]],
+		["downfall","icon-hil-sponge",[213,153,2]],
+		["Delivery","delivery",[255,205,56]],
+		["freeplay","",[255,255,255]],
+		//["Special-offer","",[255,255,255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "squid",
+
+	"storyName": "Mistful Crimson Morning",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"difficulties": "hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

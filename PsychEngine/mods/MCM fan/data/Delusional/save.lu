@@ -1,0 +1,34 @@
+function onEndSong()
+    saveFile(currentModDirectory..'/weeks/Delusional.json', [[{
+        "storyName": "Delusional",
+        "difficulties": "hard",
+        "hideFreeplay": false,
+        "weekBackground": "stage",
+        "weekBefore": "tutorial",
+        "freeplayColor": [
+            146,
+            113,
+            253
+        ],
+        "startUnlocked": true,
+        "hideStoryMode": true,
+        "songs": [
+            [
+                "Delusional",
+                "discord",
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ]
+        ],
+        "weekCharacters": [
+            "dad",
+            "bf",
+            "gf"
+        ],
+        "hiddenUntilUnlocked": false,
+        "weekName": "Delusional"
+  }]], false)
+end

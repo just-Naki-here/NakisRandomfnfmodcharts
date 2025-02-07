@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SubTexture name="phase2alt shoot0000" x="674" y="0" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0001" x="2316" y="0" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0002" x="3958" y="0" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0003" x="5600" y="0" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0004" x="0" y="1111" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0005" x="1642" y="1111" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0006" x="3284" y="1111" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0007" x="4926" y="1111" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0008" x="6568" y="1111" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0009" x="0" y="2120" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0010" x="1642" y="2120" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0011" x="3284" y="2120" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0012" x="4926" y="2120" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0013" x="6568" y="2120" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+<SubTexture name="phase2alt shoot0014" x="0" y="3129" width="1642" height="1009" frameX="0" frameY="0" frameWidth="1642" frameHeight="1009" />
+</TextureAtlas>

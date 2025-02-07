@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="efectoSubida.png" width="1898" height="3405">
+  <SubTexture name="subeElCriptoBelit0000" x="0" y="0"  width="1896" height="1135" frameX="-12" frameY="-0" frameWidth="1948" frameHeight="1135"/>
+  <SubTexture name="subeElCriptoBelit0001" x="0" y="1135"  width="1898" height="1135" frameX="-0" frameY="-0" frameWidth="1948" frameHeight="1135"/>
+  <SubTexture name="subeElCriptoBelit0002" x="0" y="2270"  width="1881" height="1135" frameX="-27" frameY="-0" frameWidth="1948" frameHeight="1135"/>
+</TextureAtlas>

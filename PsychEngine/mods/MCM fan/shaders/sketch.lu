@@ -1,0 +1,3 @@
+function onUpdate(elapsed)
+    setShaderFloat("sketch", "iTime", os.clock())
+ end

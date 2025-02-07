@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "screamy anim"
+		},
+		{
+			"offsets": [
+				0,
+				180
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "scream",
+			"indices": [],
+			"name": "up pose scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/served/planky_scream",
+	"position": [
+		130,
+		550
+	],
+	"healthicon": "plankton",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		92,
+		93
+	],
+	"camera_position": [
+		-170,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

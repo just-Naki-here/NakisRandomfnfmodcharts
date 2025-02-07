@@ -1,0 +1,8 @@
+{
+	"name": "mcm v2.5 fan",
+	"description": "",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [161, 161, 161],
+	"discordRPC": "863222024192262205"
+}

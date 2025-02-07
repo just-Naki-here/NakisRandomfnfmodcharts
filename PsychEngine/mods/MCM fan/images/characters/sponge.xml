@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sponge.png">
+<SubTexture name="sponge down0000" x="391" y="501" width="440" height="478" frameX="-201" frameY="-228" frameWidth="822" frameHeight="707" />
+<SubTexture name="sponge down0001" x="391" y="501" width="440" height="478" frameX="-201" frameY="-223" frameWidth="822" frameHeight="707" />
+<SubTexture name="sponge up0000" x="0" y="501" width="391" height="496" frameX="-218" frameY="0" frameWidth="822" frameHeight="707" />
+<SubTexture name="sponge up0001" x="883" y="0" width="391" height="497" frameX="-218" frameY="-6" frameWidth="822" frameHeight="707" />
+<SubTexture name="sponge right0000" x="449" y="0" width="434" height="500" frameX="-367" frameY="-149" frameWidth="822" frameHeight="707" />
+<SubTexture name="sponge right0001" x="449" y="0" width="434" height="500" frameX="-356" frameY="-149" frameWidth="822" frameHeight="707" />
+<SubTexture name="sponge left0000" x="0" y="0" width="449" height="501" frameX="-93" frameY="-143" frameWidth="822" frameHeight="707" />
+<SubTexture name="sponge left0001" x="0" y="0" width="449" height="501" frameX="-105" frameY="-143" frameWidth="822" frameHeight="707" />
+<SubTexture name="sponge idle0000" x="831" y="501" width="423" height="459" frameX="-217" frameY="-167" frameWidth="822" frameHeight="707" />
+</TextureAtlas>

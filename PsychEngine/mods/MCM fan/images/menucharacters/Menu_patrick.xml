@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_patrick.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="patrick-idle0000" x="0" y="0" width="1134" height="975" frameX="-11" frameY="-33" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0001" x="1134" y="0" width="1134" height="975" frameX="-11" frameY="-33" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0002" x="2268" y="0" width="1128" height="950" frameX="-12" frameY="-58" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0003" x="3396" y="0" width="1124" height="950" frameX="-16" frameY="-58" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0004" x="4520" y="0" width="1133" height="1008" frameX="-15" frameY="0" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0005" x="5653" y="0" width="1138" height="1008" frameX="-10" frameY="0" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0006" x="6791" y="0" width="1131" height="973" frameX="-15" frameY="-35" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0007" x="0" y="1008" width="1131" height="973" frameX="-15" frameY="-35" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0008" x="1131" y="1008" width="1146" height="995" frameX="0" frameY="-13" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0009" x="2277" y="1008" width="1142" height="995" frameX="-4" frameY="-13" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0010" x="3419" y="1008" width="1141" height="995" frameX="-5" frameY="-13" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0011" x="4560" y="1008" width="1146" height="995" frameX="0" frameY="-13" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0012" x="5706" y="1008" width="1142" height="995" frameX="-4" frameY="-13" frameWidth="1148" frameHeight="1008"/>
+	<SubTexture name="patrick-idle0013" x="6848" y="1008" width="1141" height="995" frameX="-5" frameY="-13" frameWidth="1148" frameHeight="1008"/>
+</TextureAtlas>

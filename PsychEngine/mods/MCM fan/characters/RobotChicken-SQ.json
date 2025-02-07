@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "vomit",
+			"indices": [],
+			"name": "RobotChicken-SQ Vomit"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "RobotChicken-SQ Pissed"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "RobotChicken-SQ Munching",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/largespritesheets/RobotChicken-SQ",
+	"position": [
+		256,
+		296
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-180,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

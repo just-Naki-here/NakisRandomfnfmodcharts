@@ -1,0 +1,32 @@
+function onCreate()
+	for i = 0, getProperty('unspawnNotes.length')-1 do
+		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'no Note' then
+            setPropertyFromGroup('strumLineNotes',strum,'useRGBShader',false)
+            setPropertyFromGroup('unspawnNotes', i, 'hitHealth', 0);
+            setPropertyFromGroup('unspawnNotes', i, 'missHealth', 0);
+            if fgi == 3 then
+            setPropertyFromGroup('unspawnNotes',i,'texture','note/no_assets')
+            end
+            if fgi == 1 then
+            setPropertyFromGroup('unspawnNotes',i,'texture','note/NOTE_assets')
+            end
+			if getPropertyFromGroup('unspawnNotes', i, 'mustPress') then
+				setPropertyFromGroup('unspawnNotes', i, 'ignoreNote', true);
+			end
+		end
+	end
+end
+
+local healthDrain = 0;
+function goodNoteHit(id, noteData, noteType, isSustainNote)
+	if noteType == 'no Note' then
+		
+	end
+end
+
+function onUpdate(elapsed)
+	
+		health = getProperty('health')
+		
+	
+end

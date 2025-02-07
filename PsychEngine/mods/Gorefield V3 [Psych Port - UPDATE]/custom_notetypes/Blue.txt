@@ -1,7 +1,0 @@
-ignoreNote = true
-lowPriority = true
-hitCausesMiss = true
-missHealth = 0.2
-noteSplashData.texture = "noteSplashes/noteSplashes-none"
-texture = "mechanics/Blue Note"
-rgbShader.enabled = false

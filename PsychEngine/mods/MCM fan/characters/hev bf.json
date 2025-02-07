@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				101,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFleft"
+		},
+		{
+			"offsets": [
+				69,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFdown"
+		},
+		{
+			"offsets": [
+				39,
+				129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFup"
+		},
+		{
+			"offsets": [
+				30,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFrigh"
+		},
+		{
+			"offsets": [
+				103,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BFfailleft"
+		},
+		{
+			"offsets": [
+				72,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BFfaildown"
+		},
+		{
+			"offsets": [
+				44,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BFfailup"
+		},
+		{
+			"offsets": [
+				36,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BFfailright"
+		},
+		{
+			"offsets": [
+				80,
+				570
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "BFpreatack"
+		},
+		{
+			"offsets": [
+				233,
+				369
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "BFatack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				120
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "BFdodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BFhit"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				83
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HeV Boyfriend",
+	"position": [
+		180,
+		430
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

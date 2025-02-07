@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				87
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sponge-bob-road-rage left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				192
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sponge-bob-road-rage up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				102
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sponge-bob-road-rage right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				116
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sponge-bob-road-rage down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				90
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sponge-bob-road-rage idle"
+		},
+		{
+			"offsets": [
+				80,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "honk",
+			"indices": [],
+			"name": "sponge-bob-road-rage honk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sponge-bob-road-rage",
+	"position": [
+		0,
+		-15
+	],
+	"healthicon": "bob",
+	"flip_x": true,
+	"healthbar_colors": [
+		238,
+		247,
+		56
+	],
+	"camera_position": [
+		-410,
+		-80
+	],
+	"sing_duration": 3,
+	"scale": 0.7
+}

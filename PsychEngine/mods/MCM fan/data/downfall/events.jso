@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "",
+		"player1": "bf",
+		"player2": "hope-is-lost",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"karaokelyrics",
+						"1",
+						"HA HA HA HA"
+					]
+				]
+			],
+			[
+				136.363636363636,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_no",
+		"bpm": 110,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Downfall"
+	}
+}

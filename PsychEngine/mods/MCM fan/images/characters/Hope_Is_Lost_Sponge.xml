@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Hope_Is_Lost_Sponge.png">
+<SubTexture name="Hope_Is_Lost_Sponge down0000" x="0" y="0" width="282" height="759" frameX="-343" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge down0001" x="282" y="0" width="282" height="751" frameX="-343" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge down0002" x="564" y="0" width="282" height="743" frameX="-343" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge idle0000" x="482" y="759" width="271" height="736" frameX="-343" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge left0000" x="753" y="759" width="321" height="732" frameX="-327" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge left0001" x="1074" y="759" width="312" height="732" frameX="-332" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge left0002" x="1386" y="759" width="290" height="732" frameX="-336" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge right0000" x="846" y="0" width="529" height="740" frameX="-240" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge right0001" x="1375" y="0" width="511" height="738" frameX="-253" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge right0002" x="0" y="759" width="482" height="738" frameX="-279" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge up0000" x="0" y="1497" width="369" height="711" frameX="-288" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge up0001" x="2198" y="0" width="339" height="717" frameX="-303" frameY="-17" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Hope_Is_Lost_Sponge up0002" x="1886" y="0" width="312" height="722" frameX="-321" frameY="-17" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

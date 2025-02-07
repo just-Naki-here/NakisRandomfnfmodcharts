@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="servedo anim.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="intro anim0000" x="0" y="0" width="323" height="173" frameX="-26" frameY="-104" frameWidth="349" frameHeight="278"/>
+	<SubTexture name="intro anim0001" x="0" y="0" width="323" height="173" frameX="-26" frameY="-104" frameWidth="349" frameHeight="278"/>
+	<SubTexture name="intro anim0002" x="324" y="0" width="323" height="173" frameX="-26" frameY="-104" frameWidth="349" frameHeight="278"/>
+	<SubTexture name="intro anim0003" x="324" y="0" width="323" height="173" frameX="-26" frameY="-104" frameWidth="349" frameHeight="278"/>
+	<SubTexture name="intro anim0004" x="648" y="0" width="324" height="173" frameX="-25" frameY="-105" frameWidth="349" frameHeight="278"/>
+	<SubTexture name="intro anim0005" x="648" y="0" width="324" height="173" frameX="-25" frameY="-105" frameWidth="349" frameHeight="278"/>
+	<SubTexture name="intro anim0006" x="0" y="0" width="323" height="173" frameX="-26" frameY="-104" frameWidth="349" frameHeight="278"/>
+	<SubTexture name="intro anim0007" x="0" y="0" width="323" height="173" frameX="-26" frameY="-104" frameWidth="349" frameHeight="278"/>
+	<SubTexture name="intro anim0008" x="0" y="174" width="291" height="211" frameX="-45" frameY="-50" frameWidth="349" frameHeight="278"/>
+	<SubTexture name="intro anim0009" x="0" y="174" width="291" height="211" frameX="-45" frameY="-50" frameWidth="349" frameHeight="278"/>
+	<SubTexture name="intro anim0010" x="292" y="174" width="254" height="132" frameX="-12" frameY="-10" frameWidth="349" frameHeight="278"/>
+</TextureAtlas>

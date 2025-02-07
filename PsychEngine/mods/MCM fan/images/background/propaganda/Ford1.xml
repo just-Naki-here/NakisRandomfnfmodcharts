@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="ford.png" width="1070" height="896">
+  <SubTexture name="Ford10000" x="765" y="0"  width="305" height="753" frameX="-26" frameY="-12" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10001" x="765" y="0"  width="305" height="753" frameX="-26" frameY="-12" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10002" x="0" y="593" width="757" height="303" rotated="true"  frameX="-26" frameY="-8" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10003" x="0" y="593" width="757" height="303" rotated="true"  frameX="-26" frameY="-8" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10004" x="0" y="295" width="764" height="298" rotated="true"  frameX="-26" frameY="-1" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10005" x="0" y="295" width="764" height="298" rotated="true"  frameX="-26" frameY="-1" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10006" x="0" y="0" width="765" height="295" rotated="true"  frameX="-26" frameY="-0" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10007" x="0" y="0" width="765" height="295" rotated="true"  frameX="-26" frameY="-0" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10008" x="0" y="0" width="765" height="295" rotated="true"  frameX="-26" frameY="-0" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10009" x="0" y="0" width="765" height="295" rotated="true"  frameX="-26" frameY="-0" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10010" x="0" y="0" width="765" height="295" rotated="true"  frameX="-26" frameY="-0" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10011" x="0" y="0" width="765" height="295" rotated="true"  frameX="-26" frameY="-0" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10012" x="0" y="0" width="765" height="295" rotated="true"  frameX="-26" frameY="-0" frameWidth="350" frameHeight="795"/>
+  <SubTexture name="Ford10013" x="0" y="0" width="765" height="295" rotated="true"  frameX="-26" frameY="-0" frameWidth="350" frameHeight="795"/>
+</TextureAtlas>

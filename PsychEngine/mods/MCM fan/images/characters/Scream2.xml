@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Scream2.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Squidward Up0000" x="0" y="0" width="1600" height="1707"/>
+	<SubTexture name="Squidward Up0001" x="1600" y="0" width="1600" height="1707"/>
+	<SubTexture name="Squidward Up0002" x="3200" y="0" width="1600" height="1707"/>
+	<SubTexture name="Squidward Up0003" x="4800" y="0" width="1600" height="1707"/>
+	<SubTexture name="Squidward Up0004" x="6400" y="0" width="1600" height="1707"/>
+</TextureAtlas>

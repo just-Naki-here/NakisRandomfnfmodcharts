@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bubble-Transition.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bubble Transition0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0001" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0002" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0003" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0004" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0005" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0006" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0007" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0008" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0009" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0010" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0011" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0012" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0013" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0014" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0015" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0016" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0017" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0018" x="0" y="3240" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0019" x="0" y="3240" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0020" x="1920" y="3240" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0021" x="3840" y="3240" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0022" x="3840" y="3240" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0023" x="5760" y="3240" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0024" x="5760" y="3240" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0025" x="0" y="4320" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0026" x="0" y="4320" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0027" x="1920" y="4320" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0028" x="3840" y="4320" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0029" x="3840" y="4320" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0030" x="5760" y="4320" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0031" x="5760" y="4320" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0032" x="0" y="5400" width="1920" height="1080"/>
+	<SubTexture name="Bubble Transition0033" x="1920" y="5400" width="1920" height="1080"/>
+</TextureAtlas>

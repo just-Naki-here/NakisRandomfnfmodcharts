@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "squid idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-240
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "squid singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "squid singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-240
+			],
+			"anim": " singUP",
+			"fps": 24,
+			"name": "squid singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-240
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "squid singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-180
+			],
+			"anim": " singRIGHT",
+			"fps": 24,
+			"name": "squid singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-200
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "squid singRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squid",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "s",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		204,
+		198
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2
+}

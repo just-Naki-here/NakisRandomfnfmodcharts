@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="starved_squidward_clarinet.png">
+<SubTexture name="starved_squidward_clarinet down0000" x="1224" y="2079" width="267" height="491" frameX="-376" frameY="-322" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet down0001" x="968" y="2079" width="256" height="508" frameX="-376" frameY="-305" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet down0002" x="728" y="2079" width="240" height="530" frameX="-376" frameY="-283" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet down0003" x="488" y="2079" width="240" height="556" frameX="-376" frameY="-257" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet down0004" x="488" y="2079" width="240" height="556" frameX="-376" frameY="-257" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet down0005" x="488" y="2079" width="240" height="556" frameX="-376" frameY="-257" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet down0006" x="1964" y="636" width="210" height="556" frameX="-380" frameY="-255" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet down0007" x="1738" y="636" width="226" height="624" frameX="-375" frameY="-187" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet down0008" x="364" y="792" width="220" height="637" frameX="-379" frameY="-175" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet idle0000" x="584" y="792" width="220" height="637" frameX="-379" frameY="-175" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet idle0001" x="364" y="792" width="220" height="637" frameX="-379" frameY="-175" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet left0000" x="0" y="1444" width="488" height="635" frameX="-82" frameY="-179" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet left0001" x="488" y="1444" width="474" height="633" frameX="-96" frameY="-181" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet left0002" x="962" y="1444" width="457" height="632" frameX="-111" frameY="-182" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet left0003" x="1738" y="0" width="439" height="636" frameX="-129" frameY="-178" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet left0004" x="1738" y="0" width="439" height="636" frameX="-129" frameY="-178" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet left0005" x="1738" y="0" width="439" height="636" frameX="-129" frameY="-178" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet left0006" x="804" y="792" width="425" height="637" frameX="-142" frameY="-177" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet left0007" x="1229" y="792" width="293" height="637" frameX="-273" frameY="-177" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet left0008" x="364" y="792" width="220" height="637" frameX="-379" frameY="-175" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet right0000" x="1419" y="1444" width="538" height="621" frameX="-433" frameY="-212" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet right0001" x="2177" y="0" width="525" height="620" frameX="-431" frameY="-213" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet right0002" x="2177" y="620" width="518" height="619" frameX="-431" frameY="-214" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet right0003" x="2177" y="1239" width="502" height="618" frameX="-431" frameY="-215" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet right0004" x="2177" y="1239" width="502" height="618" frameX="-431" frameY="-215" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet right0005" x="2177" y="1239" width="502" height="618" frameX="-431" frameY="-215" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet right0006" x="0" y="2079" width="488" height="614" frameX="-427" frameY="-219" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet right0007" x="0" y="792" width="364" height="652" frameX="-423" frameY="-182" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet right0008" x="584" y="792" width="220" height="637" frameX="-379" frameY="-175" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet up0000" x="0" y="0" width="272" height="792" frameX="-361" frameY="-23" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet up0001" x="272" y="0" width="276" height="779" frameX="-349" frameY="-35" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet up0002" x="548" y="0" width="283" height="765" frameX="-335" frameY="-48" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet up0003" x="831" y="0" width="307" height="748" frameX="-307" frameY="-64" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet up0004" x="831" y="0" width="307" height="748" frameX="-307" frameY="-64" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet up0005" x="831" y="0" width="307" height="748" frameX="-307" frameY="-64" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet up0006" x="1138" y="0" width="314" height="707" frameX="-277" frameY="-105" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet up0007" x="1452" y="0" width="286" height="672" frameX="-297" frameY="-140" frameWidth="1000" frameHeight="900" />
+<SubTexture name="starved_squidward_clarinet up0008" x="364" y="792" width="220" height="637" frameX="-379" frameY="-175" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

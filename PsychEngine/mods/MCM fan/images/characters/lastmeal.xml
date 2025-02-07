@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lastmeal.png"><SubTexture name="lastmeal idle0000" x="694" y="574" width="175" height="498" frameX="-552" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0001" x="869" y="574" width="176" height="498" frameX="-551" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0002" x="869" y="574" width="176" height="498" frameX="-551" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0003" x="343" y="574" width="175" height="499" frameX="-552" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0004" x="518" y="574" width="176" height="499" frameX="-551" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0005" x="518" y="574" width="176" height="499" frameX="-551" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0006" x="1045" y="574" width="176" height="498" frameX="-552" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0007" x="1278" y="0" width="176" height="498" frameX="-551" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0008" x="1278" y="0" width="176" height="498" frameX="-551" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0009" x="694" y="574" width="175" height="498" frameX="-552" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0010" x="869" y="574" width="176" height="498" frameX="-551" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0011" x="869" y="574" width="176" height="498" frameX="-551" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0012" x="343" y="574" width="175" height="499" frameX="-552" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0013" x="518" y="574" width="176" height="499" frameX="-551" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0014" x="518" y="574" width="176" height="499" frameX="-551" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal idle0015" x="518" y="574" width="176" height="499" frameX="-551" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal down0000" x="1813" y="0" width="217" height="394" frameX="-556" frameY="-215" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal down0001" x="218" y="1597" width="219" height="384" frameX="-552" frameY="-224" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal down0002" x="437" y="1597" width="218" height="377" frameX="-550" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal down0003" x="655" y="1597" width="223" height="372" frameX="-547" frameY="-235" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal down0004" x="1813" y="394" width="215" height="383" frameX="-550" frameY="-225" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal down0005" x="0" y="1597" width="218" height="390" frameX="-552" frameY="-218" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal up0000" x="945" y="0" width="333" height="558" frameX="-503" frameY="-54" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal up0001" x="315" y="0" width="315" height="568" frameX="-518" frameY="-45" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal up0002" x="0" y="0" width="315" height="574" frameX="-518" frameY="-38" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal up0003" x="630" y="0" width="315" height="568" frameX="-518" frameY="-45" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal up0004" x="0" y="574" width="343" height="546" frameX="-489" frameY="-66" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal right0000" x="1454" y="482" width="354" height="477" frameX="-550" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal right0001" x="0" y="1120" width="345" height="477" frameX="-564" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal right0002" x="704" y="1120" width="352" height="476" frameX="-558" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal right0003" x="0" y="1120" width="345" height="477" frameX="-564" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal left0000" x="1056" y="1120" width="352" height="476" frameX="-312" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal left0001" x="345" y="1120" width="359" height="477" frameX="-307" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal left0002" x="1408" y="1120" width="354" height="476" frameX="-312" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lastmeal left0003" x="1454" y="0" width="359" height="482" frameX="-307" frameY="-142" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

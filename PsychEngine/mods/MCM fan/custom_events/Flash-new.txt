@@ -1,0 +1,6 @@
+Flashes your screen
+
+Value 1: Flash color 
+		(1 - Blue, 2 - White, 3 - Black, 4 - Red)
+Value 2: Flash duration in seconds.
+	 (Recommended: 0.2)
