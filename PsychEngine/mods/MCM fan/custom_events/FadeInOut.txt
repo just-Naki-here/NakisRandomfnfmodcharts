@@ -1,0 +1,4 @@
+value 1: duration of fade
+value 2:
+hud: fades the screen without touching the hud
+other: fades everything

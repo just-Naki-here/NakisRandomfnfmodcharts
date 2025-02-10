@@ -1,0 +1,4 @@
+value 1: pico name
+
+pico names: act2Pico, act3Pico, act4Pico
+pico-player (this is act 5 end pico)

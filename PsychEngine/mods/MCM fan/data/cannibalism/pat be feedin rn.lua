@@ -6,6 +6,7 @@ function onUpdatePost()
         setProperty('iconP2.scale.x', 0.75)
         setProperty('iconP1.scale.y', 0.75)
         setProperty('iconP2.scale.y', 0.75)
+        setPropertyFromClass("openfl.Lib", "application.window.title", "Cannibalism")
         if health >= 1.6 then
         setProperty('iconP2.x', 220)
         end

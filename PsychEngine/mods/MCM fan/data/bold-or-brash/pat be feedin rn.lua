@@ -1,7 +1,7 @@
 function onCreatePost()
 		setObjectOrder('iconP1', getObjectOrder('coolhealthBar')+1)
 		setObjectOrder('iconP2', getObjectOrder('coolhealthBar')+1)
-		
+		setPropertyFromClass("openfl.Lib", "application.window.title", "Bold Or Brash Unfinished")
 	end
 	function onUpdatePost()
 	health = getProperty('health')

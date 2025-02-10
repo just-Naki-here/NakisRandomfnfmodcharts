@@ -1,0 +1,1 @@
+-- This event script is empty because it is handled by tentacleHp.lua in the scripts folder.

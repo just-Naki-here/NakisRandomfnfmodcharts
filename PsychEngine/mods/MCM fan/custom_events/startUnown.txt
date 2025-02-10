@@ -1,0 +1,4 @@
+Start Typing Event
+Value 1: Word to type (leave blank for random)
+Value 2: Timer for event (10 = default)
+Set random word list in the script

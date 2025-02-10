@@ -1,0 +1,1 @@
+-- This event script is empty because it is handled by emotionMechanic.lua in the scripts folder.

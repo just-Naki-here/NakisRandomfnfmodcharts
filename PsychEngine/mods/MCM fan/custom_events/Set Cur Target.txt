@@ -1,0 +1,6 @@
+Needs cameraMoviment script to work.
+
+value 1 = object
+value 2  = section target(bf,gf,dad)
+
+Note: put "1" on v2 to stay

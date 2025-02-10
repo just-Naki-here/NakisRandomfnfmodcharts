@@ -6,6 +6,8 @@
         setProperty('iconP2.scale.x', 0.75)
         setProperty('iconP1.scale.y', 0.75)
         setProperty('iconP2.scale.y', 0.75)
+        setPropertyFromClass("openfl.Lib", "application.window.title", "Baked")
+
 		
 		end
 		--setProperty("coolhealthBar.antialiasing", true)
