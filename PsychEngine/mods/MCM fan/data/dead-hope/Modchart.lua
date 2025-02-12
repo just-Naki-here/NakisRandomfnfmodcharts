@@ -122,22 +122,22 @@ function onUpdate(elapsed)
   noteTweenX('defaultoppStrumX3', 3, defaultPlayerStrumX3-320 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
   
   getMisses()
-  if misses== 10 then
+  if misses== 1 then
    setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T MESS UP ANYMORE!!!");
   end
-  if misses==50 then
+  if misses==10 then
    setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T FUCK UP!!!");
   end
-  if misses==100 then
+  if misses==15 then
    setPropertyFromClass("openfl.Lib", "application.window.title", "YOU WON'T MAKE IT!");
   end
-  if misses== 150 then
+  if misses== 20 then
    setPropertyFromClass("openfl.Lib", "application.window.title", "YOUR COMPUTER IS OURS!!!!");
   end
 end
 function noteMiss(id, direction, noteType, isSustainNote)
- --setPropertyFromClass("openfl.Lib", "application.window.x", randomNumberX) 
- --setPropertyFromClass("openfl.Lib", "application.window.y", randomNumberY) 
+ setPropertyFromClass("openfl.Lib", "application.window.x", randomNumberX) 
+ setPropertyFromClass("openfl.Lib", "application.window.y", randomNumberY) 
  noteTweenY('defaultPlayerStrumY0', 4, defaultPlayerStrumY0 - randomPlayerstrumY1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumY5)
  noteTweenY('defaultPlayerStrumY1', 5, defaultPlayerStrumY1 - randomPlayerstrumY2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumY6)
  noteTweenY('defaultPlayerStrumY2', 6, defaultPlayerStrumY2 - randomPlayerstrumY3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumY7)
@@ -153,12 +153,12 @@ function noteMiss(id, direction, noteType, isSustainNote)
  setProperty('scrollspeed', speed)
  setPropertyFromGroup('scrollspeed', 0, randomscrollspeed)
 end
---function goodNoteHit(id, direction, noteType, isSustainNote)
- --randomNumberX=math.random(100,250)
- --randomNumberY=math.random(100,250)
- --setPropertyFromClass("openfl.Lib", "application.window.x", randomNumberX) 
- --setPropertyFromClass("openfl.Lib", "application.window.y", randomNumberY)
---end
+function goodNoteHit(id, direction, noteType, isSustainNote)
+ randomNumberX=math.random(100,250)
+ randomNumberY=math.random(100,250)
+ setPropertyFromClass("openfl.Lib", "application.window.x", randomNumberX) 
+ setPropertyFromClass("openfl.Lib", "application.window.y", randomNumberY)
+end
 function onDestroy()
  setPropertyFromClass("openfl.Lib", "application.window.title", "Naki's FNF Charts");
 
