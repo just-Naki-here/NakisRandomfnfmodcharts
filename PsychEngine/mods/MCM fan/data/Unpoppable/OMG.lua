@@ -20,6 +20,7 @@ function onUpdate(elapsed)
 	for i = 0, 3 do
 		setPropertyFromGroup('opponentStrums', i, 'y', 300 - 300*math.sin((currentBeat+2*0.1)*math.pi));
 		notey = 300 - 300*math.sin((currentBeat+2*0.1)*math.pi)
+		setPropertyFromGroup('playerStrums', i, 'y', 300 - 300*math.sin((currentBeat+2*0.1)*math.pi));
 	end
 	doTweenY('1', 'dad', 0 - 150*math.sin((currentBeat+2*0.1)*math.pi), 2)
 	if mustHitSection then
@@ -44,6 +45,18 @@ if notey < 300 then
         noteTweenDirection("PlayerNote3", 3, 270, 0.2, "linear")
         
 end
+if notey > 300 then
+	noteTweenDirection("PlayerNote0", 4, 90, 0.2, "linear")
+	noteTweenDirection("PlayerNote1", 5, 90, 0.3, "linear")
+	noteTweenDirection("PlayerNote2", 6, 90, 0.4, "linear")
+	noteTweenDirection("PlayerNote3", 7, 90, 0.5, "linear")
+end
+if notey < 300 then
+	noteTweenDirection("PlayerNote0", 4, 270, 0.5, "linear")
+	noteTweenDirection("PlayerNote1", 5, 270, 0.4, "linear")
+	noteTweenDirection("PlayerNote2", 6, 270, 0.3, "linear")
+	noteTweenDirection("PlayerNote3", 7, 270, 0.2, "linear")
+end  
 end
 function onCountdownStarted()
 	setPropertyFromGroup('opponentStrums', 0, 'x', 114);
