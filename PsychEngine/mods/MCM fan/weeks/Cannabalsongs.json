@@ -1,0 +1,45 @@
+{
+	"storyName": "Cannibalism songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Cannibalism test",
+			"rckr",
+			[130, 6, 24]
+		],
+		[
+			"Cannibalism old",
+			"rckr",
+			[130, 6, 24]
+		],
+		[
+			"Cannibalism",
+			"rckr",
+			[130, 6, 24]
+		],
+		[
+			"Cannibalism midi",
+			"rckr",
+			[130, 6, 24]
+		]
+		
+
+	],
+	"hideStoryMode": false,
+	"weekName": "Cannibalism songs",
+	"hiddenUntilUnlocked": false
+}

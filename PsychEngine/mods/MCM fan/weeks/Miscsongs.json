@@ -1,0 +1,68 @@
+{
+	"storyName": "other songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ERSATZ",
+			"icon-squidward",
+			[103, 174, 175]
+		],
+		[
+			"misery v1",
+			"icon-s",
+			[103, 174, 175]
+		],
+		[
+			"misery old v2","icon-squidward",
+			[103, 174, 175]
+		],
+		[
+			"misery v2",
+			"icon-squidward"
+			,[103, 174, 175]
+		],
+		[
+			"Delusional",
+			"icon-sadward",
+			[171, 186, 183]
+		],
+		[
+			"Delusional old",
+			"icon-sadward",
+			[0,0,0]
+		],
+		[
+			"Unpoppable"
+			,"icon-sponge",
+			[140,140,60]
+		],
+		[
+			"downfall",
+			"icon-hil-sponge",
+			[213,153,2]
+		],
+		[
+			"Delivery",
+			"delivery",
+			[255,205,56]
+		]
+
+	],
+	"hideStoryMode": false,
+	"weekName": "Other songs",
+	"hiddenUntilUnlocked": false
+}
