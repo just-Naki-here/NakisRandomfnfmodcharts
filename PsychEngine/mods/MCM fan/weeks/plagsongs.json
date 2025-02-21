@@ -8,7 +8,7 @@
 		113,
 		253
 	],
-	"weekBefore": "week1",
+	"weekBefore": "mcmv1-week1",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
@@ -16,29 +16,42 @@
 		""
 	],
 	"songs": [
-		
 		[
 			"Plagerize test", 
 			"fred", 
-			[116, 79, 77]
+			[
+				116, 
+				79, 
+				77
+			]
 		],
 		[
 			"Plagerize midi", 
 			"fred", 
-			[116, 79, 77]
+			[
+				116, 
+				79, 
+				77
+			]
 		],
 		[
 			"Plagerize v1", 
 			"fred", 
-			[116, 79, 77]
+			[
+				116, 
+				79, 
+				77
+			]
 		],
 		[
 			"Plagerize v2", 
 			"coconut", 
-			[116, 79, 77]
+			[
+				116, 
+				79, 
+				77
+			]
 		]
-		
-
 	],
 	"hideStoryMode": false,
 	"weekName": "Plagerize songs",

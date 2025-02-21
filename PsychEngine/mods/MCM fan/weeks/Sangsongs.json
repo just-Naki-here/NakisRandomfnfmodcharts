@@ -8,7 +8,7 @@
 		113,
 		253
 	],
-	"weekBefore": "week1",
+	"weekBefore": "mcmv1-week1",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
@@ -41,8 +41,6 @@
 			"canonsquiddy",
 			[182, 203, 194]
 		]
-
-		
 	],
 	"hideStoryMode": false,
 	"weekName": "Sanguilacrimae songs",

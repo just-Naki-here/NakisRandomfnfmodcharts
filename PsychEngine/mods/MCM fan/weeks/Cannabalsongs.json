@@ -8,7 +8,7 @@
 		113,
 		253
 	],
-	"weekBefore": "week1",
+	"weekBefore": "mcmv1-week1",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
@@ -19,25 +19,39 @@
 		[
 			"Cannibalism test",
 			"rckr",
-			[130, 6, 24]
+			[
+				130, 
+				6, 
+				24
+			]
 		],
 		[
 			"Cannibalism old",
 			"rckr",
-			[130, 6, 24]
+			[
+				130, 
+				6, 
+				24
+			]
 		],
 		[
 			"Cannibalism",
 			"rckr",
-			[130, 6, 24]
+			[
+				130, 
+				6, 
+				24
+			]
 		],
 		[
 			"Cannibalism midi",
 			"rckr",
-			[130, 6, 24]
+			[
+				130, 
+				6, 
+				24
+			]
 		]
-		
-
 	],
 	"hideStoryMode": false,
 	"weekName": "Cannibalism songs",

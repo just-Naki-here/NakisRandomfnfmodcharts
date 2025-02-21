@@ -8,7 +8,7 @@
 		113,
 		253
 	],
-	"weekBefore": "week1",
+	"weekBefore": "mcmv1-week1",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
@@ -19,22 +19,38 @@
         [
             "Served v1",
             "plankton", 
-            [63, 92, 93]
+            [
+				63, 
+				92, 
+				93
+			]
         ],
 	    [
             "Serving The Served",
             "plankton",
-            [63, 92, 93]
+            [
+				63, 
+				92, 
+				93
+			]
         ],
     	[
             "Served v2",
             "plankton",
-            [63, 92, 93]
+            [
+				63, 
+				92, 
+				93
+			]
         ],
        	[
             "Served v3", 
             "Served", 
-            [63, 92, 93]   
+            [
+				63, 
+				92, 
+				93
+			]   
         ]
 	],
 	"hideStoryMode": false,

@@ -8,7 +8,7 @@
 		113,
 		253
 	],
-	"weekBefore": "week1",
+	"weekBefore": "mcmv1-week1",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
@@ -19,29 +19,48 @@
 		[
 			"Tortured v1", 
 			"TP", 
-			[10, 10, 10]
+			[
+				10, 
+				10, 
+				10
+			]
 		],
 		[
 			"Tortured v1 remake", 
 			"TP", 
-			[10, 10, 10]
+			[
+				10, 
+				10, 
+				10
+			]
 		],
 		[
 			"Tortured v2", 
 			"TP", 
-			[10, 10, 10]
+			[
+				10, 
+				10, 
+				10
+			]
 		],
 		[
 			"tortured DogeRemake", 
 			"TP", 
-			[10, 10, 10]
+			[
+				10, 
+				10, 
+				10
+			]
 		],
 		[
 			"Tortured Legacy", 
 			"TP", 
-			[10, 10, 10]
+			[
+				10, 
+				10, 
+				10
+			]
 		]
-		
 	],
 	"hideStoryMode": false,
 	"weekName": "Tortured songs",

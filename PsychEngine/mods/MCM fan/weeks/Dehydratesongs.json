@@ -8,7 +8,7 @@
 		113,
 		253
 	],
-	"weekBefore": "week1",
+	"weekBefore": "mcmv1-week1",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
@@ -19,30 +19,48 @@
 		[
 			"Dehydrated v1", 
 			"icon-driedup-old", 
-			[181, 149, 26]
+			[
+				181, 
+				149, 
+				26
+			]
 		],
 		[
 			"Dehydrated v1 remake", 
 			"icon-driedup-old", 
-			[181, 149, 26]
+			[
+				181, 
+				149, 
+				26
+			]
 		],
 		[
 			"Dehydrated v2", 
 			"icon-driedup-old", 
-			[181, 149, 26]
+			[
+				181, 
+				149, 
+				26
+			]
 		],
 		[
 			"Dehydrated v3", 
 			"icon-driedup-old", 
-			[181, 149, 26]
+			[
+				181, 
+				149, 
+				26
+			]
 		],
 		[
 			"Dehydrated v4", 
 			"driedup", 
-			[181, 149, 26]
+			[
+				181,
+				149,
+				26
+			]
 		]
-		
-
 	],
 	"hideStoryMode": false,
 	"weekName": "Dehydrated songs",

@@ -8,7 +8,7 @@
 		113,
 		253
 	],
-	"weekBefore": "week1",
+	"weekBefore": "mcmv1-week1",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
@@ -19,24 +19,39 @@
 		[
 			"doomsday v1",
 			"icon-sadward",
-			[171, 186, 183]
+			[
+				171, 
+				186, 
+				183
+			]
 		],
 		[
 			"doomsday v2",
 			"darkward",
-			[171, 186, 183]
+			[
+				171, 
+				186, 
+				183
+			]
 		],
 		[
 			"doomsday oldv2",
 			"darkward",
-			[171, 186, 183]
+			[
+				171, 
+				186, 
+				183
+			]
 		],
 		[
 			"doomsday poproxx Mix",
 			"darkward",
-			[171, 186, 183]
+			[
+				171, 
+				186, 
+				183
+			]
 		]
-		
 	],
 	"hideStoryMode": false,
 	"weekName": "doomsday songs",
