@@ -102,14 +102,3 @@ function onEvent(n,v1,v2) --puse los eventos aqui para que el juego no vaya a 40
 	
 end
 
-function onUpdate(elapsed)
-if work == true and stops == false then
-	songPos = getSongPosition()
-	local currentBeat = (songPos/1000)
-	noteTweenY('player1', 4, defaultPlayerStrumY3 - i*math.sin((currentBeat+8*0.1)*math.pi)-50, 3)
-	noteTweenY('player2', 5, defaultPlayerStrumY1 + i*math.sin((currentBeat+8*0.1)*math.pi)-50, 3)
-	noteTweenY('player3', 6, defaultPlayerStrumY0 - i*math.sin((currentBeat+8*0.1)*math.pi)-50, 3)
-	noteTweenY('player4', 7, defaultPlayerStrumY2 + i*math.sin((currentBeat+8*0.1)*math.pi)-50, 3)
-	
-	end
-end

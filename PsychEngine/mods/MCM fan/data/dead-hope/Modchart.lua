@@ -1,4 +1,5 @@
 --varibles
+
 X=250
 Y=250
 f1="file1.txt"
@@ -33,7 +34,7 @@ randomPlayerstrumY12=0
 randomPlayerstrumY13=0
 randomPlayerstrumY14=0
 streeep=0
-local randomnumbers4windowmovement = {
+randomnumbers4windowmovement = {
   {122.78060, 142.03515, 290.73995, 283.74511, 385.60828, 344.88950, 167.59760, 376.78356, 137.33635, 351.77075, 331.22346, 280.61551, 351.91935, 214.18147, 149.09445, 239.94179, 114.07281, 334.22088, 211.31751, 252.32818, 263.12277, 111.35490, 235.60553, 172.95821, 161.86355, 301.41423, 264.80583, 100.22675, 269.73458, 106.24267, 184.78014, 174.39474, 245.21123, 282.19943, 322.26202, 194.29851, 248.10832, 266.13450, 266.41171, 144.04844, 214.03182, 350.67503, 199.22193, 110.95017, 317.44080, 203.48428, 299.33092, 122.67522, 336.41582, 348.41129, 356.93470, 211.93287, 392.09683, 187.77354, 300.42685, 350.34945, 125.13203, 192.90535, 156.73051, 101.30756, 282.26328, 253.88581, 350.72562, 135.26627, 150.85198, 319.28231, 293.11990, 241.58996, 116.30566, 183.29757, 245.21197, 182.37271, 394.64248, 132.42716, 384.92696, 354.28197, 297.25177, 114.84699, 374.04525, 105.42570, 346.50744, 361.86198, 124.61882, 166.45506, 233.70001, 323.51885, 148.32994, 128.88523, 101.14105, 219.80032, 197.55663, 256.20066, 385.17100, 343.88701, 310.81106, 245.21397, 164.16329, 384.10698, 342.75902, 219.91503},
   {140.53159, 383.19698, 117.99162, 275.57808, 387.17434, 373.24249, 216.91787, 318.14634, 147.03601, 252.53582, 244.98353, 282.59771, 149.33050, 108.60695, 148.37112, 368.69581, 398.04157, 149.37451, 345.85027, 347.72363, 330.64704, 346.84091, 125.73814, 201.39394, 204.83904, 283.89131, 299.66927, 219.24420, 126.39833, 116.93850, 276.13522, 240.57571, 304.26665, 222.39000, 275.84387, 316.85094, 237.79259, 174.18843, 300.36142, 349.06543, 115.77812, 182.05861, 148.14514, 291.30821, 318.48731, 283.44317, 356.85163, 383.99305, 185.84217, 229.50970, 229.46827, 368.32388, 290.20111, 257.61974, 392.64682, 308.70116, 132.51330, 299.03557, 193.64068, 154.26554, 225.20396, 180.65872, 382.51132, 338.52667, 215.74669, 299.75369, 199.36567, 248.91491, 357.59190, 132.95918, 279.40199, 200.87079, 396.39171, 164.66390, 357.43000, 235.30839, 305.54988, 220.00499, 119.85101, 235.94368, 149.02293, 387.23966, 209.14186, 140.47056, 390.24873, 375.54387, 364.77683, 291.09886, 362.18307, 193.87721, 345.06992, 144.46231, 168.88282, 266.16648, 264.64183, 357.71381, 370.75609, 267.70197, 366.70849, 250.26569},
   {179.08383, 253.74767, 308.97470, 382.03643, 105.21015, 177.22602, 325.37970, 294.61770, 218.61076, 323.04516, 361.89594, 137.17227, 154.45042, 261.02700, 124.46599, 142.99035, 340.08521, 272.25928, 264.42859, 160.36602, 201.81493, 111.55326, 396.91551, 389.73098, 314.11609, 223.81522, 130.39368, 247.23993, 392.88932, 209.66036, 194.38115, 162.38528, 173.08018, 210.60076, 241.87199, 270.71052, 279.57732, 120.27817, 337.59678, 166.04571, 293.34072, 132.47117, 351.63159, 107.29431, 270.59546, 181.96378, 284.70029, 255.45252, 199.96154, 296.56732, 114.02491, 266.98059, 318.02457, 124.40216, 234.34382, 206.35222, 206.92156, 103.93585, 382.83139, 290.61786, 201.62553, 324.31730, 275.63949, 368.36123, 161.94743, 356.17474, 112.51481, 314.20972, 200.95114, 282.20248, 148.72901, 261.24741, 349.03487, 175.82149, 101.56450, 270.95057, 226.03127, 143.02374, 231.54386, 397.57825, 134.75827, 230.57741, 249.67031, 269.42349, 302.95559, 253.10666, 208.07877, 368.11676, 381.92244, 254.54251, 345.75590, 147.27364, 151.86662, 306.79086, 399.92372, 173.35411, 247.52976, 131.43020, 103.76099, 174.92246},
@@ -137,44 +138,22 @@ local randomnumbers4windowmovement = {
 }
 
 function onSongStart()
-  debugPrint('This song has very hard modcharting...')
-  debugPrint('Beware of that...')
-  debugPrint("NOOOOOOOOOOOOOOOOB!!!!") 
-  debugPrint('This song has very hard modcharting...')
-  debugPrint('Beware of that...')
-  debugPrint("NOOOOOOOOOOOOOOOOB!!!!")
-  debugPrint('This song has very hard modcharting...')
-  debugPrint('Beware of that...')
-	noteTweenX('oppo0', 0, -1000, 1.5, 'quartInOut')
-	noteTweenX('oppo1', 1, -1000, 1.5, 'quartInOut')
-	noteTweenX('oppo2', 2, -1000, 1.5, 'quartInOut')
-	noteTweenX('oppo3', 3, -1000, 1.5, 'quartInOut')
-	noteTweenAngle('opporotate0', 0, 360, 1, 'quartInOut')
-	noteTweenAngle('opporotate1', 1, 360, 1, 'quartInOut')
-  noteTweenAngle('opporotate2', 2, 360, 1, 'quartInOut')
-	noteTweenAngle('opporotate3', 3, 360, 1, 'quartInOut')
-	noteTweenX('play0', 4, 415, 1, 'quartInOut')
-	noteTweenX('play1', 5, 525, 1, 'quartInOut')
-	noteTweenX('play2', 6, 635, 1, 'quartInOut')
-	noteTweenX('play3', 7, 745, 1, 'quartInOut')
-	noteTweenAngle('playrotate0', 4, 360, 1, 'quartInOut')
-	noteTweenAngle('playrotate1', 5, 360, 1, 'quartInOut')
-	noteTweenAngle('playrotate2', 6, 360, 1, 'quartInOut')
-	noteTweenAngle('playrotate3', 7, 360, 1, 'quartInOut')
   setPropertyFromClass("openfl.Lib", "application.window.title", "Survive or else...")
   setPropertyFromClass("openfl.Lib", "application.window.x", X) 
   setPropertyFromClass("openfl.Lib", "application.window.y", Y)
+  setPropertyFromGroup('playerStrums', 4, 'x', defaultPlayerStrumX0 - 160);
+  setPropertyFromGroup('playerStrums', 5, 'x', defaultPlayerStrumX1 - 160);
+  setPropertyFromGroup('playerStrums', 6, 'x', defaultPlayerStrumX2 - 160);
+  setPropertyFromGroup('playerStrums', 7, 'x', defaultPlayerStrumX3 - 160);
 end
 function onUpdate(elapsed)
   math.randomseed(os.time())--seeds the function math.random
-  --Decider if the noteTweenX and noteTweenY change 
+  
   q=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
   w=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
-  Decider=math.random(1,100)
+  Decider=math.random(1,100)--Decider if the noteTweenX and noteTweenY change 
   if Decider <50 then
-   Decider=math.random(1,100)
-   setProperty('songLength', getProperty('songLength')+getRandomInt(1100, -1000))
-   
+   Decider=math.random(1,100)   
   end
   if Decider >50 then
    randomPlayerstrumY1=math.random(0,100)
@@ -194,14 +173,9 @@ function onUpdate(elapsed)
    randomPlayerstrumX7=0.2
    randomPlayerstrumX8=0.2
    Decider=math.random(1,100)
-   setProperty('songLength', getProperty('songLength')+getRandomInt(11000, -10000))
-   
-
   end
   if Decider==50 then
 	 Decider=math.random(1,100)
-   setProperty('songLength', getProperty('songLength')+getRandomInt(110000, -100000))
-   
 	end
   songPos = getSongPosition()
   local currentBeat = (songPos/5000)*(curBpm/60)
@@ -210,24 +184,29 @@ function onUpdate(elapsed)
   noteTweenY('defaultPlayerStrumY1', 5, defaultPlayerStrumY1 - randomPlayerstrumY2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumY6)
   noteTweenY('defaultPlayerStrumY2', 6, defaultPlayerStrumY2 - randomPlayerstrumY3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumY7)
   noteTweenY('defaultPlayerStrumY3', 7, defaultPlayerStrumY3 - randomPlayerstrumY4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumY8)
-  noteTweenX('defaultPlayerStrumX0', 4, defaultPlayerStrumX0-320 - randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
-  noteTweenX('defaultPlayerStrumX1', 5, defaultPlayerStrumX1-320 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
-  noteTweenX('defaultPlayerStrumX2', 6, defaultPlayerStrumX2-320 - randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
-  noteTweenX('defaultPlayerStrumX3', 7, defaultPlayerStrumX3-320 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
+  noteTweenX('defaultPlayerStrumX0', 4, defaultPlayerStrumX0 - randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
+  noteTweenX('defaultPlayerStrumX1', 5, defaultPlayerStrumX1 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
+  noteTweenX('defaultPlayerStrumX2', 6, defaultPlayerStrumX2 - randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
+  noteTweenX('defaultPlayerStrumX3', 7, defaultPlayerStrumX3 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
   
 
   noteTweenY('defaultOppStrumY0', 0, defaultPlayerStrumY0 - randomPlayerstrumY1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumY5)
   noteTweenY('defaultoppStrumY1', 1, defaultPlayerStrumY1 - randomPlayerstrumY2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumY6)
   noteTweenY('defaultoppStrumY2', 2, defaultPlayerStrumY2 - randomPlayerstrumY3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumY7)
   noteTweenY('defaultoppStrumY3', 3, defaultPlayerStrumY3 - randomPlayerstrumY4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumY8)
-  noteTweenX('defaultoppStrumX0', 0, defaultPlayerStrumX0-320 - randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
-  noteTweenX('defaultoppStrumX1', 1, defaultPlayerStrumX1-320 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
-  noteTweenX('defaultoppStrumX2', 2, defaultPlayerStrumX2-320 - randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
-  noteTweenX('defaultoppStrumX3', 3, defaultPlayerStrumX3-320 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
+  noteTweenX('defaultoppStrumX0', 0, defaultPlayerStrumX0 - randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
+  noteTweenX('defaultoppStrumX1', 1, defaultPlayerStrumX1 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
+  noteTweenX('defaultoppStrumX2', 2, defaultPlayerStrumX2 - randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
+  noteTweenX('defaultoppStrumX3', 3, defaultPlayerStrumX3 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
   if currentBeat>23 then
     if currentBeat<62.5 then 
       setPropertyFromClass("openfl.Lib", "application.window.x", q) 
       setPropertyFromClass("openfl.Lib", "application.window.y", w) 
+      function sleep(n)
+        if n > 0 then 
+          os.execute("ping -n " .. tonumber(n+1) .. " localhost > NUL") --hopefully this works...
+        end
+      end
     end
   end
   getMisses()
@@ -251,10 +230,10 @@ function noteMiss(id, direction, noteType, isSustainNote)
  noteTweenY('defaultPlayerStrumY1', 5, defaultPlayerStrumY1 - randomPlayerstrumY2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumY6)
  noteTweenY('defaultPlayerStrumY2', 6, defaultPlayerStrumY2 - randomPlayerstrumY3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumY7)
  noteTweenY('defaultPlayerStrumY3', 7, defaultPlayerStrumY3 - randomPlayerstrumY4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumY8)
- noteTweenX('defaultPlayerStrumX0', 4, defaultPlayerStrumX0-320 - randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
- noteTweenX('defaultPlayerStrumX1', 5, defaultPlayerStrumX1-320 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
- noteTweenX('defaultPlayerStrumX2', 6, defaultPlayerStrumX2-320 - randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
- noteTweenX('defaultPlayerStrumX3', 7, defaultPlayerStrumX3-320 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
+ noteTweenX('defaultPlayerStrumX0', 4, defaultPlayerStrumX0 - randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
+ noteTweenX('defaultPlayerStrumX1', 5, defaultPlayerStrumX1 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
+ noteTweenX('defaultPlayerStrumX2', 6, defaultPlayerStrumX2 - randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
+ noteTweenX('defaultPlayerStrumX3', 7, defaultPlayerStrumX3 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
  io.open("idiot.txt","a")
 
 
