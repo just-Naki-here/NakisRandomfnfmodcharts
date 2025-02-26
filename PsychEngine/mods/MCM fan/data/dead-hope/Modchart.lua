@@ -1,5 +1,6 @@
---varibles
+--configs
 
+--varibles
 X=250
 Y=250
 f1="file1.txt"
@@ -141,11 +142,12 @@ function onSongStart()
   setPropertyFromClass("openfl.Lib", "application.window.title", "Survive or else...")
   setPropertyFromClass("openfl.Lib", "application.window.x", X) 
   setPropertyFromClass("openfl.Lib", "application.window.y", Y)
-  setPropertyFromGroup('playerStrums', 4, 'x', defaultPlayerStrumX0 - 160);
-  setPropertyFromGroup('playerStrums', 5, 'x', defaultPlayerStrumX1 - 160);
-  setPropertyFromGroup('playerStrums', 6, 'x', defaultPlayerStrumX2 - 160);
-  setPropertyFromGroup('playerStrums', 7, 'x', defaultPlayerStrumX3 - 160);
+  setPropertyFromGroup('playerStrums', 4, 'x', defaultPlayerStrumX0 - 320);
+  setPropertyFromGroup('playerStrums', 5, 'x', defaultPlayerStrumX1 - 320);
+  setPropertyFromGroup('playerStrums', 6, 'x', defaultPlayerStrumX2 - 320);
+  setPropertyFromGroup('playerStrums', 7, 'x', defaultPlayerStrumX3 - 320);
 end
+
 function onUpdate(elapsed)
   math.randomseed(os.time())--seeds the function math.random
   
@@ -184,31 +186,29 @@ function onUpdate(elapsed)
   noteTweenY('defaultPlayerStrumY1', 5, defaultPlayerStrumY1 - randomPlayerstrumY2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumY6)
   noteTweenY('defaultPlayerStrumY2', 6, defaultPlayerStrumY2 - randomPlayerstrumY3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumY7)
   noteTweenY('defaultPlayerStrumY3', 7, defaultPlayerStrumY3 - randomPlayerstrumY4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumY8)
-  noteTweenX('defaultPlayerStrumX0', 4, defaultPlayerStrumX0 - randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
-  noteTweenX('defaultPlayerStrumX1', 5, defaultPlayerStrumX1 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
-  noteTweenX('defaultPlayerStrumX2', 6, defaultPlayerStrumX2 - randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
-  noteTweenX('defaultPlayerStrumX3', 7, defaultPlayerStrumX3 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
+  noteTweenX('defaultPlayerStrumX0', 4, defaultPlayerStrumX0 -320- randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
+  noteTweenX('defaultPlayerStrumX1', 5, defaultPlayerStrumX1 -320- randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
+  noteTweenX('defaultPlayerStrumX2', 6, defaultPlayerStrumX2 -320- randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
+  noteTweenX('defaultPlayerStrumX3', 7, defaultPlayerStrumX3 -320- randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
   
 
   noteTweenY('defaultOppStrumY0', 0, defaultPlayerStrumY0 - randomPlayerstrumY1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumY5)
   noteTweenY('defaultoppStrumY1', 1, defaultPlayerStrumY1 - randomPlayerstrumY2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumY6)
   noteTweenY('defaultoppStrumY2', 2, defaultPlayerStrumY2 - randomPlayerstrumY3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumY7)
   noteTweenY('defaultoppStrumY3', 3, defaultPlayerStrumY3 - randomPlayerstrumY4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumY8)
-  noteTweenX('defaultoppStrumX0', 0, defaultPlayerStrumX0 - randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
-  noteTweenX('defaultoppStrumX1', 1, defaultPlayerStrumX1 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
-  noteTweenX('defaultoppStrumX2', 2, defaultPlayerStrumX2 - randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
-  noteTweenX('defaultoppStrumX3', 3, defaultPlayerStrumX3 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
-  if currentBeat>23 then
-    if currentBeat<62.5 then 
-      setPropertyFromClass("openfl.Lib", "application.window.x", q) 
-      setPropertyFromClass("openfl.Lib", "application.window.y", w) 
-      function sleep(n)
-        if n > 0 then 
-          os.execute("ping -n " .. tonumber(n+1) .. " localhost > NUL") --hopefully this works...
-        end
-      end
-    end
-  end
+  noteTweenX('defaultoppStrumX0', 0, defaultPlayerStrumX0-320 - randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
+  noteTweenX('defaultoppStrumX1', 1, defaultPlayerStrumX1-320 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
+  noteTweenX('defaultoppStrumX2', 2, defaultPlayerStrumX2-320- randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
+  noteTweenX('defaultoppStrumX3', 3, defaultPlayerStrumX3-320 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
+  --if currentBeat>23 then
+   -- if currentBeat<62.5 then 
+    --  setPropertyFromClass("openfl.Lib", "application.window.x", q) 
+     -- setPropertyFromClass("openfl.Lib", "application.window.y", w) 
+     -- runTimer('donewait',0.7,0)  
+    --else
+   --   cancelTimer('donewait')
+ -- end
+ --commented out due to not being finished lol
   getMisses()
   if misses== 1 then
    setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T MESS UP ANYMORE!!!");
@@ -230,10 +230,10 @@ function noteMiss(id, direction, noteType, isSustainNote)
  noteTweenY('defaultPlayerStrumY1', 5, defaultPlayerStrumY1 - randomPlayerstrumY2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumY6)
  noteTweenY('defaultPlayerStrumY2', 6, defaultPlayerStrumY2 - randomPlayerstrumY3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumY7)
  noteTweenY('defaultPlayerStrumY3', 7, defaultPlayerStrumY3 - randomPlayerstrumY4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumY8)
- noteTweenX('defaultPlayerStrumX0', 4, defaultPlayerStrumX0 - randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
- noteTweenX('defaultPlayerStrumX1', 5, defaultPlayerStrumX1 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
- noteTweenX('defaultPlayerStrumX2', 6, defaultPlayerStrumX2 - randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
- noteTweenX('defaultPlayerStrumX3', 7, defaultPlayerStrumX3 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
+ noteTweenX('defaultPlayerStrumX0', 4, defaultPlayerStrumX0 -320- randomPlayerstrumX1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumX5) 
+ noteTweenX('defaultPlayerStrumX1', 5, defaultPlayerStrumX1 -320- randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
+ noteTweenX('defaultPlayerStrumX2', 6, defaultPlayerStrumX2 -320- randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
+ noteTweenX('defaultPlayerStrumX3', 7, defaultPlayerStrumX3 -320- randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
  io.open("idiot.txt","a")
 
 
