@@ -137,7 +137,12 @@ randomnumbers4windowmovement = {
   {152.11071, 182.81335, 356.40640, 130.32040, 191.00665, 152.14527, 226.57020, 326.41533, 175.71932, 117.41916, 319.83488, 158.25876, 217.41518, 176.38254, 222.76736, 270.99395, 286.29473, 376.81423, 357.82418, 134.10932, 198.98262, 351.23603, 325.64993, 199.08144, 185.96014, 227.41621, 343.41654, 275.34682, 346.89746, 128.61424, 346.55631, 124.98183, 154.55955, 188.35445, 267.58722, 290.89361, 123.74869, 266.37319, 360.96430, 191.13515, 206.69975, 225.56066, 228.56865, 226.68084, 390.19557, 188.81263, 204.89916, 174.21940, 328.15549, 355.02453, 395.15457, 189.50257, 246.00736, 304.19246, 301.00825, 300.51842, 155.38161, 128.19067, 236.16203, 271.24102, 211.48550, 192.87545, 366.99575, 239.20057, 309.06563, 187.17407, 230.82349, 149.81784, 236.79354, 283.28082, 270.27049, 228.22638, 350.31919, 108.45294, 335.19062, 181.85533, 138.38249, 218.59494, 252.51075, 202.18920, 195.08675, 211.44494, 203.70729, 159.25803, 385.84747, 137.72734, 354.55872, 313.17695, 329.80396, 160.49194, 184.86409, 226.08136, 334.86771, 350.53115, 343.98423, 160.30989, 240.16365, 290.39302, 182.10816, 318.13318},
   {290.17698, 354.56684, 345.47604, 127.44507, 304.55608, 186.17084, 389.33491, 172.01389, 120.28619, 358.39582, 301.77395, 187.27193, 387.38085, 306.40178, 223.50215, 275.27712, 340.74396, 386.56373, 175.07067, 130.80610, 375.88677, 166.38005, 221.00076, 196.47871, 248.67097, 377.43019, 249.53725, 391.28091, 397.07902, 228.51461, 104.12487, 298.40157, 297.39926, 165.87618, 183.51859, 399.75445, 390.52498, 303.77433, 106.22067, 298.55662, 139.15718, 166.25542, 261.57559, 356.80920, 392.68592, 130.75672, 248.40860, 295.74418, 279.60413, 189.62165, 349.24979, 275.05681, 359.83251, 179.13371, 225.70370, 320.76189, 344.60272, 242.17979, 225.74102, 168.48969, 384.77779, 231.53470, 367.60880, 249.05123, 308.45365, 251.88392, 125.93124, 165.74338, 134.43048, 317.54030, 253.98159, 361.67487, 224.05568, 374.04431, 321.73064, 375.70507, 306.09413, 180.28202, 385.61518, 375.06106, 253.64777, 250.01815, 142.76589, 182.10867, 129.23503, 136.42889, 126.19481, 296.36706, 106.50256, 130.73311, 113.16640, 102.14186, 381.46203, 342.02058, 144.77228, 111.95806, 137.65499, 238.21971, 350.02581, 391.94164}
 }
-
+function onCreate()
+  if middlescroll == true then
+    setPropertyFromClass('ClientPrefs', 'middleScroll', false)
+    wasMidscrollOn = true
+  end
+end
 function onSongStart()
   setPropertyFromClass("openfl.Lib", "application.window.title", "Survive or else...")
   setPropertyFromClass("openfl.Lib", "application.window.x", X) 
@@ -200,14 +205,13 @@ function onUpdate(elapsed)
   noteTweenX('defaultoppStrumX1', 1, defaultPlayerStrumX1-320 - randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
   noteTweenX('defaultoppStrumX2', 2, defaultPlayerStrumX2-320- randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
   noteTweenX('defaultoppStrumX3', 3, defaultPlayerStrumX3-320 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
-  --if currentBeat>23 then
-   -- if currentBeat<62.5 then 
-    --  setPropertyFromClass("openfl.Lib", "application.window.x", q) 
-     -- setPropertyFromClass("openfl.Lib", "application.window.y", w) 
-     -- runTimer('donewait',0.7,0)  
-    --else
-   --   cancelTimer('donewait')
- -- end
+  if currentBeat>23 then
+    if currentBeat<62.5 then 
+      runTimer('donewait',0.7,0)  
+    if currentBeat>62.5 then
+      cancelTimer('donewait')
+    end
+  end
  --commented out due to not being finished lol
   getMisses()
   if misses== 1 then
@@ -224,8 +228,8 @@ function onUpdate(elapsed)
   end
 end
 function noteMiss(id, direction, noteType, isSustainNote)
- setPropertyFromClass("openfl.Lib", "application.window.x", randomNumberX) 
- setPropertyFromClass("openfl.Lib", "application.window.y", randomNumberY) 
+  q=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
+  w=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
  noteTweenY('defaultPlayerStrumY0', 4, defaultPlayerStrumY0 - randomPlayerstrumY1*math.sin((currentBeat+4*0.25)*math.pi), randomPlayerstrumY5)
  noteTweenY('defaultPlayerStrumY1', 5, defaultPlayerStrumY1 - randomPlayerstrumY2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumY6)
  noteTweenY('defaultPlayerStrumY2', 6, defaultPlayerStrumY2 - randomPlayerstrumY3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumY7)
@@ -234,8 +238,8 @@ function noteMiss(id, direction, noteType, isSustainNote)
  noteTweenX('defaultPlayerStrumX1', 5, defaultPlayerStrumX1 -320- randomPlayerstrumX2*math.sin((currentBeat+5*0.25)*math.pi), randomPlayerstrumX6)
  noteTweenX('defaultPlayerStrumX2', 6, defaultPlayerStrumX2 -320- randomPlayerstrumX3*math.sin((currentBeat+6*0.25)*math.pi), randomPlayerstrumX7)
  noteTweenX('defaultPlayerStrumX3', 7, defaultPlayerStrumX3 -320- randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
- io.open("idiot.txt","a")
-
+ setPropertyFromClass("openfl.Lib", "application.window.x", q) 
+ setPropertyFromClass("openfl.Lib", "application.window.y", w) 
 
  speed = tonumber('E',1);
  randomscrollspeed=math.random(1.5,5)
@@ -243,12 +247,26 @@ function noteMiss(id, direction, noteType, isSustainNote)
  setPropertyFromGroup('scrollspeed', 0, randomscrollspeed)
 end
 function goodNoteHit(id, direction, noteType, isSustainNote)
- randomNumberX=math.random(100,250)
- randomNumberY=math.random(100,250)
- setPropertyFromClass("openfl.Lib", "application.window.x", randomNumberX) 
- setPropertyFromClass("openfl.Lib", "application.window.y", randomNumberY)
+  q=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
+  w=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
+
+
 end
 function onDestroy()
  setPropertyFromClass("openfl.Lib", "application.window.title", "Naki's FNF Charts");
-
+ if wasMidscrollOn == true then
+  setPropertyFromClass('ClientPrefs', 'middleScroll', true)
 end
+end
+function onEndSong()
+  if wasMidscrollOn == true then
+    setPropertyFromClass('ClientPrefs', 'middleScroll', true)
+  end
+end
+function onTimerCompleted(whatTimer)
+  if whatTimer=='donewait' then
+    setPropertyFromClass("openfl.Lib", "application.window.x", q) 
+    setPropertyFromClass("openfl.Lib", "application.window.y", w)
+  end
+end
+
