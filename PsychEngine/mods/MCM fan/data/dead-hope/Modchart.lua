@@ -1,5 +1,3 @@
---configs
-
 --varibles
 X=250
 Y=250
@@ -155,12 +153,15 @@ end
 
 function onUpdate(elapsed)
   math.randomseed(os.time())--seeds the function math.random
-  
   q=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
   w=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
   Decider=math.random(1,100)--Decider if the noteTweenX and noteTweenY change 
   if Decider <50 then
-   Decider=math.random(1,100)   
+    Decider=math.random(1,100)   
+    if Decider<2 then
+      setPropertyFromClass("openfl.Lib", "application.window.x", q) 
+      setPropertyFromClass("openfl.Lib", "application.window.y", w)
+    end
   end
   if Decider >50 then
    randomPlayerstrumY1=math.random(0,100)
@@ -180,9 +181,13 @@ function onUpdate(elapsed)
    randomPlayerstrumX7=0.2
    randomPlayerstrumX8=0.2
    Decider=math.random(1,100)
+   q=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
+   w=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
   end
   if Decider==50 then
 	 Decider=math.random(1,100)
+   q=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
+   w=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
 	end
   songPos = getSongPosition()
   local currentBeat = (songPos/5000)*(curBpm/60)
@@ -207,12 +212,14 @@ function onUpdate(elapsed)
   noteTweenX('defaultoppStrumX3', 3, defaultPlayerStrumX3-320 - randomPlayerstrumX4*math.sin((currentBeat+7*0.25)*math.pi), randomPlayerstrumX8)
   if currentBeat>23 then
     if currentBeat<62.5 then 
-      runTimer('donewait',0.7,0)  
+      runTimer('donewait',1)
+      onTimerCompleted('donewait')  
+    end
     if currentBeat>62.5 then
       cancelTimer('donewait')
     end
   end
- --commented out due to not being finished lol
+ 
   getMisses()
   if misses== 1 then
    setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T MESS UP ANYMORE!!!");
@@ -249,8 +256,8 @@ end
 function goodNoteHit(id, direction, noteType, isSustainNote)
   q=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
   w=randomnumbers4windowmovement[getRandomInt(1,100)][getRandomInt(1,100)]
-
-
+  setPropertyFromClass("openfl.Lib", "application.window.x", q) 
+  setPropertyFromClass("openfl.Lib", "application.window.y", w) 
 end
 function onDestroy()
  setPropertyFromClass("openfl.Lib", "application.window.title", "Naki's FNF Charts");
