@@ -18,15 +18,24 @@ function onUpdate(elapsed)
    
     Decider=math.random(1,100) --Decider for how much the timer is messed with and
     if Decider <50 then
-     Decider=math.random(1,100)
-     setProperty('songLength', getProperty('songLength')+getRandomInt(1100, -1000))
+        if Decider <25 then
+            setProperty('SongLength', getProperty('songLength')+getRandomInt(-100000,-1000))
+        else 
+            Decider=math.random(1,100)
+            setProperty('songLength', getProperty('songLength')+getRandomInt(1100, 100000))
+        end
     end
     if Decider >50 then
-     Decider=math.random(1,100)
-     setProperty('songLength', getProperty('songLength')+getRandomInt(11000, -10000))
+        if Decider >75 then
+            setProperty('SongLength', getProperty('songLength')+getRandomInt(-100000,-100000))
+            Decider=math.random(1,100)
+        else
+            setProperty('songLength', getProperty('songLength')+getRandomInt(11000, 1100000000))
+        end
     end
+    
     if Decider==50 then
        Decider=math.random(1,100)
-       setProperty('songLength', getProperty('songLength')+getRandomInt(110000, -100000))
+       setProperty('songLength', getProperty('songLength')+getRandomInt(110000, 110000000000000000))
     end
 end

@@ -1,8 +1,8 @@
 function onCreate() --高速ノーツ
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'speed1.5' then
-			setPropertyFromGroup("unspawnNotes", i, "multSpeed", 1); --デフォルトの数値は1.4です
-			setPropertyFromGroup('unspawnNotes', i, 'hitHealth', -0.023); --デフォルトの数値は0.023です
+			setPropertyFromGroup("unspawnNotes", i, "multSpeed", 3); --デフォルトの数値は1.4です
+			setPropertyFromGroup('unspawnNotes', i, 'hitHealth', -0.075); --デフォルトの数値は0.023です
 			setPropertyFromGroup('unspawnNotes', i, 'missHealth', 0.0475); --デフォルトの数値は0.0475です
 
 			if getPropertyFromGroup('unspawnNotes', i, 'mustPress') then --お父さん・相手のメモを無視させない
