@@ -39,4 +39,12 @@ function onCreatePost()
 	doTweenY('2', 'gf', 260 + 100*math.sin((currentBeat+4*0.2)*math.pi), 2)
 	doTweenX('3', 'dad', -270 - 25*math.sin((currentBeat+4*0.1)*math.pi), 0.00001)
 	doTweenX('4', 'gf', 800 + 25*math.sin((currentBeat+4*0.2)*math.pi), 0.00002)
+	for i=0,4,1 do
+		setPropertyFromGroup('opponentStrums', i, 'visible', false)
+	end
+	for i = 0, getProperty('unspawnNotes.length')-1 do
+		if not getPropertyFromGroup('unspawnNotes', i, 'mustPress') then	
+			setPropertyFromGroup('unspawnNotes', i, 'visible', false); --Change texture
+			end
+		end
 end
