@@ -2,9 +2,9 @@
 -- revived by mimi @slugetta
 -- settings (for <0.7.2 psych guys)
 rpcEnabled = true -- fast way to turn on/off the mod
-showPopup = true -- turns off and turns on pop up
+showPopup = false -- turns off and turns on pop up
 adjustX = 0
-forcefullyHideTimer = false -- if false, forces time to be hidden
+forcefullyHideTimer = true -- if false, forces time to be hidden
 smallcaps = false -- for compression, DISABLE IT IF YOU THINK IT'S UGLEEE!!!!
 popupTime = 2 -- for how long popup will stay
 showChartingMode = true -- should discord show whenever you are in charting mode or not
@@ -27,8 +27,8 @@ daWeeksName = "" -- week name text (makes automatically)
 forcedPlaying = false -- forces script to stop updating playingString
 playingString = "Playing: " -- i think you know what does it means, change if idk lol
 time = false -- time formula, have to be var because it will show time during pause so yeah
-enableTimer = false -- to turn off and turn on timer
-forcedAccuracy = false -- forces script to stop updating yourAccuracy (turn this on if you want to change yourAccuracy)
+enableTimer = true -- to turn off and turn on timer
+forcedAccuracy = true -- forces script to stop updating yourAccuracy (turn this on if you want to change yourAccuracy)
 yourAccuracy = 0 -- accuracy calculated by this script
 playingAsOpponent = false -- obviously
 hp = '' -- obviously
