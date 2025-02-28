@@ -1,6 +1,7 @@
 --varibles
 X=300
-Y=300
+Y=200
+
 
 randomPlayerstrumY1=0
 randomPlayerstrumY2=0
@@ -209,6 +210,9 @@ function onUpdate(elapsed)
   if currentBeat>23 then
     if currentBeat<62.5 then 
       runTimer('donewait',1,1,0)
+      setPropertyFromClass("openfl.Lib", "application.window.x", q) 
+      setPropertyFromClass("openfl.Lib", "application.window.y", w)
+      debugPrint("Application window sucessfully moved!")
     end
     if currentBeat>62.5 then
       cancelTimer('donewait')

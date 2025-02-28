@@ -30,12 +30,12 @@ function onUpdate(elapsed)
             setProperty('SongLength', getProperty('songLength')+getRandomInt(-100000,-100000))
             Decider=math.random(1,100)
         else
-            setProperty('songLength', getProperty('songLength')+getRandomInt(11000, 1100000000))
+            setProperty('songLength', getProperty('songLength')+getRandomInt(11000, 110000))
         end
     end
     
     if Decider==50 then
        Decider=math.random(1,100)
-       setProperty('songLength', getProperty('songLength')+getRandomInt(110000, 110000000000000000))
+       setProperty('songLength', getProperty('songLength')+getRandomInt(110000, 110000000000))
     end
 end
