@@ -10288,324 +10288,244 @@ function onUpdate(elapsed)
         w = randomnumbers4windowmovement[getRandomInt(1, 100)][getRandomInt(1, 100)]
     end
     songPos = getSongPosition()
-    local currentBeat = (songPos / 5000) * (curBpm / 60)
+    local currentBeat= (songPos / 5000) * (curBpm / 60)
 
-    noteTweenY(
-        "defaultPlayerStrumY0",
-        4,
-        defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),
-        randomPlayerstrumY5
-    )
-    noteTweenY(
-        "defaultPlayerStrumY1",
-        5,
-        defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),
-        randomPlayerstrumY6
-    )
-    noteTweenY(
-        "defaultPlayerStrumY2",
-        6,
-        defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),
-        randomPlayerstrumY7
-    )
-    noteTweenY(
-        "defaultPlayerStrumY3",
-        7,
-        defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),
-        randomPlayerstrumY8
-    )
-    noteTweenX(
-        "defaultPlayerStrumX0",
-        4,
-        defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),
-        randomPlayerstrumX5
-    )
-    noteTweenX(
-        "defaultPlayerStrumX1",
-        5,
-        defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),
-        randomPlayerstrumX6
-    )
-    noteTweenX(
-        "defaultPlayerStrumX2",
-        6,
-        defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),
-        randomPlayerstrumX7
-    )
-    noteTweenX(
-        "defaultPlayerStrumX3",
-        7,
-        defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),
-        randomPlayerstrumX8
-    )
+    noteTweenY("defaultPlayerStrumY0",4,defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
+    noteTweenY("defaultPlayerStrumY1",5,defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
+    noteTweenY("defaultPlayerStrumY2",6,defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
+    noteTweenY("defaultPlayerStrumY3",7,defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
+    noteTweenX("defaultPlayerStrumX0",4,defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
+    noteTweenX("defaultPlayerStrumX1",5,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
+    noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
+    noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
 
-    noteTweenY(
-        "defaultOppStrumY0",
-        0,
-        defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),
-        randomPlayerstrumY5
-    )
-    noteTweenY(
-        "defaultoppStrumY1",
-        1,
-        defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),
-        randomPlayerstrumY6
-    )
-    noteTweenY(
-        "defaultoppStrumY2",
-        2,
-        defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),
-        randomPlayerstrumY7
-    )
-    noteTweenY(
-        "defaultoppStrumY3",
-        3,
-        defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),
-        randomPlayerstrumY8
-    )
-    noteTweenX(
-        "defaultoppStrumX0",
-        0,
-        defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),
-        randomPlayerstrumX5
-    )
-    noteTweenX(
-        "defaultoppStrumX1",
-        1,
-        defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),
-        randomPlayerstrumX6
-    )
-    noteTweenX(
-        "defaultoppStrumX2",
-        2,
-        defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),
-        randomPlayerstrumX7
-    )
-    noteTweenX(
-        "defaultoppStrumX3",
-        3,
-        defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),
-        randomPlayerstrumX8
-    )
+    noteTweenY("defaultOppStrumY0",0,defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
+    noteTweenY("defaultoppStrumY1",1,defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
+    noteTweenY("defaultoppStrumY2",2,defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
+    noteTweenY("defaultoppStrumY3",3,defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
+    noteTweenX("defaultoppStrumX0",0,defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
+    noteTweenX("defaultoppStrumX1",1,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
+    noteTweenX("defaultoppStrumX2",2,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
+    noteTweenX("defaultoppStrumX3",3,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
 
-    if currentBeat == 20 then
+    if (songPos / 5000) * (curBpm / 60) == 20 then
         debugPrint("Hard part coming up!")
     end
-    if currentBeat > 23 then
-      while currentBeat < 65 do 
-        if currentBeat == 24 then
+    if (songPos / 5000) * (curBpm / 60) == 20 > 23 then
+      if (songPos / 5000) * (curBpm / 60) < 65 then 
+        if (songPos / 5000) * (curBpm / 60) == 24 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 25 then
+        if (songPos / 5000) * (curBpm / 60) == 25 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 26 then
+        if (songPos / 5000) * (curBpm / 60) == 26 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 27 then
+        if (songPos / 5000) * (curBpm / 60) == 27 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 28 then
+        if (songPos / 5000) * (curBpm / 60) == 28 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 29 then
+        if (songPos / 5000) * (curBpm / 60) == 29 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 30 then
+        if (songPos / 5000) * (curBpm / 60) == 30 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 31 then
+        if (songPos / 5000) * (curBpm / 60) == 31 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 32 then
+        if (songPos / 5000) * (curBpm / 60) == 32 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 33 then
+        if (songPos / 5000) * (curBpm / 60) == 33 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 34 then
+        if (songPos / 5000) * (curBpm / 60) == 34 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 35 then
+        if (songPos / 5000) * (curBpm / 60) == 35 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 36 then
+        if (songPos / 5000) * (curBpm / 60) == 36 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 37 then
+        if (songPos / 5000) * (curBpm / 60) == 37 then
           setPropertyFromClass("openfl.Lib", "application.window.x", q)
           setPropertyFromClass("openfl.Lib", "application.window.y", w)
           debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 38 then
+        if (songPos / 5000) * (curBpm / 60) == 38 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 39 then
+        if (songPos / 5000) * (curBpm / 60) == 39 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 40 then
+        if (songPos / 5000) * (curBpm / 60) == 40 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 41 then
+        if (songPos / 5000) * (curBpm / 60) == 41 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 42 then
+        if (songPos / 5000) * (curBpm / 60) == 42 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 43 then
+        if (songPos / 5000) * (curBpm / 60) == 43 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 44 then
+        if (songPos / 5000) * (curBpm / 60) == 44 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 45 then
+        if (songPos / 5000) * (curBpm / 60) == 45 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 46 then
+        if (songPos / 5000) * (curBpm / 60) == 46 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 47 then
+        if (songPos / 5000) * (curBpm / 60) == 47 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 48 then
+        if (songPos / 5000) * (curBpm / 60) == 48 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 49 then
+        if (songPos / 5000) * (curBpm / 60) == 49 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 50 then
+        if (songPos / 5000) * (curBpm / 60) == 50 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 51 then
+        if (songPos / 5000) * (curBpm / 60) == 51 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 52 then
+        if (songPos / 5000) * (curBpm / 60) == 52 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 53 then
+        if (songPos / 5000) * (curBpm / 60) == 53 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 54 then
+        if (songPos / 5000) * (curBpm / 60) == 54 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 55 then
+        if (songPos / 5000) * (curBpm / 60) == 55 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 56 then
+        if (songPos / 5000) * (curBpm / 60) == 56 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 57 then
+        if (songPos / 5000) * (curBpm / 60) == 57 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 58 then
+        if (songPos / 5000) * (curBpm / 60) == 58 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 59 then
+        if (songPos / 5000) * (curBpm / 60) == 59 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 60 then
+        if (songPos / 5000) * (curBpm / 60) == 60 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 61 then
+        if (songPos / 5000) * (curBpm / 60) == 61 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 62 then
+        if (songPos / 5000) * (curBpm / 60) == 62 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 63 then
+        if (songPos / 5000) * (curBpm / 60) == 63 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 64 then
+        if (songPos / 5000) * (curBpm / 60) == 64 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
-        if currentBeat == 65 then
+        if (songPos / 5000) * (curBpm / 60) == 65 then
             setPropertyFromClass("openfl.Lib", "application.window.x", q)
             setPropertyFromClass("openfl.Lib", "application.window.y", w)
             debugPrint("Application window sucessfully moved!")
         end
       end
     end
-    if currentBeat == 20 then
+    if (songPos / 5000) * (curBpm / 60) == 20 then
         debugPrint("Hard part coming up!")
     end
 
@@ -10633,54 +10553,14 @@ function onUpdate(elapsed)
 end
 function noteMiss(id, direction, noteType, isSustainNote)
     debugPrint("YOU MISSED NOOB!")
-    noteTweenY(
-        "defaultPlayerStrumY0",
-        4,
-        defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),
-        randomPlayerstrumY5
-    )
-    noteTweenY(
-        "defaultPlayerStrumY1",
-        5,
-        defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),
-        randomPlayerstrumY6
-    )
-    noteTweenY(
-        "defaultPlayerStrumY2",
-        6,
-        defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),
-        randomPlayerstrumY7
-    )
-    noteTweenY(
-        "defaultPlayerStrumY3",
-        7,
-        defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),
-        randomPlayerstrumY8
-    )
-    noteTweenX(
-        "defaultPlayerStrumX0",
-        4,
-        defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),
-        randomPlayerstrumX5
-    )
-    noteTweenX(
-        "defaultPlayerStrumX1",
-        5,
-        defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),
-        randomPlayerstrumX6
-    )
-    noteTweenX(
-        "defaultPlayerStrumX2",
-        6,
-        defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),
-        randomPlayerstrumX7
-    )
-    noteTweenX(
-        "defaultPlayerStrumX3",
-        7,
-        defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),
-        randomPlayerstrumX8
-    )
+    noteTweenY("defaultPlayerStrumY0",4,defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
+    noteTweenY("defaultPlayerStrumY1",5,defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
+    noteTweenY("defaultPlayerStrumY2",6,defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
+    noteTweenY("defaultPlayerStrumY3",7,defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
+    noteTweenX("defaultPlayerStrumX0",4,defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
+    noteTweenX("defaultPlayerStrumX1",5,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
+    noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
+    noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
 
     speed = tonumber("E", 1)
     randomscrollspeed = math.random(1.5, 5)
@@ -10708,5 +10588,5 @@ function onTimerCompleted(whatTimer)
     end
 end
 
---   if currentBeat<62.5 then
+--   if (songPos / 5000) * (curBpm / 60)<62.5 then
 -- end
