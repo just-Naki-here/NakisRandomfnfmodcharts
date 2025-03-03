@@ -1,0 +1,5 @@
+value 1:
+act2 start = create the character but alpha 0
+show omega = alpha 1
+delete omega = remove sprite
+play anim = he plays an anim(value 2: animName)

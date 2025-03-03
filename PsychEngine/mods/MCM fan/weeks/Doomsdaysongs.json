@@ -1,0 +1,59 @@
+{
+	"storyName": "doomsday songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "mcmv1-week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"doomsday v1",
+			"icon-sadward",
+			[
+				171, 
+				186, 
+				183
+			]
+		],
+		[
+			"doomsday v2",
+			"darkward",
+			[
+				171, 
+				186, 
+				183
+			]
+		],
+		[
+			"doomsday oldv2",
+			"darkward",
+			[
+				171, 
+				186, 
+				183
+			]
+		],
+		[
+			"doomsday poproxx Mix",
+			"darkward",
+			[
+				171, 
+				186, 
+				183
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "doomsday songs",
+	"hiddenUntilUnlocked": false
+}

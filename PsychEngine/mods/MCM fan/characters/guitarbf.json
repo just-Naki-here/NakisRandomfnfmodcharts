@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "guitar_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down_pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down_pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left_pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-50
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right_pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right_pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				130
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up_pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/guitarBF",
+	"position": [
+		-590,
+		505
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 4.6
+}

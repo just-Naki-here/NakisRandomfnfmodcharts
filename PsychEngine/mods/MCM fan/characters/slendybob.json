@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				-50
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": true,
+			"name": "Slendybob idle"
+		},
+		{
+			"offsets": [
+				-79,
+				-50
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Slendybob left"
+		},
+		{
+			"offsets": [
+				-79,
+				-50
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Slendybob down"
+		},
+		{
+			"offsets": [
+				-80,
+				-48
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Slendybob up"
+		},
+		{
+			"offsets": [
+				-80,
+				-49
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Slendybob right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Slendybob",
+	"position": [
+		-310,
+		-220
+	],
+	"healthicon": "slendybob",
+	"flip_x": false,
+	"healthbar_colors": [
+		177,
+		234,
+		36
+	],
+	"camera_position": [
+		-170,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

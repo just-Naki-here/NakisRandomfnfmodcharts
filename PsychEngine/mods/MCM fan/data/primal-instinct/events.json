@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "Black",
+		"player1": "egg",
+		"player2": "sta",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Hide_HealthBar",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "none",
+		"bpm": 172,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Primal-instinct"
+	}
+}

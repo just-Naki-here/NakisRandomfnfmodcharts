@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="served scream.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scream animation0000" x="0" y="0" width="111" height="206" frameX="-1" frameY="0" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0001" x="0" y="0" width="111" height="206" frameX="-1" frameY="0" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0002" x="112" y="0" width="111" height="205" frameX="0" frameY="-1" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0003" x="112" y="0" width="111" height="205" frameX="0" frameY="-1" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0004" x="224" y="0" width="112" height="204" frameX="-3" frameY="-2" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0005" x="224" y="0" width="112" height="204" frameX="-3" frameY="-2" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0006" x="337" y="0" width="111" height="195" frameX="-5" frameY="-10" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0007" x="337" y="0" width="111" height="195" frameX="-5" frameY="-10" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0008" x="449" y="0" width="108" height="194" frameX="-8" frameY="-11" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0009" x="449" y="0" width="108" height="194" frameX="-8" frameY="-11" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0010" x="449" y="0" width="108" height="194" frameX="-8" frameY="-11" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0011" x="558" y="0" width="109" height="195" frameX="-8" frameY="-10" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0012" x="558" y="0" width="109" height="195" frameX="-8" frameY="-10" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0013" x="668" y="0" width="109" height="194" frameX="-8" frameY="-11" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0014" x="668" y="0" width="109" height="194" frameX="-8" frameY="-11" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0015" x="778" y="0" width="109" height="195" frameX="-8" frameY="-10" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0016" x="778" y="0" width="109" height="195" frameX="-8" frameY="-10" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0017" x="888" y="0" width="115" height="196" frameX="-11" frameY="-11" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0018" x="888" y="0" width="115" height="196" frameX="-11" frameY="-11" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0019" x="1004" y="0" width="124" height="145" frameX="-11" frameY="-60" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0020" x="1004" y="0" width="124" height="145" frameX="-11" frameY="-60" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0021" x="1129" y="0" width="123" height="140" frameX="-12" frameY="-65" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0022" x="1129" y="0" width="123" height="140" frameX="-12" frameY="-65" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0023" x="1253" y="0" width="122" height="140" frameX="-12" frameY="-65" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0024" x="1253" y="0" width="122" height="140" frameX="-12" frameY="-65" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0025" x="1376" y="0" width="123" height="140" frameX="-12" frameY="-65" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0026" x="1376" y="0" width="123" height="140" frameX="-12" frameY="-65" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0027" x="1500" y="0" width="122" height="140" frameX="-12" frameY="-65" frameWidth="137" frameHeight="207"/>
+	<SubTexture name="scream animation0028" x="1623" y="0" width="126" height="152" frameX="-11" frameY="-53" frameWidth="137" frameHeight="207"/>
+</TextureAtlas>

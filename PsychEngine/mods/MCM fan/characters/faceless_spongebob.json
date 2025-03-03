@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sponge idle"
+		},
+		{
+			"offsets": [
+				438,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spongeLEFT"
+		},
+		{
+			"offsets": [
+				101,
+				407
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spongeUP"
+		},
+		{
+			"offsets": [
+				14,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spongRIGHT"
+		},
+		{
+			"offsets": [
+				170,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spongeDOWN"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/MCM/Dead Hope/irl_sponge",
+	"position": [
+		-6,
+		109
+	],
+	"healthicon": "new-faceless",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		48,
+		47
+	],
+	"camera_position": [
+		-320,
+		-120
+	],
+	"sing_duration": 6.4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

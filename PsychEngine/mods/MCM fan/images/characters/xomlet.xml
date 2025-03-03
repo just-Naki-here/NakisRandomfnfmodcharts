@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xomlet.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spongebob down instance 10000" x="7175" y="1" width="1008" height="818" frameX="-44" frameY="0" frameWidth="1052" frameHeight="818"/>
+	<SubTexture name="spongebob down instance 10001" x="1035" y="885" width="1052" height="818"/>
+	<SubTexture name="spongebob down instance 10002" x="4140" y="885" width="1021" height="818" frameX="-25" frameY="0" frameWidth="1052" frameHeight="818"/>
+	<SubTexture name="spongebob down instance 10003" x="6203" y="4873" width="993" height="818" frameX="-53" frameY="0" frameWidth="1052" frameHeight="818"/>
+	<SubTexture name="spongebob down instance 10004" x="2088" y="885" width="1025" height="818" frameX="-21" frameY="0" frameWidth="1052" frameHeight="818"/>
+	<SubTexture name="spongebob down instance 10005" x="1" y="893" width="1021" height="818" frameX="-25" frameY="0" frameWidth="1052" frameHeight="818"/>
+	<SubTexture name="spongebob down instance 10006" x="7197" y="4873" width="993" height="818" frameX="-53" frameY="0" frameWidth="1052" frameHeight="818"/>
+	<SubTexture name="spongebob down instance 10007" x="3114" y="885" width="1025" height="818" frameX="-21" frameY="0" frameWidth="1052" frameHeight="818"/>
+	<SubTexture name="spongebob idle instance 10000" x="5167" y="4082" width="1000" height="788" frameX="-35" frameY="-9" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10001" x="5167" y="4873" width="1035" height="788" frameX="0" frameY="-9" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10002" x="4129" y="4877" width="1031" height="787" frameX="-4" frameY="-10" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10003" x="1" y="3308" width="1000" height="787" frameX="-35" frameY="-10" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10004" x="4125" y="1704" width="1035" height="797"/>
+	<SubTexture name="spongebob idle instance 10005" x="3103" y="3304" width="1031" height="797" frameX="-4" frameY="0" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10006" x="3105" y="2506" width="1000" height="794" frameX="-35" frameY="-3" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10007" x="5155" y="3287" width="1035" height="794" frameX="0" frameY="-3" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10008" x="6191" y="4078" width="1031" height="794" frameX="-4" frameY="-3" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10009" x="3992" y="5665" width="1000" height="794" frameX="-35" frameY="-3" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10010" x="1031" y="3301" width="1035" height="794" frameX="0" frameY="-3" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10011" x="4135" y="4082" width="1031" height="794" frameX="-4" frameY="-3" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10012" x="6159" y="5692" width="1000" height="794" frameX="-35" frameY="-3" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob idle instance 10013" x="2067" y="3301" width="1035" height="794" frameX="0" frameY="-3" frameWidth="1035" frameHeight="797"/>
+	<SubTexture name="spongebob left instance 10000" x="1" y="1712" width="1011" height="793" frameX="-43" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10001" x="6174" y="885" width="1054" height="793" frameX="0" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10002" x="1" y="4096" width="1031" height="794" frameX="-30" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10003" x="7160" y="5692" width="1000" height="794" frameX="-61" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10004" x="1031" y="2506" width="1036" height="794" frameX="-25" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10005" x="1033" y="4096" width="1031" height="794" frameX="-30" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10006" x="998" y="5693" width="1000" height="794" frameX="-61" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10007" x="2068" y="2506" width="1036" height="794" frameX="-25" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10008" x="2065" y="4096" width="1031" height="794" frameX="-30" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10009" x="1999" y="5699" width="1000" height="794" frameX="-61" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10010" x="6191" y="3283" width="1036" height="794" frameX="-25" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob left instance 10011" x="3097" y="4102" width="1031" height="794" frameX="-30" frameY="0" frameWidth="1061" frameHeight="794"/>
+	<SubTexture name="spongebob right instance 10000" x="1" y="4891" width="996" height="805" frameX="-40" frameY="0" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10001" x="5162" y="1679" width="1035" height="805" frameX="-1" frameY="0" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10002" x="6198" y="2481" width="1029" height="801" frameX="-4" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10003" x="998" y="4891" width="997" height="801" frameX="-36" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10004" x="6198" y="1679" width="1033" height="801" frameX="0" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10005" x="5161" y="2485" width="1029" height="801" frameX="-4" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10006" x="1996" y="4891" width="997" height="801" frameX="-36" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10007" x="1023" y="1704" width="1033" height="801" frameX="0" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10008" x="4125" y="2502" width="1029" height="801" frameX="-4" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10009" x="2994" y="4897" width="997" height="801" frameX="-36" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10010" x="2057" y="1704" width="1033" height="801" frameX="0" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10011" x="1" y="2506" width="1029" height="801" frameX="-4" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10012" x="5161" y="5662" width="997" height="801" frameX="-36" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob right instance 10013" x="3091" y="1704" width="1033" height="801" frameX="0" frameY="-7" frameWidth="1036" frameHeight="808"/>
+	<SubTexture name="spongebob up instance 10000" x="1" y="1" width="1033" height="891" frameX="-3" frameY="0" frameWidth="1047" frameHeight="891"/>
+	<SubTexture name="spongebob up instance 10001" x="5175" y="1" width="998" height="891" frameX="-38" frameY="0" frameWidth="1047" frameHeight="891"/>
+	<SubTexture name="spongebob up instance 10002" x="1035" y="1" width="1036" height="883" frameX="-11" frameY="-7" frameWidth="1047" frameHeight="891"/>
+	<SubTexture name="spongebob up instance 10003" x="3109" y="1" width="1032" height="883" frameX="-15" frameY="-7" frameWidth="1047" frameHeight="891"/>
+	<SubTexture name="spongebob up instance 10004" x="6174" y="1" width="1000" height="883" frameX="-47" frameY="-7" frameWidth="1047" frameHeight="891"/>
+	<SubTexture name="spongebob up instance 10005" x="2072" y="1" width="1036" height="883" frameX="-11" frameY="-7" frameWidth="1047" frameHeight="891"/>
+	<SubTexture name="spongebob up instance 10006" x="4142" y="1" width="1032" height="883" frameX="-15" frameY="-7" frameWidth="1047" frameHeight="891"/>
+</TextureAtlas>

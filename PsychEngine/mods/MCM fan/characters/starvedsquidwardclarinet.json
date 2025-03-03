@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				309,
+				304
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "starved_squidward_clarinet idle"
+		},
+		{
+			"offsets": [
+				309,
+				303
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "starved_squidward_clarinet right"
+		},
+		{
+			"offsets": [
+				308,
+				304
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "starved_squidward_clarinet left"
+		},
+		{
+			"offsets": [
+				309,
+				304
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singUP",
+			"indices": [],
+			"name": "starved_squidward_clarinet up"
+		},
+		{
+			"offsets": [
+				309,
+				304
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "starved_squidward_clarinet down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starved_squidward_clarinet",
+	"position": [
+		30,
+		210
+	],
+	"healthicon": "starved",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-500,
+		-240
+	],
+	"sing_duration": 4.50000000000001,
+	"scale": 1
+}

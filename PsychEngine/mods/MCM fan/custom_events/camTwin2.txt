@@ -1,0 +1,4 @@
+es lo mismo que el otro solo que este es exclusivamente para hud o camara del juego
+
+value 1: Game o Hud(le podea decir ui tambien)
+value 2: duracion, alpha (1,0 por ejemplo)

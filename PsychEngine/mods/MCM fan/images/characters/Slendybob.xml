@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Slendybob.png">
+<SubTexture name="Slendybob down0000" x="1858" y="0" width="531" height="596" frameX="-228" frameY="-235" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob down0001" x="1045" y="1225" width="500" height="597" frameX="-243" frameY="-227" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob down0002" x="1379" y="0" width="479" height="599" frameX="-251" frameY="-224" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob idle0000" x="0" y="623" width="453" height="602" frameX="-265" frameY="-220" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob idle0001" x="453" y="623" width="453" height="602" frameX="-265" frameY="-220" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob left0000" x="1858" y="596" width="499" height="592" frameX="-261" frameY="-220" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob left0001" x="0" y="1225" width="513" height="599" frameX="-241" frameY="-220" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob left0002" x="513" y="1225" width="532" height="599" frameX="-218" frameY="-220" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob right0000" x="2389" y="0" width="511" height="586" frameX="-201" frameY="-220" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob right0001" x="2389" y="586" width="489" height="586" frameX="-219" frameY="-220" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob right0002" x="1858" y="1188" width="465" height="588" frameX="-239" frameY="-220" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob up0000" x="0" y="0" width="417" height="623" frameX="-288" frameY="-205" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob up0001" x="417" y="0" width="455" height="617" frameX="-271" frameY="-212" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Slendybob up0002" x="872" y="0" width="507" height="614" frameX="-239" frameY="-217" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

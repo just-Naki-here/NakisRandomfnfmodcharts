@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Soul_Keeper_Normal.png">
+<SubTexture name="Soul_Keeper_Normal down0000" x="0" y="0" width="241" height="269" frameX="-389" frameY="-409" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Soul_Keeper_Normal idle0000" x="241" y="0" width="237" height="282" frameX="-393" frameY="-396" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Soul_Keeper_Normal left0000" x="0" y="282" width="249" height="282" frameX="-381" frameY="-396" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Soul_Keeper_Normal right0000" x="249" y="282" width="227" height="282" frameX="-407" frameY="-396" frameWidth="1000" frameHeight="900" />
+<SubTexture name="Soul_Keeper_Normal up0000" x="0" y="564" width="237" height="292" frameX="-393" frameY="-386" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

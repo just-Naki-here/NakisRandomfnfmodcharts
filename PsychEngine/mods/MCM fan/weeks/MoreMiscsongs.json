@@ -1,0 +1,113 @@
+{
+	"storyName": "more other songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Miscsongs",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"he gets ya",
+			"slinger",
+			[
+				63, 
+				92,
+				93
+			]
+		],
+		[
+			"massacre", 
+			"leather", 
+			[
+				166, 
+				135, 
+				133
+			]
+		],
+		[
+			"Joe Mama", 
+			"joe", 
+			[
+				105, 
+				157, 
+				121
+			]
+		],
+		[
+			"inksplot", 
+			"ink-squid", 
+			[
+				10, 
+				10, 
+				10
+			]
+		],
+		[
+			"Last meal", 
+			"starvedd", 
+			[
+				0, 
+				0, 
+				255
+			]
+		],	
+		[
+			"baked",
+			"Slendybob",
+			[
+				163,
+				138,
+				108
+			]
+		],
+		[
+			"final night", 
+			"icon-robot-squid", 
+			[
+				181, 
+				149, 
+				26
+			]
+			],
+	    [
+			"Datamine",
+			"yummer",
+			[
+				163,
+				138,
+				108
+			]
+		],
+		[
+			"Insert Soul",
+			"inky",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"judgement day",
+			"lolward",
+			[
+				171,
+				186,
+				183
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "more Other songs",
+	"hiddenUntilUnlocked": false
+}

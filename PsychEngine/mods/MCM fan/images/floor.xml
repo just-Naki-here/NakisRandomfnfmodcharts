@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="floor.png"><SubTexture name="floor dance0000" x="0" y="0" width="4192" height="1530" frameX="-791" frameY="-537" frameWidth="4983" frameHeight="2067" />
+<SubTexture name="floor dance0001" x="0" y="0" width="4192" height="1530" frameX="-791" frameY="-537" frameWidth="4983" frameHeight="2067" />
+<SubTexture name="floor dance0002" x="0" y="1530" width="4192" height="1530" frameX="-605" frameY="-477" frameWidth="4983" frameHeight="2067" />
+<SubTexture name="floor dance0003" x="0" y="1530" width="4192" height="1530" frameX="-605" frameY="-477" frameWidth="4983" frameHeight="2067" />
+<SubTexture name="floor dance0004" x="4192" y="0" width="4192" height="1530" frameX="-475" frameY="-434" frameWidth="4983" frameHeight="2067" />
+<SubTexture name="floor dance0005" x="4192" y="0" width="4192" height="1530" frameX="-475" frameY="-434" frameWidth="4983" frameHeight="2067" />
+<SubTexture name="floor dance0006" x="0" y="3060" width="4193" height="1530" frameX="-346" frameY="-392" frameWidth="4983" frameHeight="2067" />
+<SubTexture name="floor dance0007" x="0" y="3060" width="4193" height="1530" frameX="-346" frameY="-392" frameWidth="4983" frameHeight="2067" />
+<SubTexture name="floor dance0008" x="4192" y="1530" width="4192" height="1530" frameX="-213" frameY="-349" frameWidth="4983" frameHeight="2067" />
+<SubTexture name="floor dance0009" x="4192" y="1530" width="4192" height="1530" frameX="-213" frameY="-349" frameWidth="4983" frameHeight="2067" />
+<SubTexture name="floor dance0010" x="0" y="4590" width="4192" height="1530" frameX="0" frameY="-281" frameWidth="4983" frameHeight="2067" />
+</TextureAtlas>

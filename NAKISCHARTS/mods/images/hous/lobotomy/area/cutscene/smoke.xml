@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="smoke.png"><SubTexture name="smoke loop0000" x="443" y="0" width="148" height="151" frameX="-74" frameY="-73" frameWidth="297" frameHeight="285" />
-<SubTexture name="smoke loop0001" x="0" y="156" width="146" height="154" frameX="-82" frameY="-69" frameWidth="297" frameHeight="285" />
-<SubTexture name="smoke loop0002" x="290" y="156" width="145" height="152" frameX="-78" frameY="-71" frameWidth="297" frameHeight="285" />
-<SubTexture name="smoke loop0003" x="0" y="0" width="146" height="156" frameX="-77" frameY="-67" frameWidth="297" frameHeight="285" />
-<SubTexture name="smoke loop0004" x="146" y="0" width="149" height="155" frameX="-74" frameY="-68" frameWidth="297" frameHeight="285" />
-<SubTexture name="smoke loop0005" x="295" y="0" width="148" height="155" frameX="-74" frameY="-68" frameWidth="297" frameHeight="285" />
-<SubTexture name="smoke loop0006" x="146" y="156" width="144" height="154" frameX="-78" frameY="-69" frameWidth="297" frameHeight="285" />
-</TextureAtlas>

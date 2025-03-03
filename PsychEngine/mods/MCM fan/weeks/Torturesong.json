@@ -1,0 +1,68 @@
+{
+	"storyName": "Tortured songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "mcmv1-week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tortured v1", 
+			"TP", 
+			[
+				10, 
+				10, 
+				10
+			]
+		],
+		[
+			"Tortured v1 remake", 
+			"TP", 
+			[
+				10, 
+				10, 
+				10
+			]
+		],
+		[
+			"Tortured v2", 
+			"TP", 
+			[
+				10, 
+				10, 
+				10
+			]
+		],
+		[
+			"tortured DogeRemake", 
+			"TP", 
+			[
+				10, 
+				10, 
+				10
+			]
+		],
+		[
+			"Tortured Legacy", 
+			"TP", 
+			[
+				10, 
+				10, 
+				10
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tortured songs",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tortured.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tortured0000" x="0" y="0" width="250" height="153" />
+	<SubTexture name="Tortured0001" x="250" y="0" width="250" height="153" />
+	<SubTexture name="Tortured0002" x="500" y="0" width="250" height="153" />
+	<SubTexture name="Tortured0003" x="750" y="0" width="250" height="153" />
+	<SubTexture name="Tortured0004" x="1000" y="0" width="250" height="153" />
+	<SubTexture name="Tortured0005" x="1250" y="0" width="250" height="153" />
+	<SubTexture name="Tortured0006" x="1500" y="0" width="250" height="153" />
+	<SubTexture name="Tortured0007" x="1750" y="0" width="250" height="153" />
+	<SubTexture name="Tortured0008" x="2000" y="0" width="250" height="153" />
+	<SubTexture name="Tortured0009" x="2250" y="0" width="250" height="153" />
+	<SubTexture name="Tortured00010" x="2500" y="0" width="250" height="153" />
+	<SubTexture name="Tortured00011" x="2750" y="0" width="250" height="153" />
+	<SubTexture name="Tortured00012" x="3000" y="0" width="250" height="153" />
+</TextureAtlas>

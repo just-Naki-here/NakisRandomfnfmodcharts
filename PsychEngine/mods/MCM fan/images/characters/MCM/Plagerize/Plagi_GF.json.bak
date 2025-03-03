@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mcm/Plagerize/Plagi_GF",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Plagi_GF",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		20,
+		86
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

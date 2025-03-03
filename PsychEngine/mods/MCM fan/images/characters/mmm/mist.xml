@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mist.png"><SubTexture name="mist singDOWN0000" x="405" y="726" width="206" height="333" frameX="0" frameY="0" frameWidth="206" frameHeight="333" />
+<SubTexture name="mist singDOWN0001" x="0" y="726" width="202" height="339" frameX="0" frameY="0" frameWidth="202" frameHeight="339" />
+<SubTexture name="mist singDOWN0002" x="202" y="726" width="203" height="338" frameX="0" frameY="0" frameWidth="203" frameHeight="338" />
+<SubTexture name="mist handler0000" x="588" y="366" width="137" height="352" frameX="0" frameY="0" frameWidth="137" frameHeight="352" />
+<SubTexture name="mist idle0000" x="948" y="341" width="162" height="331" frameX="0" frameY="0" frameWidth="162" frameHeight="331" />
+<SubTexture name="mist singLEFT0000" x="948" y="0" width="189" height="341" frameX="0" frameY="0" frameWidth="189" frameHeight="341" />
+<SubTexture name="mist singLEFT0001" x="772" y="0" width="176" height="346" frameX="0" frameY="0" frameWidth="176" frameHeight="346" />
+<SubTexture name="mist singLEFT0002" x="772" y="346" width="161" height="346" frameX="0" frameY="0" frameWidth="161" frameHeight="346" />
+<SubTexture name="mist singRIGHT0000" x="268" y="366" width="320" height="353" frameX="0" frameY="0" frameWidth="320" frameHeight="353" />
+<SubTexture name="mist singRIGHT0001" x="461" y="0" width="311" height="361" frameX="0" frameY="0" frameWidth="311" frameHeight="361" />
+<SubTexture name="mist singRIGHT0002" x="0" y="0" width="311" height="366" frameX="0" frameY="0" frameWidth="311" frameHeight="366" />
+<SubTexture name="mist singUP0000" x="311" y="0" width="150" height="362" frameX="0" frameY="0" frameWidth="150" frameHeight="362" />
+<SubTexture name="mist singUP0001" x="0" y="366" width="138" height="360" frameX="0" frameY="0" frameWidth="138" frameHeight="360" />
+<SubTexture name="mist singUP0002" x="138" y="366" width="130" height="356" frameX="0" frameY="0" frameWidth="130" frameHeight="356" />
+</TextureAtlas>

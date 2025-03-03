@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="popup.png">
+	<SubTexture name="downscroll0000" x="0" y="0" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="downscroll0001" x="0" y="113" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="downscroll0002" x="288" y="0" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="downscroll0003" x="288" y="113" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="downscroll0004" x="0" y="226" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="downscroll0005" x="288" y="226" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="downscroll0006" x="0" y="339" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="downscroll0007" x="288" y="339" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="downscroll0008" x="0" y="452" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="downscroll0009" x="288" y="452" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="downscroll0010" x="576" y="0" width="288" height="112" frameX="0" frameY="1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0000" x="576" y="114" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0001" x="576" y="227" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0002" x="576" y="340" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0003" x="576" y="453" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0004" x="0" y="566" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0005" x="288" y="566" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0006" x="576" y="566" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0007" x="0" y="679" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0008" x="288" y="679" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0009" x="576" y="679" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+	<SubTexture name="upscroll0010" x="864" y="1" width="288" height="112" frameX="0" frameY="-1" frameWidth="288" frameHeight="112" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_bob.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spongebob idle0000" x="0" y="0" width="1578" height="1216" frameX="-56" frameY="-14" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0001" x="1578" y="0" width="1634" height="1216" frameX="0" frameY="-14" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0002" x="3212" y="0" width="1628" height="1216" frameX="-6" frameY="-14" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0003" x="4840" y="0" width="1578" height="1216" frameX="-56" frameY="-14" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0004" x="6418" y="0" width="1634" height="1230"/>
+	<SubTexture name="spongebob idle0005" x="0" y="1230" width="1628" height="1230" frameX="-6" frameY="0" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0006" x="1628" y="1230" width="1578" height="1226" frameX="-56" frameY="-4" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0007" x="3206" y="1230" width="1634" height="1226" frameX="0" frameY="-4" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0008" x="4840" y="1230" width="1628" height="1226" frameX="-6" frameY="-4" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0009" x="6468" y="1230" width="1578" height="1226" frameX="-56" frameY="-4" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0010" x="0" y="2460" width="1634" height="1226" frameX="0" frameY="-4" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0011" x="1634" y="2460" width="1628" height="1226" frameX="-6" frameY="-4" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0012" x="3262" y="2460" width="1578" height="1226" frameX="-56" frameY="-4" frameWidth="1634" frameHeight="1230"/>
+	<SubTexture name="spongebob idle0013" x="4840" y="2460" width="1634" height="1226" frameX="0" frameY="-4" frameWidth="1634" frameHeight="1230"/>
+</TextureAtlas>

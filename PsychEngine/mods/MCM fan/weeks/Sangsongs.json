@@ -1,0 +1,48 @@
+{
+	"storyName": "Sanguilacrimae songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "mcmv1-week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sanguilacrimae v1",
+			"canonsquiddy",
+			[182, 203, 194]
+		],
+		[
+			"Sanguilacrimae v2",
+			"canonsquiddy",
+			[182, 203, 194]
+		],
+		[
+			"Sanguilacrimae v1 v2Voices",
+			"canonsquiddy",
+			[182, 203, 194]
+		],
+		[
+			"Sanguilacrimae v2 v1Voices",
+			"canonsquiddy",
+			[182, 203, 194]
+		],
+		[
+			"Sanguilacrimae Retake",
+			"canonsquiddy",
+			[182, 203, 194]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Sanguilacrimae songs",
+	"hiddenUntilUnlocked": false
+}

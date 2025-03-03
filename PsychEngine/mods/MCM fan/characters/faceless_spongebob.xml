@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="7.4" x="100" y="320" camX="280" camY="60" sprite="MCM/Dead Hope/irl_sponge" icon="faceless" color="#fffc5a">
+
+   <anim name="idle" anim="sponge idle" x="10" y="0"/>
+   <anim name="singLEFT" anim="spongeLEFT" x="472" y="4"/>
+   <anim name="singRIGHT" anim="spongRIGHT" x="10" y="-1"/>
+   <anim name="singDOWN" anim="spongeDOWN" x="180" y="0"/>
+   <anim name="singUP" anim="spongeUP" x="105" y="407"/>
+
+</character>

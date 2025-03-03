@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf2.png">
+<SubTexture name="bf2 idle0000" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bf2 up0000" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bf2 left0000" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bf2 right0000" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bf2 down0000" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

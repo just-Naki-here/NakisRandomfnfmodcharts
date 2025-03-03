@@ -1,0 +1,6 @@
+Flashes your screen
+
+Value 1: image  
+	
+Value 2: Flash duration in seconds.
+	 (Recommended: 0.2)

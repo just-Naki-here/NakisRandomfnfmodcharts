@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Furnace sheet.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Furnace down0000" x="12" y="21" width="85" height="64"/>
+	<SubTexture name="Furnace down0001" x="12" y="21" width="85" height="64"/>
+	<SubTexture name="Furnace idle0000" x="14" y="110" width="88" height="69"/>
+	<SubTexture name="Furnace idle0001" x="110" y="108" width="87" height="67"/>
+	<SubTexture name="Furnace idle0002" x="216" y="111" width="87" height="68"/>
+	<SubTexture name="Furnace idle0003" x="319" y="115" width="88" height="66"/>
+	<SubTexture name="Furnace idle0004" x="17" y="202" width="89" height="67"/>
+	<SubTexture name="Furnace left0000" x="112" y="17" width="90" height="68"/>
+	<SubTexture name="Furnace left0001" x="112" y="17" width="90" height="68"/>
+	<SubTexture name="Furnace right0000" x="210" y="19" width="88" height="61"/>
+	<SubTexture name="Furnace right0001" x="210" y="19" width="88" height="61"/>
+	<SubTexture name="Furnace up0000" x="309" y="12" width="88" height="69"/>
+	<SubTexture name="Furnace up0001" x="309" y="12" width="88" height="69"/>
+</TextureAtlas>

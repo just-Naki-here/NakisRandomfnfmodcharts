@@ -1,0 +1,47 @@
+{
+	"songs": [
+		[
+			"misery v1", 
+			"icon-squidward", 
+			[
+				103, 
+				174, 
+				175
+			]
+		],
+		[
+			"Mist mmm", 
+			"lolward", 
+			[
+				105, 
+				157, 
+				121
+			]
+		],
+		[
+			"Doomsday v1", 
+			"darkward", 
+			[
+				171, 
+				186, 
+				183
+			]
+		]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Monday Morning Mist",
+	"weekBefore": "Week1",
+	"weekName": "Week 1",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}

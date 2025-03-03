@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				121,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shotgun squidy phase 2 "
+		},
+		{
+			"offsets": [
+				123,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right pose shotgun"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				108
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "alt-left pose shotgun instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				76
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down pose shotgun",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				123
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up pose shotgun",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squidy-alt",
+	"position": [
+		18,
+		20
+	],
+	"healthicon": "lolward",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		157,
+		121
+	],
+	"camera_position": [
+		20,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

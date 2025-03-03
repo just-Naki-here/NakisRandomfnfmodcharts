@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": " singLEFT",
+			"indices": [],
+			"name": "spong.dumped singLEFT"
+		},
+		{
+			"offsets": [
+				100,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": " singRIGHT",
+			"indices": [],
+			"name": "spong.dumped singRIGHT"
+		},
+		{
+			"offsets": [
+				-100,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "spong idle"
+		},
+		{
+			"offsets": [
+				100,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "spong singLEFT"
+		},
+		{
+			"offsets": [
+				100,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "spong singDOWN"
+		},
+		{
+			"offsets": [
+				100,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "spong singRIGHT"
+		},
+		{
+			"offsets": [
+				100,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "spong singUP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mmm/spong",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-spong",
+	"flip_x": false,
+	"healthbar_colors": [
+		191,
+		165,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

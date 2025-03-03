@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "yellowB",
+			"fps": 12,
+			"name": "Yellow Bastard",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "gasp",
+			"fps": 12,
+			"name": "Gasp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "richestM",
+			"fps": 12,
+			"name": "Richest Man",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/largespritesheets/Krabs",
+	"position": [
+		175,
+		175
+	],
+	"healthicon": "rckr",
+	"flip_x": false,
+	"healthbar_colors": [
+		130,
+		6,
+		24
+	],
+	"camera_position": [
+		-180,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 2.6
+}

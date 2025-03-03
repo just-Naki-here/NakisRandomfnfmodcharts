@@ -1,0 +1,95 @@
+{
+	"storyName": "Dumped songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "mcmv1-week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Dumped oldest", 
+			"icon_sponge", 
+			[
+				60, 
+				83, 
+				47
+			]
+		],
+		[
+			"Devious", 
+			"icon_sponge", 
+			[
+				60, 
+				83, 
+				47
+			]
+		],
+		[
+			"Dumped mmm", 
+			"icon-spong", 
+			[
+				60, 
+				83, 
+				47
+			]
+		],
+		[
+			"Dumped v1", 
+			"icon_sponge", 
+			[
+				60, 
+				83, 
+				47
+			]
+		],
+		[
+			"Deadly Reflection",
+			"icon_sponge",
+			[
+				60, 
+				83, 
+				47
+			]
+		],
+		[
+			"Deadly Reflection v2",
+			"icon_sponge",
+			[
+				60, 
+				83, 
+				47
+			]
+		],
+		[
+			"Dumped v2", 
+			"bootleg", 
+			[
+				60, 
+				83, 
+				47
+			]
+		],
+		[
+			"Dumped midi", 
+			"bootleg", 
+			[
+				60, 
+				83, 
+				47
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Dumped songs",
+	"hiddenUntilUnlocked": false
+}

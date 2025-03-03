@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "slendy",
+		"player1": "noner",
+		"player2": "Slendybob",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Hide_HealthBar",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21576.9230769231,
+				[
+					[
+						"Slendybob",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51692.3076923077,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					],
+					[
+						"Screen Shake",
+						"1",
+						"0.030"
+					]
+				]
+			],
+			[
+				81230.7692307692,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				93461.5384615384,
+				[
+					[
+						"Slendybob",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "none",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "baked"
+	}
+}

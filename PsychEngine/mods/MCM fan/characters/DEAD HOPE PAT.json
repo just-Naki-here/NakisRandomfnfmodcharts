@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				870,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dead Hope Pat Left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				810,
+				152
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dead Hope Pat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				810,
+				152
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dead Hope Pat Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				810,
+				152
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dead Hope Pat Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				810,
+				152
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dead Hope Pat Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dead Hope Pat",
+	"position": [
+		924,
+		219
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-1170,
+		-410
+	],
+	"sing_duration": 6,
+	"scale": 2
+}

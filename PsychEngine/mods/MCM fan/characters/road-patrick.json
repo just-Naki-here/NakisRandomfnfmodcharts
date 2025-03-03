@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "patrick-left"
+		},
+		{
+			"offsets": [
+				0,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "patrick-down"
+		},
+		{
+			"offsets": [
+				9,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "patrick-up"
+		},
+		{
+			"offsets": [
+				-16,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "patrick-right"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "patrick-idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/patrick-gf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "patrick",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		79,
+		234
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

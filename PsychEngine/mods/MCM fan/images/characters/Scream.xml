@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Scream.png">
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+  <SubTexture name="SCREAM0000" x="0" y="0"  width="307" height="384"/>
+  <SubTexture name="SCREAM0001" x="307" y="0"  width="307" height="384"/>
+  <SubTexture name="SCREAM0002" x="0" y="384"  width="307" height="384"/>
+  <SubTexture name="SCREAM0003" x="307" y="384"  width="307" height="384"/>
+  <SubTexture name="SCREAM0004" x="614" y="0"  width="307" height="384"/>
+  <SubTexture name="SCREAM0005" x="614" y="384"  width="307" height="384"/>
+  <SubTexture name="SCREAM0006" x="0" y="768"  width="307" height="384"/>
+  <SubTexture name="SCREAM0007" x="307" y="768"  width="307" height="384"/>
+  <SubTexture name="SCREAM0008" x="614" y="768"  width="307" height="384"/>
+  <SubTexture name="SCREAM0009" x="614" y="768"  width="307" height="384"/>
+</TextureAtlas>

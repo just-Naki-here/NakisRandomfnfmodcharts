@@ -1,0 +1,59 @@
+{
+	"storyName": "Served songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "mcmv1-week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+        [
+            "Served v1",
+            "plankton", 
+            [
+				63, 
+				92, 
+				93
+			]
+        ],
+	    [
+            "Serving The Served",
+            "plankton",
+            [
+				63, 
+				92, 
+				93
+			]
+        ],
+    	[
+            "Served v2",
+            "plankton",
+            [
+				63, 
+				92, 
+				93
+			]
+        ],
+       	[
+            "Served v3", 
+            "Served", 
+            [
+				63, 
+				92, 
+				93
+			]   
+        ]
+	],
+	"hideStoryMode": false,
+	"weekName": "All songs that are Served",
+	"hiddenUntilUnlocked": false
+}

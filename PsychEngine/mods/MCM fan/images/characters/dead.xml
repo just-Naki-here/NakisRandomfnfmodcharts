@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dead.png">
+<SubTexture name="dead l0000" x="965" y="0" width="792" height="1477" frameX="-126" frameY="-5" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0000" x="965" y="0" width="792" height="1477" frameX="-126" frameY="-5" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0001" x="0" y="0" width="965" height="1480" frameX="-101" frameY="-2" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0001" x="0" y="0" width="965" height="1480" frameX="-101" frameY="-2" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0002" x="1757" y="0" width="961" height="1469" frameX="-43" frameY="-17" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0002" x="1757" y="0" width="961" height="1469" frameX="-43" frameY="-17" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0003" x="0" y="1480" width="975" height="1403" frameX="-32" frameY="-93" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0003" x="0" y="1480" width="975" height="1403" frameX="-32" frameY="-93" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0004" x="2718" y="0" width="962" height="1404" frameX="-38" frameY="-92" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0004" x="2718" y="0" width="962" height="1404" frameX="-38" frameY="-92" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0005" x="975" y="1480" width="949" height="1398" frameX="-51" frameY="-98" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0005" x="975" y="1480" width="949" height="1398" frameX="-51" frameY="-98" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0006" x="1924" y="1480" width="882" height="1373" frameX="-118" frameY="-123" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0007" x="2806" y="1480" width="755" height="1333" frameX="-245" frameY="-163" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0008" x="3680" y="0" width="1386" height="853" frameX="-100" frameY="-644" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0009" x="1399" y="3399" width="1402" height="478" frameX="-93" frameY="-1019" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0010" x="2801" y="3399" width="1398" height="461" frameX="-94" frameY="-1035" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0011" x="0" y="3399" width="1399" height="498" frameX="-94" frameY="-998" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0012" x="0" y="2883" width="1397" height="516" frameX="-93" frameY="-980" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0013" x="1397" y="2883" width="1396" height="510" frameX="-94" frameY="-986" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead l0014" x="2793" y="2883" width="1396" height="510" frameX="-94" frameY="-986" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="dead i0000" x="2793" y="2883" width="1396" height="510" frameX="-94" frameY="-986" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

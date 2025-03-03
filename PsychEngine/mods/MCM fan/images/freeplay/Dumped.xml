@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dumped.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dumped0000" x="0" y="0" width="886" height="886" />
+	<SubTexture name="Dumped0001" x="886" y="0" width="886" height="886" />
+</TextureAtlas>

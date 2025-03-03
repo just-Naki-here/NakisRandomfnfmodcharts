@@ -1,0 +1,5 @@
+Value 1: Type (bf, dad, zoom then value, or [300, 480])
+Value 2: Tween, Time, Offset
+
+If Offset == true then it will be added, not replacing (only works when its numbers)
+If you want to put the position to anywhere, make it numbers, not strings (like x = 300, and y = 480)

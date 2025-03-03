@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				97
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bob anim 2 instancia 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob-fast-and-cool",
+	"position": [
+		360,
+		295
+	],
+	"healthicon": "bob",
+	"flip_x": true,
+	"healthbar_colors": [
+		238,
+		247,
+		56
+	],
+	"camera_position": [
+		-60,
+		-370
+	],
+	"sing_duration": 3,
+	"scale": 1.3
+}

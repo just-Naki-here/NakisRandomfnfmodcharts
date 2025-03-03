@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="DeadHallway.png" width="2564" height="2681">
+  <SubTexture name="deadhallway0003" x="0" y="0"  width="1282" height="700" frameX="-0" frameY="-0" frameWidth="1282" frameHeight="700"/>
+  <SubTexture name="deadhallway0005" x="1282" y="0"  width="1282" height="700" frameX="-0" frameY="-0" frameWidth="1282" frameHeight="700"/>
+  <SubTexture name="deadhallway0000" x="0" y="700" width="700" height="1281" rotated="true"  frameX="-0" frameY="-0" frameWidth="1282" frameHeight="700"/>
+  <SubTexture name="deadhallway0001" x="0" y="1981"  width="1281" height="700" frameX="-0" frameY="-0" frameWidth="1282" frameHeight="700"/>
+  <SubTexture name="deadhallway0002" x="700" y="700" width="700" height="1281" rotated="true"  frameX="-0" frameY="-0" frameWidth="1282" frameHeight="700"/>
+  <SubTexture name="deadhallway0004" x="1281" y="1981"  width="1281" height="700" frameX="-0" frameY="-0" frameWidth="1282" frameHeight="700"/>
+  <SubTexture name="deadhallway0006" x="1400" y="700" width="700" height="1281" rotated="true"  frameX="-0" frameY="-0" frameWidth="1282" frameHeight="700"/>
+  <SubTexture name="deadhallway0007" x="0" y="700" width="700" height="1281" rotated="true"  frameX="-0" frameY="-0" frameWidth="1282" frameHeight="700"/>
+</TextureAtlas>

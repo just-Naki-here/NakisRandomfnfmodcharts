@@ -1,0 +1,12 @@
+if getProperty('boyfriend.animation.curAnim.name') == 'singLEFTmiss' then
+			triggerEvent('Camera Follow Pos',xx2-ofs,yy2)
+		  end
+		  if getProperty('boyfriend.animation.curAnim.name') == 'singRIGHTmiss' then
+			triggerEvent('Camera Follow Pos',xx2+ofs,yy2)
+		  end
+		  if getProperty('boyfriend.animation.curAnim.name') == 'singUPmiss' then
+			triggerEvent('Camera Follow Pos',xx2,yy2-ofs)
+		  end
+		  if getProperty('boyfriend.animation.curAnim.name') == 'singDOWNmiss' then
+			triggerEvent('Camera Follow Pos',xx2,yy2+ofs)
+		  end

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-381,
+				-842
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-381,
+				-841
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-386,
+				-805
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-389,
+				-834
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-371,
+				-836
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "",
+			"loop": false,
+			"name": ""
+		},
+		{
+			"offsets": [
+				-286,
+				-745
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Cringe Left",
+			"loop": false,
+			"name": "cringe"
+		},
+		{
+			"offsets": [
+				-317,
+				-845
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Ass Up",
+			"loop": false,
+			"name": "ass"
+		},
+		{
+			"offsets": [
+				-358,
+				-812
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Gay Right",
+			"loop": false,
+			"name": "gay"
+		},
+		{
+			"offsets": [
+				-348,
+				-798
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Sex Left",
+			"loop": false,
+			"name": "sex"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pattroll",
+	"position": [
+		-490,
+		-610
+	],
+	"healthicon": "pt",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		152,
+		138
+	],
+	"camera_position": [
+		520,
+		980
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

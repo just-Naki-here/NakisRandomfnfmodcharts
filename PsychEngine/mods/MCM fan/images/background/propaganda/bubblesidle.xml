@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bubblesidle.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGBubbles0000" x="0" y="0" width="479" height="476"/>
+	<SubTexture name="BGBubbles0001" x="0" y="0" width="479" height="476"/>
+	<SubTexture name="BGBubbles0002" x="479" y="0" width="455" height="465" frameX="-11" frameY="-4" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0003" x="479" y="0" width="455" height="465" frameX="-11" frameY="-4" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0004" x="0" y="476" width="385" height="431" frameX="-44" frameY="-15" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0005" x="0" y="476" width="385" height="431" frameX="-44" frameY="-15" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0006" x="385" y="476" width="372" height="427" frameX="-48" frameY="-13" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0007" x="385" y="476" width="372" height="427" frameX="-48" frameY="-13" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0008" x="385" y="476" width="372" height="427" frameX="-48" frameY="-13" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0009" x="385" y="476" width="372" height="427" frameX="-48" frameY="-13" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0010" x="385" y="476" width="372" height="427" frameX="-48" frameY="-13" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0011" x="385" y="476" width="372" height="427" frameX="-48" frameY="-13" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0012" x="385" y="476" width="372" height="427" frameX="-48" frameY="-13" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0013" x="385" y="476" width="372" height="427" frameX="-48" frameY="-13" frameWidth="479" frameHeight="476"/>
+</TextureAtlas>

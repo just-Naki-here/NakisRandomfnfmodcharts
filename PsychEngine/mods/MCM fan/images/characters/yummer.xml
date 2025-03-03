@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yummer.png"><SubTexture name="yum idle0000" x="0" y="0" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum idle0001" x="504" y="0" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum idle0002" x="1008" y="0" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum down0000" x="0" y="654" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum down0001" x="504" y="654" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum down0002" x="1008" y="654" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum right0000" x="0" y="1308" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum right0001" x="504" y="1308" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum left0000" x="1008" y="1308" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum left0001" x="0" y="1962" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum up0000" x="504" y="1962" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+<SubTexture name="yum up0001" x="1008" y="1962" width="504" height="654" frameX="0" frameY="0" frameWidth="504" frameHeight="654" />
+</TextureAtlas>

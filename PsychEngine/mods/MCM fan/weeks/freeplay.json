@@ -1,0 +1,92 @@
+{
+	"songs": [
+		[
+			"Satisfaction old", 
+			"spongebob", 
+			[
+				255,
+				 198,
+				  26
+			]
+		],
+		[
+			"Satisfaction", 
+			"spongebob", 
+			[
+				255, 
+				198, 
+				26
+			]
+		],
+		[
+			"Propaganda old", 
+			"reagan", 
+			[
+				116, 
+				79, 
+				77
+			]
+		],
+		[
+			"Propaganda", 
+			"reagan", 
+			[
+				116, 
+				79, 
+				77
+			]
+		],
+		[
+			"Bold or Brash", 
+			"starved", 
+			[
+				0, 
+				0, 
+				255
+			]
+		],
+        [
+			"Darnell Wet Fart", 
+			"starved", 
+			[
+				0, 
+				0, 
+				255
+			]
+		],
+		[
+			"dead hope", 
+			"faceless", 
+			[
+				197, 
+				48, 
+				47
+			]
+		],
+		[
+			"dead hope v2", 
+			"new-faceless", 
+			[
+				197, 
+				48, 
+				47
+			]
+		]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "squid",
+
+	"storyName": "OnesthatIrefusetoputinseperateweeks",
+	"weekBefore": "mcmv1-week1",
+	"weekName": "OnesthatIrefusetoputinseperateweeks",
+	"difficulties": "hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1062,
+				196
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "patrick left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				810,
+				152
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "patrick idle"
+		},
+		{
+			"offsets": [
+				810,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "patrick down"
+		},
+		{
+			"offsets": [
+				810,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "patrick right"
+		},
+		{
+			"offsets": [
+				874,
+				373
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "patrick up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/MCM/Dead Hope/fatass_bitch",
+	"position": [
+		924,
+		219
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-1170,
+		-410
+	],
+	"sing_duration": 7.4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

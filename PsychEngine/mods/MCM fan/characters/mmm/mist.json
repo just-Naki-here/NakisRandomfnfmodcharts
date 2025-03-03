@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-168
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mist singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-190
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mist singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mist singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-120
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mist singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-200
+			],
+			"anim": "idle",
+			"fps": 5,
+			"name": "mist idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mmm/mist",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-s2",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-220,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2
+}

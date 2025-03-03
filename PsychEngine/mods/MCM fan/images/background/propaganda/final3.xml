@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="final3.png" width="1104" height="1200">
+  <SubTexture name="scene60000" x="0" y="0"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60001" x="432" y="0"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60002" x="864" y="0" width="240" height="432" rotated="true"  frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60003" x="0" y="240"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60004" x="432" y="240"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60005" x="0" y="480"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60006" x="432" y="480"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60007" x="864" y="432" width="240" height="432" rotated="true"  frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60008" x="0" y="720"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60009" x="432" y="720"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60010" x="0" y="960"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+  <SubTexture name="scene60011" x="432" y="960"  width="432" height="240" frameX="-0" frameY="-0" frameWidth="432" frameHeight="240"/>
+</TextureAtlas>

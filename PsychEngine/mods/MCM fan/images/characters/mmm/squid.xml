@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="squid.png"><SubTexture name="squid singDOWN0000" x="145" y="711" width="159" height="341" frameX="0" frameY="0" frameWidth="159" frameHeight="341" />
+<SubTexture name="squid singDOWN0001" x="666" y="0" width="140" height="351" frameX="0" frameY="0" frameWidth="140" frameHeight="351" />
+<SubTexture name="squid singDOWN0002" x="533" y="0" width="133" height="352" frameX="0" frameY="0" frameWidth="133" frameHeight="352" />
+<SubTexture name="squid idle0000" x="658" y="360" width="127" height="347" frameX="0" frameY="0" frameWidth="127" frameHeight="347" />
+<SubTexture name="squid idle0001" x="806" y="346" width="139" height="343" frameX="0" frameY="0" frameWidth="139" frameHeight="343" />
+<SubTexture name="squid idle0002" x="957" y="346" width="135" height="344" frameX="0" frameY="0" frameWidth="135" frameHeight="344" />
+<SubTexture name="squid idle0003" x="273" y="360" width="128" height="349" frameX="0" frameY="0" frameWidth="128" frameHeight="349" />
+<SubTexture name="squid idle0004" x="401" y="360" width="130" height="349" frameX="0" frameY="0" frameWidth="130" frameHeight="349" />
+<SubTexture name="squid idle0005" x="531" y="360" width="127" height="348" frameX="0" frameY="0" frameWidth="127" frameHeight="348" />
+<SubTexture name="squid singLEFT0000" x="806" y="0" width="151" height="346" frameX="0" frameY="0" frameWidth="151" frameHeight="346" />
+<SubTexture name="squid singLEFT0001" x="0" y="360" width="138" height="351" frameX="0" frameY="0" frameWidth="138" frameHeight="351" />
+<SubTexture name="squid singLEFT0002" x="138" y="360" width="135" height="351" frameX="0" frameY="0" frameWidth="135" frameHeight="351" />
+<SubTexture name="squid singRIGHT0000" x="957" y="0" width="163" height="346" frameX="0" frameY="0" frameWidth="163" frameHeight="346" />
+<SubTexture name="squid singRIGHT0001" x="0" y="711" width="145" height="343" frameX="0" frameY="0" frameWidth="145" frameHeight="343" />
+<SubTexture name="squid singRIGHT0002" x="399" y="0" width="134" height="353" frameX="0" frameY="0" frameWidth="134" frameHeight="353" />
+<SubTexture name="squid singUP0000" x="133" y="0" width="140" height="359" frameX="0" frameY="0" frameWidth="140" frameHeight="359" />
+<SubTexture name="squid singUP0001" x="0" y="0" width="133" height="360" frameX="0" frameY="0" frameWidth="133" frameHeight="360" />
+<SubTexture name="squid singUP0002" x="273" y="0" width="126" height="358" frameX="0" frameY="0" frameWidth="126" frameHeight="358" />
+</TextureAtlas>

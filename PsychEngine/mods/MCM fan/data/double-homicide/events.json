@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "bedroom",
+		"player1": "phase1pl",
+		"player2": "no",
+		"player3": null,
+		"events": [
+			[
+				113057.142857143,
+				[
+					[
+						"Change Character",
+						"BF",
+						"phase2altpl"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "none",
+		"bpm": 175,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "public"
+	}
+}

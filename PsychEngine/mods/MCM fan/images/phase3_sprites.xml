@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="phase3_sprites.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Phase3DOWN0000" x="0" y="0" width="545" height="895"/>
+	<SubTexture name="Phase3DOWN0001" x="0" y="0" width="545" height="895"/>
+	<SubTexture name="Phase3DOWN0002" x="545" y="0" width="545" height="895"/>
+	<SubTexture name="Phase3DOWN0003" x="545" y="0" width="545" height="895"/>
+	<SubTexture name="Phase3DOWN0004" x="1090" y="0" width="545" height="895"/>
+	<SubTexture name="Phase3DOWN0005" x="1090" y="0" width="545" height="895"/>
+	<SubTexture name="Phase3DOWN0006" x="1635" y="0" width="545" height="895"/>
+	<SubTexture name="Phase3DOWN0007" x="1635" y="0" width="545" height="895"/>
+	<SubTexture name="Phase3DOWN0008" x="1635" y="0" width="545" height="895"/>
+	<SubTexture name="Phase3DOWN0009" x="1635" y="0" width="545" height="895"/>
+	<SubTexture name="Phase3LEFT0000" x="2180" y="0" width="536" height="1046"/>
+	<SubTexture name="Phase3LEFT0001" x="2180" y="0" width="536" height="1046"/>
+	<SubTexture name="Phase3LEFT0002" x="2716" y="0" width="536" height="1046"/>
+	<SubTexture name="Phase3LEFT0003" x="2716" y="0" width="536" height="1046"/>
+	<SubTexture name="Phase3LEFT0004" x="3252" y="0" width="536" height="1046"/>
+	<SubTexture name="Phase3LEFT0005" x="3788" y="0" width="536" height="1046"/>
+	<SubTexture name="Phase3LEFT0006" x="4324" y="0" width="536" height="1046"/>
+	<SubTexture name="Phase3LEFT0007" x="4860" y="0" width="536" height="1046"/>
+	<SubTexture name="Phase3LEFT0008" x="4860" y="0" width="536" height="1046"/>
+	<SubTexture name="Phase3LEFT0009" x="4860" y="0" width="536" height="1046"/>
+	<SubTexture name="Phase3RIGHT0000" x="5396" y="0" width="597" height="946"/>
+	<SubTexture name="Phase3RIGHT0001" x="5396" y="0" width="597" height="946"/>
+	<SubTexture name="Phase3RIGHT0002" x="5993" y="0" width="597" height="946"/>
+	<SubTexture name="Phase3RIGHT0003" x="5993" y="0" width="597" height="946"/>
+	<SubTexture name="Phase3RIGHT0004" x="6590" y="0" width="597" height="946"/>
+	<SubTexture name="Phase3RIGHT0005" x="6590" y="0" width="597" height="946"/>
+	<SubTexture name="Phase3RIGHT0006" x="7187" y="0" width="597" height="946"/>
+	<SubTexture name="Phase3RIGHT0007" x="7187" y="0" width="597" height="946"/>
+	<SubTexture name="Phase3RIGHT0008" x="0" y="1046" width="597" height="946"/>
+	<SubTexture name="Phase3RIGHT0009" x="0" y="1046" width="597" height="946"/>
+	<SubTexture name="Phase3UP0000" x="597" y="1046" width="454" height="1053"/>
+	<SubTexture name="Phase3UP0001" x="1051" y="1046" width="454" height="1053"/>
+	<SubTexture name="Phase3UP0002" x="1505" y="1046" width="454" height="1053"/>
+	<SubTexture name="Phase3UP0003" x="1959" y="1046" width="454" height="1053"/>
+	<SubTexture name="Phase3UP0004" x="2413" y="1046" width="454" height="1053"/>
+	<SubTexture name="Phase3UP0005" x="2867" y="1046" width="454" height="1053"/>
+	<SubTexture name="Phase3UP0006" x="3321" y="1046" width="454" height="1053"/>
+	<SubTexture name="Phase3UP0007" x="3775" y="1046" width="454" height="1053"/>
+	<SubTexture name="Phase3UP0008" x="4229" y="1046" width="454" height="1053"/>
+	<SubTexture name="Phase3UP0009" x="3321" y="1046" width="454" height="1053"/>
+	<SubTexture name="phase3_idlesquid0000" x="4683" y="1046" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0001" x="5201" y="1046" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0002" x="5719" y="1046" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0003" x="6237" y="1046" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0004" x="6755" y="1046" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0005" x="7273" y="1046" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0006" x="0" y="2099" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0007" x="518" y="2099" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0008" x="1036" y="2099" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0009" x="1554" y="2099" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0010" x="2072" y="2099" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0011" x="2590" y="2099" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0012" x="3108" y="2099" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0013" x="3626" y="2099" width="518" height="947"/>
+	<SubTexture name="phase3_idlesquid0014" x="4144" y="2099" width="518" height="947"/>
+</TextureAtlas>

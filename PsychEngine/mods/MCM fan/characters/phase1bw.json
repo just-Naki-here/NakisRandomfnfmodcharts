@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "inksplot_squidward idle"
+		},
+		{
+			"offsets": [
+				-15,
+				6
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "inksplot_squidward left"
+		},
+		{
+			"offsets": [
+				-20,
+				-14
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "inksplot_squidward down"
+		},
+		{
+			"offsets": [
+				4,
+				-3
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "inksplot_squidward up"
+		},
+		{
+			"offsets": [
+				-18,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "inksplot_squidward right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/inksplot_squidward",
+	"position": [
+		-240,
+		-150
+	],
+	"healthicon": "ink-squid",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		100,
+		104
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5,
+	"scale": 1.3
+}

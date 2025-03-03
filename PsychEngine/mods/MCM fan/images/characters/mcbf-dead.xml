@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mcbf-dead.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+  <SubTexture name="boing0000" x="180" y="0" width="251" height="182" rotated="true"  frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0001" x="252" y="182"  width="182" height="251" frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0002" x="431" y="0" width="251" height="182" rotated="true"  frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0003" x="252" y="433" width="251" height="182" rotated="true"  frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0004" x="434" y="182" width="251" height="182" rotated="true"  frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0005" x="0" y="438"  width="182" height="251" frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0006" x="503" y="364"  width="182" height="251" frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0007" x="182" y="615" width="251" height="182" rotated="true"  frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0008" x="0" y="689"  width="182" height="251" frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0009" x="433" y="615" width="251" height="182" rotated="true"  frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0010" x="684" y="615"  width="182" height="251" frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0011" x="182" y="797" width="251" height="182" rotated="true"  frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0012" x="433" y="797" width="251" height="182" rotated="true"  frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0013" x="685" y="0"  width="182" height="251" frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="boing0014" x="685" y="251"  width="182" height="251" frameX="-36" frameY="-21" frameWidth="298" frameHeight="275"/>
+  <SubTexture name="die0000" x="0" y="0"  width="180" height="256" frameX="-37" frameY="-19" frameWidth="295" frameHeight="281"/>
+  <SubTexture name="die0001" x="0" y="0"  width="180" height="256" frameX="-37" frameY="-19" frameWidth="295" frameHeight="281"/>
+  <SubTexture name="die0002" x="0" y="256" width="252" height="182" rotated="true"  frameX="-36" frameY="-23" frameWidth="295" frameHeight="281"/>
+  <SubTexture name="die0003" x="0" y="256" width="252" height="182" rotated="true"  frameX="-36" frameY="-23" frameWidth="295" frameHeight="281"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-560
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "plankidle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-571
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "plankup instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-127,
+				-559
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "plankleft instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-560
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "plankright instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-596
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "plankdown instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Plangtong",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "served",
+	"flip_x": false,
+	"healthbar_colors": [
+		16,
+		57,
+		43
+	],
+	"camera_position": [
+		270,
+		630
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

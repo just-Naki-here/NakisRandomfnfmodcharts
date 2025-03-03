@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jellyfish.png">
+	<!-- Created with Adobe Animate version 23.0.4.127 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowd0000" x="0" y="0" width="886" height="233" frameX="-28" frameY="-39" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0001" x="0" y="0" width="886" height="233" frameX="-28" frameY="-39" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0002" x="886" y="0" width="921" height="236" frameX="-11" frameY="-14" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0003" x="886" y="0" width="921" height="236" frameX="-11" frameY="-14" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0004" x="0" y="236" width="928" height="223" frameX="-7" frameY="-4" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0005" x="0" y="236" width="928" height="223" frameX="-7" frameY="-4" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0006" x="928" y="236" width="937" height="196" frameX="-3" frameY="-7" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0007" x="928" y="236" width="937" height="196" frameX="-3" frameY="-7" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0008" x="0" y="459" width="942" height="204" frameX="0" frameY="-11" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0009" x="0" y="459" width="942" height="204" frameX="0" frameY="-11" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0010" x="942" y="459" width="918" height="220" frameX="-12" frameY="-28" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0011" x="942" y="459" width="918" height="220" frameX="-12" frameY="-28" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0012" x="0" y="679" width="885" height="237" frameX="-29" frameY="-36" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0013" x="0" y="679" width="885" height="237" frameX="-29" frameY="-36" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0014" x="885" y="679" width="858" height="247" frameX="-42" frameY="-13" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0015" x="885" y="679" width="858" height="247" frameX="-42" frameY="-13" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0016" x="0" y="926" width="834" height="228" frameX="-54" frameY="0" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0017" x="0" y="926" width="834" height="228" frameX="-54" frameY="0" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0018" x="834" y="926" width="848" height="205" frameX="-47" frameY="-6" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0019" x="834" y="926" width="848" height="205" frameX="-47" frameY="-6" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0020" x="0" y="1154" width="851" height="207" frameX="-45" frameY="-7" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0021" x="0" y="1154" width="851" height="207" frameX="-45" frameY="-7" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0022" x="851" y="1154" width="882" height="220" frameX="-30" frameY="-26" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0023" x="851" y="1154" width="882" height="220" frameX="-30" frameY="-26" frameWidth="942" frameHeight="273"/>
+</TextureAtlas>

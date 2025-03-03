@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				41,
+				3
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				-54
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				29,
+				17
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "hash idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/slinger/hash_slinger",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "slinger",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

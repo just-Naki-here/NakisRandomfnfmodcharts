@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ghostbf.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="120" height="80"/>
+	<SubTexture name="down01" x="0" y="0" width="120" height="80"/>
+	<SubTexture name="down02" x="120" y="0" width="120" height="80"/>
+	<SubTexture name="downmiss0000" x="240" y="0" width="120" height="80"/>
+	<SubTexture name="downmiss01" x="240" y="0" width="120" height="80"/>
+	<SubTexture name="downmiss02" x="360" y="0" width="120" height="80"/>
+	<SubTexture name="idle0000" x="0" y="80" width="120" height="80"/>
+	<SubTexture name="idle01" x="0" y="80" width="120" height="80"/>
+	<SubTexture name="idle02" x="0" y="80" width="120" height="80"/>
+	<SubTexture name="idle03" x="0" y="80" width="120" height="80"/>
+	<SubTexture name="idle04" x="120" y="80" width="120" height="80"/>
+	<SubTexture name="idle05" x="120" y="80" width="120" height="80"/>
+	<SubTexture name="idle06" x="120" y="80" width="120" height="80"/>
+	<SubTexture name="left0000" x="240" y="80" width="120" height="80"/>
+	<SubTexture name="left01" x="240" y="80" width="120" height="80"/>
+	<SubTexture name="left02" x="360" y="80" width="120" height="80"/>
+	<SubTexture name="leftmiss0000" x="0" y="160" width="120" height="80"/>
+	<SubTexture name="leftmiss01" x="0" y="160" width="120" height="80"/>
+	<SubTexture name="leftmiss02" x="120" y="160" width="120" height="80"/>
+	<SubTexture name="right0000" x="240" y="160" width="120" height="80"/>
+	<SubTexture name="right01" x="240" y="160" width="120" height="80"/>
+	<SubTexture name="right02" x="360" y="160" width="120" height="80"/>
+	<SubTexture name="rightmiss0000" x="0" y="240" width="120" height="80"/>
+	<SubTexture name="rightmiss01" x="0" y="240" width="120" height="80"/>
+	<SubTexture name="rightmiss02" x="120" y="240" width="120" height="80"/>
+	<SubTexture name="up0000" x="240" y="240" width="120" height="80"/>
+	<SubTexture name="up01" x="240" y="240" width="120" height="80"/>
+	<SubTexture name="up02" x="360" y="240" width="120" height="80"/>
+	<SubTexture name="upmiss0000" x="0" y="320" width="120" height="80"/>
+	<SubTexture name="upmiss01" x="0" y="320" width="120" height="80"/>
+	<SubTexture name="upmiss02" x="120" y="320" width="120" height="80"/>
+</TextureAtlas>

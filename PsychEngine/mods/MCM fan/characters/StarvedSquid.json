@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-22,
+				74
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "SQ idle alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				88
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SQ right alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				95
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SQ left alt0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				75,
+				319
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "SQ up alt0"
+		},
+		{
+			"offsets": [
+				-27,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SQ down alt0"
+		},
+		{
+			"offsets": [
+				125,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ready",
+			"indices": [],
+			"name": "Clarinet is coming"
+		},
+		{
+			"offsets": [
+				-21,
+				114
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SS idle"
+		},
+		{
+			"offsets": [
+				81,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SS right"
+		},
+		{
+			"offsets": [
+				346,
+				289
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SS left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				365
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SS up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				114
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SS down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Starved_Squid",
+	"position": [
+		70,
+		180
+	],
+	"healthicon": "starved",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-100,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

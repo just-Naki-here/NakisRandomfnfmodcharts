@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				89
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "yay",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-123,
+				-655
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				1271
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "die",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pamtribf-death",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1000,
+		-900
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

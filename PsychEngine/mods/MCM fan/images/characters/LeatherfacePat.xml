@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LeatherfacePat.png">
+	
+	
+	<SubTexture name="PatDown0000" x="0" y="0" width="419" height="416" frameX="0" frameY="0" frameWidth="419" frameHeight="433" />
+	<SubTexture name="PatDown0001" x="0" y="0" width="419" height="416" frameX="0" frameY="0" frameWidth="419" frameHeight="433" />
+	<SubTexture name="PatDown0002" x="419" y="0" width="419" height="416" frameX="0" frameY="0" frameWidth="419" frameHeight="433" />
+	<SubTexture name="PatDown0003" x="419" y="0" width="419" height="416" frameX="0" frameY="0" frameWidth="419" frameHeight="433" />
+	<SubTexture name="PatDown0004" x="839" y="0" width="419" height="428" frameX="0" frameY="0" frameWidth="419" frameHeight="433" />
+	<SubTexture name="PatDown0005" x="839" y="0" width="419" height="428" frameX="0" frameY="0" frameWidth="419" frameHeight="433" />
+	<SubTexture name="PatDown0006" x="1258" y="0" width="419" height="433" />
+	<SubTexture name="PatDown0007" x="1678" y="0" width="419" height="414" frameX="0" frameY="0" frameWidth="419" frameHeight="433" />
+	<SubTexture name="PatIdle0000" x="2097" y="0" width="307" height="498" />
+	<SubTexture name="PatLeft0000" x="2405" y="0" width="665" height="513" frameX="0" frameY="-7" frameWidth="665" frameHeight="519" />
+	<SubTexture name="PatLeft0001" x="2405" y="0" width="665" height="513" frameX="0" frameY="-7" frameWidth="665" frameHeight="519" />
+	<SubTexture name="PatLeft0002" x="3070" y="0" width="589" height="513" frameX="-4" frameY="-6" frameWidth="665" frameHeight="519" />
+	<SubTexture name="PatLeft0003" x="3070" y="0" width="589" height="513" frameX="-4" frameY="-6" frameWidth="665" frameHeight="519" />
+	<SubTexture name="PatLeft0004" x="0" y="513" width="570" height="513" frameX="-23" frameY="-6" frameWidth="665" frameHeight="519" />
+	<SubTexture name="PatLeft0005" x="0" y="513" width="570" height="513" frameX="-23" frameY="-6" frameWidth="665" frameHeight="519" />
+	<SubTexture name="PatLeft0006" x="570" y="513" width="550" height="514" frameX="-43" frameY="-5" frameWidth="665" frameHeight="519" />
+	<SubTexture name="PatLeft0007" x="1120" y="513" width="519" height="519" frameX="-74" frameY="0" frameWidth="665" frameHeight="519" />
+	<SubTexture name="PatRight0000" x="1640" y="513" width="832" height="760" frameX="-50" frameY="-8" frameWidth="884" frameHeight="818" />
+	<SubTexture name="PatRight0001" x="2472" y="513" width="791" height="760" frameX="-50" frameY="-8" frameWidth="884" frameHeight="818" />
+	<SubTexture name="PatRight0002" x="0" y="1274" width="736" height="757" frameX="-49" frameY="-8" frameWidth="884" frameHeight="818" />
+	<SubTexture name="PatRight0003" x="736" y="1274" width="731" height="750" frameX="-27" frameY="-10" frameWidth="884" frameHeight="818" />
+	<SubTexture name="PatRight0004" x="1467" y="1274" width="700" height="750" frameX="-27" frameY="-10" frameWidth="884" frameHeight="818" />
+	<SubTexture name="PatRight0005" x="2167" y="1274" width="654" height="781" frameX="-8" frameY="-4" frameWidth="884" frameHeight="818" />
+	<SubTexture name="PatRight0006" x="2821" y="1274" width="632" height="784" frameX="0" frameY="-9" frameWidth="884" frameHeight="818" />
+	<SubTexture name="PatUp0000" x="0" y="2058" width="698" height="692" frameX="-21" frameY="0" frameWidth="719" frameHeight="692" />
+	<SubTexture name="PatUp0001" x="698" y="2058" width="708" height="692" frameX="-11" frameY="0" frameWidth="719" frameHeight="692" />
+	<SubTexture name="PatUp0002" x="1406" y="2058" width="666" height="688" frameX="-47" frameY="-4" frameWidth="719" frameHeight="692" />
+	<SubTexture name="PatUp0003" x="2072" y="2058" width="712" height="688" frameX="-1" frameY="-4" frameWidth="719" frameHeight="692" />
+	<SubTexture name="PatUp0004" x="2784" y="2058" width="666" height="675" frameX="-33" frameY="-18" frameWidth="719" frameHeight="692" />
+	<SubTexture name="PatUp0005" x="0" y="2751" width="568" height="646" frameX="-81" frameY="-47" frameWidth="719" frameHeight="692" />
+	<SubTexture name="PatUp0006" x="568" y="2751" width="533" height="584" frameX="-101" frameY="-108" frameWidth="719" frameHeight="692" />
+</TextureAtlas>

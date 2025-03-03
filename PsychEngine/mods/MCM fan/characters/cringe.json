@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SP idle"
+		},
+		{
+			"offsets": [
+				6,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SP left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SP down"
+		},
+		{
+			"offsets": [
+				0,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SP up"
+		},
+		{
+			"offsets": [
+				3,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SP right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starved_plankton",
+	"position": [
+		580,
+		220
+	],
+	"healthicon": "starvedalt",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		0,
+		255
+	],
+	"camera_position": [
+		60,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
