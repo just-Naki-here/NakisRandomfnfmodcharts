@@ -108,7 +108,7 @@ function onCreatePost()
 		end
 	end
 	if versionInt >= 72 then
-		setProperty('autoUpdateRPC', false) -- less of unexpected shit
+		setProperty('autoUpdateRPC', true) -- less of unexpected shit
 		-- mod settings stuff
 		showPopup = getModSetting('showPopup') == nil and showPopup or getModSetting('showPopup')
 		adjustX = getModSetting('adjustX') == nil and adjustX or getModSetting('adjustX')
