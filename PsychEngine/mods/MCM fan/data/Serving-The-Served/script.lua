@@ -51,34 +51,34 @@ function OnUpdate()
 	noteTweenX('playerX2', 5, defaultPlayerStrumX1 + i*math.sin((currentBeat+8*0.01)*math.pi)-325, 3)
 	noteTweenX('playerX3', 6, defaultPlayerStrumX2 - i*math.sin((currentBeat+8*0.01)*math.pi)-325, 3)
 	noteTweenX('playerX4', 7, defaultPlayerStrumX3 + i*math.sin((currentBeat+8*0.01)*math.pi)-325, 3)
-	end
 end
+
 --  Points where the whales appear
 function onStepHit()
     if not lowQuality then
-	if curStep == 1968 then
-	setProperty('whale.alpha', 1);
-	doTweenX('showup','whale', 8000, 10, 'cubeOut')
-	end
-	if curStep == 2000 then
-	setProperty('whale2.alpha', 1);
-	doTweenX('showup','whale2', 8000, 5, 'cubeOut')
-	end
-	if curStep == 2020 then
-	setProperty('whale3.alpha', 1);
-	doTweenX('showup','whale3', 8000, 7, 'cubeOut')
-	end
-	if curStep == 2056 then
-	setProperty('whale6.alpha', 1);
-	doTweenX('showup','whale6', 8000, 9, 'cubeOut')
-	end
-	if curStep == 2096 then
-	setProperty('whale4.alpha', 1);
-	doTweenX('showup','whale4', 4000, 15, 'cubeOut')
-	end
-	if curStep == 2192 then
-	setProperty('whale5.alpha', 1);
-	doTweenX('showup','whale2', 4000, 3, 'cubeOut')
-	end
+		if curStep == 1968 then
+			setProperty('whale.alpha', 1);
+			doTweenX('showup','whale', 8000, 10, 'cubeOut')
+		end
+		if curStep == 2000 then
+			setProperty('whale2.alpha', 1);
+			doTweenX('showup','whale2', 8000, 5, 'cubeOut')
+		end
+		if curStep == 2020 then
+			setProperty('whale3.alpha', 1);
+			doTweenX('showup','whale3', 8000, 7, 'cubeOut')
+		end
+		if curStep == 2056 then
+			setProperty('whale6.alpha', 1);
+			doTweenX('showup','whale6', 8000, 9, 'cubeOut')
+		end
+		if curStep == 2096 then
+			setProperty('whale4.alpha', 1);
+			doTweenX('showup','whale4', 4000, 15, 'cubeOut')
+		end
+		if curStep == 2192 then
+			setProperty('whale5.alpha', 1);
+			doTweenX('showup','whale2', 4000, 3, 'cubeOut')
+		end
 	end
 end
