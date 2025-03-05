@@ -1,5 +1,7 @@
 function onCreate()
 	triggerEvent('Goodbye Hud', '0', '0.1')
+end
+function OnUpdate()
 	songPos = getSongPosition()
 	local currentBeat = (songPos/1000)
 	noteTweenY('player1', 4, defaultPlayerStrumY3 - i*math.sin((currentBeat+8*0.1)*math.pi)-50, 3)

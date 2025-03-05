@@ -37,7 +37,10 @@ function onCreate()
 	scaleObject('whale6', 2, 2)
 	addLuaSprite('whale6', false);
 	setProperty('whale6.alpha', 0.00001);
-	songPos = getSongPosition()
+	end
+end
+function OnUpdate()
+    songPos = getSongPosition()
 	local currentBeat = (songPos/1000)
 	noteTweenY('player1', 4, defaultPlayerStrumY3 - i*math.sin((currentBeat+8*0.1)*math.pi)-50, 3)
 	noteTweenY('player2', 5, defaultPlayerStrumY1 + i*math.sin((currentBeat+8*0.1)*math.pi)-50, 3)

@@ -24,7 +24,7 @@ function onStepHit()
         noteTweenX("Note4", 5, 520, 1, ".cubeInOut")
     end
 end
-function onCreate()
+function OnUpdate()
     songPos = getSongPosition()
 	local currentBeat = (songPos/1000)
 	noteTweenY('player1', 4, defaultPlayerStrumY3 - i*math.sin((currentBeat+8*0.1)*math.pi)-50, 3)
@@ -36,3 +36,4 @@ function onCreate()
 	noteTweenX('playerX2', 5, defaultPlayerStrumX1 + i*math.sin((currentBeat+8*0.01)*math.pi)-325, 3)
 	noteTweenX('playerX3', 6, defaultPlayerStrumX2 - i*math.sin((currentBeat+8*0.01)*math.pi)-325, 3)
 	noteTweenX('playerX4', 7, defaultPlayerStrumX3 + i*math.sin((currentBeat+8*0.01)*math.pi)-325, 3)
+end
