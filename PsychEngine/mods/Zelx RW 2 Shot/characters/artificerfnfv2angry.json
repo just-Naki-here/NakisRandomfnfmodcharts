@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				190,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				721,
+				-119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				290,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				164,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				77,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				130,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTalt",
+			"indices": [],
+			"name": "yaoi"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				308,
+				120
+			],
+			"anim": "screamT",
+			"fps": 24,
+			"name": "Tscream",
+			"indices": []
+		},
+		{
+			"offsets": [
+				162,
+				117
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "scream"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/artispritesFNFangry",
+	"position": [
+		40,
+		20
+	],
+	"healthicon": "artiA",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		71,
+		81
+	],
+	"camera_position": [
+		-340,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

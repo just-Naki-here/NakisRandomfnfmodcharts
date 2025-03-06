@@ -1,0 +1,9 @@
+{
+	"name": "Zelx RW 2 Shot",
+	"description": "Mod centered around two of Zelx's RainWorld FNF songs",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [344, 54, 43],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

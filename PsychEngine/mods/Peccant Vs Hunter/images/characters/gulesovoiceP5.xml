@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gulesovoiceP5.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gulevoiceP30000" x="24" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30001" x="1158" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30002" x="2292" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30003" x="2292" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30004" x="3426" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30005" x="4560" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30006" x="4560" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30007" x="5694" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30008" x="4560" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30009" x="6828" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30010" x="6828" y="24" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30011" x="24" y="1191" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30012" x="24" y="1191" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30013" x="1158" y="1191" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30014" x="2292" y="1191" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30015" x="3426" y="1191" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30016" x="4560" y="1191" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30017" x="5694" y="1191" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30018" x="6828" y="1191" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30019" x="6828" y="1191" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30020" x="24" y="2358" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30021" x="1158" y="2358" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30022" x="2292" y="2358" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30023" x="3426" y="2358" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30024" x="4560" y="2358" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30025" x="5694" y="2358" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30026" x="6828" y="2358" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30027" x="24" y="3525" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30028" x="24" y="3525" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30029" x="1158" y="3525" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30030" x="2292" y="3525" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30031" x="2292" y="3525" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30032" x="3426" y="3525" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30033" x="4560" y="3525" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30034" x="5694" y="3525" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30035" x="5694" y="3525" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30036" x="6828" y="3525" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30037" x="24" y="4692" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30038" x="1158" y="4692" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30039" x="2292" y="4692" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30040" x="2292" y="4692" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30041" x="3426" y="4692" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30042" x="3426" y="4692" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30043" x="4560" y="4692" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30044" x="4560" y="4692" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30045" x="5694" y="4692" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30046" x="6828" y="4692" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30047" x="24" y="5859" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30048" x="1158" y="5859" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30049" x="2292" y="5859" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30050" x="2292" y="5859" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30051" x="3426" y="5859" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30052" x="3426" y="5859" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30053" x="4560" y="5859" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30054" x="4560" y="5859" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30055" x="5694" y="5859" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30056" x="5694" y="5859" width="1110" height="1143"/>
+	<SubTexture name="gulevoiceP30057" x="6828" y="5859" width="1110" height="1143"/>
+</TextureAtlas>

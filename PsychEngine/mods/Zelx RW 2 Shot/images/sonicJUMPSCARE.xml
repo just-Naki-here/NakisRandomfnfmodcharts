@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonicJUMPSCARE.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonicSPOOK0000" x="24" y="24" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0001" x="604" y="24" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0002" x="604" y="24" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0003" x="1184" y="24" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0004" x="1764" y="24" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0005" x="2344" y="24" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0006" x="2924" y="24" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0007" x="3504" y="24" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0008" x="24" y="924" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0009" x="604" y="924" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0010" x="1184" y="924" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0011" x="1764" y="924" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0012" x="2344" y="924" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0013" x="2924" y="924" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0014" x="3504" y="924" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0015" x="24" y="1824" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0016" x="604" y="1824" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0017" x="1764" y="924" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0018" x="2344" y="924" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0019" x="2924" y="924" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0020" x="1184" y="1824" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0021" x="1764" y="1824" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0022" x="2344" y="1824" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0023" x="2924" y="1824" width="556" height="876"/>
+	<SubTexture name="sonicSPOOK0024" x="3504" y="1824" width="556" height="876"/>
+</TextureAtlas>

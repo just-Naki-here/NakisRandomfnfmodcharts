@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ybnti",
+			"artiN",
+			[
+				106,
+				0,
+				93
+			]
+		],
+		[
+			"entropy",
+			"saintN",
+			[
+				0,
+				113,
+				93
+			]
+		],
+		[
+			"misery",
+			"lantbf2",
+			[
+				6,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

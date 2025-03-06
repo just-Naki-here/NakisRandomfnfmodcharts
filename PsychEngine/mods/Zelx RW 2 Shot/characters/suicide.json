@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-12,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-12,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-12,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-12,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-32
+			],
+			"anim": "laughter",
+			"fps": 24,
+			"name": "laughter",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-12,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "smile",
+			"loop": false,
+			"name": "smile"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/suicide",
+	"position": [
+		-480,
+		0
+	],
+	"healthicon": "suicide",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

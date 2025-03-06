@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="saintSNOW.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snow0000" x="24" y="24" width="3525" height="2567"/>
+	<SubTexture name="snow0001" x="3573" y="24" width="3525" height="2567"/>
+	<SubTexture name="snow0002" x="24" y="2615" width="3525" height="2567"/>
+	<SubTexture name="snow0003" x="3573" y="2615" width="3525" height="2567"/>
+	<SubTexture name="snow0004" x="24" y="5206" width="3525" height="2567"/>
+	<SubTexture name="snow0005" x="3573" y="5206" width="3525" height="2567"/>
+</TextureAtlas>

@@ -1,0 +1,27 @@
+{
+	"storyName": "hunterrottingohno",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "wastes",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"hunterweekmenu",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"peccant",
+			"hunterP1",
+			[
+				166,
+				0,
+				73
+			]
+		]
+	],
+	"weekName": "hunnalelegs",
+	"hiddenUntilUnlocked": false
+}

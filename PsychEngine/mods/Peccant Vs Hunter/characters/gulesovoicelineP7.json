@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [521, 423],
+			"anim": "voicelinevil",
+			"fps": 20,
+			"name": "VOICELINElaugh",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gulesovoicelaughP2",
+	"position": [0, 350],
+	"healthicon": "hugod",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [-210, -340],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

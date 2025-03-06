@@ -1,0 +1,31 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [456, 448],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [599, 488],
+			"indices": [],
+			"fps": 20,
+			"anim": "killanim",
+			"loop": false,
+			"name": "gulesothetkiller"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gulesothetkiller",
+	"position": [0, 350],
+	"healthicon": "hugod",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [-330, -580],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

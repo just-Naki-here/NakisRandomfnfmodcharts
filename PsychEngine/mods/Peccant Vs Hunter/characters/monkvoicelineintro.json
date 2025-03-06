@@ -1,0 +1,31 @@
+{
+	"animations": [
+		{
+			"offsets": [46, 318],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [166, 346],
+			"loop": false,
+			"fps": 20,
+			"anim": "montwalker",
+			"indices": [],
+			"name": "monkwalkintro"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/monkwalkintro",
+	"position": [0, 350],
+	"healthicon": "monkp1",
+	"flip_x": true,
+	"healthbar_colors": [253, 225, 85],
+	"camera_position": [210, -220],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": true
+}

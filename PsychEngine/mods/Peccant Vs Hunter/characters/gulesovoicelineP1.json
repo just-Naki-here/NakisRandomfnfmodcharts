@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"offsets": [429, 497],
+			"loop": false,
+			"fps": 20,
+			"anim": "voicelinevil",
+			"indices": [],
+			"name": "gulevoiceP1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gulesovoiceP1",
+	"position": [0, 350],
+	"healthicon": "hugod",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [-210, -390],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

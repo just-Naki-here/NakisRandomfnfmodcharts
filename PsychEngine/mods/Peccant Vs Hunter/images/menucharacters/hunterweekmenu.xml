@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hunterweekmenu.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="huntermenu0000" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0001" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0002" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0003" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0004" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0005" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0006" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0007" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0008" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0009" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0010" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0011" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0012" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0013" x="24" y="24" width="696" height="862"/>
+	<SubTexture name="huntermenu0014" x="24" y="24" width="696" height="862"/>
+</TextureAtlas>

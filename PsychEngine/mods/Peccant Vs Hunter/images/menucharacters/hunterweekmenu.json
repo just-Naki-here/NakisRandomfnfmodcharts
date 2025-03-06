@@ -1,0 +1,9 @@
+{
+	"idle_anim": "huntermenu",
+	"image": "hunterweekmenu",
+	"position": [234, 247],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.4,
+	"confirm_anim": "huntermenu"
+}

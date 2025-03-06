@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-55,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				214
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				193
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				69
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				237
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				209
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Mleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				192
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Mright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				66
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Mdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				239
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Mup",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/lanternbfeye",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "lantbf3",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-40,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
