@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NERMAL I"
+		},
+		{
+			"offsets": [
+				-4,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NERMAL L"
+		},
+		{
+			"offsets": [
+				18,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NERMAL D"
+		},
+		{
+			"offsets": [
+				7,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NERMAL U"
+		},
+		{
+			"offsets": [
+				-10,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NERMAL R"
+		},
+		{
+			"offsets": [
+				6,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "NERMAL MISS L"
+		},
+		{
+			"offsets": [
+				20,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "NERMALL MISS D"
+		},
+		{
+			"offsets": [
+				8,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "NERMAL MISS U"
+		},
+		{
+			"offsets": [
+				-12,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "NERMAL MISS R"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/nermal-cry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nermal-cry",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		106,
+		106
+	],
+	"camera_position": [
+		-100,
+		210
+	],
+	"sing_duration": 3.1,
+	"scale": 0.45,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="gfDance00000000" x="0" y="0" width="828" height="787" frameX="2" frameY="2" frameWidth="824" frameHeight="783"/>
+</TextureAtlas>

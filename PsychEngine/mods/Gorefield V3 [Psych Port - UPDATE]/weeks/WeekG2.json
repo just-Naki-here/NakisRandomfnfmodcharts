@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"fast-delivery",
+			"lasagnaboy-pixel",
+			[
+				146,
+				180,
+				73
+			]
+		],
+		[
+			"health-inspection",
+			"lasagnaboy-pixel",
+			[
+				146,
+				180,
+				73
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lasagna",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "SOMETHING IS CUM ING",
+	"weekName": "WeekG2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

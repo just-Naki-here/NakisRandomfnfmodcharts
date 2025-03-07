@@ -1,0 +1,146 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "JON IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "JON DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "JON LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "JON UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JON RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "JON MISS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-49
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "JON MISS DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				22
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "JON MISS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "JON MISS RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				214
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shoot",
+			"loop": false,
+			"name": "JON DISPARO"
+		},
+		{
+			"offsets": [
+				6,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "recharge",
+			"loop": false,
+			"name": "JON RECARGA"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/jon-player",
+	"position": [
+		-720,
+		625
+	],
+	"healthicon": "jon-player",
+	"flip_x": true,
+	"healthbar_colors": [
+		46,
+		94,
+		72
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

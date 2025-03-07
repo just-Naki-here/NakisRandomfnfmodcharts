@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"the-complement",
+			"ultra-0",
+			[
+				126,
+				113,
+				133
+			]
+		],
+		[
+			"roses-and-quartzs",
+			"ultra-gorefield",
+			[
+				126,
+				113,
+				133
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "ultra",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "ultrafrield week",
+	"weekName": "WeekG4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

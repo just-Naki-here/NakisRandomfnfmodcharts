@@ -1,0 +1,3 @@
+Vaiue 1: Zoom Hud put like (0.05)
+
+Value 2:Zoom Game  put like (0.08) 

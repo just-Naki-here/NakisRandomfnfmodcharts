@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "CRYFIELD IDLE"
+		},
+		{
+			"offsets": [
+				-33,
+				85
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "CRYFIELD L"
+		},
+		{
+			"offsets": [
+				4,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "CRYFIELD D"
+		},
+		{
+			"offsets": [
+				25,
+				240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "CRYFIELD U"
+		},
+		{
+			"offsets": [
+				-60,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "CRYFIELD R"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/CRYFIELD_MONSTER",
+	"position": [
+		-350,
+		-100
+	],
+	"healthicon": "cryfield-monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		8,
+		33
+	],
+	"camera_position": [
+		50,
+		-10
+	],
+	"sing_duration": 5.4,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

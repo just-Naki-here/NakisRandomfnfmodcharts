@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				262
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RUN JESSEE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				267
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RUN JESSEE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				263
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RUN JESSEE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				78,
+				260
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RUN JESSE IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				268
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RUN JESSE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				266
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "RUN MISS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				266
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RUN MISS RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				268
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "RUN MISS DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				313
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "RUN MISS UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				71,
+				260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bitch",
+			"loop": false,
+			"name": "RUN BITCH"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JESSEE_RUN",
+	"position": [
+		-130,
+		650
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		32,
+		16,
+		53
+	],
+	"camera_position": [
+		90,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
