@@ -112,7 +112,7 @@ function onUpdate(elapsed)
         setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T MESS UP ANYMORE!!!")--changes app. name 
         debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
         setProperty('health', 5.0);
-        setProperty('healthGain', 0.01)
+        setProperty('healthGain', 0.09)
     end
     if misses == 25 then--miss checker
         setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T FUCK UP!!!")--changes app. name 
