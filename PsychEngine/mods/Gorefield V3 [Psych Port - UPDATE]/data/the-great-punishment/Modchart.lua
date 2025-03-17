@@ -77,28 +77,13 @@ function onUpdate(elapsed)
    randomPlayerstrumX7=0.2
    randomPlayerstrumX8=0.2
    Decider=math.random(1,100)
-   randomNumberX=math.random(100,250)
-   randomNumberY=math.random(100,250)
-   setPropertyFromClass("openfl.Lib", "application.window.x", randomNumberX) 
-   setPropertyFromClass("openfl.Lib", "application.window.y", randomNumberY)
-   randomNumberX=math.random(100,250)
-   randomNumberY=math.random(100,250)
-   setPropertyFromClass("openfl.Lib", "application.window.x", randomNumberX) 
-   setPropertyFromClass("openfl.Lib", "application.window.y", randomNumberY)
-   randomNumberX=math.random(100,250)
-   randomNumberY=math.random(100,250)
-   setPropertyFromClass("openfl.Lib", "application.window.x", randomNumberX) 
-   setPropertyFromClass("openfl.Lib", "application.window.y", randomNumberY)
+
    setProperty('songLength', getProperty('songLength')+getRandomInt(11000, -10000))
 
   end
   if Decider==50 then
 	 Decider=math.random(1,100)
    setProperty('songLength', getProperty('songLength')+getRandomInt(110000, -100000))
-   randomNumberX=math.random(100,250)
-   randomNumberY=math.random(100,250)
-   setPropertyFromClass("openfl.Lib", "application.window.x", randomNumberX) 
-   setPropertyFromClass("openfl.Lib", "application.window.y", randomNumberY)
 	end
   songPos = getSongPosition()
   local currentBeat = (songPos/5000)*(curBpm/60)

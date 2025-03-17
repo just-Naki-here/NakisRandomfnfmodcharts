@@ -31,9 +31,9 @@ function onUpdate()
   
     setPropertyFromGroup('opponentStrums', 3, 'alpha', 0.2);
 
-    setPropertyFromGroup('opponentSustain', 0, 'alpha', 0)
-    setPropertyFromGroup('opponentSustain', 1, 'alpha', 0)
-    setPropertyFromGroup('opponentSustain', 2, 'alpha', 0)
-    setPropertyFromGroup('opponentSustain', 3, 'alpha', 0)
+    setPropertyFromGroup('opponentSustain', 0, 'direction', 180)
+    setPropertyFromGroup('opponentSustain', 1, 'direction', 180)
+    setPropertyFromGroup('opponentSustain', 2, 'direction', 180)
+    setPropertyFromGroup('opponentSustain', 3, 'direction', 180)
   end
   

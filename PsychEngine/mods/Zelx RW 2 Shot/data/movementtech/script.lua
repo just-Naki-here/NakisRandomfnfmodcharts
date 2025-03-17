@@ -1,22 +1,39 @@
 function onCreate()
     setProperty('skipCountdown', true)
-    end
-
-function onPause()
-    debugPrint("who said you could leave?")
-    return Function_Stop
-    end
-
-function onGameOver()
-    os.exit()
-    end
-     
-function onUpdatePost()
-     
-if getPropertyFromClass('flixel.FlxG','keys.justPressed.SEVEN') then
-     
-    os.exit()
+    restart=true
+    nopause=true
+    exitgameonoof=true
+    exitonkeynum7pressed=true
 end
+function onPause()
+    if nopause==true then
+        debugPrint("who said you could leave?")
+        return Function_Stop
+    end
+end
+function onGameOver()
+    if exitgameonoof==true then
+        os.exit()
+    end
+end
+function onUpdatePost()
+    if exitonkeynum7pressed==true then
+        if getPropertyFromClass('flixel.FlxG','keys.justPressed.SEVEN') then
+            os.exit()
+        end
+    end
+    if getPropertyFromClass('flixel.FlxG','keys.justPressed.n') then
+        if getPropertyFromClass('flixel.FlxG','keys.justPressed.a') then
+            if getPropertyFromClass('flixel.FlxG','keys.justPressed.k') then
+                if getPropertyFromClass('flixel.FlxG','keys.justPressed.i') then
+                    restart=false
+                    nopause=false
+                    exitgameonoof=false
+                    exitonkeynum7pressed=false
+                end
+            end
+        end
+    end
 end
 
 function onStepHit()
@@ -25,5 +42,10 @@ function onStepHit()
     end
 end
 function onEndSong()
-    restartSong(true);
+    if restart==true then
+        restartSong(true);
+    end
+    if restart==false then
+        restartSong(false)
+    end
 end
