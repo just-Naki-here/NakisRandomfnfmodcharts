@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pebblemakeover.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="halobits 30000" x="0" y="0" width="634" height="634" pivotX="0" pivotY="0"/>
+	<SubTexture name="halobits 30001" x="0" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30002" x="634" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30003" x="634" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30004" x="1268" y="0" width="631" height="632" frameX="0" frameY="0" frameWidth="634" frameHeight="634"/>
+	<SubTexture name="halobits 30005" x="1268" y="0" width="631" height="632" frameX="0" frameY="0" frameWidth="634" frameHeight="634"/>
+	<SubTexture name="halobits 30006" x="1899" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30007" x="1899" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30008" x="2533" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30009" x="2533" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30010" x="3167" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30011" x="3167" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30012" x="0" y="634" width="634" height="634"/>
+	<SubTexture name="halobits 30013" x="0" y="634" width="634" height="634"/>
+	<SubTexture name="halobits 30014" x="634" y="634" width="634" height="634"/>
+	<SubTexture name="halobits 30015" x="634" y="634" width="634" height="634"/>
+	<SubTexture name="halobits 30016" x="2533" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30017" x="2533" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30018" x="1268" y="634" width="634" height="634"/>
+	<SubTexture name="halobits 30019" x="1268" y="634" width="634" height="634"/>
+	<SubTexture name="halobits 30020" x="1902" y="634" width="634" height="632" frameX="0" frameY="0" frameWidth="634" frameHeight="634"/>
+	<SubTexture name="halobits 30021" x="1902" y="634" width="634" height="632" frameX="0" frameY="0" frameWidth="634" frameHeight="634"/>
+	<SubTexture name="halobits 30022" x="2536" y="634" width="634" height="634"/>
+	<SubTexture name="halobits 30023" x="2536" y="634" width="634" height="634"/>
+	<SubTexture name="halobits 30024" x="2533" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30025" x="2533" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30026" x="2533" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30027" x="2533" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30028" x="3170" y="634" width="634" height="634"/>
+	<SubTexture name="halobits 30029" x="3170" y="634" width="634" height="634"/>
+	<SubTexture name="halobits 30030" x="0" y="1268" width="634" height="632" frameX="0" frameY="0" frameWidth="634" frameHeight="634"/>
+	<SubTexture name="halobits 30031" x="0" y="1268" width="634" height="632" frameX="0" frameY="0" frameWidth="634" frameHeight="634"/>
+	<SubTexture name="halobits 30032" x="2533" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30033" x="2533" y="0" width="634" height="634"/>
+	<SubTexture name="halobits 30034" x="634" y="1268" width="634" height="634"/>
+	<SubTexture name="halobits 30035" x="634" y="1268" width="634" height="634"/>
+	<SubTexture name="halobits 30036" x="1268" y="1268" width="634" height="634"/>
+	<SubTexture name="halobits 30037" x="1268" y="1268" width="634" height="634"/>
+	<SubTexture name="halobits 30038" x="1902" y="1268" width="634" height="634"/>
+	<SubTexture name="halobits 30039" x="1902" y="1268" width="634" height="634"/>
+</TextureAtlas>

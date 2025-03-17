@@ -1,6 +1,0 @@
-value 1: duration of fade
-value 2:
-game: fades the screen without touching the hud
-hud: fades everything
-
-FadeOut does not need a value 2

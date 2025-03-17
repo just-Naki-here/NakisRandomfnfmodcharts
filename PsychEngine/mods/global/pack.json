@@ -1,0 +1,7 @@
+{
+	"name": "Iterator Funkin ( GUI )",
+	"description": "A recreation of Rainworld's GUI ported to FNF. Please credit if you use it!!\n\n(this is loaded globally throughout all mods)",
+	"restart": false,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

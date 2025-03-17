@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pebblemakeover.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="justcircles10000" x="0" y="0" width="167" height="167" pivotX="3.35" pivotY="3.3"/>
+	<SubTexture name="justcircles10001" x="167" y="0" width="167" height="167"/>
+	<SubTexture name="justcircles10002" x="334" y="0" width="166" height="166" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles10003" x="500" y="0" width="167" height="167"/>
+	<SubTexture name="justcircles10004" x="667" y="0" width="167" height="167"/>
+	<SubTexture name="justcircles10005" x="834" y="0" width="167" height="167"/>
+	<SubTexture name="justcircles10006" x="1001" y="0" width="166" height="167" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles10007" x="1167" y="0" width="167" height="167"/>
+	<SubTexture name="justcircles10008" x="1334" y="0" width="167" height="167"/>
+	<SubTexture name="justcircles10009" x="1501" y="0" width="167" height="167"/>
+	<SubTexture name="justcircles10010" x="1668" y="0" width="167" height="166" frameX="0" frameY="-1" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles10011" x="1835" y="0" width="167" height="167"/>
+	<SubTexture name="justcircles10012" x="0" y="167" width="167" height="167"/>
+	<SubTexture name="justcircles10013" x="167" y="167" width="167" height="167"/>
+	<SubTexture name="justcircles10014" x="334" y="167" width="167" height="167"/>
+	<SubTexture name="justcircles10015" x="501" y="167" width="167" height="167"/>
+	<SubTexture name="justcircles10016" x="668" y="167" width="165" height="166" frameX="-1" frameY="-1" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles10017" x="833" y="167" width="167" height="167"/>
+	<SubTexture name="justcircles10018" x="1000" y="167" width="167" height="167"/>
+	<SubTexture name="justcircles20000" x="1167" y="167" width="167" height="167" pivotX="3.35" pivotY="3.3"/>
+	<SubTexture name="justcircles20001" x="1334" y="167" width="167" height="167"/>
+	<SubTexture name="justcircles20002" x="1501" y="167" width="166" height="166" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles20003" x="1667" y="167" width="167" height="167"/>
+	<SubTexture name="justcircles20004" x="1834" y="167" width="167" height="167"/>
+	<SubTexture name="justcircles20005" x="0" y="334" width="167" height="167"/>
+	<SubTexture name="justcircles20006" x="167" y="334" width="166" height="167" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles20007" x="333" y="334" width="167" height="167"/>
+	<SubTexture name="justcircles20008" x="500" y="334" width="167" height="167"/>
+	<SubTexture name="justcircles20009" x="667" y="334" width="167" height="167"/>
+	<SubTexture name="justcircles20010" x="834" y="334" width="167" height="166" frameX="0" frameY="-1" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles20011" x="1001" y="334" width="167" height="167"/>
+	<SubTexture name="justcircles20012" x="1168" y="334" width="167" height="167"/>
+	<SubTexture name="justcircles20013" x="1335" y="334" width="167" height="167"/>
+	<SubTexture name="justcircles20014" x="1502" y="334" width="167" height="167"/>
+	<SubTexture name="justcircles20015" x="1669" y="334" width="167" height="167"/>
+	<SubTexture name="justcircles20016" x="1836" y="334" width="165" height="166" frameX="-1" frameY="-1" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles20017" x="0" y="501" width="167" height="167"/>
+	<SubTexture name="justcircles20018" x="167" y="501" width="167" height="167"/>
+	<SubTexture name="justcircles30000" x="334" y="501" width="167" height="167" pivotX="3.35" pivotY="3.3"/>
+	<SubTexture name="justcircles30001" x="501" y="501" width="167" height="167"/>
+	<SubTexture name="justcircles30002" x="668" y="501" width="166" height="166" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles30003" x="834" y="501" width="167" height="167"/>
+	<SubTexture name="justcircles30004" x="1001" y="501" width="167" height="167"/>
+	<SubTexture name="justcircles30005" x="1168" y="501" width="167" height="167"/>
+	<SubTexture name="justcircles30006" x="1335" y="501" width="166" height="167" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles30007" x="1501" y="501" width="167" height="167"/>
+	<SubTexture name="justcircles30008" x="1668" y="501" width="167" height="167"/>
+	<SubTexture name="justcircles30009" x="1835" y="501" width="167" height="167"/>
+	<SubTexture name="justcircles30010" x="0" y="668" width="167" height="166" frameX="0" frameY="-1" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles30011" x="167" y="668" width="167" height="167"/>
+	<SubTexture name="justcircles30012" x="334" y="668" width="167" height="167"/>
+	<SubTexture name="justcircles30013" x="501" y="668" width="167" height="167"/>
+	<SubTexture name="justcircles30014" x="668" y="668" width="167" height="167"/>
+	<SubTexture name="justcircles30015" x="835" y="668" width="167" height="167"/>
+	<SubTexture name="justcircles30016" x="1002" y="668" width="165" height="166" frameX="-1" frameY="-1" frameWidth="167" frameHeight="167"/>
+	<SubTexture name="justcircles30017" x="1167" y="668" width="167" height="167"/>
+	<SubTexture name="justcircles30018" x="1334" y="668" width="167" height="167"/>
+</TextureAtlas>

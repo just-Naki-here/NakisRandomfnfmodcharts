@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="reindeer.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="reindeer0000" x="0" y="0" width="523" height="471" pivotX="-827.3" pivotY="-41.95"/>
+	<SubTexture name="reindeer0001" x="0" y="471" width="523" height="471"/>
+</TextureAtlas>

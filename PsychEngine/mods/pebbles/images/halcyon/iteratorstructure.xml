@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iteratorstructure.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tbh0000" x="6" y="6" width="297" height="315" pivotX="476.7" pivotY="90.95" frameX="-474" frameY="-85" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0001" x="6" y="6" width="297" height="315" frameX="-474" frameY="-85" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0002" x="6" y="6" width="297" height="315" frameX="-474" frameY="-85" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0003" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0004" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0005" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0006" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0007" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0008" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0009" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0010" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0011" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0012" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0013" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0014" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0015" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0016" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0017" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0018" x="309" y="6" width="297" height="315" frameX="-478" frameY="-89" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0019" x="612" y="6" width="296" height="315" frameX="-437" frameY="-5" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0020" x="612" y="6" width="296" height="315" frameX="-437" frameY="-5" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0021" x="6" y="327" width="297" height="315" frameX="-432" frameY="-2" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0022" x="6" y="327" width="297" height="315" frameX="-432" frameY="-2" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0023" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0024" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0025" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0026" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0027" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0028" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0029" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0030" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0031" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0032" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0033" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0034" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0035" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0036" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0037" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0038" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0039" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0040" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0041" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0042" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0043" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0044" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0045" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0046" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0047" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0048" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0049" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0050" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0051" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0052" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0053" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0054" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0055" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0056" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0057" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0058" x="309" y="327" width="296" height="315" frameX="-431" frameY="-1" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0059" x="611" y="327" width="296" height="314" frameX="-12" frameY="0" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0060" x="6" y="648" width="296" height="315" frameX="-7" frameY="-17" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0061" x="6" y="648" width="296" height="315" frameX="-7" frameY="-17" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0062" x="6" y="648" width="296" height="315" frameX="-7" frameY="-17" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0063" x="6" y="648" width="296" height="315" frameX="-7" frameY="-17" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0064" x="308" y="648" width="296" height="315" frameX="0" frameY="-17" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0065" x="308" y="648" width="296" height="315" frameX="0" frameY="-17" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0066" x="610" y="648" width="296" height="314" frameX="0" frameY="-19" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0067" x="610" y="648" width="296" height="314" frameX="0" frameY="-19" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0068" x="610" y="648" width="296" height="314" frameX="0" frameY="-19" frameWidth="775" frameHeight="404"/>
+	<SubTexture name="tbh0069" x="610" y="648" width="296" height="314" frameX="0" frameY="-19" frameWidth="775" frameHeight="404"/>
+</TextureAtlas>

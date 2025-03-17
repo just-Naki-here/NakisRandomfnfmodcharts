@@ -1,9 +1,0 @@
-{
-	"name": "VsHunter",
-	"description": "...",
-	"restart":false,
-	"runsGlobally": true,
-	"color": [255, 0, 0],
-	"discordRPC": "863222024192262205",
-	"iconFramerate": 10
-}

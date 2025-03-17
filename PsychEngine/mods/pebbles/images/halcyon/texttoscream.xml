@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pebblemakeover.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="texttoscream0000" x="0" y="0" width="45" height="45" pivotX="-2" pivotY="-27.5" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0001" x="45" y="0" width="96" height="49" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0002" x="141" y="0" width="148" height="49" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0003" x="289" y="0" width="200" height="49" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0004" x="489" y="0" width="288" height="49" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0005" x="777" y="0" width="340" height="49" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0006" x="1117" y="0" width="391" height="49" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0007" x="1508" y="0" width="391" height="143" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0008" x="1899" y="0" width="391" height="143" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0009" x="2290" y="0" width="391" height="143" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0010" x="2681" y="0" width="391" height="143" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0011" x="3072" y="0" width="391" height="143" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0012" x="3463" y="0" width="391" height="143" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0013" x="0" y="143" width="391" height="143" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0014" x="391" y="143" width="391" height="241" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0015" x="782" y="143" width="391" height="241" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0016" x="1173" y="143" width="391" height="241" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0017" x="1564" y="143" width="391" height="241" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0018" x="1955" y="143" width="391" height="241" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0019" x="2346" y="143" width="391" height="241" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0020" x="2737" y="143" width="399" height="241" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0021" x="3136" y="143" width="487" height="241" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0022" x="0" y="384" width="539" height="241" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0023" x="539" y="384" width="539" height="339" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0024" x="1078" y="384" width="539" height="339" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0025" x="1617" y="384" width="539" height="339" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0026" x="2156" y="384" width="539" height="339" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0027" x="2695" y="384" width="539" height="343" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0028" x="3234" y="384" width="539" height="343" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0029" x="0" y="727" width="539" height="343" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0030" x="539" y="727" width="539" height="343" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0031" x="1078" y="727" width="539" height="343" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0032" x="1617" y="727" width="539" height="437" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0033" x="2156" y="727" width="539" height="437" frameX="0" frameY="0" frameWidth="539" frameHeight="441"/>
+	<SubTexture name="texttoscream0034" x="2695" y="727" width="539" height="441"/>
+</TextureAtlas>

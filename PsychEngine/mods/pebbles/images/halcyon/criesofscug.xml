@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pebblemakeover.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scugX0000" x="10" y="10" width="1848" height="978" pivotX="13.25" pivotY="0"/>
+	<SubTexture name="scugX0001" x="10" y="10" width="1848" height="978"/>
+	<SubTexture name="scugX0002" x="10" y="10" width="1848" height="978"/>
+	<SubTexture name="scugX0003" x="10" y="10" width="1848" height="978"/>
+	<SubTexture name="scugX0004" x="10" y="10" width="1848" height="978"/>
+	<SubTexture name="scugdies10000" x="1858" y="10" width="330" height="977" pivotX="0" pivotY="-0.45"/>
+	<SubTexture name="scugdies10001" x="1858" y="10" width="330" height="977"/>
+	<SubTexture name="scugdies10002" x="1858" y="10" width="330" height="977"/>
+	<SubTexture name="scugdies10003" x="1858" y="10" width="330" height="977"/>
+	<SubTexture name="scugdies10004" x="1858" y="10" width="330" height="977"/>
+	<SubTexture name="scugdies20000" x="2188" y="10" width="1785" height="978" pivotX="0" pivotY="0"/>
+	<SubTexture name="scugdies20001" x="2188" y="10" width="1785" height="978"/>
+	<SubTexture name="scugdies20002" x="2188" y="10" width="1785" height="978"/>
+	<SubTexture name="scugdies20003" x="2188" y="10" width="1785" height="978"/>
+	<SubTexture name="scugdies20004" x="2188" y="10" width="1785" height="978"/>
+	<SubTexture name="scugdies30000" x="10" y="988" width="1785" height="978" pivotX="0" pivotY="0"/>
+	<SubTexture name="scugdies30001" x="10" y="988" width="1785" height="978"/>
+	<SubTexture name="scugdies30002" x="10" y="988" width="1785" height="978"/>
+	<SubTexture name="scugdies30003" x="10" y="988" width="1785" height="978"/>
+	<SubTexture name="scugdies30004" x="10" y="988" width="1785" height="978"/>
+</TextureAtlas>

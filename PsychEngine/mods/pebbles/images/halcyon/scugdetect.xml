@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pebbles halcyon.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scugdetect0000" x="6" y="6" width="320" height="527" pivotX="1.35" pivotY="1"/>
+	<SubTexture name="scugdetect0001" x="6" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0002" x="6" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0003" x="6" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0004" x="6" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0005" x="6" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0006" x="6" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0007" x="6" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0008" x="6" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0009" x="6" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0010" x="332" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0011" x="332" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0012" x="332" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0013" x="332" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0014" x="332" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0015" x="332" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0016" x="332" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0017" x="332" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0018" x="332" y="6" width="320" height="527"/>
+	<SubTexture name="scugdetect0019" x="332" y="6" width="320" height="527"/>
+	<SubTexture name="scugremove0000" x="658" y="6" width="321" height="528" pivotX="6.95" pivotY="31.05" frameX="-10" frameY="-33" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0001" x="985" y="6" width="320" height="528" frameX="-5" frameY="-33" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0002" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0003" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0004" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0005" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0006" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0007" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0008" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0009" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0010" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0011" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0012" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0013" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0014" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0015" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0016" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0017" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0018" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0019" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0020" x="1311" y="6" width="320" height="528" frameX="0" frameY="-32" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0021" x="1637" y="6" width="322" height="527" frameX="-30" frameY="-3" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0022" x="6" y="540" width="321" height="527" frameX="-33" frameY="0" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0023" x="6" y="540" width="321" height="527" frameX="-33" frameY="0" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0024" x="6" y="540" width="321" height="527" frameX="-33" frameY="0" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0025" x="6" y="540" width="321" height="527" frameX="-33" frameY="0" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0026" x="6" y="540" width="321" height="527" frameX="-33" frameY="0" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0027" x="6" y="540" width="321" height="527" frameX="-33" frameY="0" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0028" x="6" y="540" width="321" height="527" frameX="-33" frameY="0" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0029" x="333" y="540" width="321" height="528" frameX="-53" frameY="-92" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0030" x="333" y="540" width="321" height="528" frameX="-53" frameY="-92" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0031" x="333" y="540" width="321" height="528" frameX="-53" frameY="-92" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0032" x="660" y="540" width="321" height="528" frameX="-54" frameY="-93" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0033" x="660" y="540" width="321" height="528" frameX="-54" frameY="-93" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0034" x="660" y="540" width="321" height="528" frameX="-54" frameY="-93" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0035" x="660" y="540" width="321" height="528" frameX="-54" frameY="-93" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0036" x="987" y="540" width="321" height="528" frameX="-53" frameY="-93" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0037" x="1314" y="540" width="0" height="0" frameX="-6" frameY="-31" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0038" x="1314" y="540" width="0" height="0" frameX="-6" frameY="-31" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0039" x="1314" y="540" width="0" height="0" frameX="-6" frameY="-31" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0040" x="1320" y="540" width="31" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0041" x="1320" y="540" width="31" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0042" x="1357" y="540" width="68" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0043" x="1357" y="540" width="68" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0044" x="1431" y="540" width="104" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0045" x="1431" y="540" width="104" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0046" x="1541" y="540" width="135" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0047" x="1541" y="540" width="135" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0048" x="1682" y="540" width="167" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0049" x="1682" y="540" width="167" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0050" x="6" y="1074" width="229" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0051" x="6" y="1074" width="229" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0052" x="241" y="1074" width="266" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0053" x="241" y="1074" width="266" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0054" x="513" y="1074" width="308" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0055" x="513" y="1074" width="308" height="32" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0056" x="827" y="1074" width="308" height="102" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0057" x="827" y="1074" width="308" height="102" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0058" x="1141" y="1074" width="308" height="102" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0059" x="1141" y="1074" width="308" height="102" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0060" x="1455" y="1074" width="308" height="105" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0061" x="1455" y="1074" width="308" height="105" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0062" x="6" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0063" x="6" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0064" x="320" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0065" x="320" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0066" x="634" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0067" x="634" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0068" x="948" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0069" x="948" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0070" x="1262" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0071" x="1262" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0072" x="1576" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0073" x="1576" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0074" x="1576" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0075" x="1576" y="1185" width="308" height="172" frameX="0" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0076" x="6" y="1363" width="308" height="172" frameX="-1" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0077" x="6" y="1363" width="308" height="172" frameX="-1" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0078" x="6" y="1363" width="308" height="172" frameX="-1" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0079" x="6" y="1363" width="308" height="172" frameX="-1" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0080" x="6" y="1363" width="308" height="172" frameX="-1" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0081" x="6" y="1363" width="308" height="172" frameX="-1" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0082" x="6" y="1363" width="308" height="172" frameX="-1" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0083" x="6" y="1363" width="308" height="172" frameX="-1" frameY="-42" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0084" x="6" y="1363" width="308" height="172" frameX="-20" frameY="-52" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0085" x="6" y="1363" width="308" height="172" frameX="-20" frameY="-52" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0086" x="6" y="1363" width="308" height="172" frameX="-20" frameY="-52" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0087" x="6" y="1363" width="308" height="172" frameX="-27" frameY="-60" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0088" x="6" y="1363" width="308" height="172" frameX="-29" frameY="-62" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0089" x="6" y="1363" width="308" height="172" frameX="-29" frameY="-62" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0090" x="6" y="1363" width="308" height="172" frameX="-29" frameY="-62" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0091" x="6" y="1363" width="308" height="172" frameX="-29" frameY="-62" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0092" x="320" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0093" x="320" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0094" x="320" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0095" x="320" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0096" x="320" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0097" x="320" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0098" x="635" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0099" x="635" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0100" x="635" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0101" x="635" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0102" x="635" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0103" x="635" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0104" x="950" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0105" x="950" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0106" x="950" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0107" x="950" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0108" x="950" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0109" x="950" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0110" x="1265" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0111" x="1265" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0112" x="1265" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0113" x="1265" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0114" x="1265" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0115" x="1265" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0116" x="1580" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0117" x="1580" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0118" x="1580" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0119" x="1580" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0120" x="1580" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0121" x="1580" y="1363" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0122" x="6" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0123" x="6" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0124" x="6" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0125" x="6" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0126" x="6" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0127" x="6" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0128" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0129" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0130" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0131" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0132" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0133" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0134" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0135" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0136" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0137" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0138" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0139" x="321" y="1614" width="309" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+	<SubTexture name="scugremove0140" x="636" y="1614" width="314" height="245" frameX="-11" frameY="-46" frameWidth="375" frameHeight="621"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="microphone.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="micdetect instance 10000" x="6" y="6" width="272" height="440" pivotX="0.75" pivotY="0"/>
+	<SubTexture name="micdetect instance 10001" x="6" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10002" x="6" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10003" x="6" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10004" x="6" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10005" x="6" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10006" x="6" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10007" x="6" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10008" x="6" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10009" x="6" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10010" x="284" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10011" x="284" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10012" x="284" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10013" x="284" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10014" x="284" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10015" x="284" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10016" x="284" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10017" x="284" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10018" x="284" y="6" width="272" height="440"/>
+	<SubTexture name="micdetect instance 10019" x="284" y="6" width="272" height="440"/>
+</TextureAtlas>

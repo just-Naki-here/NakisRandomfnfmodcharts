@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="strangescribbles.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pissed0000" x="6" y="6" width="24" height="88" pivotX="0" pivotY="0" frameX="0" frameY="-133" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0001" x="6" y="6" width="24" height="88" frameX="0" frameY="-133" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0002" x="6" y="6" width="24" height="88" frameX="0" frameY="-133" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0003" x="6" y="6" width="24" height="88" frameX="0" frameY="-133" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0004" x="36" y="6" width="54" height="101" frameX="0" frameY="-120" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0005" x="36" y="6" width="54" height="101" frameX="0" frameY="-120" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0006" x="36" y="6" width="54" height="101" frameX="0" frameY="-120" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0007" x="36" y="6" width="54" height="101" frameX="0" frameY="-120" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0008" x="96" y="6" width="109" height="125" frameX="0" frameY="-96" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0009" x="96" y="6" width="109" height="125" frameX="0" frameY="-96" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0010" x="96" y="6" width="109" height="125" frameX="0" frameY="-96" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0011" x="96" y="6" width="109" height="125" frameX="0" frameY="-96" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0012" x="211" y="6" width="146" height="141" frameX="0" frameY="-80" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0013" x="211" y="6" width="146" height="141" frameX="0" frameY="-80" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0014" x="211" y="6" width="146" height="141" frameX="0" frameY="-80" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0015" x="211" y="6" width="146" height="141" frameX="0" frameY="-80" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0016" x="363" y="6" width="185" height="158" frameX="0" frameY="-63" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0017" x="363" y="6" width="185" height="158" frameX="0" frameY="-63" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0018" x="363" y="6" width="185" height="158" frameX="0" frameY="-63" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0019" x="363" y="6" width="185" height="158" frameX="0" frameY="-63" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0020" x="554" y="6" width="228" height="178" frameX="0" frameY="-43" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0021" x="554" y="6" width="228" height="178" frameX="0" frameY="-43" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0022" x="554" y="6" width="228" height="178" frameX="0" frameY="-43" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0023" x="554" y="6" width="228" height="178" frameX="0" frameY="-43" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0024" x="6" y="190" width="275" height="199" frameX="0" frameY="-22" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0025" x="6" y="190" width="275" height="199" frameX="0" frameY="-22" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0026" x="6" y="190" width="275" height="199" frameX="0" frameY="-22" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0027" x="6" y="190" width="275" height="199" frameX="0" frameY="-22" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissed0028" x="287" y="190" width="328" height="221"/>
+	<SubTexture name="pissedblink0000" x="287" y="190" width="328" height="221" pivotX="0" pivotY="0"/>
+	<SubTexture name="pissedblink0001" x="287" y="190" width="328" height="221"/>
+	<SubTexture name="pissedblink0002" x="287" y="190" width="328" height="221"/>
+	<SubTexture name="pissedblink0003" x="287" y="190" width="328" height="221"/>
+	<SubTexture name="pissedblink0004" x="287" y="190" width="328" height="221"/>
+	<SubTexture name="pissedblink0005" x="287" y="190" width="328" height="221"/>
+	<SubTexture name="pissedblink0006" x="287" y="190" width="328" height="221"/>
+	<SubTexture name="pissedblink0007" x="287" y="190" width="328" height="221"/>
+	<SubTexture name="pissedblink0008" x="287" y="190" width="328" height="221"/>
+	<SubTexture name="pissedblink0009" x="287" y="190" width="328" height="221"/>
+	<SubTexture name="pissedblink0010" x="621" y="190" width="0" height="0" frameX="0" frameY="0" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissedblink0011" x="621" y="190" width="0" height="0" frameX="0" frameY="0" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissedblink0012" x="621" y="190" width="0" height="0" frameX="0" frameY="0" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissedblink0013" x="621" y="190" width="0" height="0" frameX="0" frameY="0" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissedblink0014" x="621" y="190" width="0" height="0" frameX="0" frameY="0" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissedblink0015" x="621" y="190" width="0" height="0" frameX="0" frameY="0" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissedblink0016" x="621" y="190" width="0" height="0" frameX="0" frameY="0" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissedblink0017" x="621" y="190" width="0" height="0" frameX="0" frameY="0" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissedblink0018" x="621" y="190" width="0" height="0" frameX="0" frameY="0" frameWidth="328" frameHeight="221"/>
+	<SubTexture name="pissedblink0019" x="621" y="190" width="0" height="0" frameX="0" frameY="0" frameWidth="328" frameHeight="221"/>
+</TextureAtlas>
