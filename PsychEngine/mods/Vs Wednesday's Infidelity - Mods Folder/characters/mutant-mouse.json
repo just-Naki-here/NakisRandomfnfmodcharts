@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				259
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MONSTER IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				349,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MONSTER LEFT"
+		},
+		{
+			"offsets": [
+				81,
+				284
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MONSTER DOWN"
+		},
+		{
+			"offsets": [
+				109,
+				410
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MONSTER UP"
+		},
+		{
+			"offsets": [
+				29,
+				235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MONSTER RIGHT"
+		},
+		{
+			"offsets": [
+				140,
+				272
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "death",
+			"indices": [],
+			"name": "DEATH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/too-slow/mutant mouse",
+	"position": [
+		-55,
+		340
+	],
+	"healthicon": "evilmiki",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		41,
+		41
+	],
+	"camera_position": [
+		-110,
+		-250
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

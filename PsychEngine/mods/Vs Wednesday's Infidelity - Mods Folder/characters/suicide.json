@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Suicide Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				73,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Suicide Down"
+		},
+		{
+			"offsets": [
+				84,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Suicide Left"
+		},
+		{
+			"offsets": [
+				-25,
+				172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Suicide Up"
+		},
+		{
+			"offsets": [
+				1,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Suicide Rigth"
+		},
+		{
+			"offsets": [
+				50,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Hit Mouse"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Suicide",
+	"position": [
+		-145,
+		73
+	],
+	"healthicon": "mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		73,
+		69
+	],
+	"camera_position": [
+		-400,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

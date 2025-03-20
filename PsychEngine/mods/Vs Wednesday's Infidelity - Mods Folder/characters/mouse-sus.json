@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				193,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NeedleLeft"
+		},
+		{
+			"offsets": [
+				-37,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NeedleDown"
+		},
+		{
+			"offsets": [
+				55,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NeedleUp"
+		},
+		{
+			"offsets": [
+				-40,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NeedleRight"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NeedleIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mickey_Among_us_lebronjames",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "sus",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		17,
+		29
+	],
+	"camera_position": [
+		0,
+		40
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chedder Idle"
+		},
+		{
+			"offsets": [
+				-1,
+				-39
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Chedder Left"
+		},
+		{
+			"offsets": [
+				71,
+				-184
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Chedder Down"
+		},
+		{
+			"offsets": [
+				1,
+				63
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Chedder Up"
+		},
+		{
+			"offsets": [
+				14,
+				-74
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Chedder Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chedder",
+	"position": [
+		-250,
+		0
+	],
+	"healthicon": "cheese",
+	"flip_x": false,
+	"healthbar_colors": [
+		76,
+		70,
+		63
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.2
+}

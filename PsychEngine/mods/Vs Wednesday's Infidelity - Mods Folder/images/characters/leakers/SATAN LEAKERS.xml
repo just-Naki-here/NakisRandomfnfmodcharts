@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SATAN LEAKERS.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SATAN DIALOGUE 10000" x="0" y="0" width="377" height="275" frameX="-53" frameY="-367" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10001" x="377" y="0" width="558" height="528" frameX="0" frameY="-123" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10002" x="935" y="0" width="606" height="501" frameX="-41" frameY="-111" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10003" x="935" y="0" width="606" height="501" frameX="-41" frameY="-111" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10004" x="1541" y="0" width="651" height="647" frameX="-45" frameY="-3" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10005" x="1541" y="0" width="651" height="647" frameX="-45" frameY="-3" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10006" x="2192" y="0" width="609" height="642" frameX="-71" frameY="-20" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10007" x="2192" y="0" width="609" height="642" frameX="-71" frameY="-20" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10008" x="2801" y="0" width="629" height="633" frameX="-49" frameY="-25" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10009" x="2801" y="0" width="629" height="633" frameX="-49" frameY="-25" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10010" x="3430" y="0" width="635" height="655" frameX="-43" frameY="-11" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10011" x="3430" y="0" width="635" height="655" frameX="-43" frameY="-11" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10012" x="4065" y="0" width="633" height="649" frameX="-45" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10013" x="4065" y="0" width="633" height="649" frameX="-45" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10014" x="4698" y="0" width="607" height="642" frameX="-71" frameY="-22" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10015" x="4698" y="0" width="607" height="642" frameX="-71" frameY="-22" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10016" x="5305" y="0" width="629" height="633" frameX="-49" frameY="-25" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10017" x="5305" y="0" width="629" height="633" frameX="-49" frameY="-25" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10018" x="5934" y="0" width="635" height="655" frameX="-43" frameY="-11" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10019" x="5934" y="0" width="635" height="655" frameX="-43" frameY="-11" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10020" x="6569" y="0" width="633" height="649" frameX="-45" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10021" x="6569" y="0" width="633" height="649" frameX="-45" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10022" x="4698" y="0" width="607" height="642" frameX="-71" frameY="-22" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10023" x="4698" y="0" width="607" height="642" frameX="-71" frameY="-22" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10024" x="5305" y="0" width="629" height="633" frameX="-49" frameY="-25" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10025" x="5305" y="0" width="629" height="633" frameX="-49" frameY="-25" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10026" x="7202" y="0" width="618" height="654" frameX="-43" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10027" x="7202" y="0" width="618" height="654" frameX="-43" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10028" x="0" y="655" width="604" height="649" frameX="-45" frameY="-25" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10029" x="0" y="655" width="604" height="649" frameX="-45" frameY="-25" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10030" x="604" y="655" width="594" height="642" frameX="-59" frameY="-30" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10031" x="604" y="655" width="594" height="642" frameX="-59" frameY="-30" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10032" x="1198" y="655" width="607" height="633" frameX="-48" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10033" x="1198" y="655" width="607" height="633" frameX="-48" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10034" x="1805" y="655" width="613" height="654" frameX="-42" frameY="-17" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10035" x="1805" y="655" width="613" height="654" frameX="-42" frameY="-17" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10036" x="2418" y="655" width="611" height="649" frameX="-44" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10037" x="2418" y="655" width="611" height="649" frameX="-44" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10038" x="3029" y="655" width="594" height="642" frameX="-61" frameY="-28" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10039" x="3029" y="655" width="594" height="642" frameX="-61" frameY="-28" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10040" x="3623" y="655" width="607" height="633" frameX="-48" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10041" x="3623" y="655" width="607" height="633" frameX="-48" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10042" x="4230" y="655" width="613" height="654" frameX="-42" frameY="-17" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10043" x="4230" y="655" width="613" height="654" frameX="-42" frameY="-17" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10044" x="4843" y="655" width="611" height="649" frameX="-44" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10045" x="4843" y="655" width="611" height="649" frameX="-44" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10046" x="5454" y="655" width="594" height="642" frameX="-61" frameY="-28" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10047" x="5454" y="655" width="594" height="642" frameX="-61" frameY="-28" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10048" x="6048" y="655" width="607" height="633" frameX="-48" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10049" x="6048" y="655" width="607" height="633" frameX="-48" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10050" x="6655" y="655" width="615" height="654" frameX="-42" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10051" x="6655" y="655" width="615" height="654" frameX="-42" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10052" x="7270" y="655" width="615" height="649" frameX="-44" frameY="-27" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10053" x="7270" y="655" width="615" height="649" frameX="-44" frameY="-27" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10054" x="0" y="1309" width="599" height="642" frameX="-69" frameY="-14" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10055" x="0" y="1309" width="599" height="642" frameX="-69" frameY="-14" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10056" x="599" y="1309" width="620" height="632" frameX="-48" frameY="-8" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10057" x="599" y="1309" width="620" height="632" frameX="-48" frameY="-8" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10058" x="1219" y="1309" width="628" height="654" frameX="-42" frameY="0" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10059" x="1219" y="1309" width="628" height="654" frameX="-42" frameY="0" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10060" x="1847" y="1309" width="626" height="648" frameX="-44" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10061" x="1847" y="1309" width="626" height="648" frameX="-44" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10062" x="2473" y="1309" width="601" height="641" frameX="-69" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10063" x="2473" y="1309" width="601" height="641" frameX="-69" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10064" x="3074" y="1309" width="622" height="633" frameX="-48" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10065" x="3074" y="1309" width="622" height="633" frameX="-48" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10066" x="3696" y="1309" width="628" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10067" x="3696" y="1309" width="628" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10068" x="4324" y="1309" width="626" height="648" frameX="-44" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10069" x="4324" y="1309" width="626" height="648" frameX="-44" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10070" x="2473" y="1309" width="601" height="641" frameX="-69" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10071" x="2473" y="1309" width="601" height="641" frameX="-69" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10072" x="3074" y="1309" width="622" height="633" frameX="-48" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10073" x="3074" y="1309" width="622" height="633" frameX="-48" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10074" x="3696" y="1309" width="628" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10075" x="4950" y="1309" width="619" height="654" frameX="-42" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10076" x="5569" y="1309" width="618" height="648" frameX="-43" frameY="-10" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10077" x="6187" y="1309" width="598" height="649" frameX="-43" frameY="-25" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10078" x="6785" y="1309" width="594" height="642" frameX="-47" frameY="-32" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10079" x="7379" y="1309" width="594" height="642" frameX="-49" frameY="-30" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10080" x="0" y="1963" width="596" height="633" frameX="-47" frameY="-33" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10081" x="596" y="1963" width="598" height="633" frameX="-47" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10082" x="1194" y="1963" width="602" height="654" frameX="-43" frameY="-17" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10083" x="1194" y="1963" width="602" height="654" frameX="-43" frameY="-17" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10084" x="1796" y="1963" width="601" height="649" frameX="-44" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10085" x="1796" y="1963" width="601" height="649" frameX="-44" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10086" x="2397" y="1963" width="594" height="642" frameX="-51" frameY="-28" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10087" x="2397" y="1963" width="594" height="642" frameX="-51" frameY="-28" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10088" x="2991" y="1963" width="598" height="633" frameX="-47" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10089" x="2991" y="1963" width="598" height="633" frameX="-47" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10090" x="3589" y="1963" width="602" height="654" frameX="-43" frameY="-17" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10091" x="3589" y="1963" width="602" height="654" frameX="-43" frameY="-17" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10092" x="4191" y="1963" width="601" height="649" frameX="-44" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10093" x="4191" y="1963" width="601" height="649" frameX="-44" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10094" x="4792" y="1963" width="594" height="642" frameX="-51" frameY="-28" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10095" x="4792" y="1963" width="594" height="642" frameX="-51" frameY="-28" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10096" x="5386" y="1963" width="598" height="633" frameX="-47" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10097" x="5386" y="1963" width="598" height="633" frameX="-47" frameY="-31" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10098" x="5984" y="1963" width="602" height="654" frameX="-43" frameY="-17" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10099" x="5984" y="1963" width="602" height="654" frameX="-43" frameY="-17" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10100" x="6586" y="1963" width="601" height="649" frameX="-44" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10101" x="6586" y="1963" width="601" height="649" frameX="-44" frameY="-21" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10102" x="7187" y="1963" width="594" height="649" frameX="-51" frameY="-29" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10103" x="7187" y="1963" width="594" height="649" frameX="-51" frameY="-29" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10104" x="0" y="2617" width="601" height="642" frameX="-46" frameY="-38" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10105" x="0" y="2617" width="601" height="642" frameX="-46" frameY="-38" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10106" x="601" y="2617" width="608" height="634" frameX="-41" frameY="-42" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10107" x="601" y="2617" width="608" height="634" frameX="-41" frameY="-42" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10108" x="1209" y="2617" width="606" height="654" frameX="-43" frameY="-29" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10109" x="1209" y="2617" width="606" height="654" frameX="-43" frameY="-29" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10110" x="1815" y="2617" width="594" height="648" frameX="-57" frameY="-10" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10111" x="1815" y="2617" width="594" height="648" frameX="-57" frameY="-10" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10112" x="2409" y="2617" width="607" height="642" frameX="-46" frameY="-14" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10113" x="2409" y="2617" width="607" height="642" frameX="-46" frameY="-14" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10114" x="3016" y="2617" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10115" x="3630" y="2617" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10116" x="4244" y="2617" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10117" x="4244" y="2617" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10118" x="4857" y="2617" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10119" x="4857" y="2617" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10120" x="5451" y="2617" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10121" x="5451" y="2617" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10122" x="6060" y="2617" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10123" x="6060" y="2617" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10124" x="6674" y="2617" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10125" x="6674" y="2617" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10126" x="7287" y="2617" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10127" x="7287" y="2617" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10128" x="0" y="3271" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10129" x="0" y="3271" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10130" x="609" y="3271" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10131" x="609" y="3271" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10132" x="1223" y="3271" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10133" x="1223" y="3271" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10134" x="1836" y="3271" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10135" x="1836" y="3271" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10136" x="0" y="3271" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10137" x="0" y="3271" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10138" x="609" y="3271" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10139" x="609" y="3271" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10140" x="1223" y="3271" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10141" x="1223" y="3271" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10142" x="1836" y="3271" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10143" x="1836" y="3271" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10144" x="0" y="3271" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10145" x="0" y="3271" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10146" x="609" y="3271" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10147" x="609" y="3271" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10148" x="1223" y="3271" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10149" x="1223" y="3271" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10150" x="1836" y="3271" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10151" x="1836" y="3271" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10152" x="0" y="3271" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10153" x="0" y="3271" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10154" x="609" y="3271" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10155" x="609" y="3271" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10156" x="1223" y="3271" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10157" x="1223" y="3271" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10158" x="1836" y="3271" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10159" x="1836" y="3271" width="594" height="648" frameX="-61" frameY="-6" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10160" x="0" y="3271" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10161" x="0" y="3271" width="609" height="641" frameX="-46" frameY="-13" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10162" x="609" y="3271" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10163" x="609" y="3271" width="614" height="633" frameX="-41" frameY="-15" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DIALOGUE 10164" x="1223" y="3271" width="613" height="654" frameX="-42" frameY="-2" frameWidth="696" frameHeight="683"/>
+	<SubTexture name="SATAN DOWN0000" x="2430" y="3271" width="697" height="593" frameX="0" frameY="0" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN DOWN0001" x="2430" y="3271" width="697" height="593" frameX="0" frameY="0" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN DOWN0002" x="3127" y="3271" width="674" height="591" frameX="-25" frameY="-1" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN DOWN0003" x="3127" y="3271" width="674" height="591" frameX="-25" frameY="-1" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN DOWN0004" x="3801" y="3271" width="673" height="586" frameX="-30" frameY="-10" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN DOWN0005" x="3801" y="3271" width="673" height="586" frameX="-30" frameY="-10" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN DOWN0006" x="4474" y="3271" width="628" height="577" frameX="-35" frameY="-34" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN DOWN0007" x="5102" y="3271" width="568" height="434" frameX="-37" frameY="-171" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN DOWN0008" x="5670" y="3271" width="352" height="230" frameX="-42" frameY="-414" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN DOWN0009" x="6022" y="3271" width="157" height="93" frameX="-56" frameY="-498" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN DOWN0010" x="6179" y="3271" width="0" height="0" frameX="-295" frameY="-106" frameWidth="703" frameHeight="644"/>
+	<SubTexture name="SATAN IDLE0000" x="6179" y="3271" width="305" height="324"/>
+	<SubTexture name="SATAN LEFT0000" x="6484" y="3271" width="871" height="700" frameX="0" frameY="-8" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0001" x="6484" y="3271" width="871" height="700" frameX="0" frameY="-8" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0002" x="0" y="3971" width="873" height="714" frameX="-2" frameY="-3" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0003" x="0" y="3971" width="873" height="714" frameX="-2" frameY="-3" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0004" x="873" y="3971" width="878" height="705" frameX="-4" frameY="-12" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0005" x="873" y="3971" width="878" height="705" frameX="-4" frameY="-12" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0006" x="1751" y="3971" width="759" height="716" frameX="-4" frameY="0" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0007" x="1751" y="3971" width="759" height="716" frameX="-4" frameY="0" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0008" x="2510" y="3971" width="477" height="563" frameX="-84" frameY="-170" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0009" x="2987" y="3971" width="319" height="301" frameX="-60" frameY="-425" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0010" x="3306" y="3971" width="244" height="196" frameX="-35" frameY="-513" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN LEFT0011" x="3550" y="3971" width="0" height="0" frameX="-133" frameY="-39" frameWidth="882" frameHeight="733"/>
+	<SubTexture name="SATAN RIGHT0000" x="3550" y="3971" width="972" height="672" frameX="-51" frameY="0" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0001" x="3550" y="3971" width="972" height="672" frameX="-51" frameY="0" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0002" x="4522" y="3971" width="972" height="660" frameX="-46" frameY="-10" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0003" x="4522" y="3971" width="972" height="660" frameX="-46" frameY="-10" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0004" x="5494" y="3971" width="949" height="654" frameX="-62" frameY="-7" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0005" x="5494" y="3971" width="949" height="654" frameX="-62" frameY="-7" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0006" x="6443" y="3971" width="863" height="550" frameX="-34" frameY="-54" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0007" x="6443" y="3971" width="863" height="550" frameX="-34" frameY="-54" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0008" x="7306" y="3971" width="827" height="586" frameX="0" frameY="-65" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0009" x="0" y="4687" width="510" height="326" frameX="-41" frameY="-359" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0010" x="510" y="4687" width="277" height="182" frameX="-46" frameY="-504" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN RIGHT0011" x="787" y="4687" width="0" height="0" frameX="-302" frameY="-92" frameWidth="1023" frameHeight="686"/>
+	<SubTexture name="SATAN UP0000" x="787" y="4687" width="834" height="735" frameX="0" frameY="-2" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0001" x="787" y="4687" width="834" height="735" frameX="0" frameY="-2" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0002" x="1621" y="4687" width="792" height="745" frameX="-44" frameY="0" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0003" x="1621" y="4687" width="792" height="745" frameX="-44" frameY="0" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0004" x="2413" y="4687" width="790" height="744" frameX="-44" frameY="-3" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0005" x="2413" y="4687" width="790" height="744" frameX="-44" frameY="-3" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0006" x="3203" y="4687" width="703" height="731" frameX="-42" frameY="-23" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0007" x="3203" y="4687" width="703" height="731" frameX="-42" frameY="-23" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0008" x="3906" y="4687" width="681" height="543" frameX="-5" frameY="-210" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0009" x="4587" y="4687" width="470" height="326" frameX="-22" frameY="-457" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0010" x="5057" y="4687" width="264" height="136" frameX="-25" frameY="-649" frameWidth="836" frameHeight="785"/>
+	<SubTexture name="SATAN UP0011" x="5321" y="4687" width="0" height="0" frameX="-205" frameY="-73" frameWidth="836" frameHeight="785"/>
+</TextureAtlas>

@@ -1,0 +1,51 @@
+{
+	"storyName": "Extra Songs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"dad",
+		"dad"
+	],
+	"songs": [
+
+		[
+			"Too Slow",
+			"miki1",
+			[
+				43,
+				46,
+				40
+			]
+		],
+		[
+			"Battered",
+			"battered",
+			[
+				43,
+				46,
+				40
+			]
+		],
+		[
+			"Accelerant",
+			"battered",
+			[
+				43,
+				46,
+				40
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Extra Songs",
+	"hiddenUntilUnlocked": false
+}

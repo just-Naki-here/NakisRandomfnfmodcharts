@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="flacu y nuggy.png" width="2706" height="2800">
+  <SubTexture name="flacu y nuggy0007" x="0" y="0"  width="678" height="316" frameX="-1204" frameY="-2" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0008" x="0" y="316"  width="678" height="316" frameX="-1185" frameY="-2" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0016" x="0" y="632"  width="676" height="316" frameX="-828" frameY="-2" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0015" x="676" y="632"  width="675" height="316" frameX="-848" frameY="-2" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0023" x="678" y="0"  width="674" height="316" frameX="-491" frameY="-2" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0024" x="678" y="316"  width="674" height="316" frameX="-472" frameY="-2" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0031" x="0" y="948"  width="667" height="316" frameX="-129" frameY="-2" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0032" x="667" y="948"  width="667" height="316" frameX="-110" frameY="-2" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0003" x="0" y="1264"  width="680" height="309" frameX="-1367" frameY="-1" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0004" x="680" y="1264"  width="680" height="309" frameX="-1347" frameY="-1" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0009" x="1334" y="948"  width="675" height="311" frameX="-1099" frameY="-18" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0010" x="1351" y="632"  width="675" height="311" frameX="-1080" frameY="-18" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0011" x="1352" y="0"  width="678" height="309" frameX="-1010" frameY="-1" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0012" x="1352" y="309"  width="678" height="309" frameX="-991" frameY="-1" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0019" x="0" y="1573"  width="676" height="309" frameX="-654" frameY="-1" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0020" x="676" y="1573"  width="676" height="309" frameX="-635" frameY="-1" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0017" x="1360" y="1259"  width="671" height="311" frameX="-743" frameY="-18" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0018" x="1360" y="1570"  width="671" height="311" frameX="-724" frameY="-18" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0025" x="1352" y="1881"  width="670" height="311" frameX="-382" frameY="-18" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0026" x="0" y="1882"  width="670" height="311" frameX="-363" frameY="-18" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0005" x="670" y="1882"  width="679" height="306" frameX="-1289" frameY="-17" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0006" x="2022" y="1881"  width="679" height="306" frameX="-1270" frameY="-17" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0002" x="2009" y="943"  width="678" height="306" frameX="-1412" frameY="-17" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0001" x="2026" y="618"  width="677" height="306" frameX="-1432" frameY="-17" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0013" x="2030" y="0"  width="676" height="306" frameX="-933" frameY="-17" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0014" x="2030" y="306"  width="676" height="306" frameX="-914" frameY="-17" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0027" x="2031" y="1249"  width="669" height="309" frameX="-292" frameY="-1" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0028" x="2031" y="1558"  width="669" height="309" frameX="-273" frameY="-1" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0021" x="670" y="2188"  width="674" height="306" frameX="-577" frameY="-17" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0022" x="2022" y="2187"  width="674" height="306" frameX="-558" frameY="-17" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0033" x="0" y="2193"  width="663" height="311" frameX="-20" frameY="-18" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0034" x="1344" y="2192"  width="663" height="311" frameX="-1" frameY="-18" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0029" x="663" y="2494"  width="668" height="306" frameX="-215" frameY="-17" frameWidth="2115" frameHeight="335"/>
+  <SubTexture name="flacu y nuggy0030" x="2007" y="2493"  width="668" height="306" frameX="-196" frameY="-17" frameWidth="2115" frameHeight="335"/>
+</TextureAtlas>

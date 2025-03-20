@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "GF JU"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "GF IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/accelerant/accelerant-gf",
+	"position": [
+		-625,
+		-420
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		103,
+		103
+	],
+	"camera_position": [
+		165,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

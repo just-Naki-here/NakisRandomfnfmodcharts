@@ -1,0 +1,77 @@
+{
+	"storyName": "Extra Songs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"dad",
+		"dad"
+	],
+	"songs": [
+		[
+			"Vesania",
+			"mouse",
+			[
+				43,
+				46,
+				40
+			]
+		],
+		[
+			"Kriman't",
+			"mokey",
+			[
+				124,
+				124,
+				124
+			]
+		],
+		[
+			"Untold Loneliness",
+			"oswald-suicide",
+			[
+				43,
+				46,
+				40
+			]
+		],
+		[
+			"Leak Ma Balls",
+			"mickeyandsatan",
+			[
+				43,
+				46,
+				40
+			]
+		],
+		[
+			"Phantasm",
+			"mickey",
+			[
+				43,
+				46,
+				40
+			]
+		],
+		[
+			"Clubhouse",
+			"mickey",
+			[
+				43,
+				46,
+				40
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Extra Songs",
+	"hiddenUntilUnlocked": false
+}

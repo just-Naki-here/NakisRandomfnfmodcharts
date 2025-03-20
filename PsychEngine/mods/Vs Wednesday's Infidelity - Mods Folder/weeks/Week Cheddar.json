@@ -1,0 +1,41 @@
+{
+	"storyName": "Cheddar",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "cheddar",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"dad",
+		"dad"
+	],
+	"songs": [
+		[
+			"Cravings",
+			"cheese",
+			[
+				26,
+				13,
+				33
+			]
+		],
+		[
+			"Hunger Pangs",
+			"cheese",
+			[
+				26,
+				13,
+				33
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Cheddar",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,4 @@
+Value 1 = dialogue
+put "--0x" and the color to color the text, like
+that: "monkey--0xFF0000"
+Value 2= duration

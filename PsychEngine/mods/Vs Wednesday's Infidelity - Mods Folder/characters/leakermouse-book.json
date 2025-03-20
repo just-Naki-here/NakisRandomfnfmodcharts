@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BOOK MIKI IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BOOK MIKI LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BOOK MIKI DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BOOK MIKI UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BOOK MIKI RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				22,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "book",
+			"indices": [],
+			"name": "LEAKERS NOOBS "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/leakers/MICKEY-LEAKER-Book",
+	"position": [
+		-20,
+		90
+	],
+	"healthicon": "mickeyandsatan",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		71,
+		71
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Janc Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Janc Left"
+		},
+		{
+			"offsets": [
+				-6,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Janc Rigth"
+		},
+		{
+			"offsets": [
+				29,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Janc Up"
+		},
+		{
+			"offsets": [
+				68,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Janc Down"
+		},
+		{
+			"offsets": [
+				164,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-shoot",
+			"indices": [],
+			"name": "Hank Left Shoot"
+		},
+		{
+			"offsets": [
+				-6,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-shoot",
+			"indices": [],
+			"name": "Hank right shoot"
+		},
+		{
+			"offsets": [
+				12,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-shoot",
+			"indices": [],
+			"name": "Hank Up shoot"
+		},
+		{
+			"offsets": [
+				60,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-shoot",
+			"indices": [],
+			"name": "Hank Down Shoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				62
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Hank screamright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				108
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "HankScaredIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				75
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "hanktaunt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				29,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "byeDonald",
+			"indices": [],
+			"name": "HankScaredShootsTiky"
+		},
+		{
+			"offsets": [
+				10,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "HankGetReady"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jank",
+	"position": [
+		-50,
+		200
+	],
+	"healthicon": "battered",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		45,
+		39
+	],
+	"camera_position": [
+		-650,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

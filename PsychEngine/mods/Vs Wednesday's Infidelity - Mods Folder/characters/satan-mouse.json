@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SATAN MIKI IDLE"
+		},
+		{
+			"offsets": [
+				55,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SATAN MIKI LEFT"
+		},
+		{
+			"offsets": [
+				-13,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SATAN MIKI DOWN"
+		},
+		{
+			"offsets": [
+				89,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SATAN MIKI UP"
+		},
+		{
+			"offsets": [
+				92,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SATAN MIKI RIGHT"
+		},
+		{
+			"offsets": [
+				-10,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "JUJUJUJA"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				0
+			],
+			"anim": "transform",
+			"fps": 24,
+			"name": "TRANSFORMATION",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/too-slow/tiny mouse satan",
+	"position": [
+		-80,
+		80
+	],
+	"healthicon": "evilmiki",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		41,
+		41
+	],
+	"camera_position": [
+		-100,
+		130
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

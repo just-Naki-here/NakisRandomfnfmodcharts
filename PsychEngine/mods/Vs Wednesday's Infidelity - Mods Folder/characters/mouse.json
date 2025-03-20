@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mouse idle"
+		},
+		{
+			"offsets": [
+				18,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mouse Down"
+		},
+		{
+			"offsets": [
+				47,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mouse Left"
+		},
+		{
+			"offsets": [
+				40,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mouse Rigth"
+		},
+		{
+			"offsets": [
+				66,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mouse Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				74
+			],
+			"anim": "hey",
+			"fps": 36,
+			"name": "sad",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mouse",
+	"position": [
+		-75,
+		20
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		89,
+		81
+	],
+	"camera_position": [
+		-120,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

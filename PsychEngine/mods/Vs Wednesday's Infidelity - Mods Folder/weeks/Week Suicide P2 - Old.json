@@ -1,0 +1,41 @@
+{
+	"storyName": "Is Suicide Really the Best Option...?",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "suicide",
+	"weekBefore": "Week Suicide",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Last Day Old",
+			"badend",
+			[
+				43,
+				46,
+				40
+			]
+		],
+		[
+			"Sunsets Old",
+			"happymouse",
+			[
+				43,
+				46,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"dad",
+		"dad"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week W.I"
+}

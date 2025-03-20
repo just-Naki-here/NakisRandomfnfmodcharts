@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "julian idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "julian left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-65
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "julian down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "julian up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-86
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "julian right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/puppet-mickey",
+	"position": [
+		60,
+		240
+	],
+	"healthicon": "julian",
+	"flip_x": false,
+	"healthbar_colors": [
+		132,
+		132,
+		132
+	],
+	"camera_position": [
+		-150,
+		10
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.1
+}

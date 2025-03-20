@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LEAKER 2.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LEAKER 2 IDLE0000" x="0" y="0" width="379" height="609" frameX="-22" frameY="-3" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0001" x="0" y="0" width="379" height="609" frameX="-22" frameY="-3" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0002" x="379" y="0" width="400" height="590" frameX="-1" frameY="-22" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0003" x="379" y="0" width="400" height="590" frameX="-1" frameY="-22" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0004" x="779" y="0" width="402" height="590" frameX="0" frameY="-22" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0005" x="779" y="0" width="402" height="590" frameX="0" frameY="-22" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0006" x="1181" y="0" width="389" height="605" frameX="-12" frameY="-7" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0007" x="1181" y="0" width="389" height="605" frameX="-12" frameY="-7" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0008" x="1570" y="0" width="383" height="611" frameX="-19" frameY="-1" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0009" x="1570" y="0" width="383" height="611" frameX="-19" frameY="-1" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0010" x="1953" y="0" width="383" height="612" frameX="-19" frameY="0" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0011" x="1953" y="0" width="383" height="612" frameX="-19" frameY="0" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0012" x="1953" y="0" width="383" height="612" frameX="-19" frameY="0" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0013" x="1953" y="0" width="383" height="612" frameX="-19" frameY="0" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0014" x="1953" y="0" width="383" height="612" frameX="-19" frameY="0" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 IDLE0015" x="1953" y="0" width="383" height="612" frameX="-19" frameY="0" frameWidth="402" frameHeight="612"/>
+	<SubTexture name="LEAKER 2 LEFT0000" x="2336" y="0" width="704" height="613" frameX="0" frameY="0" frameWidth="714" frameHeight="613"/>
+	<SubTexture name="LEAKER 2 LEFT0001" x="2336" y="0" width="704" height="613" frameX="0" frameY="0" frameWidth="714" frameHeight="613"/>
+	<SubTexture name="LEAKER 2 LEFT0002" x="3040" y="0" width="712" height="603" frameX="-2" frameY="-10" frameWidth="714" frameHeight="613"/>
+	<SubTexture name="LEAKER 2 LEFT0003" x="3752" y="0" width="712" height="603" frameX="-2" frameY="-10" frameWidth="714" frameHeight="613"/>
+	<SubTexture name="LEAKER 2 LEFT0004" x="4464" y="0" width="712" height="602" frameX="-1" frameY="-11" frameWidth="714" frameHeight="613"/>
+	<SubTexture name="LEAKER 2 LEFT0005" x="5176" y="0" width="712" height="602" frameX="-1" frameY="-11" frameWidth="714" frameHeight="613"/>
+	<SubTexture name="LEAKER 2 LEFT0006" x="5176" y="0" width="712" height="602" frameX="-1" frameY="-11" frameWidth="714" frameHeight="613"/>
+	<SubTexture name="LEAKER 2 LEFT0007" x="5176" y="0" width="712" height="602" frameX="-1" frameY="-11" frameWidth="714" frameHeight="613"/>
+	<SubTexture name="LEAKER 2 LEFT0008" x="5176" y="0" width="712" height="602" frameX="-1" frameY="-11" frameWidth="714" frameHeight="613"/>
+	<SubTexture name="LEAKER 2 LEFT0009" x="5176" y="0" width="712" height="602" frameX="-1" frameY="-11" frameWidth="714" frameHeight="613"/>
+	<SubTexture name="LEAKER 2 RIGHT0000" x="5888" y="0" width="646" height="574" frameX="0" frameY="0" frameWidth="685" frameHeight="574"/>
+	<SubTexture name="LEAKER 2 RIGHT0001" x="5888" y="0" width="646" height="574" frameX="0" frameY="0" frameWidth="685" frameHeight="574"/>
+	<SubTexture name="LEAKER 2 RIGHT0002" x="6534" y="0" width="644" height="574" frameX="-1" frameY="0" frameWidth="685" frameHeight="574"/>
+	<SubTexture name="LEAKER 2 RIGHT0003" x="7178" y="0" width="644" height="574" frameX="-1" frameY="0" frameWidth="685" frameHeight="574"/>
+	<SubTexture name="LEAKER 2 RIGHT0004" x="0" y="613" width="684" height="574" frameX="-1" frameY="0" frameWidth="685" frameHeight="574"/>
+	<SubTexture name="LEAKER 2 RIGHT0005" x="684" y="613" width="642" height="574" frameX="-1" frameY="0" frameWidth="685" frameHeight="574"/>
+	<SubTexture name="LEAKER 2 RIGHT0006" x="684" y="613" width="642" height="574" frameX="-1" frameY="0" frameWidth="685" frameHeight="574"/>
+	<SubTexture name="LEAKER 2 RIGHT0007" x="684" y="613" width="642" height="574" frameX="-1" frameY="0" frameWidth="685" frameHeight="574"/>
+	<SubTexture name="LEAKER 2 RIGHT0008" x="684" y="613" width="642" height="574" frameX="-1" frameY="0" frameWidth="685" frameHeight="574"/>
+	<SubTexture name="LEAKER 2 RIGHT0009" x="684" y="613" width="642" height="574" frameX="-1" frameY="0" frameWidth="685" frameHeight="574"/>
+	<SubTexture name="LEAKER 2 UP0000" x="1326" y="613" width="635" height="782" frameX="-5" frameY="-77" frameWidth="641" frameHeight="862"/>
+	<SubTexture name="LEAKER 2 UP0001" x="1326" y="613" width="635" height="782" frameX="-5" frameY="-77" frameWidth="641" frameHeight="862"/>
+	<SubTexture name="LEAKER 2 UP0002" x="1961" y="613" width="641" height="806" frameX="0" frameY="-56" frameWidth="641" frameHeight="862"/>
+	<SubTexture name="LEAKER 2 UP0003" x="2602" y="613" width="641" height="818" frameX="0" frameY="-44" frameWidth="641" frameHeight="862"/>
+	<SubTexture name="LEAKER 2 UP0004" x="3243" y="613" width="641" height="862"/>
+	<SubTexture name="LEAKER 2 UP0005" x="3884" y="613" width="641" height="771" frameX="0" frameY="-91" frameWidth="641" frameHeight="862"/>
+	<SubTexture name="LEAKER 2 UP0006" x="3884" y="613" width="641" height="771" frameX="0" frameY="-91" frameWidth="641" frameHeight="862"/>
+	<SubTexture name="LEAKER 2 UP0007" x="3884" y="613" width="641" height="771" frameX="0" frameY="-91" frameWidth="641" frameHeight="862"/>
+	<SubTexture name="LEAKER 2 UP0008" x="3884" y="613" width="641" height="771" frameX="0" frameY="-91" frameWidth="641" frameHeight="862"/>
+	<SubTexture name="LEAKER 2 UP0009" x="3884" y="613" width="641" height="771" frameX="0" frameY="-91" frameWidth="641" frameHeight="862"/>
+	<SubTexture name="Leaker amante del poto0000" x="4525" y="613" width="419" height="526" frameX="0" frameY="-126" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0001" x="4525" y="613" width="419" height="526" frameX="0" frameY="-126" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0002" x="4944" y="613" width="414" height="512" frameX="0" frameY="-140" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0003" x="5358" y="613" width="374" height="510" frameX="0" frameY="-142" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0004" x="5358" y="613" width="374" height="510" frameX="0" frameY="-142" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0005" x="5732" y="613" width="376" height="506" frameX="0" frameY="-146" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0006" x="5732" y="613" width="376" height="506" frameX="0" frameY="-146" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0007" x="6108" y="613" width="374" height="505" frameX="-2" frameY="-147" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0008" x="6482" y="613" width="391" height="578" frameX="-15" frameY="-75" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0009" x="6873" y="613" width="413" height="653" frameX="-58" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0010" x="6873" y="613" width="413" height="653" frameX="-58" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0011" x="7286" y="613" width="413" height="653" frameX="-60" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0012" x="7286" y="613" width="413" height="653" frameX="-60" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0013" x="7699" y="613" width="413" height="653" frameX="-61" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0014" x="7699" y="613" width="413" height="653" frameX="-61" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0015" x="7699" y="613" width="413" height="653" frameX="-61" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0016" x="7699" y="613" width="413" height="653" frameX="-61" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0017" x="0" y="1475" width="413" height="653" frameX="-62" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0018" x="0" y="1475" width="413" height="653" frameX="-62" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0019" x="0" y="1475" width="413" height="653" frameX="-62" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0020" x="0" y="1475" width="413" height="653" frameX="-62" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0021" x="413" y="1475" width="414" height="653" frameX="-63" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0022" x="413" y="1475" width="414" height="653" frameX="-63" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0023" x="413" y="1475" width="414" height="653" frameX="-63" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0024" x="413" y="1475" width="414" height="653" frameX="-63" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0025" x="827" y="1475" width="415" height="653" frameX="-64" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0026" x="827" y="1475" width="415" height="653" frameX="-64" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0027" x="827" y="1475" width="415" height="653" frameX="-64" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0028" x="827" y="1475" width="415" height="653" frameX="-64" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0029" x="827" y="1475" width="415" height="653" frameX="-64" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0030" x="827" y="1475" width="415" height="653" frameX="-64" frameY="0" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0031" x="1242" y="1475" width="420" height="649" frameX="-51" frameY="-4" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0032" x="1242" y="1475" width="420" height="649" frameX="-51" frameY="-4" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0033" x="1662" y="1475" width="423" height="646" frameX="-43" frameY="-7" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0034" x="1662" y="1475" width="423" height="646" frameX="-43" frameY="-7" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0035" x="2085" y="1475" width="423" height="645" frameX="-42" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0036" x="2085" y="1475" width="423" height="645" frameX="-42" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0037" x="2508" y="1475" width="404" height="647" frameX="-58" frameY="-6" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0038" x="2508" y="1475" width="404" height="647" frameX="-58" frameY="-6" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0039" x="2912" y="1475" width="386" height="649" frameX="-62" frameY="-4" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0040" x="2912" y="1475" width="386" height="649" frameX="-62" frameY="-4" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0041" x="3298" y="1475" width="389" height="646" frameX="-62" frameY="-7" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0042" x="3298" y="1475" width="389" height="646" frameX="-62" frameY="-7" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0043" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0044" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0045" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0046" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0047" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0048" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0049" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0050" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0051" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0052" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0053" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0054" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0055" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0056" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0057" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0058" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0059" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0060" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0061" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0062" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0063" x="3687" y="1475" width="389" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0064" x="4076" y="1475" width="389" height="636" frameX="-64" frameY="-17" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0065" x="4076" y="1475" width="389" height="636" frameX="-64" frameY="-17" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0066" x="4465" y="1475" width="371" height="637" frameX="-64" frameY="-16" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0067" x="4465" y="1475" width="371" height="637" frameX="-64" frameY="-16" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0068" x="4836" y="1475" width="368" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0069" x="4836" y="1475" width="368" height="645" frameX="-64" frameY="-8" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0070" x="5204" y="1475" width="368" height="642" frameX="-64" frameY="-11" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0071" x="5204" y="1475" width="368" height="642" frameX="-64" frameY="-11" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0072" x="5572" y="1475" width="368" height="640" frameX="-64" frameY="-13" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0073" x="5572" y="1475" width="368" height="640" frameX="-64" frameY="-13" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0074" x="5940" y="1475" width="368" height="639" frameX="-64" frameY="-14" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0075" x="5940" y="1475" width="368" height="639" frameX="-64" frameY="-14" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0076" x="5940" y="1475" width="368" height="639" frameX="-64" frameY="-14" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0077" x="5940" y="1475" width="368" height="639" frameX="-64" frameY="-14" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0078" x="5940" y="1475" width="368" height="639" frameX="-64" frameY="-14" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0079" x="5940" y="1475" width="368" height="639" frameX="-64" frameY="-14" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0080" x="6308" y="1475" width="419" height="633" frameX="-58" frameY="-19" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0081" x="6308" y="1475" width="419" height="633" frameX="-58" frameY="-19" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0082" x="6727" y="1475" width="383" height="612" frameX="-17" frameY="-40" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0083" x="6727" y="1475" width="383" height="612" frameX="-17" frameY="-40" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0084" x="7110" y="1475" width="382" height="623" frameX="-15" frameY="-29" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0085" x="7110" y="1475" width="382" height="623" frameX="-15" frameY="-29" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0086" x="7492" y="1475" width="382" height="626" frameX="-15" frameY="-26" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0087" x="7492" y="1475" width="382" height="626" frameX="-15" frameY="-26" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0088" x="0" y="2128" width="382" height="628" frameX="-15" frameY="-24" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0089" x="0" y="2128" width="382" height="628" frameX="-15" frameY="-24" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0090" x="0" y="2128" width="382" height="628" frameX="-15" frameY="-24" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0091" x="0" y="2128" width="382" height="628" frameX="-15" frameY="-24" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0092" x="382" y="2128" width="383" height="606" frameX="-17" frameY="-46" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0093" x="382" y="2128" width="383" height="606" frameX="-17" frameY="-46" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0094" x="765" y="2128" width="383" height="611" frameX="-17" frameY="-41" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0095" x="765" y="2128" width="383" height="611" frameX="-17" frameY="-41" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0096" x="6727" y="1475" width="383" height="612" frameX="-17" frameY="-40" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0097" x="6727" y="1475" width="383" height="612" frameX="-17" frameY="-40" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0098" x="6727" y="1475" width="383" height="612" frameX="-17" frameY="-40" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="Leaker amante del poto0099" x="6727" y="1475" width="383" height="612" frameX="-17" frameY="-40" frameWidth="479" frameHeight="653"/>
+	<SubTexture name="floss0000" x="1148" y="2128" width="483" height="616" frameX="-156" frameY="-9" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0001" x="1148" y="2128" width="483" height="616" frameX="-156" frameY="-9" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0002" x="1631" y="2128" width="480" height="617" frameX="-161" frameY="-8" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0003" x="1631" y="2128" width="480" height="617" frameX="-161" frameY="-8" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0004" x="2111" y="2128" width="474" height="617" frameX="-165" frameY="-8" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0005" x="2111" y="2128" width="474" height="617" frameX="-165" frameY="-8" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0006" x="2585" y="2128" width="450" height="616" frameX="-155" frameY="-9" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0007" x="2585" y="2128" width="450" height="616" frameX="-155" frameY="-9" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0008" x="3035" y="2128" width="434" height="616" frameX="-155" frameY="-9" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0009" x="3469" y="2128" width="320" height="617" frameX="-153" frameY="-8" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0010" x="3789" y="2128" width="473" height="622" frameX="0" frameY="-3" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0011" x="3789" y="2128" width="473" height="622" frameX="0" frameY="-3" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0012" x="4262" y="2128" width="473" height="625" frameX="0" frameY="0" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0013" x="4262" y="2128" width="473" height="625" frameX="0" frameY="0" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0014" x="4735" y="2128" width="471" height="624" frameX="-2" frameY="-1" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0015" x="4735" y="2128" width="471" height="624" frameX="-2" frameY="-1" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0016" x="5206" y="2128" width="447" height="621" frameX="-26" frameY="-4" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0017" x="5206" y="2128" width="447" height="621" frameX="-26" frameY="-4" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0018" x="5653" y="2128" width="387" height="619" frameX="-86" frameY="-6" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0019" x="6040" y="2128" width="380" height="616" frameX="-156" frameY="-9" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0020" x="6420" y="2128" width="493" height="619" frameX="-162" frameY="-6" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0021" x="6420" y="2128" width="493" height="619" frameX="-162" frameY="-6" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0022" x="6913" y="2128" width="492" height="619" frameX="-163" frameY="-6" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0023" x="6913" y="2128" width="492" height="619" frameX="-163" frameY="-6" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0024" x="7405" y="2128" width="491" height="619" frameX="-166" frameY="-6" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0025" x="7405" y="2128" width="491" height="619" frameX="-166" frameY="-6" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0026" x="0" y="2756" width="491" height="617" frameX="-161" frameY="-8" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0027" x="0" y="2756" width="491" height="617" frameX="-161" frameY="-8" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0028" x="491" y="2756" width="458" height="617" frameX="-157" frameY="-8" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0029" x="491" y="2756" width="458" height="617" frameX="-157" frameY="-8" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0030" x="949" y="2756" width="344" height="616" frameX="-156" frameY="-9" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0031" x="1293" y="2756" width="337" height="615" frameX="-136" frameY="-10" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0032" x="1630" y="2756" width="470" height="621" frameX="-3" frameY="-4" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0033" x="1630" y="2756" width="470" height="621" frameX="-3" frameY="-4" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0034" x="2100" y="2756" width="470" height="622" frameX="-3" frameY="-3" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0035" x="2100" y="2756" width="470" height="622" frameX="-3" frameY="-3" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0036" x="2570" y="2756" width="468" height="619" frameX="-5" frameY="-6" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0037" x="2570" y="2756" width="468" height="619" frameX="-5" frameY="-6" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0038" x="3038" y="2756" width="466" height="616" frameX="-7" frameY="-9" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0039" x="3038" y="2756" width="466" height="616" frameX="-7" frameY="-9" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0040" x="3504" y="2756" width="412" height="615" frameX="-61" frameY="-10" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="floss0041" x="3916" y="2756" width="411" height="616" frameX="-156" frameY="-9" frameWidth="657" frameHeight="625"/>
+	<SubTexture name="leaker 2 DOWN0000" x="4327" y="2756" width="447" height="606"/>
+	<SubTexture name="leaker 2 DOWN0001" x="4327" y="2756" width="447" height="606"/>
+	<SubTexture name="leaker 2 DOWN0002" x="4774" y="2756" width="437" height="585" frameX="-5" frameY="-20" frameWidth="447" frameHeight="606"/>
+	<SubTexture name="leaker 2 DOWN0003" x="5211" y="2756" width="437" height="585" frameX="-5" frameY="-20" frameWidth="447" frameHeight="606"/>
+	<SubTexture name="leaker 2 DOWN0004" x="5648" y="2756" width="437" height="584" frameX="-5" frameY="-21" frameWidth="447" frameHeight="606"/>
+	<SubTexture name="leaker 2 DOWN0005" x="6085" y="2756" width="437" height="584" frameX="-5" frameY="-21" frameWidth="447" frameHeight="606"/>
+	<SubTexture name="leaker 2 DOWN0006" x="6085" y="2756" width="437" height="584" frameX="-5" frameY="-21" frameWidth="447" frameHeight="606"/>
+	<SubTexture name="leaker 2 DOWN0007" x="6085" y="2756" width="437" height="584" frameX="-5" frameY="-21" frameWidth="447" frameHeight="606"/>
+	<SubTexture name="leaker 2 DOWN0008" x="6085" y="2756" width="437" height="584" frameX="-5" frameY="-21" frameWidth="447" frameHeight="606"/>
+	<SubTexture name="leaker 2 DOWN0009" x="6085" y="2756" width="437" height="584" frameX="-5" frameY="-21" frameWidth="447" frameHeight="606"/>
+</TextureAtlas>

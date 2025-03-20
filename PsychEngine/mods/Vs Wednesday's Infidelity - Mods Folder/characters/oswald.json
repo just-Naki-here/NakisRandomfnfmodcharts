@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "OSWALD IDLE"
+		},
+		{
+			"offsets": [
+				58,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Oswald Left"
+		},
+		{
+			"offsets": [
+				-110,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Oswald Down"
+		},
+		{
+			"offsets": [
+				-216,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Oswald Up"
+		},
+		{
+			"offsets": [
+				-209,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "OSWALD RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				84
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "OSWALD DIALOGUE INTRO",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OSWALD PHASE 1",
+	"position": [
+		-250,
+		75
+	],
+	"healthicon": "Oswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		85,
+		82
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

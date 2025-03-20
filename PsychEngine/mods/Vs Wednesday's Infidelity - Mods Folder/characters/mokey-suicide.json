@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleMokey",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "IdleMokey"
+		},
+		{
+			"offsets": [
+				150,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftNote"
+		},
+		{
+			"offsets": [
+				84,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownNote"
+		},
+		{
+			"offsets": [
+				78,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpNote"
+		},
+		{
+			"offsets": [
+				-35,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightNote"
+		},
+		{
+			"offsets": [
+				162,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transforming",
+			"indices": [],
+			"name": "TransformingBruh"
+		},
+		{
+			"offsets": [
+				94,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cry",
+			"indices": [],
+			"name": "CryingAnim"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sad_Mokey_Assets",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "mokey",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		124,
+		124
+	],
+	"camera_position": [
+		-50,
+		30
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

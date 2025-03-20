@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-125
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MIKI IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				97,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wafiu",
+			"indices": [],
+			"name": "MIKI WAIFU"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/leakers/MICKEY-LEAKER-Waifu",
+	"position": [
+		-70,
+		-5
+	],
+	"healthicon": "mickeyandsatan",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		71,
+		71
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sad Mouse Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sad Mouse Left"
+		},
+		{
+			"offsets": [
+				8,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sad Mouse Down"
+		},
+		{
+			"offsets": [
+				2,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sad Mouse Up"
+		},
+		{
+			"offsets": [
+				38,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sad Mouse Rigth"
+		},
+		{
+			"offsets": [
+				0,
+				148
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "suicide",
+			"indices": [],
+			"name": "Suicide"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mouse-Sad",
+	"position": [
+		-160,
+		40
+	],
+	"healthicon": "badend",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		46,
+		40
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
