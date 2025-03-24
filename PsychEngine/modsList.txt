@@ -2,5 +2,5 @@ MCM fan|1
 Zelx RW 2 Shot|1
 Gorefield V3 [Psych Port - UPDATE]|1
 pebbles|1
-global|1
+global|0
 Vs Wednesday's Infidelity - Mods Folder|1

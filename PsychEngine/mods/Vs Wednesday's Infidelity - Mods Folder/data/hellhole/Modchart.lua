@@ -26,7 +26,20 @@ randomPlayerstrumY12 = 0
 randomPlayerstrumY13 = 0
 randomPlayerstrumY14 = 0
 streeep = 0
+function onBeatHit()
+	health = getProperty('health');
+    quits=((songPos/5000)*(curBpm/60))
 
+	if getProperty('health') > 0.04 then
+        setProperty('health', health- 0.03);
+        mits="health drained by 0.03"
+    end
+    if getProperty('health') < 0.04 then
+        mits=' '
+    end
+    pits=quits+mits+health
+    debugPrint(pits,'BLUE')
+end
 function onCreate()
     if middlescroll == true then
         setPropertyFromClass("ClientPrefs", "middleScroll", false)
@@ -43,6 +56,7 @@ function onSongStart()
     setPropertyFromGroup("playerStrums", 5, "x", defaultPlayerStrumX1 - 320)
     setPropertyFromGroup("playerStrums", 6, "x", defaultPlayerStrumX2 - 320)
     setPropertyFromGroup("playerStrums", 7, "x", defaultPlayerStrumX3 - 320)
+    setProperty('healthGain', 5)
 end
 
 function onUpdate(elapsed)
