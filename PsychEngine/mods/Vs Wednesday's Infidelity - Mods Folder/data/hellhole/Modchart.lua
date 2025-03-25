@@ -3,7 +3,6 @@ X = 300
 Y = 200
 songPos = getSongPosition()
 local currentBeat = (songPos / 5000) * (curBpm / 60)
-local realLength=0
 randomPlayerstrumY1 = 0
 randomPlayerstrumY2 = 0
 randomPlayerstrumY3 = 0
@@ -27,19 +26,12 @@ randomPlayerstrumY12 = 0
 randomPlayerstrumY13 = 0
 randomPlayerstrumY14 = 0
 streeep = 0
+
 function onBeatHit()
 	health = getProperty('health');
 
 	if getProperty('health') > 0.04 then
         setProperty('health', health- 0.03);
-    end
-
-    if curStep == 392 then
-        if version >= '0.7' then
-            startTween('songLengthSwap','game',{songLength = realLength},9,{ease = 'expoInOut'})
-        else
-            doTweenX('changeTimeUnknow','unknownTime',getProperty('songLength'),7,'expoInOut')
-        end
     end
 end
 function onCreate()
@@ -59,22 +51,10 @@ function onSongStart()
     setPropertyFromGroup("playerStrums", 6, "x", defaultPlayerStrumX2 - 320)
     setPropertyFromGroup("playerStrums", 7, "x", defaultPlayerStrumX3 - 320)
     setProperty('healthGain', 5)
-    realLength = getProperty('songLength')
-    setProperty('songLength', 29000)
-    if version < '0.7' then
-        makeLuaSprite('unknownTime',0,getProperty('songLength'))
-    end
 end
 
 function onUpdate(elapsed)
-    if curStep >= 390 and curStep < 400 then
-        if version < '0.7' then
-            setProperty('songLength',getProperty('unknownTime.x'))
-        end
-        setProperty('timePercentMickey.alpha',1)
-        setProperty('songTimeMickey.alpha',1)
-        setProperty('timeBar.alpha',1)
-    end
+
     math.randomseed(os.time())--seeds the function math.random
  Decider = math.random(1, 100)--Decider if the noteTweenX and noteTweenY and application window change
     if Decider < 50 then--checker
