@@ -122,23 +122,22 @@ function onUpdate(elapsed)
     getMisses()--gets the current amount of misses the player has
     if misses == 1 then--miss checker
         setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T MESS UP ANYMORE!!!")--changes app. name 
-        debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
     end
     if misses == 25 then--miss checker
         setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T FUCK UP!!!")--changes app. name 
-        debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
+
     end
     if misses == 50 then--miss checker
         setPropertyFromClass("openfl.Lib", "application.window.title", "YOU WON'T MAKE IT!")--changes app. name 
-        debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
+
     end
     if misses == 75 then--miss checker
         setPropertyFromClass("openfl.Lib", "application.window.title", "YOU ARE SO DEAD!!!!!!")--changes app. name 
-        debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
+
     end
     if misses == 100 then--miss checker
         setPropertyFromClass("openfl.Lib", "application.window.title", "YOUR COMPUTER IS OURS!!!!")--changes app. name 
-        debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
+
     end
 end
 function noteMiss(id, direction, noteType, isSustainNote)--note miss checker
