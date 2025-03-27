@@ -1,291 +1,50 @@
 {
 	"song": {
 		"player1": "bf-retro",
-		"events": [
-			[
-				29700,
-				[
-					[
-						"Change Scroll Speed",
-						"1.2",
-						"1"
-					]
-				]
-			],
-			[
-				30000,
-				[
-					[
-						"Change Character",
-						"1",
-						"suicide"
-					],
-					[
-						"Change Scroll Speed",
-						"1.3",
-						"0"
-					],
-					[
-						"Flash",
-						"",
-						""
-					]
-				]
-			],
-			[
-				39600,
-				[
-					[
-						"Change Scroll Speed",
-						"1.15",
-						"0.3"
-					]
-				]
-			],
-			[
-				58800,
-				[
-					[
-						"Change Character",
-						"1",
-						"mouse-inferno"
-					],
-					[
-						"Flash",
-						"",
-						""
-					],
-					[
-						"Change Scroll Speed",
-						"1.3",
-						"0.3"
-					]
-				]
-			],
-			[
-				98400,
-				[
-					[
-						"cinematic",
-						"",
-						""
-					],
-					[
-						"UI Fade",
-						"0",
-						""
-					]
-				]
-			],
-			[
-				100200,
-				[
-					[
-						"UI Fade",
-						"1",
-						""
-					]
-				]
-			],
-			[
-				100500,
-				[
-					[
-						"Play Animation",
-						"spawn",
-						"gf"
-					]
-				]
-			],
-			[
-				100800,
-				[
-					[
-						"Change Character",
-						"bf",
-						"bf-satan"
-					]
-				]
-			],
-			[
-				103200,
-				[
-					[
-						"Play Animation",
-						"laugh",
-						"gf"
-					]
-				]
-			],
-			[
-				108000,
-				[
-					[
-						"Play Animation",
-						"laugh",
-						"gf"
-					]
-				]
-			],
-			[
-				134400,
-				[
-					[
-						"Play Animation",
-						"laugh",
-						"gf"
-					]
-				]
-			],
-			[
-				139200,
-				[
-					[
-						"Play Animation",
-						"laugh",
-						"gf"
-					]
-				]
-			],
-			[
-				139800,
-				[
-					[
-						"cinematic",
-						"false",
-						""
-					],
-					[
-						"Play Animation",
-						"bye",
-						"gf"
-					]
-				]
-			],
-			[
-				140400,
-				[
-					[
-						"Change Character",
-						"bf",
-						"bf-retro"
-					]
-				]
-			],
-			[
-				178800,
-				[
-					[
-						"Flash",
-						"",
-						""
-					],
-					[
-						"UI Fade",
-						"0,true",
-						""
-					],
-					[
-						"cinematic",
-						"",
-						""
-					]
-				]
-			],
-			[
-				217200,
-				[
-					[
-						"coverScreen",
-						".,other",
-						""
-					]
-				]
-			],
-			[
-				218400,
-				[
-					[
-						"Flash",
-						"",
-						""
-					],
-					[
-						"UI Fade",
-						"1,true",
-						""
-					],
-					[
-						"cinematic",
-						"false",
-						"0"
-					],
-					[
-						"coverScreen",
-						"0",
-						"0"
-					]
-				]
-			],
-			[
-				276000,
-				[
-					[
-						"Flash",
-						"000000",
-						""
-					],
-					[
-						"UI Fade",
-						"0",
-						"1.2"
-					]
-				]
-			]
-		],
-		"gfVersion": "satan",
+		"player2": "mouse-smile",
 		"notes": [
 			{
-				"sectionNotes": [],
 				"lengthInSteps": 16,
+				"sectionNotes": [],
 				"mustHitSection": false
 			},
 			{
-				"sectionNotes": [],
 				"lengthInSteps": 16,
+				"sectionNotes": [],
 				"mustHitSection": false
 			},
 			{
-				"sectionNotes": [],
 				"lengthInSteps": 16,
+				"sectionNotes": [],
 				"mustHitSection": true
 			},
 			{
-				"sectionNotes": [],
 				"lengthInSteps": 16,
+				"sectionNotes": [],
 				"mustHitSection": true
 			},
 			{
-				"sectionNotes": [],
 				"lengthInSteps": 16,
+				"sectionNotes": [],
 				"mustHitSection": false
 			},
 			{
-				"sectionNotes": [],
 				"lengthInSteps": 16,
+				"sectionNotes": [],
 				"mustHitSection": false
 			},
 			{
-				"sectionNotes": [],
 				"lengthInSteps": 16,
+				"sectionNotes": [],
 				"mustHitSection": true
 			},
 			{
-				"sectionNotes": [],
 				"lengthInSteps": 16,
+				"sectionNotes": [],
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						9600,
@@ -303,10 +62,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						10800,
@@ -319,10 +78,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						12000,
@@ -340,10 +99,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						13200,
@@ -356,10 +115,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						14400,
@@ -382,10 +141,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						15600,
@@ -398,10 +157,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						16800,
@@ -419,10 +178,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						18000,
@@ -435,10 +194,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						19200,
@@ -461,10 +220,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						20400,
@@ -482,10 +241,10 @@
 						225
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						21600,
@@ -503,10 +262,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						22800,
@@ -519,10 +278,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						24000,
@@ -550,10 +309,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						25200,
@@ -571,10 +330,10 @@
 						225
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						26400,
@@ -592,10 +351,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						27600,
@@ -608,11 +367,10 @@
 						525
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"altAnim": false,
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						28800,
@@ -635,10 +393,11 @@
 						150
 					]
 				],
-				"lengthInSteps": 16,
+				"altAnim": false,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						30000,
@@ -696,10 +455,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						31200,
@@ -752,10 +511,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 20,
 				"sectionNotes": [
 					[
 						32400,
@@ -818,10 +577,10 @@
 						150
 					]
 				],
-				"lengthInSteps": 20,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						33600,
@@ -874,10 +633,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						34800,
@@ -930,10 +689,10 @@
 						150
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						36000,
@@ -996,10 +755,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						37200,
@@ -1052,10 +811,10 @@
 						150
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						38400,
@@ -1118,10 +877,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						39600,
@@ -1169,10 +928,10 @@
 						150
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						40800,
@@ -1205,10 +964,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						42000,
@@ -1256,10 +1015,10 @@
 						75
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						43350,
@@ -1292,10 +1051,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						44400,
@@ -1338,10 +1097,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						45900,
@@ -1374,10 +1133,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						46800,
@@ -1420,10 +1179,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						48000,
@@ -1456,10 +1215,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						49200,
@@ -1492,10 +1251,10 @@
 						150
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						50400,
@@ -1533,10 +1292,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						51600,
@@ -1569,10 +1328,10 @@
 						225
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						52800,
@@ -1610,10 +1369,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						54000,
@@ -1661,10 +1420,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						55200,
@@ -1722,10 +1481,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						56850,
@@ -1773,10 +1532,10 @@
 						150
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						57600,
@@ -1829,10 +1588,10 @@
 						75
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						58800,
@@ -1861,10 +1620,10 @@
 						"Shifter"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						60000,
@@ -1889,10 +1648,10 @@
 						"Shifter"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						61200,
@@ -1949,10 +1708,10 @@
 						"Shifter"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						62550,
@@ -1981,10 +1740,10 @@
 						"Shifter"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						63600,
@@ -2013,10 +1772,10 @@
 						"Shifter"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						64800,
@@ -2040,10 +1799,10 @@
 						"Shifter"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						66000,
@@ -2097,10 +1856,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						67650,
@@ -2129,10 +1888,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						68400,
@@ -2161,10 +1920,10 @@
 						"Shifter"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						69750,
@@ -2194,10 +1953,10 @@
 						"Shifter"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						70950,
@@ -2245,10 +2004,10 @@
 						"Shifter"
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						72000,
@@ -2288,10 +2047,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						73200,
@@ -2319,10 +2078,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						75000,
@@ -2351,10 +2110,10 @@
 						150
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						76500,
@@ -2400,10 +2159,10 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						76800,
@@ -2443,12 +2202,9 @@
 						0
 					]
 				],
-				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						78000,
@@ -2476,14 +2232,14 @@
 						225
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 101,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 101
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						79350,
@@ -2511,14 +2267,14 @@
 						0
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 101,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 101
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						80400,
@@ -2546,14 +2302,14 @@
 						150
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 101,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 101
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						81600,
@@ -2581,14 +2337,14 @@
 						0
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 101,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 101
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						82800,
@@ -2636,14 +2392,14 @@
 						0
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 101,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 101
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						84000,
@@ -2686,14 +2442,14 @@
 						0
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 101,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 101
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						85200,
@@ -2741,14 +2497,14 @@
 						0
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 101,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 101
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						86400,
@@ -2791,14 +2547,14 @@
 						0
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 101,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 101
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						87600,
@@ -2851,12 +2607,16 @@
 						525
 					]
 				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"altAnim": false,
-				"bpm": 101,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 101
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						88800,
@@ -2904,14 +2664,14 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 101,
 				"changeBPM": false,
-				"bpm": 101
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						90000,
@@ -2959,14 +2719,14 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 101,
 				"changeBPM": false,
-				"bpm": 101
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						91500,
@@ -3004,16 +2764,12 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 101,
 				"changeBPM": false,
-				"bpm": 101
+				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						92400,
@@ -3076,15 +2832,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 101,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 101
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						93600,
@@ -3132,15 +2888,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 101,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 101
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						94800,
@@ -3208,15 +2964,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 100,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 100
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						96000,
@@ -3259,15 +3015,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 100,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 100
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						97200,
@@ -3275,35 +3031,35 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 100,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
-				"sectionNotes": [],
 				"altAnim": false,
-				"gfSection": true,
-				"bpm": 100,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 100
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": true,
-				"bpm": 100,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 100
 			},
 			{
-				"lengthInSteps": 16,
+				"sectionNotes": [],
 				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": true,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
 				"sectionNotes": [
 					[
 						100800,
@@ -3341,15 +3097,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": true,
-				"bpm": 100,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 100
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						102000,
@@ -3382,15 +3138,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": true,
-				"bpm": 100,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 100
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						103800,
@@ -3433,15 +3189,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 100,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 100
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						104400,
@@ -3474,15 +3230,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 100,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 100
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						105600,
@@ -3520,15 +3276,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": true,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						106950,
@@ -3566,15 +3322,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": true,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						108000,
@@ -3617,13 +3373,17 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						109200,
@@ -3661,15 +3421,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						110400,
@@ -3712,15 +3472,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": true,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						111600,
@@ -3753,15 +3513,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": true,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						112800,
@@ -3804,17 +3564,13 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": true,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						114000,
@@ -3857,15 +3613,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": true,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						115200,
@@ -3909,15 +3665,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						116400,
@@ -3950,15 +3706,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						117750,
@@ -3996,15 +3752,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						118800,
@@ -4032,15 +3788,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						120000,
@@ -4078,15 +3834,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": true,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						121200,
@@ -4119,15 +3875,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						122400,
@@ -4160,13 +3916,17 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": true,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						123600,
@@ -4199,15 +3959,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						124800,
@@ -4230,15 +3990,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": true,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						126000,
@@ -4273,15 +4033,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						127800,
@@ -4344,15 +4104,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": true,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						129000,
@@ -4415,15 +4175,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						129600,
@@ -4466,15 +4226,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": true,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						130800,
@@ -4512,15 +4272,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": true,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						132000,
@@ -4543,15 +4303,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": true,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						133500,
@@ -4609,17 +4369,13 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": true,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						134400,
@@ -4657,15 +4413,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						135600,
@@ -4703,15 +4459,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						136800,
@@ -4734,15 +4490,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						138000,
@@ -4800,15 +4556,15 @@
 						0
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						139200,
@@ -4816,15 +4572,15 @@
 						1125
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": true,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						140400,
@@ -4842,15 +4598,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						142500,
@@ -4858,15 +4614,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						142800,
@@ -4884,15 +4640,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						144900,
@@ -4900,15 +4656,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						145200,
@@ -4926,15 +4682,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						147300,
@@ -4942,15 +4698,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						147600,
@@ -4963,15 +4719,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						148800,
@@ -4984,15 +4740,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						150000,
@@ -5025,15 +4781,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						152100,
@@ -5046,15 +4802,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						152400,
@@ -5087,15 +4843,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						154500,
@@ -5108,15 +4864,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						154800,
@@ -5149,15 +4905,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						156900,
@@ -5170,15 +4926,15 @@
 						225
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						157200,
@@ -5211,15 +4967,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						158400,
@@ -5242,15 +4998,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						159900,
@@ -5283,15 +5039,15 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						160800,
@@ -5314,15 +5070,15 @@
 						975
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						162000,
@@ -5345,13 +5101,17 @@
 						525
 					]
 				],
-				"altAnim": false,
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
 				"gfSection": false,
-				"bpm": 200,
+				"altAnim": false,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						163200,
@@ -5384,15 +5144,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						164400,
@@ -5425,15 +5185,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						165600,
@@ -5461,15 +5221,15 @@
 						825
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						166800,
@@ -5487,15 +5247,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						168000,
@@ -5528,15 +5288,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						169500,
@@ -5574,15 +5334,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						170400,
@@ -5605,15 +5365,15 @@
 						900
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						171600,
@@ -5651,15 +5411,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						173100,
@@ -5692,15 +5452,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						174900,
@@ -5738,15 +5498,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						175200,
@@ -5769,15 +5529,15 @@
 						600
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						176400,
@@ -5815,15 +5575,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						177600,
@@ -5856,15 +5616,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						178800,
@@ -5877,15 +5637,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						180000,
@@ -5903,15 +5663,15 @@
 						825
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						181800,
@@ -5919,15 +5679,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						182400,
@@ -5950,15 +5710,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						184200,
@@ -5976,15 +5736,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						185100,
@@ -6002,15 +5762,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						186000,
@@ -6033,15 +5793,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						187200,
@@ -6064,15 +5824,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						188400,
@@ -6090,15 +5850,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						190200,
@@ -6116,15 +5876,15 @@
 						825
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						191400,
@@ -6132,15 +5892,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						192000,
@@ -6163,15 +5923,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						193200,
@@ -6189,15 +5949,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						194700,
@@ -6215,15 +5975,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						195600,
@@ -6246,15 +6006,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						196800,
@@ -6277,15 +6037,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						198000,
@@ -6308,15 +6068,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						199200,
@@ -6339,15 +6099,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						200400,
@@ -6365,15 +6125,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						201600,
@@ -6386,15 +6146,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						202800,
@@ -6422,15 +6182,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						204000,
@@ -6463,15 +6223,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						205200,
@@ -6499,15 +6259,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						206400,
@@ -6545,15 +6305,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						207600,
@@ -6566,15 +6326,15 @@
 						900
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						208800,
@@ -6587,15 +6347,15 @@
 						1125
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						210000,
@@ -6608,15 +6368,15 @@
 						1125
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						211200,
@@ -6639,15 +6399,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						212400,
@@ -6680,15 +6440,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						213600,
@@ -6721,15 +6481,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						214800,
@@ -6782,15 +6542,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						216000,
@@ -6843,25 +6603,25 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						218400,
@@ -6944,15 +6704,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						219600,
@@ -7000,15 +6760,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						220800,
@@ -7046,15 +6806,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						222000,
@@ -7092,15 +6852,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						223200,
@@ -7143,15 +6903,15 @@
 						75
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						224400,
@@ -7184,15 +6944,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						225600,
@@ -7225,15 +6985,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						226800,
@@ -7271,15 +7031,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						228000,
@@ -7367,15 +7127,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						229800,
@@ -7423,15 +7183,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						230400,
@@ -7469,15 +7229,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						231600,
@@ -7515,15 +7275,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						232800,
@@ -7566,15 +7326,15 @@
 						75
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						234900,
@@ -7607,15 +7367,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						235800,
@@ -7648,15 +7408,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						236400,
@@ -7694,15 +7454,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						237600,
@@ -7755,15 +7515,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						238950,
@@ -7806,15 +7566,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						240000,
@@ -7867,15 +7627,15 @@
 						375
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						241800,
@@ -7918,15 +7678,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						242400,
@@ -7999,15 +7759,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						243600,
@@ -8070,15 +7830,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						245100,
@@ -8151,15 +7911,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						246300,
@@ -8232,15 +7992,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						247200,
@@ -8403,15 +8163,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						248625,
@@ -8574,15 +8334,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						249600,
@@ -8745,15 +8505,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						250800,
@@ -8796,15 +8556,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						252000,
@@ -8877,15 +8637,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						253350,
@@ -8958,15 +8718,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						254700,
@@ -9029,15 +8789,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						255600,
@@ -9120,15 +8880,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						256800,
@@ -9146,15 +8906,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						258000,
@@ -9167,15 +8927,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						259200,
@@ -9193,15 +8953,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						260400,
@@ -9214,15 +8974,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						261600,
@@ -9245,15 +9005,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						262800,
@@ -9266,15 +9026,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						264000,
@@ -9292,15 +9052,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						265200,
@@ -9313,15 +9073,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						266400,
@@ -9344,15 +9104,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						267600,
@@ -9370,15 +9130,15 @@
 						0
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						268800,
@@ -9396,15 +9156,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						270000,
@@ -9417,15 +9177,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						271200,
@@ -9453,15 +9213,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						272400,
@@ -9479,15 +9239,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						273600,
@@ -9505,15 +9265,15 @@
 						525
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						274800,
@@ -9556,15 +9316,15 @@
 						225
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						276000,
@@ -9577,243 +9337,11 @@
 						900
 					]
 				],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
@@ -9823,7 +9351,7 @@
 				"gfSection": false,
 				"bpm": 200,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
@@ -9833,67 +9361,17 @@
 				"gfSection": false,
 				"bpm": 200,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": false
 			},
 			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
 				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
 				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
 				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
@@ -9926,14 +9404,134 @@
 				"mustHitSection": true
 			},
 			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
 				"lengthInSteps": 16,
-				"gfSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
 				"altAnim": false,
-				"mustHitSection": true,
+				"gfSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
@@ -9986,6 +9584,156 @@
 				"bpm": 200
 			},
 			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
 				"sectionNotes": [],
@@ -10026,19 +9774,9 @@
 				"bpm": 200
 			},
 			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
 				"lengthInSteps": 16,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"sectionBeats": 4,
 				"altAnim": false,
 				"gfSection": false,
 				"bpm": 200,
@@ -10046,84 +9784,14 @@
 				"mustHitSection": true
 			},
 			{
+				"lengthInSteps": 16,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"sectionBeats": 4,
 				"altAnim": false,
 				"gfSection": false,
 				"bpm": 200,
 				"changeBPM": false,
 				"mustHitSection": true
-			},
-			{
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"altAnim": false,
-				"gfSection": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"altAnim": false,
-				"gfSection": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"altAnim": false,
-				"gfSection": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"altAnim": false,
-				"gfSection": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
 			},
 			{
 				"sectionBeats": 4,
@@ -10176,6 +9844,76 @@
 				"mustHitSection": true
 			},
 			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
 				"typeOfSection": 0,
 				"sectionNotes": [],
 				"sectionBeats": 4,
@@ -10206,6 +9944,36 @@
 				"bpm": 200
 			},
 			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
 				"sectionBeats": 4,
 				"sectionNotes": [],
 				"typeOfSection": 0,
@@ -10214,25 +9982,8672 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 200
-			},
-			{
-				"gfSection": false,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 200,
-				"sectionBeats": 4,
-				"changeBPM": false,
-				"mustHitSection": true
 			}
 		],
-		"player2": "mouse-smile",
+		"gfVersion": "satan",
+		"events": [
+			[
+				0,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				1200,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3600,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4800,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				7200,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10800,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13200,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15600,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16800,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22800,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28875,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29025,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29100,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29175,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29250,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29325,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29475,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29550,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29625,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29700,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				29775,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Change Character",
+						"1",
+						"suicide"
+					],
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"0"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31725,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32325,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32925,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33525,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34200,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				35250,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36300,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36825,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37650,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38025,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				39225,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				39600,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"0.3"
+					]
+				]
+			],
+			[
+				39975,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41175,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41550,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42375,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42750,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43575,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43875,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45225,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46050,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47175,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47550,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48300,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48675,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49425,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49800,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50700,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51075,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52050,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53175,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53475,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54225,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54600,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54825,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55500,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55650,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57075,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57225,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58050,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58275,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Change Character",
+						"1",
+						"mouse-inferno"
+					],
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"0.3"
+					]
+				]
+			],
+			[
+				58950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59250,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59550,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60075,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60300,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60525,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60750,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61500,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61725,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62550,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63450,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63750,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64875,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65100,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65550,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66075,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66300,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66450,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66675,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67275,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67575,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68250,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68625,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69150,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69675,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69900,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70125,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70875,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71100,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71250,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71475,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71625,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72075,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72300,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72525,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72825,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73425,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73725,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74475,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74700,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75225,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75675,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75900,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76125,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76425,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77175,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77625,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78150,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78450,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78675,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78975,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79500,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79800,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80175,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80475,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80775,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81150,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81975,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82275,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82425,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83100,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83325,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83625,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84150,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84475,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84675,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85412.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85593.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85775,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85956.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86175,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86556.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86775,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87412.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87812.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88012.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88175,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88956.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89293.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89531.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90093.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90256.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90456.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90831.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91375,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91675,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91956.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92275,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92437.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92593.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92737.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92931.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93075,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93656.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93831.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93993.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94193.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94656.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94837.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94993.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95156.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95356.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95531.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95693.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96175,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96356.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96575,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97075,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97237.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"cinematic",
+						"",
+						""
+					],
+					[
+						"UI Fade",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"UI Fade",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				100275,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100287.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100293.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100300,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100312.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100318.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100331.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100343.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100356.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100381.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100393.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100406.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100418.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100425,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100431.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100518.75,
+				[
+					[
+						"Play Animation",
+						"spawn",
+						"gf"
+					],
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100556.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100568.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100575,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100587.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100593.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100600,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100612.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100618.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100625,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100643.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100650,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100656.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100668.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100681.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100687.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100700,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100706.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100718.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-satan"
+					]
+				]
+			],
+			[
+				101306.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102062.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102406.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102662.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"gf"
+					]
+				]
+			],
+			[
+				103362.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103625,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103906.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104462.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104806.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105725,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105862.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106043.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106462.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107062.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107225,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107406.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107543.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107681.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"gf"
+					]
+				]
+			],
+			[
+				108243.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108425,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108687.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108906.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109206.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110762.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111325,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111906.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112243.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112906.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113143.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113443.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114412.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114750,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115612.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116531.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116775,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117112.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117750,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118031.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118331.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118875,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119131.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119312.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119793.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120450,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120731.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121668.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				122868.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				123068.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				123212.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				125031.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				125250,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				125493.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126250,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126412.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126568.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126912.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127493.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127712.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127831.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127987.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				128550,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				128731.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				128868.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129031.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129212.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129768.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129968.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130150,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130331.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130493.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130868.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131050,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131231.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131393.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131612.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132150,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132431.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132693.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132993.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				133350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				133593.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				133950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"gf"
+					]
+				]
+			],
+			[
+				134512.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				134750,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135050,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135312.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136131.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136931.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				137193.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				137512.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				138112.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				138450,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				138768.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"gf"
+					]
+				]
+			],
+			[
+				139800,
+				[
+					[
+						"cinematic",
+						"false",
+						""
+					],
+					[
+						"Play Animation",
+						"bye",
+						"gf"
+					]
+				]
+			],
+			[
+				140068.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				140750,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				140931.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142312.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142831.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				143131.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				143350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				143787.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				144712.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145331.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145631.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				147087.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				147912.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				148087.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				149168.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				150287.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				150487.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				150650,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				152068.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				152568.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				152768.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				152950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153968.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154968.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				155187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				155350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				155606.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				156131.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				156487.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				156787.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				157368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				157668.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				158006.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				158631.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				158931.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				159187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				159806.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				160087.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				160387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				161006.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				161350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				162068.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				162350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				162731.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				163268.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				163550,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				164087.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				164650,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				164968.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				165306.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				165712.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				166050,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				166368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				166868.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				167106.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				167487.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				168150,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				168431.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				168768.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				169406.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				169631.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				169950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				170550,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				170831.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171168.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171750,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				172050,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				172231.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				173212.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				173450,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				173687.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174031.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174250,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174450,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174631.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174831.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				175387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				175587.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				175787.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				176168.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				176650,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				176850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				177006.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				177368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				177806.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				178031.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				178206.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				178800,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"UI Fade",
+						"0,true",
+						""
+					],
+					[
+						"cinematic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				178950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				179206.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				180387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				180568.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				180787.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				181506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				182106.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				182487.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				182850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183068.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183887.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				184087.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				184387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				184968.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				185206.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				185506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				186131.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				186387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				186731.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				187450,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				187668.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				187887.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				188668.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				188887.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				189387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				189768.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				190068.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				190368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				191006.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				191687.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				192306.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				192506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				192706.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				193606.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				193950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				194450,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				194725,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				195025,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				195325,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				195750,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				196068.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				196325,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				196987.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				197287.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				197587.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				198887.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				199525,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				199825,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				200068.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				200625,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				200850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				201006.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				201187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				201368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				201768.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				201950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				202087.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				202268.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				202468.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				203106.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				203750,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				204187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				204525,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				204868.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				205206.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				205468.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				205687.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				205968.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				206450,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				206768.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				207387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				207668.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				207987.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				208306.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				209150,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				209506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				210187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				210543.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				210868.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				211468.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				211743.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				212025,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				212425,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				212787.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				213106.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				213768.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				214143.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				214506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				215106.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				215343.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				215687.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				216006.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				216287.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				216543.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				217200,
+				[
+					[
+						"coverScreen",
+						".,other",
+						""
+					]
+				]
+			],
+			[
+				217368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				217543.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				217706.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				217887.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				218062.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				218400,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"UI Fade",
+						"1,true",
+						""
+					],
+					[
+						"cinematic",
+						"false",
+						"0"
+					],
+					[
+						"coverScreen",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				218643.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				218843.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				219025,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				219206.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				219768.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				219925,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				220106.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				220287.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				220462.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				220806.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				221006.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				221187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				221362.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				221543.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				221725,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				222187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				222487.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				222725,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				223343.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				223543.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				223887.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				224087.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				224487.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				224643.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				224825,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				225168.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				225343.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				225725,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				225925,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				226125,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				226306.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				226506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				226868.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				227043.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				227268.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				227443.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				227643.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				228006.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				228225,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				228406.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				228625,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				228787.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				229387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				229606.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				229806.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				230187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				230506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				230706.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				230906.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				231187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				231687.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				231925,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				232106.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				232306.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				232543.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				232906.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				233106.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				233287.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				233443.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				233706.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				234143.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				234362.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				234562.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				234787.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				234962.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				235406.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				235606.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				235806.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				235962.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				236162.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				236606.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				236762.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				237125,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				237325,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				237706.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				237925,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				238062.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				238287.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				238481.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				238862.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				239062.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				239262.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				239506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				240062.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				240281.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				240462.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				240662.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				240987.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				241343.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				241525,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				241706.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				242006.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				242625,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				242806.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				242981.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				243187.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				243362.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				243825,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				244025,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				244181.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				244406.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				244987.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				245162.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				245343.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				245787.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				246162.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				246387.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				246543.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				246725,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				247325,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				247481.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				247662.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				247825,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				247987.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				248162.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				248525,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				248706.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				248887.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				249062.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				249243.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				249606.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				249806.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				249962.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				250162.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				250362.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				250543.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				250906.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				251125,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				251325,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				251606.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				252225,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				252381.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				252581.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				252743.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				252943.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				253362.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				253581.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				253762.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				253962.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				254162.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				254543.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				254762.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				254943.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				255143.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				255343.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				255743.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				255925,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				256143.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				256362.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				256562.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				256987.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				257262.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				257425,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258012.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258093.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258181.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258193.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258243.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258262.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258306.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258331.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258375,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258425,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258525,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258643.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258718.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258731.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258812.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258825,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258881.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258918.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258962.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				258987.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259031.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259043.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259081.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259112.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259125,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259143.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259218.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259312.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259418.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259593.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259656.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259756.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259925,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259975,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				259987.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260006.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260050,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260081.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260125,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260162.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260193.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260256.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260287.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260312.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260331.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260412.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260431.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260493.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260512.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260575,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260637.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260693.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260775,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260825,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260893.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				260912.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261018.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261100,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261131.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261168.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261206.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261243.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261312.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261375,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261418.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261437.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261487.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261512.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261537.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261643.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261725,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261737.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261812.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261843.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261862.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261906.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				261912.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				262000,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				262043.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				262075,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				262137.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				262206.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				262212.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				262300,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				262350,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				262381.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				262393.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				266400,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				266700,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267000,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267031.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267037.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267100,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267137.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267193.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267225,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267293.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267306.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267375,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267437.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267475,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267481.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267500,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267512.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267531.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267606.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267662.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267787.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267825,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267843.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267943.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267968.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				268000,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				268037.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				268062.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				268106.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				268137.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				271250,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				271368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				271550,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				271706.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				271887.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				272050,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				272406.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				272568.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				272768.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				272950,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				273106.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				273306.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				273687.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				273868.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				274031.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				274250,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				274468.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				274850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				275025,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				275206.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				275368.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				275568.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				276000,
+				[
+					[
+						"Flash",
+						"000000",
+						""
+					],
+					[
+						"UI Fade",
+						"0",
+						"1.2"
+					]
+				]
+			],
+			[
+				276325,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				276506.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				276687.5,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				276850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				277206.25,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				277468.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				277668.75,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				277850,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				278025,
+				[
+					[
+						"windowmove",
+						"",
+						""
+					]
+				]
+			]
+		],
 		"player3": null,
 		"song": "Hellhole",
-		"stage": "inferno",
-		"needsVoices": true,
 		"validScore": true,
-		"bpm": 200,
-		"speed": 2.5
+		"needsVoices": true,
+		"stage": "inferno",
+		"speed": 2.5,
+		"bpm": 200
 	}
 }

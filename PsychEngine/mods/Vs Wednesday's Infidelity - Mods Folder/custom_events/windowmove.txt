@@ -1,0 +1,3 @@
+V1 put any WHOLE number from 1 to 100 or leave blank for random
+V2 put any WHOLE number from 1 to 100 or leave blank for random
+*DO NOT PUT DECIMALS IN THE V1 or V2 AREAS! DOING SO WILL BREAK THE CODE!
