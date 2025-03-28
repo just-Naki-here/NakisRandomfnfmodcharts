@@ -56,7 +56,6 @@ function onUpdate(elapsed)
   Decider=math.random(1,100)
   if Decider <50 then
    Decider=math.random(1,100)
-   setProperty('songLength', getProperty('songLength')+getRandomInt(1100, -1000))
 
   end
   if Decider >50 then
@@ -77,12 +76,11 @@ function onUpdate(elapsed)
    randomPlayerstrumX7=0.2
    randomPlayerstrumX8=0.2
    Decider=math.random(1,100)
-   setProperty('songLength', getProperty('songLength')+getRandomInt(11000, -10000))
 
   end
   if Decider==50 then
 	 Decider=math.random(1,100)
-   setProperty('songLength', getProperty('songLength')+getRandomInt(110000, -100000))
+
 
 	end
   songPos = getSongPosition()

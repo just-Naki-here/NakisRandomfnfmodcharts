@@ -210,9 +210,9 @@ setObjectCamera('comboGroup', 'camGame')
 setProperty('showRating', false)
 setProperty('showComboNum', false)
 
-setProperty('timeBar.visible', false)
+setProperty('timeBar.visible', true)
 setProperty('timeBarBG.visible', false)
-setProperty('timeTxt.visible', false)
+setProperty('timeTxt.visible', true)
 setProperty('scoreTxt.visible', false)
 
 setProperty('health.y', getProperty('healthBar.y') + -31)
@@ -220,8 +220,8 @@ setProperty('filler.y', getProperty('healthBar.y') + 2)
 setProperty('iconP2.x', getProperty('iconP2.x') + -35)
 setProperty('iconP1.x', getProperty('iconP1.x') + -25)
 
-setProperty('healthBar.bg.visible', false)
-setProperty('healthBar.rightBar.visible', false)
+setProperty('healthBar.bg.visible', true)
+setProperty('healthBar.rightBar.visible', true)
 
 
 if middlescroll then
