@@ -80,7 +80,7 @@ function onStepHit()
 
     if curStep == 2192 then
         if version >= '0.7' then
-            startTween('songLengthSwap','game',{songLength = godSnaz},10,{ease = 'expoInOut'})
+            startTween('songLengthSwap','game',{songLength = godSnaz},2,{ease = 'expoInOut'})
         else
             doTweenX('changeTimeUnknow','unknownTime',getProperty('songLength'),7,'expoInOut')
         end
