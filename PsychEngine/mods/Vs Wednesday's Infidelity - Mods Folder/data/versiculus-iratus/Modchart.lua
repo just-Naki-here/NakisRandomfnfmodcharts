@@ -163,7 +163,7 @@ function noteMiss(id, direction, noteType, isSustainNote)--note miss checker
     noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
     noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
 
-
+end
 function onDestroy()--exit to menu checker
     setPropertyFromClass("openfl.Lib", "application.window.title", "Naki's FNF Charts")
     debugPrint("Application window sucessfully moved!")
