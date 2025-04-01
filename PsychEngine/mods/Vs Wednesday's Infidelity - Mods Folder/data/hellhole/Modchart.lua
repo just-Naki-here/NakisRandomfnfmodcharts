@@ -51,6 +51,9 @@ function onSongStart()
     setPropertyFromGroup("playerStrums", 6, "x", defaultPlayerStrumX2 - 320)
     setPropertyFromGroup("playerStrums", 7, "x", defaultPlayerStrumX3 - 320)
     setProperty('healthGain', 5)
+    randomscrollspeed = math.random(1.5, 5)
+    originSS=getProperty('songspeed')
+    setProperty('songSpeed',randomscrollspeed)
 end
 
 function onUpdate(elapsed)
@@ -120,8 +123,8 @@ function onUpdate(elapsed)
         debugPrint("Hard part coming up!")--prints "Hard part coming up!"
     end
     getMisses()--gets the current amount of misses the player has
-    if misses == 1 then--miss checker
-        setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T MESS UP ANYMORE!!!")--changes app. name 
+    for i in misses do
+        newScrollSpeed=originSS-.02
     end
     if misses == 25 then--miss checker
         setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T FUCK UP!!!")--changes app. name 
@@ -150,11 +153,16 @@ function noteMiss(id, direction, noteType, isSustainNote)--note miss checker
     noteTweenX("defaultPlayerStrumX1",5,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
     noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
     noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
-
-    speed = tonumber("E", 1)
-    randomscrollspeed = math.random(1.5, 5)
-    setProperty("scrollspeed", speed)
-    setPropertyFromGroup("scrollspeed", 0, randomscrollspeed)
+    if misses==1 then 
+        for i in misses do
+            newScrollSpeed=originSS-0.02
+            setProperty('songSpeed',newScrollSpeed)
+        end
+    else
+        newerScrollSpeed=newScrollSpeed-0.02
+        newScrollSpeed=newerScrollSpeed
+    end
+    setProperty('songSpeed',newerScrollSpeed)
 end
 
 function onDestroy()--exit to menu checker
