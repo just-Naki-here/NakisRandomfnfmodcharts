@@ -41,6 +41,13 @@ function onCreate()
     end
 end
 function onSongStart()
+    setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.123);
+  
+    setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.123);
+  
+    setPropertyFromGroup('opponentStrums', 2, 'alpha', 0.123);
+  
+    setPropertyFromGroup('opponentStrums', 3, 'alpha', 0.123);
     setPropertyFromClass("openfl.Lib", "application.window.title", "Survive or else...")
     debugPrint("Application title change sucessful!")
     setPropertyFromClass("openfl.Lib", "application.window.x", 300)
@@ -79,10 +86,19 @@ function onUpdate(elapsed)
         randomPlayerstrumX2 = math.random(0, 150)
         randomPlayerstrumX3 = math.random(0, 150)
         randomPlayerstrumX4 = math.random(0, 150)
+        randomOppstrumX1 = math.random(0, 150)
+        randomOppstrumX2 = math.random(0, 150)
+        randomOppstrumX3 = math.random(0, 150)
+        randomOppstrumX4 = math.random(0, 150)
+
         randomPlayerstrumX5 = 0.2
         randomPlayerstrumX6 = 0.2
         randomPlayerstrumX7 = 0.2
         randomPlayerstrumX8 = 0.2
+        randomOppstrumY1 = math.random(0, 150)  
+        randomOppstrumY2 = math.random(0, 150) 
+        randomOppstrumY3 = math.random(0, 150) 
+        randomOppstrumY4 = math.random(0, 150) 
         Decider = math.random(1, 100)
     end
     if Decider == 50 then
@@ -109,15 +125,22 @@ function onUpdate(elapsed)
     noteTweenX("defaultPlayerStrumX1",5,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
     noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
     noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
-
-    noteTweenY("defaultOppStrumY0",0,defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
-    noteTweenY("defaultoppStrumY1",1,defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
-    noteTweenY("defaultoppStrumY2",2,defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
-    noteTweenY("defaultoppStrumY3",3,defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
-    noteTweenX("defaultoppStrumX0",0,defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
-    noteTweenX("defaultoppStrumX1",1,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
-    noteTweenX("defaultoppStrumX2",2,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
-    noteTweenX("defaultoppStrumX3",3,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
+    randomOppstrumX1 = math.random(0, 120)
+    randomOppstrumX2 = math.random(0, 120)
+    randomOppstrumX3 = math.random(0, 120)
+    randomOppstrumX4 = math.random(0, 120)
+    randomOppstrumY1 = math.random(0, 90)  
+    randomOppstrumY2 = math.random(0, 100) 
+    randomOppstrumY3 = math.random(0, 110) 
+    randomOppstrumY4 = math.random(0, 120) 
+    noteTweenY("defaultOppStrumY0",0,defaultOpponentStrumY0 - randomOppstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
+    noteTweenY("defaultOppStrumY1",1,defaultOpponentStrumY1 - randomOppstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
+    noteTweenY("defaultOppStrumY2",2,defaultOpponentStrumY2 - randomOppstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
+    noteTweenY("defaultOppStrumY3",3,defaultOpponentStrumY3 - randomOppstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
+    noteTweenX("defaultOppStrumX0",0,defaultOpponentStrumX0 - randomOppstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
+    noteTweenX("defaultOppStrumX1",1,defaultOpponentStrumX1 - randomOppstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
+    noteTweenX("defaultOppStrumX2",2,defaultOpponentStrumX2 - randomOppstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
+    noteTweenX("defaultOppStrumX3",3,defaultOpponentStrumX3 - randomOppstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
 
     if (songPos / 5000) * (curBpm / 60) == 20 then
         debugPrint("Hard part coming up!")
