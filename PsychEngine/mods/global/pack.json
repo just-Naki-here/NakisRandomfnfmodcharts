@@ -1,6 +1,6 @@
 {
 	"name": "Iterator Funkin ( GUI )",
-	"description": "A recreation of Rainworld's GUI ported to FNF. Please credit if you use it!!\n\n(this is loaded globally throughout all mods)",
+	"description": "A recreation of Rainworld's GUI ported to FNF. Please credit if you use it!!\n\n(this is loaded globally throughout all mods)\n\n(DISABLE TO NOT USE GUI ON OTHER SONGS(BUT TURN IT ON FOR HALYCON))",
 	"restart": false,
 	"runsGlobally": true,
 	"color": [170, 0, 255]
