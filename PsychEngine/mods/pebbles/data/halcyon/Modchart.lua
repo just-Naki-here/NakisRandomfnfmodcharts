@@ -39,10 +39,10 @@ function onCreate()
     end
 end
 function onSongStart()
-    setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.123);
-    setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.123);
-    setPropertyFromGroup('opponentStrums', 2, 'alpha', 0.123);
-    setPropertyFromGroup('opponentStrums', 3, 'alpha', 0.123);
+    setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.3);
+    setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.3);
+    setPropertyFromGroup('opponentStrums', 2, 'alpha', 0.3);
+    setPropertyFromGroup('opponentStrums', 3, 'alpha', 0.3);
     setPropertyFromClass("openfl.Lib", "application.window.title", "Survive or else...")
     debugPrint("Application title change sucessful!")
     setPropertyFromClass("openfl.Lib", "application.window.x", 300)
@@ -69,7 +69,7 @@ function onUpdate(elapsed)
         Decider = math.random(1, 100)
     end
     if Decider > 50 then 
-        if curStep>0 and curStep<=1808 then
+        if curStep>278 and curStep<=1808 then
             randomPlayerstrumY1 = math.random(0, 150)  
             randomPlayerstrumY2 = math.random(0, 150) 
             randomPlayerstrumY3 = math.random(0, 150) 
@@ -95,7 +95,7 @@ function onUpdate(elapsed)
             randomOppstrumY3 = math.random(0, 150) 
             randomOppstrumY4 = math.random(0, 150) 
         end
-        if curStep>0 and curStep >= 1808   then
+        if curStep>278 and curStep >= 1808   then
             randomPlayerstrumY1 = math.random(0, 300)  
             randomPlayerstrumY2 = math.random(0, 300) 
             randomPlayerstrumY3 = math.random(0, 300) 
@@ -128,7 +128,8 @@ function onUpdate(elapsed)
     end
     songPos = getSongPosition()
     local currentBeat= (songPos / 5000) * (curBpm / 60)
-   if curStep>0 and curStep < 1808 then
+   if curStep>278 and curStep < 1808 then
+
         runTimer('doXtween',0.00001)
         runTimer('doYtween',0.00001)
         randomPlayerstrumY1 = math.random(0, 90)  
@@ -155,6 +156,7 @@ function onUpdate(elapsed)
         randomOppstrumY2 = math.random(0, 100) 
         randomOppstrumY3 = math.random(0, 110) 
         randomOppstrumY4 = math.random(0, 120) 
+        
         noteTweenY("defaultOppStrumY0",0,defaultOpponentStrumY0 - randomOppstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
         noteTweenY("defaultOppStrumY1",1,defaultOpponentStrumY1 - randomOppstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
         noteTweenY("defaultOppStrumY2",2,defaultOpponentStrumY2 - randomOppstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
@@ -163,8 +165,8 @@ function onUpdate(elapsed)
         noteTweenX("defaultOppStrumX1",1,defaultOpponentStrumX1 - randomOppstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
         noteTweenX("defaultOppStrumX2",2,defaultOpponentStrumX2 - randomOppstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
         noteTweenX("defaultOppStrumX3",3,defaultOpponentStrumX3 - randomOppstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
-   end
-    if curStep>0 and curStep > 1808 then
+    end
+    if curStep>278 and curStep > 1808 then
         randomPlayerstrumY1 = math.random(0, 120)  
         randomPlayerstrumY2 = math.random(0, 130) 
         randomPlayerstrumY3 = math.random(0, 140) 
@@ -197,6 +199,7 @@ function onUpdate(elapsed)
         noteTweenX("defaultOppStrumX1",1,defaultOpponentStrumX1 - randomOppstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
         noteTweenX("defaultOppStrumX2",2,defaultOpponentStrumX2 - randomOppstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
         noteTweenX("defaultOppStrumX3",3,defaultOpponentStrumX3 - randomOppstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
+
     end
     if (songPos / 5000) * (curBpm / 60) == 20 then
         debugPrint("Hard part coming up!")

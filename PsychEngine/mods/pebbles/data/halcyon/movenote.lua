@@ -1,7 +1,7 @@
 function onUpdate(elapsed)
 	songPos = getSongPosition()
 	local currentBeat = (songPos/4000)
-	for i = 0, 3 do
+    for i = 0, 3 do
         if i==0 then
             nots=0
         end
