@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="ded2bac.png"><SubTexture name="ded2bac idle0000" x="0" y="1009" width="1267" height="323" frameX="-13" frameY="-210" frameWidth="1280" frameHeight="720" />
-<SubTexture name="ded2bac idle0001" x="0" y="679" width="1244" height="330" frameX="-26" frameY="-203" frameWidth="1280" frameHeight="720" />
-<SubTexture name="ded2bac idle0002" x="0" y="342" width="1232" height="337" frameX="-32" frameY="-196" frameWidth="1280" frameHeight="720" />
-<SubTexture name="ded2bac idle0003" x="1210" y="0" width="1216" height="341" frameX="-40" frameY="-192" frameWidth="1280" frameHeight="720" />
-<SubTexture name="ded2bac idle0004" x="0" y="0" width="1210" height="342" frameX="-43" frameY="-191" frameWidth="1280" frameHeight="720" />
-<SubTexture name="ded2bac idle0005" x="0" y="0" width="1210" height="342" frameX="-43" frameY="-191" frameWidth="1280" frameHeight="720" />
-</TextureAtlas>

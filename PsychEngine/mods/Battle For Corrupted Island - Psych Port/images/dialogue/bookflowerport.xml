@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="bookflowerport.png"><SubTexture name="bookflowerport creep0000" x="0" y="0" width="952" height="659" frameX="-159" frameY="-15" frameWidth="1280" frameHeight="720" />
-<SubTexture name="bookflowerport creep0001" x="0" y="659" width="952" height="656" frameX="-154" frameY="-18" frameWidth="1280" frameHeight="720" />
-<SubTexture name="bookflowerport creep0002" x="952" y="0" width="947" height="659" frameX="-159" frameY="-15" frameWidth="1280" frameHeight="720" />
-</TextureAtlas>

@@ -1,2 +1,0 @@
-Value 1: "On"/"Off"
-Basically, "On", makes the corruption vignette appear, "Off", self explanatory.

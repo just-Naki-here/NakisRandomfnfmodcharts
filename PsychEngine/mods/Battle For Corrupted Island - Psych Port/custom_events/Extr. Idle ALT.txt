@@ -1,3 +1,0 @@
-Changes idle animation to the alt idle animation.
-
-Value 1: Suffix for idle alt animation.

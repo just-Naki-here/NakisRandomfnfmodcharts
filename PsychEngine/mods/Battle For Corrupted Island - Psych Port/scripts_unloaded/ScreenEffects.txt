@@ -1,2 +1,0 @@
-Value 1 options: "Tilting", "OnBeatBop"
-Value 2 options: "TiltingOff", "OnBeatBopOff"

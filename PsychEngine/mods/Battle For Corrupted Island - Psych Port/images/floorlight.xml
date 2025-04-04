@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="floorlight.png">
-<SubTexture name="floorlight floorlight0000" x="0" y="0" width="2639" height="504" frameX="-466" frameY="-1639" frameWidth="3840" frameHeight="2160" />
-</TextureAtlas>

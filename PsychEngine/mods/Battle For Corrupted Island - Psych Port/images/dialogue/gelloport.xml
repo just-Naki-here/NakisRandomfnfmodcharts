@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="gelloport.png"><SubTexture name="gelloport worried0000" x="0" y="0" width="408" height="495" frameX="-401" frameY="-141" frameWidth="1280" frameHeight="720" />
-<SubTexture name="gelloport worried0001" x="408" y="0" width="408" height="492" frameX="-401" frameY="-144" frameWidth="1280" frameHeight="720" />
-<SubTexture name="gelloport worried0002" x="0" y="495" width="408" height="479" frameX="-401" frameY="-157" frameWidth="1280" frameHeight="720" />
-<SubTexture name="gelloport worried0003" x="816" y="0" width="408" height="483" frameX="-401" frameY="-153" frameWidth="1280" frameHeight="720" />
-</TextureAtlas>
