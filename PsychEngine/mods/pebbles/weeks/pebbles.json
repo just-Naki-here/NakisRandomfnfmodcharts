@@ -1,6 +1,6 @@
 {
 	"storyName": "",
-	"difficulties": "Normal",
+	"difficulties": "Normal, Easy",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "",
@@ -21,6 +21,6 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"weekName": "rainworl"
 }
