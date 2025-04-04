@@ -129,9 +129,6 @@ function onUpdate(elapsed)
     songPos = getSongPosition()
     local currentBeat= (songPos / 5000) * (curBpm / 60)
    if curStep>278 and curStep < 1808 then
-
-        runTimer('doXtween',0.00001)
-        runTimer('doYtween',0.00001)
         randomPlayerstrumY1 = math.random(0, 90)  
         randomPlayerstrumY2 = math.random(0, 100) 
         randomPlayerstrumY3 = math.random(0, 110) 
@@ -228,17 +225,7 @@ function onUpdate(elapsed)
         setProperty('songSpeed',newerScrollSpeed)
     end
 end
-function noteMiss(id, direction, noteType, isSustainNote)
-    debugPrint("YOU MISSED NOOB!")
-    noteTweenY("defaultPlayerStrumY0",4,defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
-    noteTweenY("defaultPlayerStrumY1",5,defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
-    noteTweenY("defaultPlayerStrumY2",6,defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
-    noteTweenY("defaultPlayerStrumY3",7,defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
-    noteTweenX("defaultPlayerStrumX0",4,defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
-    noteTweenX("defaultPlayerStrumX1",5,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
-    noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
-    noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
-end
+
 function onDestroy()
     setPropertyFromClass("openfl.Lib", "application.window.title", "Naki's FNF Charts")
     debugPrint("Application window sucessfully moved!")
@@ -249,27 +236,5 @@ end
 function onEndSong()
     if wasMidscrollOn == true then
         setPropertyFromClass("ClientPrefs", "middleScroll", true)
-    end
-end
-function onTimerCompleted(tag,loops,loopsLeft)
-    if tag==doYtween then
-        randomPlayerstrumY1 = math.random(0, 100)  
-        randomPlayerstrumY2 = math.random(0, 100) 
-        randomPlayerstrumY3 = math.random(0, 100) 
-        randomPlayerstrumY4 = math.random(0, 100) 
-        noteTweenY("defaultPlayerStrumY0",4,defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
-        noteTweenY("defaultPlayerStrumY1",5,defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
-        noteTweenY("defaultPlayerStrumY2",6,defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
-        noteTweenY("defaultPlayerStrumY3",7,defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
-    end
-    if tag==doXtween then
-        randomPlayerstrumX1 = math.random(0, 100)
-        randomPlayerstrumX2 = math.random(0, 100)
-        randomPlayerstrumX3 = math.random(0, 100)
-        randomPlayerstrumX4 = math.random(0, 100)
-        noteTweenX("defaultPlayerStrumX0",4,defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
-        noteTweenX("defaultPlayerStrumX1",5,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
-        noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
-        noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
     end
 end
