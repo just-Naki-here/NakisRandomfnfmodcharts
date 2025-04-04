@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				700,
+				650
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "babyragefirey idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				730,
+				627
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "babyragefirey singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				700,
+				630
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "babyragefirey singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				720,
+				660
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "babyragefirey singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				694,
+				631
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "babyragefirey singUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bitter/babyragefirey",
+	"position": [
+		1060,
+		0
+	],
+	"healthicon": "fireyded",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		160,
+		0
+	],
+	"camera_position": [
+		-610,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

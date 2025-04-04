@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tb.png">
+<SubTexture name="tb idle0000" x="2956" y="0" width="568" height="660" frameX="-322" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb idle0001" x="2272" y="2103" width="568" height="666" frameX="-322" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb idle0002" x="1704" y="2103" width="568" height="670" frameX="-322" frameY="-45" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb idle0003" x="1136" y="2103" width="568" height="673" frameX="-322" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb idle0004" x="568" y="2103" width="568" height="676" frameX="-322" frameY="-39" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb idle0005" x="0" y="2103" width="568" height="678" frameX="-322" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb idle0006" x="2388" y="1363" width="568" height="680" frameX="-322" frameY="-35" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb idle0007" x="2388" y="682" width="568" height="681" frameX="-322" frameY="-34" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb idle0008" x="2388" y="0" width="568" height="682" frameX="-322" frameY="-33" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singRIGHT0000" x="578" y="720" width="530" height="693" frameX="-458" frameY="-21" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singRIGHT0001" x="1858" y="0" width="530" height="690" frameX="-431" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singRIGHT0002" x="1858" y="690" width="530" height="688" frameX="-422" frameY="-26" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singRIGHT0003" x="1156" y="1414" width="530" height="687" frameX="-419" frameY="-27" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singRIGHT0004" x="1686" y="1414" width="530" height="687" frameX="-418" frameY="-27" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singLEFT0000" x="2602" y="2781" width="686" height="645" frameX="-180" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singLEFT0001" x="1937" y="2781" width="665" height="649" frameX="-196" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singLEFT0002" x="1286" y="2781" width="651" height="651" frameX="-207" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singLEFT0003" x="0" y="2781" width="645" height="652" frameX="-211" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singLEFT0004" x="645" y="2781" width="641" height="652" frameX="-214" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singDOWN0000" x="3524" y="645" width="568" height="632" frameX="-322" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singDOWN0001" x="3524" y="0" width="568" height="645" frameX="-322" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singDOWN0002" x="2956" y="1972" width="568" height="651" frameX="-322" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singDOWN0003" x="2956" y="1317" width="568" height="655" frameX="-322" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singDOWN0004" x="2956" y="660" width="568" height="657" frameX="-322" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singUP0000" x="1280" y="0" width="578" height="699" frameX="-313" frameY="-15" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singUP0001" x="0" y="720" width="578" height="694" frameX="-313" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singUP0002" x="1108" y="720" width="578" height="691" frameX="-313" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singUP0003" x="0" y="1414" width="578" height="689" frameX="-313" frameY="-25" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb singUP0004" x="578" y="1414" width="578" height="688" frameX="-313" frameY="-26" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb d0009" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tb d0010" x="0" y="3433" width="1077" height="551" frameX="-187" frameY="-59" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

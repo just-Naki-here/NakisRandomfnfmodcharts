@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "matchmad idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "matchmad singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "matchmad singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "matchmad singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "matchmad singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dodge",
+			"fps": 20,
+			"name": "matchmad dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/manip/matchmad",
+	"position": [
+		-220,
+		-60
+	],
+	"healthicon": "match",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		205,
+		120
+	],
+	"camera_position": [
+		-50,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

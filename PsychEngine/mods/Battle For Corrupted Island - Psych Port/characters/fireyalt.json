@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fireyalt singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fireyalt singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fireyalt singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fireyalt singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fireyalt idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bitter/fireyalt",
+	"position": [
+		340,
+		50
+	],
+	"healthicon": "fireyblind",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		131,
+		9
+	],
+	"camera_position": [
+		-170,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

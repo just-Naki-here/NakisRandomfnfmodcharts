@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fireyph.png"><SubTexture name="fireyph idle0000" x="2242" y="648" width="619" height="646" frameX="-283" frameY="-67" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph idle0001" x="1250" y="1374" width="622" height="653" frameX="-280" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph idle0002" x="626" y="1374" width="624" height="656" frameX="-279" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph idle0003" x="0" y="1374" width="626" height="658" frameX="-279" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph idle0004" x="0" y="715" width="626" height="659" frameX="-279" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph idle0005" x="626" y="715" width="627" height="659" frameX="-279" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph idle0006" x="1616" y="0" width="626" height="659" frameX="-280" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph idle0007" x="1616" y="659" width="626" height="659" frameX="-280" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph idle0008" x="1616" y="659" width="626" height="659" frameX="-280" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph idle0009" x="1616" y="659" width="626" height="659" frameX="-280" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph idle0010" x="1616" y="659" width="626" height="659" frameX="-280" frameY="-56" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singRIGHT0000" x="2242" y="0" width="751" height="648" frameX="-471" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singRIGHT0001" x="2242" y="1294" width="720" height="640" frameX="-482" frameY="-72" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singRIGHT0002" x="2242" y="1294" width="720" height="640" frameX="-482" frameY="-72" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singDOWN0000" x="2058" y="2032" width="672" height="567" frameX="-361" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singDOWN0001" x="0" y="2032" width="619" height="607" frameX="-361" frameY="-106" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singLEFT0000" x="1315" y="2032" width="743" height="571" frameX="-18" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singLEFT0001" x="619" y="2032" width="696" height="599" frameX="-65" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singLEFT0002" x="619" y="2032" width="696" height="599" frameX="-65" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singUP0000" x="0" y="0" width="806" height="715" frameX="-230" frameY="-2" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singUP0001" x="806" y="0" width="810" height="680" frameX="-271" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fireyph singUP0002" x="806" y="0" width="810" height="680" frameX="-271" frameY="-37" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

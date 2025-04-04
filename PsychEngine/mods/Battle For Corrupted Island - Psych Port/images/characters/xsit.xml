@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="xsit.png"><SubTexture name="xsit idle0000" x="0" y="2063" width="718" height="478" frameX="-553" frameY="-229" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit idle0001" x="2153" y="0" width="703" height="483" frameX="-561" frameY="-224" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit idle0002" x="669" y="1562" width="675" height="493" frameX="-575" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit idle0003" x="0" y="1562" width="669" height="501" frameX="-578" frameY="-206" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit idle0004" x="0" y="1562" width="669" height="501" frameX="-578" frameY="-206" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit idle0005" x="1431" y="517" width="655" height="504" frameX="-585" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit idle0006" x="721" y="527" width="659" height="504" frameX="-583" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit idle0007" x="721" y="527" width="659" height="504" frameX="-583" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit idle0008" x="1458" y="1049" width="663" height="504" frameX="-581" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit idle0009" x="1458" y="1049" width="663" height="504" frameX="-581" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit idle0010" x="1458" y="1049" width="663" height="504" frameX="-581" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singLEFT0000" x="725" y="1049" width="733" height="505" frameX="-499" frameY="-207" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singLEFT0001" x="0" y="1049" width="725" height="513" frameX="-507" frameY="-200" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singLEFT0002" x="1431" y="0" width="722" height="517" frameX="-510" frameY="-195" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singLEFT0003" x="0" y="527" width="721" height="522" frameX="-511" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singLEFT0004" x="711" y="0" width="720" height="523" frameX="-512" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singLEFT0005" x="0" y="0" width="711" height="527" frameX="-521" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singDOWN0000" x="2153" y="1686" width="699" height="373" frameX="-563" frameY="-270" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singDOWN0001" x="2153" y="1296" width="685" height="390" frameX="-570" frameY="-253" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singDOWN0002" x="2153" y="895" width="675" height="401" frameX="-575" frameY="-242" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singDOWN0003" x="2153" y="483" width="663" height="412" frameX="-581" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singUP0000" x="1344" y="1562" width="716" height="491" frameX="-554" frameY="-152" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singUP0001" x="718" y="2063" width="728" height="473" frameX="-548" frameY="-170" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singUP0002" x="1446" y="2063" width="730" height="468" frameX="-547" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singUP0003" x="2856" y="0" width="736" height="465" frameX="-544" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singRIGHT0000" x="2856" y="465" width="648" height="460" frameX="-622" frameY="-212" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singRIGHT0001" x="2856" y="925" width="634" height="457" frameX="-629" frameY="-206" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singRIGHT0002" x="2856" y="1382" width="632" height="453" frameX="-630" frameY="-204" frameWidth="1280" frameHeight="720" />
+<SubTexture name="xsit singRIGHT0003" x="2856" y="1835" width="630" height="450" frameX="-631" frameY="-202" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

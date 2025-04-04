@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="matchmad.png"><SubTexture name="matchmad idle0000" x="2561" y="0" width="287" height="655" frameX="-329" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0001" x="1144" y="1420" width="283" height="666" frameX="-310" frameY="-52" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0002" x="626" y="720" width="267" height="688" frameX="-329" frameY="-30" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0003" x="1180" y="720" width="268" height="684" frameX="-333" frameY="-34" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0004" x="893" y="720" width="287" height="686" frameX="-329" frameY="-34" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0005" x="779" y="0" width="320" height="706" frameX="-326" frameY="-14" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0006" x="312" y="720" width="314" height="690" frameX="-319" frameY="-30" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0007" x="1934" y="0" width="281" height="683" frameX="-333" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0008" x="0" y="720" width="312" height="700" frameX="-302" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0009" x="1663" y="0" width="271" height="684" frameX="-333" frameY="-36" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0010" x="1099" y="0" width="302" height="704" frameX="-332" frameY="-16" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad idle0011" x="570" y="1420" width="305" height="671" frameX="-333" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singRIGHT0000" x="1427" y="1420" width="344" height="665" frameX="-287" frameY="-52" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singRIGHT0001" x="0" y="1420" width="279" height="677" frameX="-330" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singRIGHT0002" x="1663" y="684" width="265" height="672" frameX="-330" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singLEFT0000" x="1934" y="683" width="268" height="681" frameX="-322" frameY="-39" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singLEFT0001" x="509" y="0" width="270" height="718" frameX="-312" frameY="-2" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singLEFT0002" x="279" y="1420" width="291" height="672" frameX="-310" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singUP0000" x="259" y="0" width="250" height="719" frameX="-352" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singUP0001" x="1401" y="0" width="262" height="703" frameX="-341" frameY="-17" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singUP0002" x="0" y="0" width="259" height="720" frameX="-347" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singDOWN0000" x="2561" y="655" width="281" height="639" frameX="-301" frameY="-80" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad singDOWN0001" x="875" y="1420" width="269" height="670" frameX="-299" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad dodge0000" x="0" y="2097" width="318" height="654" frameX="-370" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad dodge0001" x="2215" y="660" width="326" height="659" frameX="-345" frameY="-61" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad dodge0002" x="1771" y="1420" width="326" height="665" frameX="-345" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad dodge0003" x="2215" y="1319" width="326" height="657" frameX="-352" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="matchmad dodge0004" x="2215" y="0" width="346" height="660" frameX="-332" frameY="-60" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

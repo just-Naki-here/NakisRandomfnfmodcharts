@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "leafyded idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leafyded singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "leafyded singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "leafyded singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "leafyded singDOWN"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bitter/leafyded",
+	"position": [
+		-360,
+		60
+	],
+	"healthicon": "leafy",
+	"flip_x": true,
+	"healthbar_colors": [
+		75,
+		255,
+		2
+	],
+	"camera_position": [
+		-10,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flowersafe.png">
+<SubTexture name="flowersafe idle0000" x="0" y="2659" width="492" height="630" frameX="-379" frameY="-74" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0001" x="985" y="2659" width="491" height="628" frameX="-384" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0002" x="3299" y="1931" width="492" height="635" frameX="-378" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0003" x="3299" y="1292" width="492" height="639" frameX="-373" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0004" x="3299" y="648" width="493" height="644" frameX="-369" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0005" x="3299" y="0" width="494" height="648" frameX="-365" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0006" x="1970" y="2005" width="493" height="651" frameX="-363" frameY="-52" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0007" x="2322" y="0" width="494" height="654" frameX="-360" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0008" x="493" y="1349" width="494" height="655" frameX="-359" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0009" x="1828" y="0" width="494" height="656" frameX="-358" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0010" x="1334" y="0" width="494" height="657" frameX="-357" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0011" x="0" y="692" width="494" height="657" frameX="-357" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0012" x="494" y="692" width="494" height="657" frameX="-357" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0013" x="988" y="692" width="493" height="657" frameX="-358" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0014" x="1828" y="656" width="494" height="656" frameX="-358" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0015" x="0" y="1349" width="493" height="656" frameX="-359" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0016" x="987" y="1349" width="494" height="655" frameX="-359" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0017" x="1481" y="1349" width="493" height="655" frameX="-360" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0018" x="2322" y="654" width="493" height="654" frameX="-360" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0019" x="2322" y="1308" width="494" height="654" frameX="-360" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0020" x="0" y="2005" width="494" height="654" frameX="-360" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0021" x="0" y="2005" width="494" height="654" frameX="-360" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0022" x="0" y="2005" width="494" height="654" frameX="-360" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe idle0023" x="0" y="2005" width="494" height="654" frameX="-360" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singRIGHT0000" x="2816" y="0" width="483" height="650" frameX="-472" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singRIGHT0001" x="2816" y="0" width="483" height="650" frameX="-472" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singRIGHT0002" x="494" y="2005" width="488" height="654" frameX="-430" frameY="-51" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singLEFT0000" x="1476" y="2005" width="494" height="652" frameX="-275" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singLEFT0001" x="1476" y="2005" width="494" height="652" frameX="-275" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singLEFT0002" x="982" y="2005" width="494" height="654" frameX="-306" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singDOWN0000" x="1476" y="2659" width="491" height="606" frameX="-365" frameY="-102" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singDOWN0001" x="1476" y="2659" width="491" height="606" frameX="-365" frameY="-102" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singDOWN0002" x="492" y="2659" width="493" height="630" frameX="-362" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singUP0000" x="0" y="0" width="649" height="692" frameX="-253" frameY="-11" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singUP0001" x="0" y="0" width="649" height="692" frameX="-253" frameY="-11" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowersafe singUP0002" x="649" y="0" width="685" height="680" frameX="-235" frameY="-24" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

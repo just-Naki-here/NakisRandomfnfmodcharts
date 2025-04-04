@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pencilzda.png"><SubTexture name="pencilzda idle0000" x="2443" y="676" width="457" height="667" frameX="-293" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0001" x="3362" y="648" width="461" height="644" frameX="-287" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0002" x="3362" y="0" width="471" height="648" frameX="-280" frameY="-66" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0003" x="2057" y="2117" width="468" height="657" frameX="-278" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0004" x="1813" y="1423" width="462" height="681" frameX="-272" frameY="-33" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0005" x="1442" y="0" width="494" height="700" frameX="-270" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0006" x="1936" y="0" width="507" height="700" frameX="-252" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0007" x="1936" y="700" width="487" height="695" frameX="-265" frameY="-18" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0008" x="697" y="2117" width="497" height="663" frameX="-251" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0009" x="973" y="720" width="464" height="683" frameX="-264" frameY="-30" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0010" x="958" y="0" width="484" height="703" frameX="-248" frameY="-17" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0011" x="0" y="0" width="494" height="720" frameX="-250" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0012" x="2443" y="0" width="524" height="676" frameX="-229" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0013" x="1194" y="2117" width="480" height="663" frameX="-264" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0014" x="0" y="1423" width="497" height="694" frameX="-243" frameY="-26" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0015" x="2443" y="1343" width="491" height="666" frameX="-263" frameY="-54" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda idle0016" x="0" y="720" width="491" height="703" frameX="-245" frameY="-17" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singRIGHT0000" x="2967" y="0" width="395" height="649" frameX="-289" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singRIGHT0001" x="1674" y="2117" width="383" height="658" frameX="-257" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singRIGHT0002" x="2525" y="2117" width="399" height="656" frameX="-234" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singDOWN0000" x="3362" y="1906" width="464" height="601" frameX="-190" frameY="-117" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singDOWN0001" x="3362" y="1292" width="406" height="614" frameX="-210" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singLEFT0000" x="0" y="2117" width="697" height="670" frameX="-126" frameY="-50" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singLEFT0001" x="497" y="1423" width="663" height="684" frameX="-139" frameY="-36" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singLEFT0002" x="1160" y="1423" width="653" height="684" frameX="-149" frameY="-36" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singUP0000" x="494" y="0" width="464" height="720" frameX="-225" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singUP0001" x="1442" y="700" width="482" height="691" frameX="-207" frameY="-20" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilzda singUP0002" x="491" y="720" width="482" height="702" frameX="-207" frameY="-9" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

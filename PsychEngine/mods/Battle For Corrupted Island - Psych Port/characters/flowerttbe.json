@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "flowwerttbe idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "flowwerttbe singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "flowwerttbe singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "flowwerttbe singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "flowwerttbe singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bitter/flowwerttbe",
+	"position": [
+		-500,
+		-50
+	],
+	"healthicon": "flowbub",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		102,
+		255
+	],
+	"camera_position": [
+		170,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

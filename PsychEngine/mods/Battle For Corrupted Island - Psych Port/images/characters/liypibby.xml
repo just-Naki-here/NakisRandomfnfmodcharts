@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="liypibby.png"><SubTexture name="liypibby idle0000" x="0" y="2251" width="588" height="538" frameX="-360" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby idle0001" x="2188" y="1103" width="576" height="550" frameX="-365" frameY="-170" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby idle0002" x="1789" y="1700" width="576" height="542" frameX="-365" frameY="-170" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby idle0003" x="635" y="589" width="551" height="557" frameX="-376" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby idle0004" x="1632" y="555" width="551" height="550" frameX="-376" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby idle0005" x="1632" y="0" width="556" height="555" frameX="-380" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singRIGHT0000" x="632" y="1700" width="586" height="550" frameX="-395" frameY="-158" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singRIGHT0001" x="1143" y="1147" width="582" height="552" frameX="-393" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singRIGHT0002" x="0" y="1147" width="580" height="553" frameX="-392" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singLEFT0000" x="2188" y="0" width="631" height="552" frameX="-304" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singLEFT0001" x="0" y="589" width="635" height="558" frameX="-306" frameY="-151" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singLEFT0002" x="0" y="1700" width="632" height="551" frameX="-309" frameY="-150" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singUP0000" x="0" y="0" width="538" height="589" frameX="-377" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singUP0001" x="538" y="0" width="545" height="580" frameX="-370" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singUP0002" x="1083" y="0" width="549" height="578" frameX="-369" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singDOWN0000" x="1218" y="1700" width="571" height="547" frameX="-367" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singDOWN0001" x="2188" y="552" width="571" height="551" frameX="-367" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="liypibby singDOWN0002" x="580" y="1147" width="563" height="553" frameX="-369" frameY="-167" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

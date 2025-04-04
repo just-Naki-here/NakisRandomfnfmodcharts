@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Menu_flb hey",
+	"idle_anim": "Menu_flb idle",
+	"position": [
+		473,
+		190
+	],
+	"scale": 0.65,
+	"image": "Menu_flb",
+	"flipX": false
+}

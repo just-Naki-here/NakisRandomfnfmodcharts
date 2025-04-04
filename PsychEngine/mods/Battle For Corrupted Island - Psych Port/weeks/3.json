@@ -1,0 +1,32 @@
+{
+	"storyName": "Hopeless",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "hole",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"frbp",
+		""
+	],
+	"songs": [
+		[
+			"Manipulation",
+			"pencil",
+			[
+				255,
+				173,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rubyded1.png">
+<SubTexture name="rubyded1 idle0000" x="2251" y="3549" width="758" height="445" frameX="-362" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0001" x="3009" y="3549" width="744" height="445" frameX="-373" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0002" x="754" y="3549" width="747" height="457" frameX="-378" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0003" x="1501" y="3549" width="750" height="457" frameX="-363" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0004" x="0" y="3549" width="754" height="459" frameX="-361" frameY="-236" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0005" x="3772" y="2013" width="759" height="485" frameX="-345" frameY="-209" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0006" x="3772" y="1522" width="757" height="491" frameX="-348" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0007" x="3772" y="1016" width="761" height="506" frameX="-350" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0008" x="2374" y="3027" width="761" height="509" frameX="-341" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0009" x="1611" y="3027" width="763" height="510" frameX="-344" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0010" x="0" y="2500" width="764" height="527" frameX="-331" frameY="-167" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0011" x="3009" y="1584" width="762" height="523" frameX="-337" frameY="-171" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0012" x="764" y="1967" width="764" height="530" frameX="-342" frameY="-164" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0013" x="764" y="2500" width="764" height="526" frameX="-335" frameY="-168" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0014" x="0" y="3027" width="765" height="522" frameX="-340" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0015" x="2244" y="0" width="765" height="535" frameX="-329" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0016" x="1528" y="1967" width="762" height="528" frameX="-336" frameY="-166" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0017" x="2244" y="1070" width="764" height="533" frameX="-341" frameY="-161" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0018" x="3009" y="0" width="763" height="528" frameX="-335" frameY="-166" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0019" x="1528" y="2500" width="765" height="523" frameX="-340" frameY="-171" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0020" x="2244" y="535" width="764" height="535" frameX="-329" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0021" x="3009" y="528" width="762" height="528" frameX="-336" frameY="-166" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0022" x="0" y="1967" width="764" height="533" frameX="-341" frameY="-161" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0023" x="3009" y="1056" width="763" height="528" frameX="-335" frameY="-166" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 idle0024" x="2293" y="2500" width="765" height="523" frameX="-340" frameY="-171" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singRIGHT0000" x="765" y="3027" width="846" height="512" frameX="-324" frameY="-200" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singRIGHT0001" x="3772" y="0" width="848" height="509" frameX="-299" frameY="-206" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singRIGHT0002" x="3772" y="509" width="848" height="507" frameX="-299" frameY="-208" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singLEFT0000" x="826" y="1407" width="859" height="556" frameX="-185" frameY="-146" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singLEFT0001" x="1193" y="706" width="826" height="560" frameX="-223" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singLEFT0002" x="0" y="1407" width="826" height="560" frameX="-223" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singDOWN0000" x="3772" y="2973" width="684" height="462" frameX="-382" frameY="-258" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singDOWN0001" x="3772" y="2498" width="679" height="475" frameX="-387" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singUP0000" x="0" y="706" width="1193" height="701" frameX="-42" frameY="-6" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singUP0001" x="0" y="0" width="1122" height="706" frameX="-72" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyded1 singUP0002" x="1122" y="0" width="1122" height="706" frameX="-72" frameY="-9" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

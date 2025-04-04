@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				12,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "flowerabort idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "flowerabort singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "flowerabort singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "flowerabort singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "flowerabort singRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/abort/flowerabort",
+	"position": [
+		-892,
+		-520
+	],
+	"healthicon": "flower",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		102,
+		255
+	],
+	"camera_position": [
+		912,
+		560
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

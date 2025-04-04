@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "twofly idle"
+		},
+		{
+			"offsets": [
+				51,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "twofly singLEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				-40
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "twofly singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "twofly singRIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "twofly singUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/twofly",
+	"position": [
+		60,
+		-380
+	],
+	"healthicon": "twoded",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		215,
+		95
+	],
+	"camera_position": [
+		-110,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

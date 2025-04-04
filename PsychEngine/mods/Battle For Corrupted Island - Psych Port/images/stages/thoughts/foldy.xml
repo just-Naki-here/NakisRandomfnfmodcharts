@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="foldy.png">
+<SubTexture name="foldy idle0000" x="464" y="1613" width="464" height="352" frameX="-3059" frameY="-895" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0001" x="0" y="1613" width="464" height="361" frameX="-3068" frameY="-885" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0002" x="1866" y="0" width="463" height="374" frameX="-3074" frameY="-872" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0003" x="1393" y="1212" width="464" height="379" frameX="-3075" frameY="-867" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0004" x="930" y="1212" width="463" height="384" frameX="-3080" frameY="-862" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0005" x="467" y="1212" width="463" height="393" frameX="-3077" frameY="-853" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0006" x="1402" y="801" width="464" height="394" frameX="-3083" frameY="-851" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0007" x="930" y="810" width="464" height="401" frameX="-3086" frameY="-845" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0008" x="1402" y="0" width="464" height="401" frameX="-3085" frameY="-845" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0009" x="1402" y="401" width="464" height="400" frameX="-3087" frameY="-845" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0010" x="467" y="405" width="463" height="404" frameX="-3083" frameY="-841" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0011" x="0" y="810" width="463" height="402" frameX="-3087" frameY="-843" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0012" x="0" y="0" width="467" height="405" frameX="-3089" frameY="-840" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0013" x="935" y="0" width="467" height="403" frameX="-3087" frameY="-842" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0014" x="0" y="1212" width="467" height="401" frameX="-3088" frameY="-844" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0015" x="467" y="0" width="468" height="405" frameX="-3083" frameY="-840" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0016" x="463" y="810" width="467" height="402" frameX="-3087" frameY="-843" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0017" x="0" y="405" width="467" height="405" frameX="-3089" frameY="-840" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="foldy idle0018" x="935" y="403" width="467" height="403" frameX="-3087" frameY="-842" frameWidth="3840" frameHeight="2160" />
+</TextureAtlas>

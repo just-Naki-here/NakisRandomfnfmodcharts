@@ -1,0 +1,5 @@
+Enable/Disable teamplay.
+Lets extra character sing with main character(s).
+
+Value 1: Enable/Disable teamplay.
+[0 or 1 = False/True]

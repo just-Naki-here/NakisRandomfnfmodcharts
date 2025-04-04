@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "pencilzda singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "pencilzda singUP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": true,
+			"name": "penciltalk idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "penciltalk singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "penciltalk singLEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/manip/penciltalk",
+	"position": [
+		-220,
+		-10
+	],
+	"healthicon": "pencil",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		165,
+		2
+	],
+	"camera_position": [
+		-50,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

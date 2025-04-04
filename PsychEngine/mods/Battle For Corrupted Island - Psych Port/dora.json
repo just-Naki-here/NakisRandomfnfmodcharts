@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pibbydora idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-47
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pibbydora left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-126
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pibbydora down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				63
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pibbydora up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-94
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pibbydora right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbydora",
+	"position": [
+		-570,
+		200
+	],
+	"healthicon": "dora",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		51,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.5
+}

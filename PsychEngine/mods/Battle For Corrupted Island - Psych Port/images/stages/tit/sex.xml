@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sex.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sex0000" x="0" y="0" width="214" height="189" frameX="0" frameY="-41" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0001" x="214" y="0" width="212" height="187" frameX="-1" frameY="-40" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0002" x="426" y="0" width="152" height="144" frameX="-31" frameY="0" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0003" x="578" y="0" width="146" height="137" frameX="-34" frameY="-8" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0004" x="724" y="0" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0005" x="867" y="0" width="144" height="136" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0006" x="0" y="189" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0007" x="143" y="189" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0008" x="286" y="189" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0009" x="286" y="189" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0010" x="429" y="189" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0011" x="572" y="189" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0012" x="572" y="189" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0013" x="715" y="189" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0014" x="858" y="189" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0015" x="0" y="324" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0016" x="143" y="324" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0017" x="286" y="324" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0018" x="429" y="324" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0019" x="572" y="324" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0020" x="715" y="324" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0021" x="858" y="324" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+	<SubTexture name="sex0022" x="0" y="459" width="143" height="135" frameX="-35" frameY="-11" frameWidth="214" frameHeight="230"/>
+</TextureAtlas>

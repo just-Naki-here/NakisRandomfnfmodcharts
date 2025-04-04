@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pibbyabort idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pibbyabort singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pibbyabort singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pibbyabort singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pibbyabort singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/abort/pibbyabort",
+	"position": [
+		-2162,
+		-430
+	],
+	"healthicon": "abort",
+	"flip_x": true,
+	"healthbar_colors": [
+		193,
+		245,
+		255
+	],
+	"camera_position": [
+		-1608,
+		710
+	],
+	"sing_duration": 6.1,
+	"scale": 0.3
+}

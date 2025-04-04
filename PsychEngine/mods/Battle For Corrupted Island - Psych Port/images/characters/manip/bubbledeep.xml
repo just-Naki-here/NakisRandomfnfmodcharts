@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bubbledeep.png"><SubTexture name="bubbledeep idle0000" x="5132" y="1178" width="1208" height="1177" frameX="-1087" frameY="-263" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep idle0001" x="1278" y="3793" width="1251" height="1197" frameX="-1048" frameY="-243" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep idle0002" x="0" y="3793" width="1278" height="1205" frameX="-1023" frameY="-235" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep idle0003" x="3824" y="2436" width="1292" height="1213" frameX="-1011" frameY="-227" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep idle0004" x="3824" y="1219" width="1302" height="1217" frameX="-1003" frameY="-223" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep idle0005" x="3824" y="0" width="1308" height="1219" frameX="-997" frameY="-221" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep idle0006" x="2512" y="0" width="1312" height="1223" frameX="-995" frameY="-217" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep idle0007" x="0" y="1347" width="1312" height="1223" frameX="-995" frameY="-217" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep idle0008" x="1312" y="1347" width="1312" height="1223" frameX="-995" frameY="-217" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep idle0009" x="1312" y="1347" width="1312" height="1223" frameX="-995" frameY="-217" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep idle0010" x="1312" y="1347" width="1312" height="1223" frameX="-995" frameY="-217" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singRIGHT0000" x="1352" y="2570" width="1336" height="1222" frameX="-1113" frameY="-218" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singRIGHT0001" x="0" y="2570" width="1352" height="1223" frameX="-1067" frameY="-217" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singRIGHT0002" x="0" y="2570" width="1352" height="1223" frameX="-1067" frameY="-217" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singLEFT0000" x="5132" y="0" width="1334" height="1178" frameX="-883" frameY="-262" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singLEFT0001" x="2529" y="3793" width="1344" height="1193" frameX="-909" frameY="-247" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singLEFT0002" x="2529" y="3793" width="1344" height="1193" frameX="-909" frameY="-247" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singUP0000" x="0" y="0" width="1216" height="1347" frameX="-1099" frameY="-93" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singUP0001" x="1216" y="0" width="1296" height="1287" frameX="-995" frameY="-153" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singUP0002" x="1216" y="0" width="1296" height="1287" frameX="-995" frameY="-153" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singDOWN0000" x="5132" y="3504" width="1300" height="1109" frameX="-973" frameY="-331" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubbledeep singDOWN0001" x="5132" y="2355" width="1246" height="1149" frameX="-1025" frameY="-291" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

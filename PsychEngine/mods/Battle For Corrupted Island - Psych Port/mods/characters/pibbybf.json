@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				30
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "pibbs idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				14
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "pibbs singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				62
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "pibbs singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "pibbs singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				21
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "pibbs singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 20,
+			"name": "pibbs firstDeath",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 20,
+			"name": "pibbs deathLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 20,
+			"name": "pibbs deathConfirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				43,
+				71
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "u"
+		},
+		{
+			"offsets": [
+				47,
+				72
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "u"
+		},
+		{
+			"offsets": [
+				50,
+				70
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "u"
+		},
+		{
+			"offsets": [
+				40,
+				69
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "u"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbs",
+	"position": [
+		-40,
+		240
+	],
+	"healthicon": "pibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		102,
+		206
+	],
+	"camera_position": [
+		70,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

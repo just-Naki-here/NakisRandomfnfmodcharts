@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="leafystage1.png">
+<SubTexture name="leafystage1 idle0000" x="3279" y="3332" width="789" height="568" frameX="-106" frameY="-151" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0001" x="2556" y="3332" width="723" height="582" frameX="-153" frameY="-138" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0002" x="1893" y="3332" width="663" height="593" frameX="-197" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0003" x="1250" y="3332" width="643" height="601" frameX="-204" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0004" x="3468" y="2456" width="611" height="607" frameX="-225" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0005" x="3468" y="1232" width="610" height="612" frameX="-218" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0006" x="1777" y="2711" width="597" height="616" frameX="-228" frameY="-104" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0007" x="3468" y="1844" width="583" height="612" frameX="-241" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0008" x="2374" y="2711" width="594" height="616" frameX="-228" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0009" x="599" y="2711" width="584" height="620" frameX="-237" frameY="-100" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0010" x="0" y="2711" width="599" height="621" frameX="-222" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0011" x="0" y="3332" width="621" height="614" frameX="-204" frameY="-106" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0012" x="3468" y="0" width="612" height="616" frameX="-223" frameY="-104" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0013" x="1198" y="2085" width="651" height="625" frameX="-176" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0014" x="621" y="3332" width="629" height="611" frameX="-191" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0015" x="2856" y="0" width="612" height="624" frameX="-207" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0016" x="0" y="2085" width="605" height="626" frameX="-214" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0017" x="605" y="2085" width="593" height="626" frameX="-226" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0018" x="2856" y="624" width="607" height="622" frameX="-213" frameY="-98" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0019" x="2856" y="1246" width="598" height="622" frameX="-222" frameY="-98" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0020" x="1849" y="2085" width="613" height="625" frameX="-207" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0021" x="3468" y="616" width="606" height="616" frameX="-214" frameY="-98" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0022" x="1183" y="2711" width="594" height="619" frameX="-226" frameY="-98" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 idle0023" x="2856" y="1868" width="607" height="622" frameX="-213" frameY="-98" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singLEFT0000" x="1022" y="0" width="1022" height="718" frameX="-2" frameY="-2" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singLEFT0001" x="0" y="0" width="1022" height="719" frameX="-2" frameY="-1" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singLEFT0002" x="0" y="719" width="1091" height="716" frameX="-43" frameY="-4" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singUP0000" x="0" y="1435" width="830" height="650" frameX="-169" frameY="-2" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singUP0001" x="830" y="1435" width="830" height="647" frameX="-169" frameY="-2" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singUP0002" x="1660" y="1435" width="1042" height="642" frameX="-72" frameY="-29" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singRIGHT0000" x="1091" y="719" width="812" height="714" frameX="-321" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singRIGHT0001" x="2044" y="0" width="812" height="714" frameX="-321" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singRIGHT0002" x="2044" y="714" width="800" height="713" frameX="-318" frameY="-1" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singDOWN0000" x="4080" y="520" width="840" height="474" frameX="-256" frameY="-246" frameWidth="1280" frameHeight="720" />
+<SubTexture name="leafystage1 singDOWN0001" x="4080" y="0" width="859" height="520" frameX="-267" frameY="-199" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

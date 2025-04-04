@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "fireyph idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fireyph singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fireyph singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fireyph singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fireyph singDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bitter/placeholder/fireyph",
+	"position": [
+		440,
+		170
+	],
+	"healthicon": "fireyded",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		160,
+		22
+	],
+	"camera_position": [
+		-340,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

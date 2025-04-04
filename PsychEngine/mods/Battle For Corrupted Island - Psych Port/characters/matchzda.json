@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "matchagain idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "matchagain singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "matchagain singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "matchagain singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "matchagain singUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/manip/matchagain",
+	"position": [
+		-220,
+		-60
+	],
+	"healthicon": "match",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		205,
+		120
+	],
+	"camera_position": [
+		-50,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

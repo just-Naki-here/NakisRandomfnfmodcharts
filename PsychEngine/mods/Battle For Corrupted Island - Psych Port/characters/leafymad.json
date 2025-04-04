@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "leafymad idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leafymad singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "leafymad singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "leafymad singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "leafymad singDOWN"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bitter/leafymad",
+	"position": [
+		-360,
+		110
+	],
+	"healthicon": "leafy",
+	"flip_x": true,
+	"healthbar_colors": [
+		75,
+		255,
+		2
+	],
+	"camera_position": [
+		-10,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

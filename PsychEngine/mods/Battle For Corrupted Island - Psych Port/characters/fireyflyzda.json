@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				700,
+				650
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "fireyflyzda idle"
+		},
+		{
+			"offsets": [
+				730,
+				657
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fireyflyzda singLEFT"
+		},
+		{
+			"offsets": [
+				700,
+				630
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fireyflyzda singRIGHT"
+		},
+		{
+			"offsets": [
+				720,
+				660
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fireyflyzda singDOWN"
+		},
+		{
+			"offsets": [
+				694,
+				631
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fireyflyzda singUP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bitter/fireyflyzda",
+	"position": [
+		1060,
+		0
+	],
+	"healthicon": "fireyded",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		160,
+		0
+	],
+	"camera_position": [
+		-560,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

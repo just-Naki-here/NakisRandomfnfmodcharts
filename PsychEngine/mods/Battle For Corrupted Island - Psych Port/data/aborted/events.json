@@ -1,0 +1,232 @@
+{
+	"song": {
+		"events": [
+			[
+				21604.5909755823,
+				[
+					[
+						"ScreenEffects",
+						"OnBeatBop",
+						""
+					]
+				]
+			],
+			[
+				86418.3639023294,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					],
+					[
+						"ScreenEffects",
+						"",
+						"OnBeatBopOff"
+					],
+					[
+						"cinematic",
+						"a",
+						"1"
+					],
+					[
+						"Flash Camera",
+						"3.6",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				103296.950602003,
+				[
+					[
+						"cinematic",
+						"b",
+						"1"
+					],
+					[
+						"Black flash",
+						"3.4",
+						""
+					]
+				]
+			],
+			[
+				103972.09406999,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				103972.09406999,
+				[
+					[
+						"Black flash",
+						"2.9",
+						""
+					]
+				]
+			],
+			[
+				104309.665803984,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gbhalfvl"
+					],
+					[
+						"Play Animation",
+						"anim",
+						"dad"
+					]
+				]
+			],
+			[
+				105997.524473951,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				107010.239675931,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						""
+					]
+				]
+			],
+			[
+				108018.735231237,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				108022.954877912,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gbhalf"
+					],
+					[
+						"Flash Camera",
+						"3.2",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				134948.247931257,
+				[
+					[
+						"Change Character",
+						"bf",
+						"blackscreen"
+					],
+					[
+						"Change Character",
+						"dad",
+						"blackscreen"
+					],
+					[
+						"Change Character",
+						"gf",
+						"blackscreen"
+					],
+					[
+						"Flash Camera",
+						"3.6",
+						""
+					]
+				]
+			],
+			[
+				140347.702181324,
+				[
+					[
+						"Change Character",
+						"gf",
+						"tbcorrupt"
+					],
+					[
+						"Change Character",
+						"bf",
+						"pibbabort2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"gbpibby"
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				],
+				null,
+				""
+			],
+			[
+				140347.702181324,
+				[
+					[
+						"Flash Camera",
+						"3.8",
+						""
+					]
+				]
+			],
+			[
+				140347.702181324,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pibbabortflow"
+					]
+				]
+			],
+			[
+				140347.702181324,
+				[
+					[
+						"Change Character",
+						"gf",
+						"blackscreen"
+					],
+					[
+						"Change Character",
+						"dad",
+						"blackscreen"
+					],
+					[
+						"Change Character",
+						"bf",
+						"blackscreen"
+					]
+				]
+			]
+		]
+	}
+}

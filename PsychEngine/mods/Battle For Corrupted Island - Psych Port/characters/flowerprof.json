@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "flowerprof idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "flowerprof singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "flowerprof singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "flowerprof singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "flowerprof singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shocked",
+			"loop": false,
+			"name": "flowerprof shocked"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/forgotten/flowerprof",
+	"position": [
+		-300,
+		120
+	],
+	"healthicon": "flower",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		102,
+		255
+	],
+	"camera_position": [
+		-80,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

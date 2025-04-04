@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "bubszda singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "bubszda singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "bubszda singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 20,
+			"name": "bubszda firstDeath",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 20,
+			"name": "bubszda deathConfirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 20,
+			"name": "bubszda deathLoop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				660,
+				365
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bubbleshake singLEFT"
+		},
+		{
+			"offsets": [
+				660,
+				365
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": true,
+			"name": "bubbleshake idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/manip/bubbleshake",
+	"position": [
+		-430,
+		170
+	],
+	"healthicon": "bubble",
+	"flip_x": true,
+	"healthbar_colors": [
+		129,
+		236,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 999,
+	"scale": 0.5
+}

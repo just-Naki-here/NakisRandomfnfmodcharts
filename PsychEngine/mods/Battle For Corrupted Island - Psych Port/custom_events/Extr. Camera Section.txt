@@ -1,0 +1,6 @@
+Disable/Enable camera section for 3rd Player.
+
+Value 1: Enable camera section for 3rd Player
+[0 or 1 = False/True]
+
+(Works when camera moves/next section is hit!)

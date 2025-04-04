@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corruptport.png"><SubTexture name="corruptport love0000" x="459" y="1723" width="729" height="486" frameX="-178" frameY="-141" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport love0001" x="1188" y="1723" width="745" height="481" frameX="-168" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport love0002" x="2607" y="0" width="727" height="481" frameX="-180" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport hate0000" x="1301" y="1155" width="437" height="548" frameX="-358" frameY="-74" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport hate0001" x="2151" y="0" width="456" height="544" frameX="-358" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport hate0002" x="0" y="1723" width="459" height="541" frameX="-358" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport liy0000" x="417" y="583" width="584" height="571" frameX="-367" frameY="-87" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport liy0001" x="1569" y="0" width="582" height="570" frameX="-372" frameY="-88" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport liy0002" x="0" y="1155" width="618" height="568" frameX="-374" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport bday0000" x="663" y="0" width="419" height="578" frameX="-375" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport bday0001" x="1569" y="570" width="461" height="569" frameX="-377" frameY="-90" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport bday0002" x="0" y="583" width="417" height="572" frameX="-373" frameY="-88" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport oof0000" x="0" y="0" width="663" height="583" frameX="-256" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport oof0001" x="618" y="1155" width="683" height="568" frameX="-253" frameY="-90" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport ded0000" x="1001" y="583" width="498" height="566" frameX="-423" frameY="-130" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport ded0001" x="1082" y="0" width="487" height="576" frameX="-422" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport gb0000" x="2607" y="481" width="365" height="430" frameX="-373" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport gb0001" x="2607" y="911" width="365" height="430" frameX="-373" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport gb0002" x="2607" y="1341" width="364" height="426" frameX="-374" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="corruptport gb0003" x="2972" y="481" width="359" height="426" frameX="-378" frameY="-182" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

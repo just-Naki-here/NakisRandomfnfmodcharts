@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				630,
+				360
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "pencilclaw0 singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				630,
+				360
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "pencilclaw0 singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				630,
+				360
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "pencilclaw0 singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				630,
+				360
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "pencilclaw0 singRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				630,
+				360
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "pencilclaw0 ALT-LEFT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				630,
+				360
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "pencilclaw0 idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/manip/pencilclaw0",
+	"position": [
+		-220,
+		-10
+	],
+	"healthicon": "pencilmatch",
+	"flip_x": false,
+	"healthbar_colors": [
+		214,
+		70,
+		57
+	],
+	"camera_position": [
+		-50,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

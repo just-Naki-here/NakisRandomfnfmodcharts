@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bubblescared.png"><SubTexture name="bubblescared dodge0000" x="5084" y="1251" width="1153" height="1245" frameX="-1407" frameY="-195" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared dodge0001" x="5084" y="2496" width="1223" height="1245" frameX="-1293" frameY="-195" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared dodge0002" x="1406" y="2700" width="1260" height="1253" frameX="-1241" frameY="-187" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared dodge0003" x="5084" y="0" width="1270" height="1251" frameX="-1207" frameY="-189" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared dodge0004" x="2666" y="2700" width="1284" height="1253" frameX="-1195" frameY="-187" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared dodge0005" x="2666" y="2700" width="1284" height="1253" frameX="-1189" frameY="-187" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0000" x="6354" y="1231" width="1397" height="1211" frameX="-989" frameY="-229" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0001" x="6354" y="0" width="1400" height="1231" frameX="-995" frameY="-209" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0002" x="4198" y="3955" width="1404" height="1247" frameX="-999" frameY="-193" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0003" x="0" y="3955" width="1406" height="1251" frameX="-1001" frameY="-189" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0004" x="0" y="2700" width="1406" height="1255" frameX="-1003" frameY="-185" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0005" x="1577" y="1435" width="1406" height="1259" frameX="-1005" frameY="-181" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0006" x="3678" y="0" width="1406" height="1259" frameX="-1005" frameY="-181" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0007" x="3678" y="1259" width="1406" height="1259" frameX="-1005" frameY="-181" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0008" x="3678" y="1259" width="1406" height="1259" frameX="-1005" frameY="-181" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0009" x="3678" y="1259" width="1406" height="1259" frameX="-1005" frameY="-181" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0010" x="3678" y="1259" width="1406" height="1259" frameX="-1005" frameY="-181" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared idle0011" x="3678" y="1259" width="1406" height="1259" frameX="-1005" frameY="-181" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singRIGHT0000" x="2135" y="0" width="1543" height="1265" frameX="-1017" frameY="-175" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singRIGHT0001" x="0" y="1435" width="1577" height="1265" frameX="-961" frameY="-175" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singRIGHT0002" x="0" y="1435" width="1577" height="1265" frameX="-961" frameY="-175" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singLEFT0000" x="1406" y="3955" width="1370" height="1249" frameX="-833" frameY="-191" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singLEFT0001" x="2776" y="3955" width="1422" height="1249" frameX="-869" frameY="-191" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singLEFT0002" x="2776" y="3955" width="1422" height="1249" frameX="-869" frameY="-191" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singDOWN0000" x="1408" y="5206" width="1402" height="1041" frameX="-807" frameY="-399" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singDOWN0001" x="0" y="5206" width="1408" height="1084" frameX="-801" frameY="-356" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singUP0000" x="0" y="0" width="1069" height="1435" frameX="-1204" frameY="-5" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singUP0001" x="1069" y="0" width="1066" height="1379" frameX="-1199" frameY="-61" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bubblescared singUP0002" x="1069" y="0" width="1066" height="1379" frameX="-1199" frameY="-61" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

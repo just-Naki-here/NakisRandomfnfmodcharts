@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Menu_tfr hey",
+	"idle_anim": "Menu_tfr idle",
+	"position": [
+		502,
+		200
+	],
+	"scale": 0.65,
+	"image": "Menu_tfr",
+	"flipX": false
+}

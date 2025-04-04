@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fireyph.png"><SubTexture name="fireyph idle0000" x="13336" y="1818" width="2400" height="1807" frameX="-1152" frameY="-245" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0001" x="7508" y="9715" width="2433" height="1819" frameX="-1166" frameY="-234" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0002" x="10829" y="5544" width="2459" height="1843" frameX="-1177" frameY="-226" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0003" x="10829" y="7387" width="2477" height="1843" frameX="-1187" frameY="-220" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0004" x="5020" y="7856" width="2492" height="1854" frameX="-1194" frameY="-216" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0005" x="10829" y="1849" width="2503" height="1848" frameX="-1200" frameY="-213" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0006" x="0" y="7856" width="2511" height="1859" frameX="-1205" frameY="-211" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0007" x="5011" y="9715" width="2497" height="1826" frameX="-1209" frameY="-212" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0008" x="2509" y="9715" width="2502" height="1832" frameX="-1211" frameY="-211" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0009" x="7512" y="7856" width="2505" height="1854" frameX="-1213" frameY="-210" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0010" x="10829" y="0" width="2507" height="1849" frameX="-1215" frameY="-210" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0011" x="2511" y="7856" width="2509" height="1857" frameX="-1215" frameY="-210" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0012" x="0" y="9715" width="2509" height="1849" frameX="-1216" frameY="-210" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0013" x="0" y="4071" width="2482" height="1898" frameX="-1216" frameY="-171" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0014" x="8347" y="0" width="2482" height="1866" frameX="-1216" frameY="-170" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0015" x="5088" y="5969" width="2482" height="1872" frameX="-1216" frameY="-170" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0016" x="4963" y="4071" width="2481" height="1893" frameX="-1217" frameY="-170" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0017" x="0" y="5969" width="2481" height="1887" frameX="-1217" frameY="-171" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0018" x="2482" y="4071" width="2481" height="1896" frameX="-1217" frameY="-171" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0019" x="9941" y="9715" width="2475" height="1818" frameX="-1217" frameY="-241" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0020" x="8347" y="1866" width="2475" height="1828" frameX="-1217" frameY="-241" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0021" x="13336" y="5426" width="2475" height="1795" frameX="-1217" frameY="-241" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0022" x="13336" y="3625" width="2475" height="1801" frameX="-1217" frameY="-241" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0023" x="8347" y="5520" width="2475" height="1822" frameX="-1217" frameY="-241" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0024" x="8347" y="3694" width="2475" height="1826" frameX="-1217" frameY="-241" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph idle0025" x="13336" y="0" width="2475" height="1818" frameX="-1217" frameY="-241" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph singRIGHT0000" x="10829" y="3697" width="2305" height="1847" frameX="-1505" frameY="-233" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph singRIGHT0001" x="2290" y="2056" width="2095" height="1916" frameX="-1429" frameY="-169" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph singLEFT0000" x="2534" y="0" width="2764" height="2051" frameX="-219" frameY="-44" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph singLEFT0001" x="5298" y="0" width="3049" height="1973" frameX="-283" frameY="-72" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph singUP0000" x="5298" y="1973" width="2551" height="1962" frameX="-1152" frameY="-110" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph singUP0001" x="2481" y="5969" width="2607" height="1876" frameX="-1148" frameY="-196" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph singDOWN0000" x="0" y="2056" width="2290" height="2015" frameX="-1136" frameY="-88" frameWidth="3840" frameHeight="2160" />
+<SubTexture name="fireyph singDOWN0001" x="0" y="0" width="2534" height="2056" frameX="-1116" frameY="-34" frameWidth="3840" frameHeight="2160" />
+</TextureAtlas>

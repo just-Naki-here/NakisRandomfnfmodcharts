@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rubyhalf.png">
+<SubTexture name="rubyhalf idle0000" x="3872" y="2451" width="760" height="482" frameX="-289" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0001" x="3102" y="501" width="763" height="478" frameX="-281" frameY="-235" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0002" x="3872" y="2933" width="770" height="481" frameX="-274" frameY="-228" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0003" x="3872" y="1483" width="766" height="484" frameX="-262" frameY="-225" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0004" x="3872" y="1967" width="770" height="484" frameX="-260" frameY="-225" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0005" x="3102" y="0" width="770" height="501" frameX="-247" frameY="-208" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0006" x="0" y="3277" width="771" height="500" frameX="-247" frameY="-209" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0007" x="1629" y="1751" width="775" height="504" frameX="-247" frameY="-205" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0008" x="1544" y="2272" width="771" height="503" frameX="-241" frameY="-206" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0009" x="0" y="2776" width="773" height="501" frameX="-244" frameY="-208" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0010" x="2263" y="1029" width="772" height="506" frameX="-235" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0011" x="0" y="2272" width="772" height="504" frameX="-239" frameY="-205" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0012" x="853" y="1751" width="776" height="506" frameX="-241" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0013" x="772" y="2272" width="772" height="504" frameX="-237" frameY="-205" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0014" x="773" y="2776" width="774" height="501" frameX="-241" frameY="-208" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0015" x="2263" y="522" width="772" height="507" frameX="-234" frameY="-202" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0016" x="771" y="3277" width="772" height="499" frameX="-238" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0017" x="1547" y="2776" width="779" height="501" frameX="-238" frameY="-208" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0018" x="1543" y="3277" width="774" height="499" frameX="-234" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0019" x="3872" y="0" width="777" height="496" frameX="-238" frameY="-213" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0020" x="2315" y="2272" width="765" height="502" frameX="-241" frameY="-207" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0021" x="2317" y="3277" width="773" height="499" frameX="-237" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0022" x="2326" y="2776" width="776" height="501" frameX="-241" frameY="-208" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf idle0023" x="3090" y="3277" width="774" height="499" frameX="-234" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singRIGHT0000" x="1487" y="0" width="776" height="534" frameX="-371" frameY="-180" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singRIGHT0001" x="831" y="1220" width="760" height="524" frameX="-336" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singRIGHT0002" x="1487" y="534" width="755" height="525" frameX="-342" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singLEFT0000" x="0" y="1220" width="831" height="531" frameX="-66" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singLEFT0001" x="0" y="1751" width="853" height="521" frameX="-91" frameY="-197" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singLEFT0002" x="2263" y="0" width="839" height="522" frameX="-96" frameY="-196" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singDOWN0000" x="3872" y="496" width="726" height="494" frameX="-293" frameY="-226" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singDOWN0001" x="3872" y="990" width="735" height="493" frameX="-288" frameY="-220" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singUP0000" x="0" y="0" width="744" height="621" frameX="-257" frameY="-92" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singUP0001" x="0" y="621" width="744" height="599" frameX="-277" frameY="-120" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rubyhalf singUP0002" x="744" y="0" width="743" height="603" frameX="-269" frameY="-116" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
