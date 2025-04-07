@@ -1,3 +1,20 @@
+function onStepHit()
+    
+    if curStep == 278 then
+        
+        startNoteTweening = true
+        startTheHardPart = false
+    
+    end
+    
+    if curStep == 1808 then
+
+        startTheHardPart = true
+        startNoteTweening = false
+    
+    end
+
+end
 function onUpdate(elapsed)
 	songPos = getSongPosition()
 	local currentBeat = (songPos/4000)
@@ -16,6 +33,45 @@ function onUpdate(elapsed)
         end
 		setPropertyFromGroup('opponentStrums', i, 'y', 300 - 300*math.sin((currentBeat+2*0.1)*math.pi));
 		notey = 300 - 300*math.sin((currentBeat+2*0.1)*math.pi)
+        setPropertyFromGroup("opponentStrums", 2, "x", defaultOpponentStrumX2 + 620)
+        setPropertyFromGroup("opponentStrums", 3, "x", defaultOpponentStrumX3 + 620)
+        
+        if startNoteTweening == true and startTheHardPart == false then
+                randomOppstrumX1 = math.random(0, 120)
+         randomOppstrumX2 = math.random(0, 120)
+        randomOppstrumX3 = math.random(0, 120)
+        randomOppstrumX4 = math.random(0, 120)
+        randomOppstrumY1 = math.random(0, 90)  
+        randomOppstrumY2 = math.random(0, 100) 
+        randomOppstrumY3 = math.random(0, 110) 
+        randomOppstrumY4 = math.random(0, 120) 
+        noteTweenY("defaultOppStrumY0", 0, defaultOpponentStrumY0 - randomOppstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi), 0.2)
+        noteTweenY("defaultOppStrumY1", 1, defaultOpponentStrumY1 - randomOppstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi), 0.2)
+        noteTweenY("defaultOppStrumY2", 2, defaultOpponentStrumY2 - randomOppstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi), 0.2)
+        noteTweenY("defaultOppStrumY3", 3, defaultOpponentStrumY3 - randomOppstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi), 0.2)
+        noteTweenX("defaultOppStrumX0", 0, defaultOpponentStrumX0 - randomOppstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi), 0.2)
+        noteTweenX("defaultOppStrumX1", 1, defaultOpponentStrumX1 - randomOppstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi), 0.2)
+        noteTweenX("defaultOppStrumX2", 2, defaultOpponentStrumX2 + 620 - randomOppstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi), 0.2)
+        noteTweenX("defaultOppStrumX3", 3, defaultOpponentStrumX3 + 620 - randomOppstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi), 0.2)
+        end
+        if startTheHardPart == true and startNoteTweening == false then
+            randomOppstrumX1 = math.random(0, 240)
+            randomOppstrumX2 = math.random(0, 240)
+            randomOppstrumX3 = math.random(0, 240)
+            randomOppstrumX4 = math.random(0, 240)
+            randomOppstrumY1 = math.random(0, 120)  
+            randomOppstrumY2 = math.random(0, 130) 
+            randomOppstrumY3 = math.random(0, 140) 
+            randomOppstrumY4 = math.random(0, 150) 
+            noteTweenY("defaultOppStrumY0", 0, defaultOpponentStrumY0 - randomOppstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi), 0.2)
+            noteTweenY("defaultOppStrumY1", 1, defaultOpponentStrumY1 - randomOppstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi), 0.2)
+            noteTweenY("defaultOppStrumY2", 2, defaultOpponentStrumY2 - randomOppstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi), 0.2)
+            noteTweenY("defaultOppStrumY3", 3, defaultOpponentStrumY3 - randomOppstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi), 0.2)
+            noteTweenX("defaultOppStrumX0", 0, defaultOpponentStrumX0 - randomOppstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi), 0.2)
+            noteTweenX("defaultOppStrumX1", 1, defaultOpponentStrumX1 - randomOppstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi), 0.2)
+            noteTweenX("defaultOppStrumX2", 2, defaultOpponentStrumX2 + 620 - randomOppstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi), 0.2)
+            noteTweenX("defaultOppStrumX3", 3, defaultOpponentStrumX3 + 620 - randomOppstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi), 0.2)
+        end
 	end
 	--doTweenY('1', 'dad', 0 - 150*math.sin((currentBeat+2*0.1)*math.pi), 2)
 	--if mustHitSection then

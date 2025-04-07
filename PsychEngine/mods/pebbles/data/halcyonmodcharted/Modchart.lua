@@ -26,6 +26,9 @@ randomPlayerstrumY12 = 0
 randomPlayerstrumY13 = 0
 randomPlayerstrumY14 = 0
 streeep = 0
+startTheHardPart = false
+startNoteTweening = false
+
 --actual modcharting
 
 function onBeatHit()
@@ -34,8 +37,26 @@ function onBeatHit()
 
 	if getProperty('health') > 0.04 then
 
-        setProperty('health', health- 0.01)
+        setProperty('health', health- 0.02)
 
+    end
+
+end
+
+function onStepHit()
+    
+    if curStep == 278 then
+        
+        startNoteTweening = true
+        startTheHardPart = false
+    
+    end
+    
+    if curStep == 1808 then
+
+        startTheHardPart = true
+        startNoteTweening = false
+    
     end
 
 end
@@ -71,10 +92,12 @@ function onSongStart()
     setPropertyFromGroup("playerStrums", 5, "x", defaultPlayerStrumX1 - 320)
     setPropertyFromGroup("playerStrums", 6, "x", defaultPlayerStrumX2 - 320)
     setPropertyFromGroup("playerStrums", 7, "x", defaultPlayerStrumX3 - 320)
-    setProperty('healthGain', 1.5)
+    setProperty('healthGain', 1.01)
     originSS = getProperty('songspeed')
     startingSS = originSS + 0.75
     setProperty('songSpeed',startingSS)
+    setPropertyFromGroup("opponentStrums", 2, "x", defaultOpponentStrumX2 + 320)
+    setPropertyFromGroup("opponentStrums", 3, "x", defaultOpponentStrumX3 + 320)
 
 end
 
@@ -96,63 +119,22 @@ function onUpdate(elapsed)
 
     if Decider > 50 then 
 
-        if curStep > 278 and curStep <= 1808 then
-
-            randomPlayerstrumY1 = math.random(0, 150)  
-            randomPlayerstrumY2 = math.random(0, 150) 
-            randomPlayerstrumY3 = math.random(0, 150) 
-            randomPlayerstrumY4 = math.random(0, 150) 
-            randomPlayerstrumY5 = 0.2
-            randomPlayerstrumY6 = 0.2
-            randomPlayerstrumY7 = 0.2
-            randomPlayerstrumY8 = 0.2
-            randomPlayerstrumX1 = math.random(0, 150)
-            randomPlayerstrumX2 = math.random(0, 150)
-            randomPlayerstrumX3 = math.random(0, 150)
-            randomPlayerstrumX4 = math.random(0, 150)
-            randomOppstrumX1 = math.random(0, 150)
-            randomOppstrumX2 = math.random(0, 150)
-            randomOppstrumX3 = math.random(0, 150)
-            randomOppstrumX4 = math.random(0, 150)
-            randomPlayerstrumX5 = 0.2
-            randomPlayerstrumX6 = 0.2
-            randomPlayerstrumX7 = 0.2
-            randomPlayerstrumX8 = 0.2
-            randomOppstrumY1 = math.random(0, 150)  
-            randomOppstrumY2 = math.random(0, 150) 
-            randomOppstrumY3 = math.random(0, 150) 
-            randomOppstrumY4 = math.random(0, 150) 
-
-        end
-
-        if curStep > 278 and curStep >= 1808 then
-
-            randomPlayerstrumY1 = math.random(0, 300)  
-            randomPlayerstrumY2 = math.random(0, 300) 
-            randomPlayerstrumY3 = math.random(0, 300) 
-            randomPlayerstrumY4 = math.random(0, 300) 
-            randomPlayerstrumY5 = 0.02
-            randomPlayerstrumY6 = 0.02
-            randomPlayerstrumY7 = 0.02
-            randomPlayerstrumY8 = 0.02
-            randomPlayerstrumX1 = math.random(0, 300)
-            randomPlayerstrumX2 = math.random(0, 300)
-            randomPlayerstrumX3 = math.random(0, 300)
-            randomPlayerstrumX4 = math.random(0, 300)
-            randomOppstrumX1 = math.random(0, 300)
-            randomOppstrumX2 = math.random(0, 300)
-            randomOppstrumX3 = math.random(0, 300)
-            randomOppstrumX4 = math.random(0, 300)
-            randomPlayerstrumX5 = 0.02
-            randomPlayerstrumX6 = 0.02
-            randomPlayerstrumX7 = 0.02
-            randomPlayerstrumX8 = 0.02
-            randomOppstrumY1 = math.random(0, 300)  
-            randomOppstrumY2 = math.random(0, 300) 
-            randomOppstrumY3 = math.random(0, 300) 
-            randomOppstrumY4 = math.random(0, 300) 
-
-        end
+        randomPlayerstrumY1 = math.random(0, 150)  
+        randomPlayerstrumY2 = math.random(0, 150) 
+        randomPlayerstrumY3 = math.random(0, 150) 
+        randomPlayerstrumY4 = math.random(0, 150) 
+        randomPlayerstrumY5 = 0.2
+        randomPlayerstrumY6 = 0.2
+        randomPlayerstrumY7 = 0.2
+        randomPlayerstrumY8 = 0.2
+        randomPlayerstrumX1 = math.random(0, 150)
+        randomPlayerstrumX2 = math.random(0, 150)
+        randomPlayerstrumX3 = math.random(0, 150)
+        randomPlayerstrumX4 = math.random(0, 150)
+        randomPlayerstrumX5 = 0.2
+        randomPlayerstrumX6 = 0.2
+        randomPlayerstrumX7 = 0.2
+        randomPlayerstrumX8 = 0.2
 
         Decider = math.random(1, 100)
 
@@ -167,7 +149,7 @@ function onUpdate(elapsed)
     songPos = getSongPosition()
     local currentBeat = (songPos / 5000) * (curBpm / 60)
 
-    if curStep > 278 and curStep < 1808 then
+    if startNoteTweening == true and startTheHardPart == false then
 
         --annoying tween crap that executes between certain beat steps
         randomPlayerstrumY1 = math.random(0, 90)  
@@ -186,26 +168,9 @@ function onUpdate(elapsed)
         noteTweenX("defaultPlayerStrumX1", 5, defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi), randomPlayerstrumX6)
         noteTweenX("defaultPlayerStrumX2", 6, defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi), randomPlayerstrumX7)
         noteTweenX("defaultPlayerStrumX3", 7, defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi), randomPlayerstrumX8)
-        randomOppstrumX1 = math.random(0, 120)
-        randomOppstrumX2 = math.random(0, 120)
-        randomOppstrumX3 = math.random(0, 120)
-        randomOppstrumX4 = math.random(0, 120)
-        randomOppstrumY1 = math.random(0, 90)  
-        randomOppstrumY2 = math.random(0, 100) 
-        randomOppstrumY3 = math.random(0, 110) 
-        randomOppstrumY4 = math.random(0, 120) 
-        noteTweenY("defaultOppStrumY0", 0, defaultOpponentStrumY0 - randomOppstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi), randomPlayerstrumY5)
-        noteTweenY("defaultOppStrumY1", 1, defaultOpponentStrumY1 - randomOppstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi), randomPlayerstrumY6)
-        noteTweenY("defaultOppStrumY2", 2, defaultOpponentStrumY2 - randomOppstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi), randomPlayerstrumY7)
-        noteTweenY("defaultOppStrumY3", 3, defaultOpponentStrumY3 - randomOppstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi), randomPlayerstrumY8)
-        noteTweenX("defaultOppStrumX0", 0, defaultOpponentStrumX0 - randomOppstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi), randomPlayerstrumX5)
-        noteTweenX("defaultOppStrumX1", 1, defaultOpponentStrumX1 - randomOppstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi), randomPlayerstrumX6)
-        noteTweenX("defaultOppStrumX2", 2, defaultOpponentStrumX2 - randomOppstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi), randomPlayerstrumX7)
-        noteTweenX("defaultOppStrumX3", 3, defaultOpponentStrumX3 - randomOppstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi), randomPlayerstrumX8)
-    
     end
 
-    if curStep > 278 and curStep > 1808 then
+    if startTheHardPart == true and startNoteTweening == false then
 
         randomPlayerstrumY1 = math.random(0, 120)  
         randomPlayerstrumY2 = math.random(0, 130) 
@@ -223,22 +188,6 @@ function onUpdate(elapsed)
         noteTweenX("defaultPlayerStrumX1", 5, defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi), randomPlayerstrumX6)
         noteTweenX("defaultPlayerStrumX2", 6, defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi), randomPlayerstrumX7)
         noteTweenX("defaultPlayerStrumX3", 7, defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi), randomPlayerstrumX8)
-        randomOppstrumX1 = math.random(0, 240)
-        randomOppstrumX2 = math.random(0, 240)
-        randomOppstrumX3 = math.random(0, 240)
-        randomOppstrumX4 = math.random(0, 240)
-        randomOppstrumY1 = math.random(0, 120)  
-        randomOppstrumY2 = math.random(0, 130) 
-        randomOppstrumY3 = math.random(0, 140) 
-        randomOppstrumY4 = math.random(0, 150) 
-        noteTweenY("defaultOppStrumY0", 0, defaultOpponentStrumY0 - randomOppstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi), randomPlayerstrumY5)
-        noteTweenY("defaultOppStrumY1", 1, defaultOpponentStrumY1 - randomOppstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi), randomPlayerstrumY6)
-        noteTweenY("defaultOppStrumY2", 2, defaultOpponentStrumY2 - randomOppstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi), randomPlayerstrumY7)
-        noteTweenY("defaultOppStrumY3", 3, defaultOpponentStrumY3 - randomOppstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi), randomPlayerstrumY8)
-        noteTweenX("defaultOppStrumX0", 0, defaultOpponentStrumX0 - randomOppstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi), randomPlayerstrumX5)
-        noteTweenX("defaultOppStrumX1", 1, defaultOpponentStrumX1 - randomOppstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi), randomPlayerstrumX6)
-        noteTweenX("defaultOppStrumX2", 2, defaultOpponentStrumX2 - randomOppstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi), randomPlayerstrumX7)
-        noteTweenX("defaultOppStrumX3", 3, defaultOpponentStrumX3 - randomOppstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi), randomPlayerstrumX8)
         --end of the tween stuff
     
     end
