@@ -1,6 +1,6 @@
 {
 	"storyName": "",
-	"difficulties": "Normal, Easy",
+	"difficulties": "Normal, Pebsi",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "",
@@ -13,6 +13,17 @@
 	"songs": [
 		[
 			"Halcyon",
+			"pebble",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	, 
+	
+		[
+			"Halcyonmodcharted",
 			"pebble",
 			[
 				165,

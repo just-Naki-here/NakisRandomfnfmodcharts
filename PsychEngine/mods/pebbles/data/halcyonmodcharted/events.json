@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				78000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.07142857143",
+						"1"
+					]
+				]
+			],
+			[
+				134700,
+				[
+					[
+						"Play Animation",
+						"sans",
+						"Dad"
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"pebbles2"
+					]
+				]
+			],
+			[
+				140400,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"pebbles2"
+					]
+				]
+			],
+			[
+				154800,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}
