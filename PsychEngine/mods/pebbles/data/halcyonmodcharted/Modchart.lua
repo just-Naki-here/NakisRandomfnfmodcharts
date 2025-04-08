@@ -1,8 +1,7 @@
 --varibles
 X = 300
 Y = 200
-songPos = getSongPosition()
-local currentBeat = (songPos / 5000) * (curBpm / 60)
+
 randomPlayerstrumY1 = 0
 randomPlayerstrumY2 = 0
 randomPlayerstrumY3 = 0
@@ -28,10 +27,10 @@ randomPlayerstrumY14 = 0
 streeep = 0
 startTheHardPart = false
 startNoteTweening = false
-
+math.randomseed(os.time())
 --actual modcharting
 
-function onBeatHit()
+function onBeatHit() -- executes when beat value changes
 
 	health = getProperty('health')
 
@@ -43,32 +42,41 @@ function onBeatHit()
 
 end
 
-function onStepHit()
+function onStepHit()-- checks if the current step is equal to certain numbers
     
-    if curStep == 278 then
+    if curStep == 278 then -- checks if the current step is equal to 278
         
-        startNoteTweening = true
-        startTheHardPart = false
+        startNoteTweening = true -- starts the code that moves the player notes around
+        startTheHardPart = false -- disables the more difficult note movement
     
     end
     
-    if curStep == 1808 then
+    if curStep == 1808 then -- checks if the current step is equal to 1808
 
-        startTheHardPart = true
-        startNoteTweening = false
+        startTheHardPart = true -- starts the more difficult note movement
+        startNoteTweening = false -- ends the more relaxed note movement
     
     end
 
 end
 
-function onCreate()
+function onCreate() -- code that executes when player selects the song
 
-    if middlescroll == true then
+    if middlescroll == true then -- checks if the player has middlescroll on
 
-        setPropertyFromClass("ClientPrefs", "middleScroll", false)
-        wasMidscrollOn = true
+        setPropertyFromClass("ClientPrefs", "middleScroll", false) -- disables middlescroll
+        wasMidscrollOn = true -- saves the client prefrence for middlescroll
 
     end
+
+    if downscroll == false then -- checks if the player has downscroll off
+
+        setPropertyFromClass("ClientPrefs", "downScroll", true) -- enables downscroll
+        wasDownScrollOff = true -- saves the client prefrence for downscroll
+        
+    end
+
+
 
     setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.3);
     setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.3);
@@ -77,7 +85,7 @@ function onCreate()
 
 end
 
-function onSongStart()
+function onSongStart() -- code that executes when the song begins
 
     setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.3);
     setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.3);
@@ -101,10 +109,12 @@ function onSongStart()
 
 end
 
-function onUpdate(elapsed)
+function onUpdate(elapsed) -- code that executes every frame
 
-    math.randomseed(os.time())
-    Decider = math.random(1, 100)
+    
+    Decider = math.random(1, 100)    
+    songPos = getSongPosition()
+    local currentBeat = (songPos / 5000) * (curBpm / 60)
 
     if Decider < 50 then
 
@@ -113,6 +123,7 @@ function onUpdate(elapsed)
             Decider = math.random(1, 100)
 
         end
+
         Decider = math.random(1, 100)
 
     end
@@ -135,7 +146,6 @@ function onUpdate(elapsed)
         randomPlayerstrumX6 = 0.2
         randomPlayerstrumX7 = 0.2
         randomPlayerstrumX8 = 0.2
-
         Decider = math.random(1, 100)
 
     end
@@ -146,12 +156,12 @@ function onUpdate(elapsed)
 
     end
 
-    songPos = getSongPosition()
-    local currentBeat = (songPos / 5000) * (curBpm / 60)
+
 
     if startNoteTweening == true and startTheHardPart == false then
 
         --annoying tween crap that executes between certain beat steps
+
         randomPlayerstrumY1 = math.random(0, 90)  
         randomPlayerstrumY2 = math.random(0, 100) 
         randomPlayerstrumY3 = math.random(0, 110) 
@@ -188,6 +198,7 @@ function onUpdate(elapsed)
         noteTweenX("defaultPlayerStrumX1", 5, defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi), randomPlayerstrumX6)
         noteTweenX("defaultPlayerStrumX2", 6, defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi), randomPlayerstrumX7)
         noteTweenX("defaultPlayerStrumX3", 7, defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi), randomPlayerstrumX8)
+        
         --end of the tween stuff
     
     end
@@ -243,7 +254,7 @@ function onUpdate(elapsed)
 
 end
 
-function onDestroy()
+function onDestroy() -- code that is executed when the game is closed or player exits the song through the pause menu
 
     setPropertyFromClass("openfl.Lib", "application.window.title", "Naki's FNF Charts")
     debugPrint("Application window sucessfully moved!")
@@ -254,14 +265,26 @@ function onDestroy()
     
     end
 
+    if wasDownScrollOff == true then
+
+        setPropertyFromClass("ClientPrefs", "downScroll", false)
+    
+    end
+
 end
 
-function onEndSong()
+function onEndSong() -- code that is executed when either the player completes the song or fails(game over(blueballed))
 
     if wasMidscrollOn == true then
 
         setPropertyFromClass("ClientPrefs", "middleScroll", true)
 
+    end
+
+    if wasDownScrollOff == true then
+
+        setPropertyFromClass("ClientPrefs", "downScroll", false)
+    
     end
 
 end
