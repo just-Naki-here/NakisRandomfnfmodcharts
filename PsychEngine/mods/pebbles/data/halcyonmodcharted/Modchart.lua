@@ -27,7 +27,7 @@ randomPlayerstrumY14 = 0
 streeep = 0
 startTheHardPart = false
 startNoteTweening = false
-math.randomseed(os.time())
+wasDownScrollOff = false
 --actual modcharting
 
 function onBeatHit() -- executes when beat value changes
@@ -111,7 +111,7 @@ end
 
 function onUpdate(elapsed) -- code that executes every frame
 
-    
+    math.randomseed(os.time())
     Decider = math.random(1, 100)    
     songPos = getSongPosition()
     local currentBeat = (songPos / 5000) * (curBpm / 60)
@@ -158,7 +158,7 @@ function onUpdate(elapsed) -- code that executes every frame
 
 
 
-    if startNoteTweening == true and startTheHardPart == false then
+    if startNoteTweening == true then
 
         --annoying tween crap that executes between certain beat steps
 
@@ -180,7 +180,7 @@ function onUpdate(elapsed) -- code that executes every frame
         noteTweenX("defaultPlayerStrumX3", 7, defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi), randomPlayerstrumX8)
     end
 
-    if startTheHardPart == true and startNoteTweening == false then
+    if startTheHardPart == true then
 
         randomPlayerstrumY1 = math.random(0, 120)  
         randomPlayerstrumY2 = math.random(0, 130) 
@@ -202,13 +202,7 @@ function onUpdate(elapsed) -- code that executes every frame
         --end of the tween stuff
     
     end
-    
-    if (songPos / 5000) * (curBpm / 60) == 20 then
 
-        debugPrint("Hard part coming up!")
-    
-    end
-    
     getMisses()
     
     if misses == 25 then
