@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fourbfb singDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fourbfb",
+	"position": [
+		-550,
+		120
+	],
+	"healthicon": "four",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		102,
+		206
+	],
+	"camera_position": [
+		130,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

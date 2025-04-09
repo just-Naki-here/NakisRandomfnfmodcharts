@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "gelorun idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gelorun singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gelorun singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gelorun singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gelorun singDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gelorun",
+	"position": [
+		-440,
+		50
+	],
+	"healthicon": "gelatin",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		255,
+		0
+	],
+	"camera_position": [
+		180,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

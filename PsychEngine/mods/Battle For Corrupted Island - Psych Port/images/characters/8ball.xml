@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="8ball.png"><SubTexture name="8ball idle0000" x="907" y="2657" width="919" height="656" frameX="-231" frameY="-15" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0001" x="1826" y="2657" width="919" height="655" frameX="-231" frameY="-15" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0002" x="3628" y="0" width="919" height="655" frameX="-231" frameY="-15" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0003" x="3628" y="655" width="919" height="655" frameX="-231" frameY="-15" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0004" x="3628" y="1310" width="919" height="655" frameX="-231" frameY="-15" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0005" x="3628" y="1965" width="919" height="655" frameX="-231" frameY="-15" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0006" x="2770" y="3319" width="947" height="622" frameX="-224" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0007" x="1839" y="3319" width="931" height="628" frameX="-231" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0008" x="913" y="3319" width="926" height="630" frameX="-236" frameY="-40" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0009" x="3628" y="2620" width="913" height="653" frameX="-235" frameY="-17" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0010" x="0" y="3319" width="913" height="653" frameX="-235" frameY="-17" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball idle0011" x="0" y="1994" width="907" height="663" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singRIGHT0000" x="0" y="0" width="907" height="665" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singRIGHT0001" x="907" y="0" width="907" height="665" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singRIGHT0002" x="0" y="665" width="907" height="665" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singRIGHT0003" x="907" y="665" width="907" height="665" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singLEFT0000" x="1814" y="0" width="907" height="664" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singLEFT0001" x="907" y="1994" width="907" height="663" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singLEFT0002" x="1814" y="1994" width="907" height="663" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singLEFT0003" x="2721" y="0" width="907" height="663" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singUP0000" x="2721" y="663" width="907" height="662" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singUP0001" x="2721" y="1325" width="907" height="662" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singUP0002" x="2721" y="1987" width="907" height="662" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singUP0003" x="0" y="2657" width="907" height="662" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singDOWN0000" x="1814" y="664" width="907" height="664" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singDOWN0001" x="0" y="1330" width="907" height="664" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singDOWN0002" x="907" y="1330" width="907" height="664" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+<SubTexture name="8ball singDOWN0003" x="1814" y="1330" width="907" height="664" frameX="-243" frameY="-7" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

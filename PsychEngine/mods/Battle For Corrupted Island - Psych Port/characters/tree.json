@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tree singLEFT"
+		},
+		{
+			"offsets": [
+				17,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tree singDOWN"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tree singUP"
+		},
+		{
+			"offsets": [
+				-12,
+				4
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tree singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "tree idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tree",
+	"position": [
+		-470,
+		48
+	],
+	"healthicon": "tree",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		120
+	],
+	"camera_position": [
+		130,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,59 @@
+{
+	"storyName": "Mixed Numbers",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "host",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Pudgy",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Even Primes",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Half Of Four",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lost Value",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"Menu_Char",
+		"Menu_Char",
+		"Menu_Char"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

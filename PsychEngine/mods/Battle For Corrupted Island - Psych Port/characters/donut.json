@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				3
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "donut ALT-IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				12
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "donut singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				7
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "donut singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "donut singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "donut singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 20,
+			"name": "donut ALT-DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/donut",
+	"position": [
+		30,
+		120
+	],
+	"healthicon": "donut",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		202,
+		140
+	],
+	"camera_position": [
+		-140,
+		80
+	],
+	"sing_duration": 45.9,
+	"scale": 0.7
+}

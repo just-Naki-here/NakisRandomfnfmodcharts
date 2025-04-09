@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "pie singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "pie singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				9
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "pie singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "pie singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "pie idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pie",
+	"position": [
+		-460,
+		88
+	],
+	"healthicon": "pie",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		160,
+		120
+	],
+	"camera_position": [
+		130,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
