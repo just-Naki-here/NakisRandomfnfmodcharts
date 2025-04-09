@@ -44,14 +44,14 @@ end
 
 function onStepHit()-- checks if the current step is equal to certain numbers
     
-    if curStep == 278 then -- checks if the current step is equal to 278
+    if curStep == 1 then -- checks if the current step is equal to 1
         
         startNoteTweening = true -- starts the code that moves the player notes around
         startTheHardPart = false -- disables the more difficult note movement
     
     end
     
-    if curStep == 1808 then -- checks if the current step is equal to 1808
+    if curStep == 4768 then -- checks if the current step is equal to 4768
 
         startTheHardPart = true -- starts the more difficult note movement
         startNoteTweening = false -- ends the more relaxed note movement
@@ -104,8 +104,6 @@ function onSongStart() -- code that executes when the song begins
     originSS = getProperty('songspeed')
     startingSS = originSS + 0.75
     setProperty('songSpeed',startingSS)
-    setPropertyFromGroup("opponentStrums", 2, "x", defaultOpponentStrumX2 + 320)
-    setPropertyFromGroup("opponentStrums", 3, "x", defaultOpponentStrumX3 + 320)
 
 end
 
