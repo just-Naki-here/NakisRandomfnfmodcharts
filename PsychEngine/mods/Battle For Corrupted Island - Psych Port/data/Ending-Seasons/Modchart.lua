@@ -28,15 +28,20 @@ streeep = 0
 startTheHardPart = false
 startNoteTweening = false
 wasDownScrollOff = false
+startPassiveHealthDrain = false
 --actual modcharting
 
 function onBeatHit() -- executes when beat value changes
 
 	health = getProperty('health')
 
-	if getProperty('health') > 0.04 then
+    if startPassiveHealthDrain == true then -- waits for the var startPassiveHealthDrain to be set to true
 
-        setProperty('health', health- 0.02)
+        if getProperty('health') > 0.05 then -- makes sure player health is able to be drained
+
+            setProperty('health', health- 0.04) -- drains the players health
+
+        end
 
     end
 
@@ -50,7 +55,13 @@ function onStepHit()-- checks if the current step is equal to certain numbers
         startTheHardPart = false -- disables the more difficult note movement
     
     end
-    
+
+    if curStep == 2980 then -- checks if the current step is equal to 2980
+
+        startPassiveHealthDrain = true -- activates the passive health drain every beat code
+
+    end
+
     if curStep == 4768 then -- checks if the current step is equal to 4768
 
         startTheHardPart = true -- starts the more difficult note movement
@@ -75,8 +86,6 @@ function onCreate() -- code that executes when player selects the song
         wasDownScrollOff = true -- saves the client prefrence for downscroll
         
     end
-
-
 
     setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.3);
     setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.3);
@@ -103,7 +112,7 @@ function onSongStart() -- code that executes when the song begins
     setProperty('healthGain', 1.01)
     originSS = getProperty('songspeed')
     startingSS = originSS + 0.75
-    setProperty('songSpeed',startingSS)
+    setProperty('songSpeed', startingSS)
 
 end
 
@@ -153,8 +162,6 @@ function onUpdate(elapsed) -- code that executes every frame
         Decider = math.random(1, 100)
 
     end
-
-
 
     if startNoteTweening == true then
 
