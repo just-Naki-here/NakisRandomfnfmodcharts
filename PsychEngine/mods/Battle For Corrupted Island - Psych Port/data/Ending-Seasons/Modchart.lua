@@ -26,7 +26,7 @@ randomPlayerstrumY13 = 0
 randomPlayerstrumY14 = 0
 streeep = 0
 startTheHardPart = false
-startNoteTweening = false
+startNoteTweening = true
 wasDownScrollOff = false
 startPassiveHealthDrain = false
 --actual modcharting
@@ -37,9 +37,9 @@ function onBeatHit() -- executes when beat value changes
 
     if startPassiveHealthDrain == true then -- waits for the var startPassiveHealthDrain to be set to true
 
-        if getProperty('health') > 0.05 then -- makes sure player health is able to be drained
+        if getProperty('health') > 0.07 then -- makes sure player health is able to be drained
 
-            setProperty('health', health- 0.04) -- drains the players health
+            setProperty('health', health- 0.02) -- drains the players health
 
         end
 
@@ -48,13 +48,6 @@ function onBeatHit() -- executes when beat value changes
 end
 
 function onStepHit()-- checks if the current step is equal to certain numbers
-    
-    if curStep == 1 then -- checks if the current step is equal to 1
-        
-        startNoteTweening = true -- starts the code that moves the player notes around
-        startTheHardPart = false -- disables the more difficult note movement
-    
-    end
 
     if curStep == 2980 then -- checks if the current step is equal to 2980
 
