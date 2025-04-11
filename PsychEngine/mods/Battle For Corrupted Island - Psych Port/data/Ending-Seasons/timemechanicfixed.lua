@@ -62,6 +62,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = fireyStopChasing},1,{ease = 'expoInOut'})
+            setProperty('health', 1)
 
         else
 
@@ -76,6 +77,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = pibbyStartsShooting},2,{ease = 'expoInOut'})
+            setProperty('health', 1)
 
 
         else
@@ -106,6 +108,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = corruptNeedleAppear},2,{ease = 'expoInOut'})
+            setProperty('health', 1)
 
         else
 
@@ -134,6 +137,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = rubyCorrupted},0.1,{ease = 'expoInOut'})
+            setProperty('health', 1)
 
         else
 
@@ -162,6 +166,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = corruptBfAppears},0.1,{ease = 'expoInOut'})
+            setProperty('health', 1)
 
         else
 
@@ -176,6 +181,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = needleOnVan},0.1,{ease = 'expoInOut'})
+            setProperty('health', 1)
         
         else
 
@@ -190,6 +196,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = fireyButFlyingAppears},0.1,{ease = 'expoInOut'})
+            setProperty('health', 1)
 
         else
 
@@ -204,6 +211,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = moreNeedle},0.1,{ease = 'expoInOut'})
+            setProperty('health', 1)
 
         else
 
@@ -218,6 +226,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = moreFirey},0.1,{ease = 'expoInOut'})
+            setProperty('health', 1)
 
         else
 
@@ -232,6 +241,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = moreRuby},0.1,{ease = 'expoInOut'})
+            setProperty('health', 1)
         
         else
         
@@ -260,6 +270,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = falseEOS},2,{ease = 'expoInOut'})
+            setProperty('health', 1)
 
         else
 
@@ -288,6 +299,7 @@ function onStepHit()
         if version >= '0.7' then
 
             startTween('songLengthSwap','game',{songLength = bfAgain},0.7891,{ease = 'expoInOut'})
+            setProperty('health', 1)
 
         else
 
@@ -300,6 +312,7 @@ function onStepHit()
             if version >= '0.7' then
 
                 startTween('songLengthSwap','game',{songLength = rubyLimps},0.4681,{ease = 'expoInOut'})
+                setProperty('health', 1)
 
             else
 
@@ -313,7 +326,8 @@ function onStepHit()
 
             if version >= '0.7' then
 
-                startTween('songLengthSwap','game',{songLength = bfAgainAgain},0.881,{ease = 'expoInOut'})    
+                startTween('songLengthSwap','game',{songLength = bfAgainAgain},0.881,{ease = 'expoInOut'})
+                setProperty('health', 1)
 
             else
 
@@ -342,6 +356,7 @@ function onStepHit()
             if version >= '0.7' then
 
                 startTween('songLengthSwap','game',{songLength = meIsHereFirey},0.81,{ease = 'expoInOut'})
+                setProperty('health', 1)
 
             else
 
@@ -355,7 +370,8 @@ function onStepHit()
 
             if version >= '0.7' then
 
-                startTween('songLengthSwap','game',{songLength = rubyIsHereAgain},0.1,{ease = 'expoInOut'})    
+                startTween('songLengthSwap','game',{songLength = rubyIsHereAgain},0.1,{ease = 'expoInOut'})
+                setProperty('health', 1)  
 
             else
 
@@ -370,6 +386,7 @@ function onStepHit()
             if version >= '0.7' then
 
                 startTween('songLengthSwap','game',{songLength = needleAgain},0.3,{ease = 'expoInOut'})
+                setProperty('health', 1)
 
             else
 
@@ -383,7 +400,8 @@ function onStepHit()
 
             if version >= '0.7' then
 
-                startTween('songLengthSwap','game',{songLength = realLength},0.5,{ease = 'expoInOut'})    
+                startTween('songLengthSwap','game',{songLength = realLength},0.5,{ease = 'expoInOut'})
+                setProperty('health', 1)
 
             else
 
