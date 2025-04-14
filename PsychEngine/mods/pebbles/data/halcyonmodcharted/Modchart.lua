@@ -28,6 +28,8 @@ streeep = 0
 startTheHardPart = false
 startNoteTweening = false
 wasDownScrollOff = false
+applicationNameShift = 0
+applicationNameShift1 = "Naki's FNF Modcharts - Halcyon"
 --actual modcharting
 
 function onBeatHit() -- executes when beat value changes
@@ -55,7 +57,6 @@ function onStepHit()-- checks if the current step is equal to certain numbers
 
         startTheHardPart = true -- starts the more difficult note movement
         startNoteTweening = false -- ends the more relaxed note movement
-    
     end
 
 end
@@ -91,7 +92,7 @@ function onSongStart() -- code that executes when the song begins
     setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.3);
     setPropertyFromGroup('opponentStrums', 2, 'alpha', 0.3);
     setPropertyFromGroup('opponentStrums', 3, 'alpha', 0.3);
-    setPropertyFromClass("openfl.Lib", "application.window.title", "Survive or else...")
+    setPropertyFromClass("openfl.Lib", "application.window.title", "Naki's FNF Modcharts - Halcyon")
     debugPrint("Application title change sucessful!")
     setPropertyFromClass("openfl.Lib", "application.window.x", 300)
     setPropertyFromClass("openfl.Lib", "application.window.y", 200)
@@ -204,31 +205,6 @@ function onUpdate(elapsed) -- code that executes every frame
     end
 
     getMisses()
-    
-    if misses == 25 then
-
-        setPropertyFromClass("openfl.Lib", "application.window.title", "No Escape") 
-    
-    end
-    
-    if misses == 50 then
-
-        setPropertyFromClass("openfl.Lib", "application.window.title", "Forever Damned") 
-    
-    end
-    
-    if misses == 75 then
-
-        setPropertyFromClass("openfl.Lib", "application.window.title", "Worthless Scug") 
-    
-    end
-    
-    if misses == 100 then
-
-        setPropertyFromClass("openfl.Lib", "application.window.title", "Eternally Damned To Hell")
-    
-    end
-    
     if misses == 1 then 
 
         for i in misses do
