@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="-220" y="-200" sprite="MCM/Humiliation/jellytrump" scale="0.3" camx="-150" camy="-30" icon="null" holdTime="6.1" isGF="true">
+	<anim name="singRIGHT" anim="second" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="third" x="-34" y="6" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="first" x="6" y="0" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BubbleSplashes.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="splashBlue0000" x="5" y="5" width="381" height="398"/>
+	<SubTexture name="splashBlue0001" x="391" y="5" width="381" height="398"/>
+	<SubTexture name="splashBlue0002" x="777" y="5" width="381" height="398"/>
+	<SubTexture name="splashBlue0003" x="1163" y="5" width="381" height="398"/>
+	<SubTexture name="splashBlue0004" x="1549" y="5" width="381" height="398"/>
+	<SubTexture name="splashBlue0005" x="1935" y="5" width="381" height="398"/>
+	<SubTexture name="splashBlue0006" x="2321" y="5" width="381" height="398"/>
+	<SubTexture name="splashBlue0007" x="2707" y="5" width="381" height="398"/>
+	<SubTexture name="splashGreen0000" x="3093" y="5" width="381" height="398"/>
+	<SubTexture name="splashGreen0001" x="3479" y="5" width="381" height="398"/>
+	<SubTexture name="splashGreen0002" x="5" y="408" width="381" height="398"/>
+	<SubTexture name="splashGreen0003" x="391" y="408" width="381" height="398"/>
+	<SubTexture name="splashGreen0004" x="777" y="408" width="381" height="398"/>
+	<SubTexture name="splashGreen0005" x="1163" y="408" width="381" height="398"/>
+	<SubTexture name="splashGreen0006" x="1549" y="408" width="381" height="398"/>
+	<SubTexture name="splashGreen0007" x="1935" y="408" width="381" height="398"/>
+	<SubTexture name="splashPurple0000" x="2321" y="408" width="381" height="398"/>
+	<SubTexture name="splashPurple0001" x="2707" y="408" width="381" height="398"/>
+	<SubTexture name="splashPurple0002" x="3093" y="408" width="381" height="398"/>
+	<SubTexture name="splashPurple0003" x="3479" y="408" width="381" height="398"/>
+	<SubTexture name="splashPurple0004" x="5" y="811" width="381" height="398"/>
+	<SubTexture name="splashPurple0005" x="391" y="811" width="381" height="398"/>
+	<SubTexture name="splashPurple0006" x="777" y="811" width="381" height="398"/>
+	<SubTexture name="splashPurple0007" x="1163" y="811" width="381" height="398"/>
+	<SubTexture name="splashRed0000" x="1549" y="811" width="381" height="398"/>
+	<SubTexture name="splashRed0001" x="1935" y="811" width="381" height="398"/>
+	<SubTexture name="splashRed0002" x="2321" y="811" width="381" height="398"/>
+	<SubTexture name="splashRed0003" x="2707" y="811" width="381" height="398"/>
+	<SubTexture name="splashRed0004" x="3093" y="811" width="381" height="398"/>
+	<SubTexture name="splashRed0005" x="3479" y="811" width="381" height="398"/>
+	<SubTexture name="splashRed0006" x="5" y="1214" width="381" height="398"/>
+	<SubTexture name="splashRed0007" x="391" y="1214" width="381" height="398"/>
+</TextureAtlas>

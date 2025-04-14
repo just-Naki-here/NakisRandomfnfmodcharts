@@ -1,0 +1,33 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.45" name="surrogate" folder="stages/surrogate/" startCamPosX="1200">
+	<sprite name="bg" x="-350" y="-500" sprite="outside" scroll="0.9" scale="1.4" />
+	<sprite name="SurroEffect" x="-200" y="-150" sprite="surr_p1_effectbg" antialiasing="true" scrollx="1" scrolly="1" alpha="0.0001">
+		<anim name="idle" anim="P1BGEFFECT" loop="true"/>
+	</sprite>
+	<girlfriend x="0" y="80" scale="0.6" alpha="0"/>
+	<sprite name="inside" x="300" y="0" sprite="inside" scale="1.9" />
+	<sprite name="SurroClone3" x="-70" y="120" sprite="Stain" antialiasing="false" scrollx="1" scrolly="1" scale="2.5" alpha="0.00001">
+		<anim name="idle" anim="stain" loop="true"/>
+	</sprite>
+	<dad x="-50" y="50" scale="1.2"/>
+	
+	<sprite name="SurroClone1" x="-200" y="180" sprite="brap" antialiasing="true" scrollx="1" scrolly="1" alpha="0.0001">
+		<anim name="idle" anim="brap" loop="true" fps="10"/>
+	</sprite>
+	<sprite name="SurroClone4" x="1750" y="-250" sprite="Drumstick" antialiasing="true" scrollx="1" scrolly="1" scale="1" alpha="0.0001">
+		<anim name="idle" anim="drumstick" loop="true"/>
+	</sprite>
+	<sprite name="SurroClone5" x="1850" y="-1050" sprite="Ghish" antialiasing="true" scrollx="1" scrolly="1" scale="0.45" alpha="0.0001">
+		<anim name="idle" anim="idle" loop="true"/>
+	</sprite>
+	<sprite name="SurroClone2" x="2100" y="280" sprite="cumulon jr" antialiasing="true" scrollx="1" scrolly="1" scale="2.8" alpha="0.0001">
+		<anim name="idle" anim="cumulon jr" loop="true"/>
+	</sprite>
+	<sprite name="boat" x="930" y="410" sprite="boat" scroll="1.1" scale="0.8" />
+	<boyfriend scale="1.4" x="1500" y="50" alpha="1"/>
+
+	<solid name="black" x="-700" y="-500" width="4000" height="2000" scrollx="0" scrolly="0" color="0x000000">
+		<property name="active" type="bool" value="false" />
+		<property name="alpha" type="float" value="0.00001"/>
+	</solid>
+</stage>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jar.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="928" y="410" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="hover0000" x="600" y="445" width="313" height="436" frameX="-81" frameY="-1439" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="hover0001" x="600" y="445" width="313" height="436" frameX="-81" frameY="-1439" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="hover0002" x="600" y="0" width="328" height="445" frameX="-73" frameY="-1432" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="hover0003" x="600" y="0" width="328" height="445" frameX="-73" frameY="-1432" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0000" x="0" y="0" width="300" height="1780" frameX="-87" frameY="-82" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0001" x="300" y="0" width="300" height="1141" frameX="-87" frameY="-721" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0002" x="600" y="881" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0003" x="600" y="1291" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0004" x="600" y="1291" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0005" x="928" y="0" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0006" x="928" y="0" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0007" x="928" y="0" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0008" x="300" y="1141" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0009" x="300" y="1141" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0010" x="300" y="1141" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0011" x="300" y="1141" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0012" x="928" y="820" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0013" x="928" y="820" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0014" x="928" y="1230" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0015" x="928" y="1230" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0016" x="928" y="1230" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0017" x="928" y="1230" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0018" x="1228" y="0" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0019" x="1228" y="0" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0020" x="1228" y="0" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0021" x="1228" y="410" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="dolla0022" x="1228" y="410" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+	<SubTexture name="togetha0000" x="1228" y="410" width="300" height="410" frameX="-87" frameY="-1452" frameWidth="500" frameHeight="2000"/>
+</TextureAtlas>

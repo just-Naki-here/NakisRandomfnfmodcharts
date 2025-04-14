@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jellyParticle.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jellyfly0000" x="100" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0001" x="669" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0002" x="1238" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0003" x="1807" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0004" x="2376" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0005" x="2945" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0006" x="3514" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0007" x="4083" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0008" x="4652" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0009" x="5221" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0010" x="5790" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0011" x="6359" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0012" x="6928" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0013" x="7497" y="100" width="469" height="719"/>
+	<SubTexture name="jellyfly0014" x="100" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0015" x="669" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0016" x="1238" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0017" x="1807" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0018" x="2376" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0019" x="2945" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0020" x="3514" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0021" x="4083" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0022" x="4652" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0023" x="5221" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0024" x="5790" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0025" x="6359" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0026" x="6928" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0027" x="7497" y="919" width="469" height="719"/>
+	<SubTexture name="jellyfly0028" x="100" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0029" x="669" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0030" x="1238" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0031" x="1807" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0032" x="2376" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0033" x="2945" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0034" x="3514" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0035" x="4083" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0036" x="4652" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0037" x="5221" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0038" x="5790" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0039" x="6359" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0040" x="6928" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0041" x="7497" y="1738" width="469" height="719"/>
+	<SubTexture name="jellyfly0042" x="100" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0043" x="669" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0044" x="1238" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0045" x="1807" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0046" x="2376" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0047" x="2945" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0048" x="3514" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0049" x="4083" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0050" x="4652" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0051" x="5221" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0052" x="5790" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0053" x="6359" y="2557" width="469" height="719"/>
+	<SubTexture name="jellyfly0054" x="6928" y="2557" width="469" height="719"/>
+</TextureAtlas>

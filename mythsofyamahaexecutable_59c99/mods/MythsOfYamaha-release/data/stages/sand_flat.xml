@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="sand_flat" folder="stages/sand_flat/">
+	<sprite name="bg" x="-820" y="-20" sprite="image" zoomfactor="1" scale="1" />
+	<girlfriend x="-240" y="80" scale="0.6"/>
+	<dad x="-500" y="10" scale="1"/>
+	<boyfriend x="470" y="50"  scale="1"/>
+</stage>

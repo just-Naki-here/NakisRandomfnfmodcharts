@@ -1,0 +1,9 @@
+<character x="404" y="-350" scale="0.5">
+    <anim name="Default"  anim="YummerDefault"  fps="24" loop="true"/>
+    <anim name="Laughing" anim="YummerLaughing" fps="24" loop="true" x="-867"/>
+    <anim name="LockedIn" anim="YummerLockedIn" fps="24" loop="true" x="-1052" indices="0,0,0,0,0,0,0,0,0,0,0,0,0,0..11"/>
+    <anim name="Angry"    anim="YummerAngry"    fps="24" loop="true" x="-867"/>
+    <anim name="Awkward"  anim="YummerAwkward"  fps="24" loop="true" x="-867"/>
+    <anim name="Shocked"  anim="YummerShocked"  fps="24" loop="true" x="-867"/>
+    <anim name="Thinking" anim="YummerThinking" fps="24" loop="true" x="-867"/>
+</character>

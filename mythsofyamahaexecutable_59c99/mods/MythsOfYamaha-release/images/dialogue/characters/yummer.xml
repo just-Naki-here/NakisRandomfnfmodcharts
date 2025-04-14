@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="YummerHead.png" width="10099" height="1308">
+	<SubTexture name="YummerAngry0000" x="8468" y="0" width="1157" height="1304" frameX="-275" frameY="-45" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerAngry0001" x="8468" y="0" width="1157" height="1304" frameX="-275" frameY="-45" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerAwkward0000" x="5931" y="0" width="1080" height="1217" frameX="-316" frameY="-71" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerAwkward0001" x="5931" y="0" width="1080" height="1217" frameX="-316" frameY="-71" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerDefault0000" x="4364" y="0" width="1049" height="1197" frameX="-1214" frameY="-91" frameWidth="2560" frameHeight="1440"/>
+	<SubTexture name="YummerDefault0001" x="4364" y="0" width="1049" height="1197" frameX="-1214" frameY="-91" frameWidth="2560" frameHeight="1440"/>
+	<SubTexture name="YummerLaughing0000" x="9625" y="0" width="474" height="1308" frameX="-554" frameY="-32" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerLaughing0001" x="9625" y="0" width="474" height="1308" frameX="-554" frameY="-32" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerLaughing0002" x="7990" y="0" width="478" height="1289" frameX="-552" frameY="-40" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerLaughing0003" x="7990" y="0" width="478" height="1289" frameX="-552" frameY="-40" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerLaughing0004" x="5413" y="0" width="518" height="1211" frameX="-543" frameY="-108" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerLaughing0005" x="5413" y="0" width="518" height="1211" frameX="-543" frameY="-108" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerLaughing0006" x="3872" y="0" width="492" height="1194" frameX="-545" frameY="-119" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerLaughing0007" x="3872" y="0" width="492" height="1194" frameX="-545" frameY="-119" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerLockedIn0000" x="0" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0001" x="0" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0002" x="559" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0003" x="559" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0004" x="1118" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0005" x="1118" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0006" x="1677" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0007" x="1677" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0008" x="2236" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0009" x="2236" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0010" x="2795" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerLockedIn0011" x="2795" y="0" width="559" height="1130" frameX="-290" frameY="-58" frameWidth="1210" frameHeight="1321"/>
+	<SubTexture name="YummerShocked0000" x="7011" y="0" width="979" height="1275" frameX="-417" frameY="-13" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerShocked0001" x="7011" y="0" width="979" height="1275" frameX="-417" frameY="-13" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerThinking0000" x="3354" y="0" width="518" height="1151" frameX="-369" frameY="-54" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="YummerThinking0001" x="3354" y="0" width="518" height="1151" frameX="-369" frameY="-54" frameWidth="1582" frameHeight="1440"/>
+</TextureAtlas>

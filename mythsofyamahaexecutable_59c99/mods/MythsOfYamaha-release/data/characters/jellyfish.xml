@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-330" icon="null" y="160" isGF="true" camx="-150" camy="20" isPlayer="false" holdTime="6.1" sprite="MCM/Humiliation/Jellyfish" scale="1.2">
+	<anim x="0" loop="true" y="0" fps="20" anim="crowd" name="idle"/>
+</character>

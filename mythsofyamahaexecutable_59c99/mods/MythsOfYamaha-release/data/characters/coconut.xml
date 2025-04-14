@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-570" y="-20" sprite="MCM/Paradise/coconut" camx="330" camy="120" icon="coconut" color="#F90062" holdTime="3.8" animatedIcon="true" iconoffsetx="-150" iconoffsety="-87" iconScale="0.3" isGF="false">
+	<anim name="danceLeft" anim="Idle" x="-600" y="-240" fps="30" loop="false" indices="1..14"/>
+	<anim name="danceRight" anim="Idle" x="-600" y="-240" fps="30" loop="false" indices="15..26"/>
+	<anim name="singRIGHT" anim="Right" x="-349" y="19" fps="40" loop="false"/>
+	<anim name="singUP" anim="Up" x="-440" y="92" fps="40" loop="false"/>
+	<anim name="singLEFT" anim="Left" x="-147" y="-26" fps="40" loop="false"/>
+	<anim name="singDOWN" anim="Down" x="-290" y="-225" fps="40" loop="false"/>
+	<anim name="yay" anim="YM" x="-147" y="345" fps="31" loop="false"/>
+	<anim name="practice" anim="time for practice" x="-293" y="454" fps="24" loop="false"/>
+	<anim name="spin" anim="fredspin" x="-228" y="-98" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jellyride.png">
+	<!-- Created with Adobe Animate version 23.0.7.149 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cymbal0000" x="0" y="0" width="740" height="932" frameX="-6" frameY="-191" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0001" x="740" y="0" width="740" height="932" frameX="-6" frameY="-191" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0002" x="1480" y="0" width="740" height="932" frameX="-6" frameY="-191" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0003" x="2220" y="0" width="740" height="932" frameX="-6" frameY="-191" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0004" x="2960" y="0" width="740" height="932" frameX="-6" frameY="-191" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0005" x="3700" y="0" width="746" height="944" frameX="-12" frameY="-155" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0006" x="4446" y="0" width="746" height="944" frameX="-12" frameY="-155" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0007" x="5192" y="0" width="738" height="900" frameX="-44" frameY="-211" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0008" x="5930" y="0" width="738" height="900" frameX="-44" frameY="-211" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0009" x="6668" y="0" width="738" height="900" frameX="-44" frameY="-211" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0010" x="7406" y="0" width="660" height="967" frameX="-63" frameY="-167" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0011" x="0" y="967" width="660" height="967" frameX="-63" frameY="-167" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0012" x="660" y="967" width="660" height="967" frameX="-63" frameY="-167" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0013" x="1320" y="967" width="727" height="912" frameX="0" frameY="-191" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0014" x="2047" y="967" width="727" height="912" frameX="0" frameY="-191" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0015" x="2774" y="967" width="727" height="913" frameX="0" frameY="-190" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0016" x="3501" y="967" width="790" height="968" frameX="-8" frameY="-147" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0017" x="4291" y="967" width="790" height="1010" frameX="-8" frameY="-105" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0018" x="5081" y="967" width="790" height="1047" frameX="-8" frameY="-68" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0019" x="5871" y="967" width="750" height="1101" frameX="0" frameY="-33" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0020" x="6621" y="967" width="750" height="1133" frameX="0" frameY="-1" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0021" x="7371" y="967" width="750" height="1134" frameX="0" frameY="0" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0022" x="0" y="2101" width="740" height="932" frameX="-6" frameY="-191" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0023" x="740" y="2101" width="740" height="932" frameX="-6" frameY="-191" frameWidth="798" frameHeight="1134"/>
+	<SubTexture name="Cymbal0024" x="1480" y="2101" width="740" height="932" frameX="-6" frameY="-191" frameWidth="798" frameHeight="1134"/>
+</TextureAtlas>

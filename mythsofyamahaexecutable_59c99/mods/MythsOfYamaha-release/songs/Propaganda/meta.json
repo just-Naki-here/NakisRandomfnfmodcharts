@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"HARD"
+	],
+	"icon": "icon-reagan",
+	"coopAllowed": false,
+	"name": "Propaganda",
+	"color": "#C1E708",
+	"customValues": {},
+	"stepsPerBeat": 4,
+	"displayName": "Propaganda",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 175
+}

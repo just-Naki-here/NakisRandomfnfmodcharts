@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="1.png" width="7704" height="2004" spritePadding="1" borderPadding="1">
+	<SubTexture name="gf_idleleft0000" x="1" y="1" width="514" height="970" frameX="-84" frameY="-81" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0001" x="1" y="1" width="514" height="970" frameX="-84" frameY="-81" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0002" x="516" y="1" width="494" height="977" frameX="-94" frameY="-74" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0003" x="1011" y="1" width="494" height="977" frameX="-94" frameY="-74" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0004" x="1506" y="1" width="486" height="984" frameX="-106" frameY="-67" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0005" x="1993" y="1" width="485" height="984" frameX="-106" frameY="-67" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0006" x="1993" y="1" width="485" height="984" frameX="-106" frameY="-67" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0007" x="2479" y="1" width="488" height="988" frameX="-119" frameY="-63" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0008" x="2479" y="1" width="488" height="988" frameX="-119" frameY="-63" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0009" x="2968" y="1" width="488" height="988" frameX="-119" frameY="-63" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0010" x="3457" y="1" width="495" height="983" frameX="-129" frameY="-68" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0011" x="3457" y="1" width="495" height="983" frameX="-129" frameY="-68" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0012" x="3457" y="1" width="495" height="983" frameX="-129" frameY="-68" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0013" x="3953" y="1" width="499" height="978" frameX="-132" frameY="-73" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleleft0014" x="3953" y="1" width="499" height="978" frameX="-132" frameY="-73" frameWidth="683" frameHeight="1065"/>
+	<SubTexture name="gf_idleright0000" x="4453" y="1" width="505" height="966" frameX="-112" frameY="-77" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0001" x="4453" y="1" width="505" height="966" frameX="-112" frameY="-77" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0002" x="4959" y="1" width="528" height="964" frameX="-105" frameY="-79" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0003" x="5488" y="1" width="528" height="964" frameX="-105" frameY="-79" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0004" x="6017" y="1" width="559" height="973" frameX="-80" frameY="-70" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0005" x="6577" y="1" width="558" height="973" frameX="-80" frameY="-70" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0006" x="6577" y="1" width="558" height="973" frameX="-80" frameY="-70" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0007" x="7136" y="1" width="567" height="978" frameX="-58" frameY="-65" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0008" x="7136" y="1" width="567" height="978" frameX="-58" frameY="-65" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0009" x="1" y="990" width="586" height="978" frameX="-39" frameY="-65" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0010" x="588" y="990" width="578" height="979" frameX="-29" frameY="-64" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0011" x="588" y="990" width="578" height="979" frameX="-29" frameY="-64" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0012" x="588" y="990" width="578" height="979" frameX="-29" frameY="-64" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0013" x="1167" y="990" width="555" height="974" frameX="-39" frameY="-69" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_idleright0014" x="1167" y="990" width="555" height="974" frameX="-39" frameY="-69" frameWidth="640" frameHeight="1057"/>
+	<SubTexture name="gf_ugh0000" x="1723" y="990" width="465" height="971" frameX="-56" frameY="-46" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0001" x="1723" y="990" width="465" height="971" frameX="-56" frameY="-46" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0002" x="2189" y="990" width="468" height="978" frameX="-48" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0003" x="2189" y="990" width="468" height="978" frameX="-48" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0004" x="2658" y="990" width="461" height="978" frameX="-56" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0005" x="2658" y="990" width="461" height="978" frameX="-56" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0006" x="3120" y="990" width="460" height="978" frameX="-57" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0007" x="3120" y="990" width="460" height="978" frameX="-57" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0008" x="3581" y="990" width="460" height="978" frameX="-56" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0009" x="3581" y="990" width="460" height="978" frameX="-56" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0010" x="4042" y="990" width="460" height="978" frameX="-57" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0011" x="4042" y="990" width="460" height="978" frameX="-57" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0012" x="4042" y="990" width="460" height="978" frameX="-57" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0013" x="4042" y="990" width="460" height="978" frameX="-57" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0014" x="4042" y="990" width="460" height="978" frameX="-57" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_ugh0015" x="4042" y="990" width="460" height="978" frameX="-57" frameY="-39" frameWidth="587" frameHeight="1030"/>
+	<SubTexture name="gf_yay0000" x="4503" y="990" width="524" height="1013" frameX="-29" frameY="-36" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0001" x="4503" y="990" width="524" height="1013" frameX="-29" frameY="-36" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0002" x="5028" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0003" x="5028" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0004" x="5557" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0005" x="5557" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0006" x="6086" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0007" x="6086" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0008" x="6615" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0009" x="6615" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0010" x="7144" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0011" x="7144" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0012" x="7144" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0013" x="7144" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0014" x="7144" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+	<SubTexture name="gf_yay0015" x="7144" y="990" width="528" height="989" frameX="-26" frameY="-59" frameWidth="570" frameHeight="1058"/>
+</TextureAtlas>

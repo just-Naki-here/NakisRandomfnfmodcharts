@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="3.png" width="6610" height="993" spritePadding="1" borderPadding="1">
+	<SubTexture name="fredspin0000" x="1" y="1" width="740" height="490" frameX="-119" frameY="-290" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0001" x="1" y="1" width="740" height="490" frameX="-119" frameY="-290" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0002" x="742" y="1" width="565" height="500" frameX="-280" frameY="-208" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0003" x="1308" y="1" width="518" height="520" frameX="-326" frameY="-222" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0004" x="1308" y="1" width="518" height="520" frameX="-326" frameY="-222" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0005" x="1827" y="1" width="534" height="528" frameX="-326" frameY="-218" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0006" x="2362" y="1" width="534" height="528" frameX="-326" frameY="-218" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0007" x="2362" y="1" width="534" height="528" frameX="-326" frameY="-218" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0008" x="2897" y="1" width="542" height="530" frameX="-321" frameY="-216" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0009" x="2897" y="1" width="542" height="530" frameX="-321" frameY="-216" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0010" x="2897" y="1" width="542" height="530" frameX="-321" frameY="-216" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0011" x="3440" y="1" width="552" height="524" frameX="-312" frameY="-222" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0012" x="3440" y="1" width="552" height="524" frameX="-312" frameY="-222" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0013" x="3993" y="1" width="543" height="473" frameX="-298" frameY="-270" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0014" x="4537" y="1" width="561" height="458" frameX="-177" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0015" x="5099" y="1" width="504" height="460" frameX="-158" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0016" x="5604" y="1" width="495" height="460" frameX="-169" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0017" x="6100" y="1" width="509" height="458" frameX="-185" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0018" x="1" y="532" width="505" height="460" frameX="-193" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0019" x="507" y="532" width="534" height="458" frameX="-236" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0020" x="1042" y="532" width="494" height="460" frameX="-324" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0021" x="1537" y="532" width="506" height="458" frameX="-306" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0022" x="2044" y="532" width="483" height="460" frameX="-358" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0023" x="2528" y="532" width="475" height="460" frameX="-368" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0024" x="3004" y="532" width="487" height="458" frameX="-340" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0025" x="3492" y="532" width="483" height="460" frameX="-348" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0026" x="3976" y="532" width="475" height="460" frameX="-343" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0027" x="4452" y="532" width="487" height="458" frameX="-325" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0028" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0029" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0030" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0031" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0032" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0033" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0034" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0035" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0036" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0037" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0038" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0039" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0040" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0041" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0042" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0043" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0044" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0045" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0046" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0047" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0048" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0049" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0050" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0051" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0052" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0053" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0054" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0055" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0056" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0057" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0058" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0059" x="5428" y="532" width="483" height="460" frameX="-325" frameY="-279" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0060" x="5912" y="532" width="475" height="460" frameX="-335" frameY="-276" frameWidth="1152" frameHeight="1036"/>
+	<SubTexture name="fredspin0061" x="4940" y="532" width="487" height="458" frameX="-317" frameY="-280" frameWidth="1152" frameHeight="1036"/>
+</TextureAtlas>

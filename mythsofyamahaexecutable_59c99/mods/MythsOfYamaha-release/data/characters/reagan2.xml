@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="-140" sprite="MCM/Propaganda/ragenangry" camx="140" icon="icon-reagan" scale="0.6">
+	<anim name="idle" anim="Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Down" x="82" y="-142" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right" x="-38" y="-22" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left" x="241" y="-1" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up" x="47" y="126" fps="24" loop="false"/>
+</character>

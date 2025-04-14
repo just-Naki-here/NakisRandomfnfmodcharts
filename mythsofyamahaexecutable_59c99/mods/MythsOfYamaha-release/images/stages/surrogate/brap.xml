@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brap.png">
+<SubTexture name="brap0000" x="0" y="0" width="824" height="1018" frameX="-18" frameY="-14" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0001" x="824" y="0" width="824" height="1018" frameX="-18" frameY="-14" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0002" x="1648" y="0" width="845" height="1006" frameX="-18" frameY="-26" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0003" x="0" y="1018" width="845" height="1006" frameX="-18" frameY="-26" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0004" x="845" y="1018" width="868" height="970" frameX="-18" frameY="-62" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0005" x="1713" y="1018" width="868" height="970" frameX="-18" frameY="-62" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0006" x="0" y="2024" width="842" height="935" frameX="-17" frameY="-97" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0007" x="842" y="2024" width="842" height="935" frameX="-17" frameY="-97" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0008" x="1684" y="2024" width="788" height="958" frameX="-17" frameY="-74" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0009" x="0" y="2982" width="788" height="958" frameX="-17" frameY="-74" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0010" x="788" y="2982" width="794" height="989" frameX="-18" frameY="-43" frameWidth="896" frameHeight="1028" />
+<SubTexture name="brap0011" x="1582" y="2982" width="794" height="989" frameX="-18" frameY="-43" frameWidth="896" frameHeight="1028" />
+</TextureAtlas>

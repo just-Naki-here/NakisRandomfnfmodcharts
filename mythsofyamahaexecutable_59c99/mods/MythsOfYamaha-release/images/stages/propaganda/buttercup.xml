@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttercup.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGButtercup0000" x="0" y="0" width="369" height="420"/>
+	<SubTexture name="BGButtercup0001" x="0" y="0" width="369" height="420"/>
+	<SubTexture name="BGButtercup0002" x="369" y="0" width="355" height="408" frameX="-8" frameY="-3" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0003" x="369" y="0" width="355" height="408" frameX="-8" frameY="-3" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0004" x="0" y="420" width="339" height="394" frameX="-17" frameY="-6" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0005" x="0" y="420" width="339" height="394" frameX="-17" frameY="-6" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0006" x="339" y="420" width="328" height="385" frameX="-23" frameY="-7" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0007" x="339" y="420" width="328" height="385" frameX="-23" frameY="-7" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0008" x="339" y="420" width="328" height="385" frameX="-23" frameY="-7" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0009" x="339" y="420" width="328" height="385" frameX="-23" frameY="-7" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0010" x="339" y="420" width="328" height="385" frameX="-23" frameY="-7" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0011" x="339" y="420" width="328" height="385" frameX="-23" frameY="-7" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0012" x="339" y="420" width="328" height="385" frameX="-23" frameY="-7" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="BGButtercup0013" x="339" y="420" width="328" height="385" frameX="-23" frameY="-7" frameWidth="369" frameHeight="420"/>
+</TextureAtlas>

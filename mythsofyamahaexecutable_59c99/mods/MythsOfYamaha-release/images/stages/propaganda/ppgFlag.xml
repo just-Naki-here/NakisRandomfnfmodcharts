@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="ppgFlag.png" width="942" height="881">
+	<SubTexture name="power plag idle0000" x="277.5" y="1.5" width="340.5" height="267" frameX="-165" frameY="-109.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0001" x="277.5" y="1.5" width="340.5" height="267" frameX="-165" frameY="-109.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0002" x="1.5" y="594" width="324" height="285" frameX="-165" frameY="-96" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0003" x="1.5" y="594" width="324" height="285" frameX="-165" frameY="-96" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0004" x="642" y="481.5" width="298.5" height="271.5" frameX="-165" frameY="-96" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0005" x="642" y="481.5" width="298.5" height="271.5" frameX="-165" frameY="-96" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0006" x="622.5" y="1.5" width="318" height="240" frameX="-165" frameY="-97.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0007" x="622.5" y="1.5" width="318" height="240" frameX="-165" frameY="-97.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0008" x="622.5" y="246" width="316.5" height="231" frameX="-165" frameY="-127.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0009" x="622.5" y="246" width="316.5" height="231" frameX="-165" frameY="-127.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0010" x="1.5" y="360" width="325.5" height="229.5" frameX="-165" frameY="-141" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag idle0011" x="1.5" y="360" width="325.5" height="229.5" frameX="-165" frameY="-141" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag down0000" x="331.5" y="481.5" width="306" height="288" frameX="-165" frameY="-148.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag down0001" x="331.5" y="481.5" width="306" height="288" frameX="-165" frameY="-148.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag down0002" x="1.5" y="1.5" width="129" height="354" frameX="-165" frameY="-148.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag down0003" x="1.5" y="1.5" width="129" height="354" frameX="-165" frameY="-148.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag down0004" x="135" y="1.5" width="138" height="354" frameX="-165" frameY="-148.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag down0005" x="135" y="1.5" width="138" height="354" frameX="-165" frameY="-148.5" frameWidth="588" frameHeight="513"/>
+	<SubTexture name="power plag down0006" x="135" y="1.5" width="138" height="354" frameX="-165" frameY="-148.5" frameWidth="588" frameHeight="513"/>
+</TextureAtlas>

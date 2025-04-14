@@ -1,0 +1,53 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" name="plagi" folder="stages/paradise/">
+	<!-- THE BEACH -->
+	<sprite name="bg" x="-150" y="-350" sprite="sunset" scroll="0.5" scale="1.6" zoomFactor="0.3"/>
+	<sprite name="sun" x="-120" y="-20" sprite="sun" scroll="0.4" scale="1.2" zoomFactor="0.2"/>
+	<sprite name="volcano" x="-500" y="-20" sprite="volcano" scroll="0.6" scale="1.3" zoomFactor="0.4"/>
+	<sprite name="tree1" x="-1020" y="-150" sprite="treeGroup1" scroll="0.8" scale="1.3" zoomFactor="0.8"/>
+	<sprite name="tree2" x="-200" y="-150" sprite="treeGroup2" scroll="0.8" scale="1.3" zoomFactor="0.8"/>
+	<sprite name="tree3" x="1050" y="-150" sprite="treeGroup3" scroll="0.8" scale="1.3" zoomFactor="0.8"/>
+	<sprite name="sand" x="-450" y="-250" sprite="sand1" scroll="0.8" scale="1.3" zoomFactor="0.9"/>
+	<sprite name="wrathiron" x="730" y="240" sprite="wrathandiron" scroll="0.8" scale="0.55" zoomFactor="0.9"/>
+	<sprite name="trees2" x="-550" y="-150" sprite="tree2" scroll="0.9" scale="1.2" zoomFactor="0.9"/>
+	<sprite name="sandFG" x="-450" y="-250" sprite="sand2" scroll="1" scale="1.3"/>
+	<sprite name="slip" x="-490" y="145" sprite="babnana_fucks" scroll="0.96" scale="0.8">
+		<anim name="enter" anim="bana fuck" loop="false"/>
+		<anim name="idle" anim="bana idle" loop="false"/>
+	</sprite>
+	<sprite name="slide" x="1220" y="145" sprite="babnana_fucks" scroll="0.96" scale="0.8" flipX="true">
+		<anim name="enter" anim="bana fuck" loop="false"/>
+		<anim name="idle" anim="bana idle" loop="false"/>
+	</sprite>
+
+	<!-- THE STAGE -->
+	<sprite name="bg2" x="-1150" y="-1300" sprite="stagesky" scale="1" scroll="0.3" zoomFactor="0.2"/>
+	<sprite name="moon" x="-1150" y="-1150" sprite="moon" scale="1" scroll="0.3" zoomFactor="0.2"/>
+	<sprite name="volcano2" x="-1150" y="-1450" sprite="stagevolcano" scale="1" scroll="0.4" zoomFactor="0.5"/>
+	<sprite name="stageTrees" x="-1150" y="-1300" sprite="stagetrees" scale="1" scroll="0.7" zoomFactor="0.8"/>
+	<sprite name="stageSand" x="-1150" y="-1300" sprite="stagesand" scale="1"/>
+	<sprite name="darkness" x="-1150" y="-1300" sprite="stagedark" scale="1" alpha="0.5"/>
+	<!-- <sprite name="purple" x="-1150" y="-1300" sprite="stagepurple" scale="1" alpha="0"/> -->
+	<sprite name="grin" x="2100" y="700" sprite="grinisafuckedupchudsonson"  scale="1.5"/>
+	<sprite name="mainStage" x="-1150" y="-1300" sprite="stage" scale="1"/>
+	<sprite name="stageRoof" x="-1150" y="-1300" sprite="stageRoof"/>
+	<sprite name="crowd2" x="-880" y="347" sprite="paradies_bgcastagain" scale="1">
+		<anim name="idle" anim="crowdthree" loop="true"/>
+	</sprite>
+	<sprite name="crowd3" x="1672" y="569" sprite="paradies_bgcastagain" scale="1">
+		<anim name="idle" anim="crowdtwo" loop="true"/>
+	</sprite>
+	<girlfriend x="370"/>
+	<dad x="-30" y="150" camxoffset="20"/>
+	<boyfriend x="990" y="190" />
+	<!-- BEACHFRONT -->
+	<sprite name="treesFG" x="-500" y="-150" sprite="treeFg" scroll="1.4" scale="1.3" zoomFactor="1.3"/>
+	
+	<!-- STAGEFRONT -->
+	<sprite name="lights" x="-1150" y="-1300" sprite="stagelights"/>
+	<sprite name="lightsGlow" x="-1150" y="-1300" sprite="stagelightsG"/>
+	<sprite name="battery" x="-1000" y="1100" sprite="bassery" scale="2.5"/>
+	<sprite name="crowd1" x="-920" y="740" sprite="paradies_bgcast"/>
+	<sprite name="lighting" x="-1150" y="-1300" sprite="stagelighting"/>
+	<sprite name="stageTreesFG" x="-1100" y="-1100" sprite="stagetreesFG" scroll="1.5" scale="1.3" zoomFactor="1.3"/>
+</stage>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hold_him.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hold him0000" x="2" y="2" width="639" height="937" pivotX="301" pivotY="458" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0001" x="2" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0002" x="642" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0003" x="642" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0004" x="1282" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0005" x="1282" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0006" x="1922" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0007" x="1922" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0008" x="2562" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0009" x="2562" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0010" x="3202" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0011" x="3202" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0012" x="3842" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0013" x="3842" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0014" x="4482" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0015" x="4482" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0016" x="2" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0017" x="1282" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0018" x="1282" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0019" x="642" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0020" x="642" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0021" x="1922" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0022" x="5122" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0023" x="5122" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0024" x="5762" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0025" x="5762" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0026" x="6402" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0027" x="6402" y="2" width="639" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0028" x="7042" y="2" width="962" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0029" x="7042" y="2" width="962" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0030" x="2" y="940" width="1664" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0031" x="2" y="940" width="1664" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0032" x="1667" y="940" width="1494" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0033" x="1667" y="940" width="1494" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0034" x="3162" y="940" width="1949" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0035" x="3162" y="940" width="1949" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0036" x="5112" y="940" width="1880" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0037" x="5112" y="940" width="1880" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0038" x="2" y="1878" width="1817" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0039" x="2" y="1878" width="1817" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0040" x="1820" y="1878" width="1926" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0041" x="1820" y="1878" width="1926" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0042" x="3747" y="1878" width="1961" height="937"/>
+	<SubTexture name="hold him0043" x="3747" y="1878" width="1961" height="937"/>
+	<SubTexture name="hold him0044" x="5709" y="1878" width="1880" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0045" x="5709" y="1878" width="1880" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0046" x="2" y="2816" width="1817" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0047" x="2" y="2816" width="1817" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0048" x="1820" y="1878" width="1926" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0049" x="1820" y="1878" width="1926" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0050" x="1820" y="2816" width="1961" height="937"/>
+	<SubTexture name="hold him0051" x="1820" y="2816" width="1961" height="937"/>
+	<SubTexture name="hold him0052" x="3782" y="2816" width="1880" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0053" x="3782" y="2816" width="1880" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0054" x="5663" y="2816" width="1817" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+	<SubTexture name="hold him0055" x="5663" y="2816" width="1817" height="937" frameX="0" frameY="0" frameWidth="1961" frameHeight="937"/>
+</TextureAtlas>

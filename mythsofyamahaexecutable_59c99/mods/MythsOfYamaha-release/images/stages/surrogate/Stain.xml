@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Stain.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stain0000" x="2" y="2" width="354" height="404" pivotX="0" pivotY="0"/>
+	<SubTexture name="stain0001" x="357" y="2" width="354" height="404"/>
+	<SubTexture name="stain0002" x="712" y="2" width="354" height="404"/>
+	<SubTexture name="stain0003" x="1067" y="2" width="354" height="404"/>
+	<SubTexture name="stain0004" x="1067" y="2" width="354" height="404"/>
+	<SubTexture name="stain0005" x="1422" y="2" width="354" height="404"/>
+	<SubTexture name="stain0006" x="2" y="407" width="354" height="404"/>
+	<SubTexture name="stain0007" x="2" y="407" width="354" height="404"/>
+	<SubTexture name="stain0008" x="357" y="407" width="354" height="404"/>
+	<SubTexture name="stain0009" x="712" y="407" width="354" height="404"/>
+	<SubTexture name="stain0010" x="712" y="407" width="354" height="404"/>
+	<SubTexture name="stain0011" x="712" y="407" width="354" height="404"/>
+	<SubTexture name="stain0012" x="712" y="407" width="354" height="404"/>
+	<SubTexture name="stain0013" x="1067" y="407" width="354" height="404"/>
+	<SubTexture name="stain0014" x="1067" y="407" width="354" height="404"/>
+	<SubTexture name="stain0015" x="1067" y="407" width="354" height="404"/>
+	<SubTexture name="stain0016" x="1422" y="407" width="354" height="404"/>
+	<SubTexture name="stain0017" x="2" y="812" width="354" height="404"/>
+	<SubTexture name="stain0018" x="357" y="812" width="354" height="404"/>
+	<SubTexture name="stain0019" x="357" y="812" width="354" height="404"/>
+	<SubTexture name="stain0020" x="357" y="812" width="354" height="404"/>
+	<SubTexture name="stain0021" x="712" y="812" width="354" height="404"/>
+	<SubTexture name="stain0022" x="712" y="812" width="354" height="404"/>
+	<SubTexture name="stain0023" x="712" y="812" width="354" height="404"/>
+	<SubTexture name="stain0024" x="1067" y="812" width="354" height="404"/>
+	<SubTexture name="stain0025" x="1067" y="812" width="354" height="404"/>
+	<SubTexture name="stain0026" x="1422" y="812" width="354" height="404"/>
+	<SubTexture name="stain0027" x="1422" y="812" width="354" height="404"/>
+	<SubTexture name="stain0028" x="2" y="1217" width="354" height="404"/>
+	<SubTexture name="stain0029" x="357" y="1217" width="354" height="404"/>
+</TextureAtlas>

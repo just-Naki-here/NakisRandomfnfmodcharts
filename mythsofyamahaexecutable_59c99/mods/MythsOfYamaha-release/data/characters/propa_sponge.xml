@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character x="300" y="100" sprite="MCM/Propaganda/spongebob" flipX="true" camx="-150" camy="-80" isPlayer="true" icon="icon-spongey" color="#F1E001" gameOverChar="propa_sponge" iconScale="0.56" isGF="false">
+	<anim name="idle" anim="spong idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="up pose" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left pose" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right pose" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down pose" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="up miss" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="left miss" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="right miss" x="3" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="down miss" x="0" y="0" fps="24" loop="false"/>
+	<anim name="look" anim="alt anim" x="13" y="7" fps="24" loop="false"/>
+	<anim name="firstDeath" anim="death anim" x="0" y="0" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="loop death anim" x="0" y="0" fps="24" loop="true"/>
+	<anim name="deathConfirm" anim="retry anim" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="alt anim" x="13" y="7" fps="24" loop="false" indices="19"/>
+</character>

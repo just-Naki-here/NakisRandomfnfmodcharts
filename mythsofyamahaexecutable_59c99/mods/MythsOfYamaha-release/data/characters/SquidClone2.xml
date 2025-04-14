@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character x="760" y="180" sprite="MCM/Surrogate/Impostward2" camx="-570" camy="-520" icon="SquidClone2" color="#2F5E5C" holdTime="5.6" isGF="false">
+	<anim name="singUP" anim="Up" x="136" y="150" fps="40" loop="false"/>
+	<anim name="singLEFT" anim="Left" x="196" y="70" fps="40" loop="false"/>
+	<anim name="singRIGHT" anim="Right" x="-63" y="81" fps="40" loop="false"/>
+	<anim name="singDOWN" anim="down" x="-32" y="28" fps="40" loop="false"/>
+	<anim name="idle" anim="Idle instance" x="420" y="473" fps="40" loop="false"/>
+	<anim name="singUP-loop" anim="UpEffect instance 1" x="136" y="150" fps="30" loop="true" indices="5..7"/>
+	<anim name="singLEFT-loop" anim="LeftEffect instance 1" x="196" y="70" fps="30" loop="true" indices="4..6"/>
+	<anim name="singRIGHT-loop" anim="RightEffect instance 1" x="-63" y="81" fps="30" loop="true" indices="5..7"/>
+	<anim name="singDOWN-loop" anim="downeffect instance 1" x="-32" y="28" fps="30" loop="true" indices="5..7"/>
+	<anim name="singUP-release" anim="UpEffect instance 1" x="136" y="150" fps="40" loop="false" indices="8..25"/>
+	<anim name="singLEFT-release" anim="LeftEffect instance 1" x="196" y="70" fps="40" loop="false" indices="6..25"/>
+	<anim name="singRIGHT-release" anim="RightEffect instance 1" x="-63" y="81" fps="40" loop="false" indices="6..25"/>
+	<anim name="singDOWN-release" anim="downeffect instance 1" x="-32" y="28" fps="40" loop="false" indices="6..25"/>
+</character>

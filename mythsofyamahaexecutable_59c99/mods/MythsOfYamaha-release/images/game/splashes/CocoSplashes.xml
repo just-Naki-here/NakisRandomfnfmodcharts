@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CocoSplashes.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="splashBlue0000" x="5" y="5" width="424" height="422"/>
+	<SubTexture name="splashBlue0001" x="434" y="5" width="424" height="422"/>
+	<SubTexture name="splashBlue0002" x="863" y="5" width="424" height="422"/>
+	<SubTexture name="splashBlue0003" x="1292" y="5" width="424" height="422"/>
+	<SubTexture name="splashGreen0000" x="5" y="432" width="424" height="422"/>
+	<SubTexture name="splashGreen0001" x="434" y="432" width="424" height="422"/>
+	<SubTexture name="splashGreen0002" x="863" y="432" width="424" height="422"/>
+	<SubTexture name="splashGreen0003" x="1292" y="432" width="424" height="422"/>
+	<SubTexture name="splashPurple0000" x="5" y="859" width="424" height="422"/>
+	<SubTexture name="splashPurple0001" x="434" y="859" width="424" height="422"/>
+	<SubTexture name="splashPurple0002" x="863" y="859" width="424" height="422"/>
+	<SubTexture name="splashPurple0003" x="1292" y="859" width="424" height="422"/>
+	<SubTexture name="splashRed0000" x="5" y="1286" width="424" height="422"/>
+	<SubTexture name="splashRed0001" x="434" y="1286" width="424" height="422"/>
+	<SubTexture name="splashRed0002" x="863" y="1286" width="424" height="422"/>
+	<SubTexture name="splashRed0003" x="1292" y="1286" width="424" height="422"/>
+</TextureAtlas>

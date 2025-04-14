@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character x="30" y="25" sprite="gf_mcm" scale="0.4" camx="-400" camy="50" icon="gf" holdTime="6.1" isGF="true">
+	<anim name="danceLeft" anim="gf_idleleft" x="-6" y="8" fps="24" loop="false"/>
+	<anim name="danceRight" anim="gf_idleright" x="-32" y="0" fps="24" loop="false"/>
+	<anim name="cheer" anim="gf_yay" x="-58" y="3" fps="24" loop="false"/>
+	<anim name="sad" anim="gf_ugh" x="-73" y="-26" fps="24" loop="false"/>
+	<anim name="calmLeft" anim="gf_calmleft" x="-48" y="-33" fps="24" loop="false"/>
+	<anim name="calmRight" anim="gf_calmright" x="-101" y="-17" fps="24" loop="false"/>
+	<anim name="happyCalm" anim="gf_ah" x="-87" y="-35" fps="24" loop="false"/>
+	<anim name="calmHappy" anim="gf_oh" x="-88" y="403" fps="24" loop="false"/>
+</character>

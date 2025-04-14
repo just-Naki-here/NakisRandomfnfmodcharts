@@ -1,0 +1,5 @@
+Are those bones on my pizza?::522::556::
+I don't know.::564::577::
+Why are there bones on my pizza?::835::864::
+If you didn't want bones on your pizza then you should've asked for a::1421::1481::
+BONELESS PIZZA.::1481::1498

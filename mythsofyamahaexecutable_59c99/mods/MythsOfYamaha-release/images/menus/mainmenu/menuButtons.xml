@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="menuButtons.png" width="480" height="494">
+	<SubTexture name="CreditsIdle0000" x="1" y="429" width="257" height="64" frameX="-26" frameY="-18" frameWidth="312" frameHeight="98"/>
+	<SubTexture name="CreditsSelect0000" x="1" y="355" width="265" height="72" frameX="-22" frameY="-14" frameWidth="312" frameHeight="98"/>
+	<SubTexture name="CreditsSelect0001" x="1" y="355" width="265" height="72" frameX="-22" frameY="-14" frameWidth="312" frameHeight="98"/>
+	<SubTexture name="CreditsSelect0002" x="1" y="355" width="265" height="72" frameX="-22" frameY="-14" frameWidth="312" frameHeight="98"/>
+	<SubTexture name="CreditsSelect0003" x="1" y="278" width="265" height="75" frameX="-22" frameY="-13" frameWidth="312" frameHeight="98"/>
+	<SubTexture name="CreditsSelect0004" x="1" y="278" width="265" height="75" frameX="-22" frameY="-13" frameWidth="312" frameHeight="98"/>
+	<SubTexture name="CreditsSelect0005" x="1" y="278" width="265" height="75" frameX="-22" frameY="-13" frameWidth="312" frameHeight="98"/>
+	<SubTexture name="CreditsSelect0006" x="1" y="278" width="265" height="75" frameX="-22" frameY="-13" frameWidth="312" frameHeight="98"/>
+	<SubTexture name="OptionsIdle0000" x="1" y="191" width="259" height="85" frameX="-31" frameY="-22" frameWidth="331" frameHeight="122"/>
+	<SubTexture name="OptionsSelect0000" x="1" y="1" width="267" height="93" frameX="-27" frameY="-18" frameWidth="331" frameHeight="122"/>
+	<SubTexture name="OptionsSelect0001" x="1" y="1" width="267" height="93" frameX="-27" frameY="-18" frameWidth="331" frameHeight="122"/>
+	<SubTexture name="OptionsSelect0002" x="1" y="1" width="267" height="93" frameX="-27" frameY="-18" frameWidth="331" frameHeight="122"/>
+	<SubTexture name="OptionsSelect0003" x="1" y="96" width="267" height="93" frameX="-27" frameY="-18" frameWidth="331" frameHeight="122"/>
+	<SubTexture name="OptionsSelect0004" x="1" y="96" width="267" height="93" frameX="-27" frameY="-18" frameWidth="331" frameHeight="122"/>
+	<SubTexture name="OptionsSelect0005" x="1" y="96" width="267" height="93" frameX="-27" frameY="-18" frameWidth="331" frameHeight="122"/>
+	<SubTexture name="OptionsSelect0006" x="1" y="96" width="267" height="93" frameX="-27" frameY="-18" frameWidth="331" frameHeight="122"/>
+	<SubTexture name="PlayIdle0000" x="268" y="212" width="201" height="94" frameX="-30" frameY="-19" frameWidth="246" frameHeight="136"/>
+	<SubTexture name="PlaySelect0000" x="270" y="108" width="209" height="102" frameX="-26" frameY="-15" frameWidth="246" frameHeight="136"/>
+	<SubTexture name="PlaySelect0001" x="270" y="108" width="209" height="102" frameX="-26" frameY="-15" frameWidth="246" frameHeight="136"/>
+	<SubTexture name="PlaySelect0002" x="270" y="108" width="209" height="102" frameX="-26" frameY="-15" frameWidth="246" frameHeight="136"/>
+	<SubTexture name="PlaySelect0003" x="270" y="1" width="209" height="105" frameX="-26" frameY="-14" frameWidth="246" frameHeight="136"/>
+	<SubTexture name="PlaySelect0004" x="270" y="1" width="209" height="105" frameX="-26" frameY="-14" frameWidth="246" frameHeight="136"/>
+	<SubTexture name="PlaySelect0005" x="270" y="1" width="209" height="105" frameX="-26" frameY="-14" frameWidth="246" frameHeight="136"/>
+	<SubTexture name="PlaySelect0006" x="270" y="1" width="209" height="105" frameX="-26" frameY="-14" frameWidth="246" frameHeight="136"/>
+</TextureAtlas>

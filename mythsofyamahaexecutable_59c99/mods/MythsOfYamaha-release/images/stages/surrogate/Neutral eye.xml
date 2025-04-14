@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Neutral eye.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IndicNeutralnm0000" x="0" y="0" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0001" x="928" y="0" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0002" x="1856" y="0" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0003" x="2784" y="0" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0004" x="3712" y="0" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0005" x="4640" y="0" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0006" x="4640" y="0" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0007" x="4640" y="0" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0008" x="5568" y="0" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0009" x="6496" y="0" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0010" x="0" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0011" x="928" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0012" x="1856" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0013" x="2784" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0014" x="3712" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0015" x="4640" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0016" x="5568" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0017" x="5568" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0018" x="5568" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0019" x="5568" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0020" x="5568" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0021" x="5568" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0022" x="5568" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0023" x="5568" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0024" x="5568" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0025" x="6496" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0026" x="0" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0027" x="928" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0028" x="928" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0029" x="928" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0030" x="928" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0031" x="928" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0032" x="928" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0033" x="928" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0034" x="1856" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0035" x="1856" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0036" x="1856" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0037" x="2784" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0038" x="3712" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0039" x="3712" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0040" x="4640" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0041" x="4640" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0042" x="5568" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0043" x="6496" y="1870" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0044" x="0" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0045" x="0" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0046" x="928" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0047" x="928" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0048" x="928" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0049" x="1856" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0050" x="1856" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0051" x="1856" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0052" x="1856" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0053" x="2784" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0054" x="3712" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0055" x="3712" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0056" x="4640" y="2805" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0057" x="3712" y="935" width="928" height="935"/>
+	<SubTexture name="IndicNeutralnm0058" x="5568" y="2805" width="928" height="935"/>
+</TextureAtlas>

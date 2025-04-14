@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="108" icon="delivery" camx="30" y="254" iconScale="0.72" iconoffsety="10" scale="0.608" isGF="false" camy="70" color="#FFCD38" isPlayer="false" holdTime="6.1" sprite="MCM/Delivery/bob_idk">
+	<anim x="0" loop="true" y="0" fps="60" anim="idk" name="idle"/>
+</character>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bush.png" width="3002" height="668" spritePadding="1" borderPadding="1">
+	<SubTexture name="ooga booga20000" x="258" y="1" width="227" height="635" frameX="0" frameY="-10" frameWidth="227" frameHeight="645"/>
+	<SubTexture name="ooga booga20001" x="258" y="1" width="227" height="635" frameX="0" frameY="-10" frameWidth="227" frameHeight="645"/>
+	<SubTexture name="ooga booga20002" x="486" y="1" width="223" height="637" frameX="-2" frameY="-8" frameWidth="227" frameHeight="645"/>
+	<SubTexture name="ooga booga20003" x="486" y="1" width="223" height="637" frameX="-2" frameY="-8" frameWidth="227" frameHeight="645"/>
+	<SubTexture name="ooga booga20004" x="710" y="1" width="223" height="643" frameX="-2" frameY="-2" frameWidth="227" frameHeight="645"/>
+	<SubTexture name="ooga booga20005" x="710" y="1" width="223" height="643" frameX="-2" frameY="-2" frameWidth="227" frameHeight="645"/>
+	<SubTexture name="ooga booga20006" x="934" y="1" width="221" height="645" frameX="-3" frameY="0" frameWidth="227" frameHeight="645"/>
+	<SubTexture name="ooga booga20007" x="934" y="1" width="221" height="645" frameX="-3" frameY="0" frameWidth="227" frameHeight="645"/>
+	<SubTexture name="ooga booga20008" x="934" y="1" width="221" height="645" frameX="-3" frameY="0" frameWidth="227" frameHeight="645"/>
+	<SubTexture name="ooga booga20009" x="934" y="1" width="221" height="645" frameX="-3" frameY="0" frameWidth="227" frameHeight="645"/>
+	<SubTexture name="bushIdle0000" x="1466" y="1" width="309" height="657" frameX="0" frameY="-9" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0001" x="1466" y="1" width="309" height="657" frameX="0" frameY="-9" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0002" x="1156" y="1" width="309" height="656" frameX="0" frameY="-10" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0003" x="1156" y="1" width="309" height="656" frameX="0" frameY="-10" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0004" x="1776" y="1" width="306" height="663" frameX="0" frameY="-3" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0005" x="1776" y="1" width="306" height="663" frameX="0" frameY="-3" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0006" x="2389" y="1" width="306" height="666" frameX="0" frameY="0" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0007" x="2389" y="1" width="306" height="666" frameX="0" frameY="0" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0008" x="2696" y="1" width="305" height="666" frameX="-1" frameY="0" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0009" x="2696" y="1" width="305" height="666" frameX="-1" frameY="0" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0010" x="2083" y="1" width="305" height="665" frameX="-1" frameY="-1" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0011" x="2083" y="1" width="305" height="665" frameX="-1" frameY="-1" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0012" x="2083" y="1" width="305" height="665" frameX="-1" frameY="-1" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushIdle0013" x="2083" y="1" width="305" height="665" frameX="-1" frameY="-1" frameWidth="309" frameHeight="666"/>
+	<SubTexture name="bushoopsies0000" x="1" y="1" width="256" height="626" frameX="0" frameY="0" frameWidth="256" frameHeight="626"/>
+</TextureAtlas>

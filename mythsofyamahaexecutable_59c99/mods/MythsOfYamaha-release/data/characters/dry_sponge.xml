@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="180" iconScale="0.8" iconoffsety="5" icon="dehydrate" camx="-150" y="0" isGF="false" camy="90" color="#9b9b75" isPlayer="false" holdTime="8" sprite="MCM/Dehydrated/Dry_Spongebob">
+	<anim x="0" loop="false" y="0" fps="60" anim=" idle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="60" anim=" left" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="60" anim=" down" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="60" anim=" up" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="60" anim=" right" name="singRIGHT"/>
+	<anim x="543" loop="false" y="204" fps="110" anim=" ineedit" name="INEEDIT"/>
+</character>

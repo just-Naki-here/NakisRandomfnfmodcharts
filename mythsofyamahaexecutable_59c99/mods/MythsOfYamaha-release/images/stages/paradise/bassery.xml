@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="paradies_bgcast.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="battery0000" x="41" y="41" width="143" height="235" frameX="-1" frameY="-4" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0001" x="241" y="41" width="143" height="235" frameX="-1" frameY="-4" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0002" x="441" y="41" width="141" height="239" frameX="-1" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0003" x="639" y="41" width="141" height="239" frameX="-1" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0004" x="837" y="41" width="144" height="235" frameX="0" frameY="-4" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0005" x="41" y="337" width="144" height="235" frameX="0" frameY="-4" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0006" x="242" y="337" width="139" height="239" frameX="-3" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0007" x="242" y="337" width="139" height="239" frameX="-3" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0008" x="242" y="337" width="139" height="239" frameX="-3" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0009" x="438" y="337" width="137" height="239" frameX="-4" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0010" x="438" y="337" width="137" height="239" frameX="-4" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0011" x="438" y="337" width="137" height="239" frameX="-4" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0012" x="438" y="337" width="137" height="239" frameX="-4" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0013" x="438" y="337" width="137" height="239" frameX="-4" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0014" x="438" y="337" width="137" height="239" frameX="-4" frameY="0" frameWidth="144" frameHeight="239"/>
+	<SubTexture name="battery0015" x="438" y="337" width="137" height="239" frameX="-4" frameY="0" frameWidth="144" frameHeight="239"/>
+</TextureAtlas>

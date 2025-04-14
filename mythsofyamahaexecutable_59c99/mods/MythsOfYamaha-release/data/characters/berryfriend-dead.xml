@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character x="-20" y="-260" sprite="MCM/Paradise/berryfrienddeath" flipX="true" camx="0" camy="0" isPlayer="true" icon="oldberryfriend" gameOverChar="berryfriend-dead">
+	<anim name="firstDeath" anim="bf dead0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="bf dead hold-" x="0" y="-39" fps="24" loop="true"/>
+	<anim name="deathConfirm" anim="bf retry" x="0" y="-39" fps="24" loop="false"/>
+	<anim name="deathConfirm-loop" anim="bf retry" x="0" y="-39" fps="24" loop="true" indices="30..35"/>
+</character>

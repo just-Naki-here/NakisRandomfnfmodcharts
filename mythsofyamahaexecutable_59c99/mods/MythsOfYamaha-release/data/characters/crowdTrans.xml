@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="-570" y="120" sprite="MCM/Paradise/crowdTrans" scale="0.55" icon="crowdTrans" color="#D5606E" isGF="true">
+	<anim name="intro" anim="intro" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle" anim="intro" x="0" y="0" fps="24" loop="false" indices="16"/>
+</character>

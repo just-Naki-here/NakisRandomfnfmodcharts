@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-105" y="-205" sprite="MCM/Surrogate/surrogate_squidward" scale="0.9" flipX="true" camx="-670" camy="-30" isPlayer="true" icon="surrsquid" color="#3eaeb0" holdTime="6">
+	<anim name="idle" anim="surrsquid idle instance 1" x="-157" y="43" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="surrsquid left instance 1" x="252" y="52" fps="30" loop="false"/>
+	<anim name="singDOWN" anim="surrsquid down instance 1" x="-5" y="1" fps="30" loop="false"/>
+	<anim name="singUP" anim="surrsquid up instance 1" x="-135" y="159" fps="30" loop="false"/>
+	<anim name="singRIGHT" anim="surrsquid right instance 1" x="-83" y="86" fps="30" loop="false"/>
+</character>

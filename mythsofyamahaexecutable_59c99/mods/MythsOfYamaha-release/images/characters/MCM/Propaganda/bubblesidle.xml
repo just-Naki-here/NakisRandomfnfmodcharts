@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bubblesidle.png" width="369" height="1675" spritePadding="1" borderPadding="1">
+	<SubTexture name="BGBubbles0000" x="1" y="1" width="367" height="457" frameX="-45" frameY="-19" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0001" x="1" y="1" width="367" height="457" frameX="-45" frameY="-19" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0002" x="1" y="459" width="363" height="402" frameX="-48" frameY="-18" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0003" x="1" y="459" width="363" height="402" frameX="-48" frameY="-18" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0004" x="1" y="862" width="357" height="405" frameX="-53" frameY="-15" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0005" x="1" y="862" width="357" height="405" frameX="-53" frameY="-15" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0006" x="1" y="1268" width="353" height="406" frameX="-56" frameY="-14" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0007" x="1" y="1268" width="353" height="406" frameX="-56" frameY="-14" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0008" x="1" y="1268" width="353" height="406" frameX="-56" frameY="-14" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0009" x="1" y="1268" width="353" height="406" frameX="-56" frameY="-14" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0010" x="1" y="1268" width="353" height="406" frameX="-56" frameY="-14" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0011" x="1" y="1268" width="353" height="406" frameX="-56" frameY="-14" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0012" x="1" y="1268" width="353" height="406" frameX="-56" frameY="-14" frameWidth="479" frameHeight="476"/>
+	<SubTexture name="BGBubbles0013" x="1" y="1268" width="353" height="406" frameX="-56" frameY="-14" frameWidth="479" frameHeight="476"/>
+</TextureAtlas>

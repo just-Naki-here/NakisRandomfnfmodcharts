@@ -1,0 +1,9 @@
+<character x="404" y="-350" scale="0.5">
+    <anim name="Default"  anim="NeckDefault"  fps="24" loop="true"/>
+    <anim name="Laughing" anim="NeckLaughing" fps="24" loop="true" x="-867"/>
+    <anim name="LockedIn" anim="NeckLockedIn" fps="24" loop="true" x="-800" y="340"/>
+    <anim name="Angry"    anim="NeckAngry"    fps="24" loop="true" x="-867"/>
+    <anim name="Awkward"  anim="NeckAwkward"  fps="24" loop="true" x="-867"/>
+    <anim name="Shocked"  anim="NeckShocked"  fps="24" loop="true" x="-867"/>
+    <anim name="Thinking" anim="NeckThinking" fps="24" loop="true" x="-867"/>
+</character>

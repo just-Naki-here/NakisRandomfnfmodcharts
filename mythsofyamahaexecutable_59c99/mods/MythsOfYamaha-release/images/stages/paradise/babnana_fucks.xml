@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="babnana fucks.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bana fuck0000" x="73" y="73" width="841" height="771" frameX="0" frameY="-69" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0001" x="994" y="73" width="717" height="807" frameX="-598" frameY="-34" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0002" x="1791" y="73" width="757" height="819" frameX="-998" frameY="-22" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0003" x="2628" y="73" width="634" height="818" frameX="-1435" frameY="-23" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0004" x="3342" y="73" width="630" height="816" frameX="-1549" frameY="-25" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0005" x="4052" y="73" width="582" height="763" frameX="-1576" frameY="-78" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0006" x="4714" y="73" width="596" height="806" frameX="-1537" frameY="-35" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0007" x="5390" y="73" width="604" height="832" frameX="-1512" frameY="-9" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0008" x="6074" y="73" width="605" height="840" frameX="-1505" frameY="0" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0009" x="6759" y="73" width="610" height="831" frameX="-1514" frameY="-9" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0010" x="7449" y="73" width="613" height="825" frameX="-1519" frameY="-15" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0011" x="73" y="993" width="615" height="822" frameX="-1522" frameY="-18" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0012" x="768" y="993" width="615" height="821" frameX="-1523" frameY="-19" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana fuck0013" x="1463" y="993" width="614" height="821" frameX="-1524" frameY="-19" frameWidth="2179" frameHeight="841"/>
+	<SubTexture name="bana idle0000" x="2157" y="993" width="594" height="821" frameX="-46" frameY="0" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0001" x="2157" y="993" width="594" height="821" frameX="-46" frameY="0" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0002" x="2157" y="993" width="594" height="821" frameX="-46" frameY="0" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0003" x="2831" y="993" width="604" height="819" frameX="-31" frameY="-2" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0004" x="2831" y="993" width="604" height="819" frameX="-31" frameY="-2" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0005" x="3515" y="993" width="606" height="819" frameX="-19" frameY="-1" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0006" x="3515" y="993" width="606" height="819" frameX="-19" frameY="-1" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0007" x="4201" y="993" width="614" height="817" frameX="-7" frameY="-2" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0008" x="4201" y="993" width="614" height="817" frameX="-7" frameY="-2" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0009" x="4895" y="993" width="623" height="814" frameX="0" frameY="-4" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0010" x="4895" y="993" width="623" height="814" frameX="0" frameY="-4" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0011" x="5598" y="993" width="629" height="808" frameX="-7" frameY="-10" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0012" x="5598" y="993" width="629" height="808" frameX="-7" frameY="-10" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0013" x="6307" y="993" width="623" height="811" frameX="-23" frameY="-8" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0014" x="6307" y="993" width="623" height="811" frameX="-23" frameY="-8" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0015" x="7010" y="993" width="604" height="817" frameX="-41" frameY="-4" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0016" x="7010" y="993" width="604" height="817" frameX="-41" frameY="-4" frameWidth="646" frameHeight="821"/>
+	<SubTexture name="bana idle0017" x="7010" y="993" width="604" height="817" frameX="-41" frameY="-4" frameWidth="646" frameHeight="821"/>
+</TextureAtlas>

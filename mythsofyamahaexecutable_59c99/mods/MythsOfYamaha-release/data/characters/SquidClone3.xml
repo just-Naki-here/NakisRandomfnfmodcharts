@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="320" y="-470" sprite="MCM/Surrogate/dirtysock" scale="1.7" camx="50" icon="SquidClone3" color="#008D87" holdTime="5.2" isGF="false">
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="left" x="-35" y="20" fps="30" loop="false"/>
+	<anim name="singDOWN" anim="down" x="0" y="-60" fps="30" loop="false"/>
+	<anim name="singUP" anim="up" x="-60" y="5" fps="30" loop="false"/>
+	<anim name="singRIGHT" anim="right" x="25" y="45" fps="30" loop="false"/>
+</character>

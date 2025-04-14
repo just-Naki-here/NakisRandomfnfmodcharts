@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.1" name="Outside" folder="stages/Outside/">
+	<sprite name="bg" x="-940" y="-400" sprite="sky" zoomfactor="0.3" scroll="0.36"/>
+	<sprite name="bg2" x="-940" y="-500" sprite="houses" zoomfactor="1" />
+	<girlfriend x="290" y="-15"  zoomfactor="1" scale="0.9"/>
+	<dad x="-230" y="70" zoomfactor="1" scale="0.9"/>
+	<boyfriend x="430" y="30"  zoomfactor="1" scale="0.9"/>
+</stage>

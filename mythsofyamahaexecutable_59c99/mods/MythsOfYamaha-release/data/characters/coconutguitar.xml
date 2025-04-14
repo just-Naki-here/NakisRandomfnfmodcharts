@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="20" y="250" sprite="MCM/Paradise/cocoguitar" scale="1.1" camx="-330" camy="-570" icon="coconut" color="#573820" holdTime="3.8" isGF="false" iconScale="0.75">
+	<anim name="idle" anim="idle instance" x="0" y="0" fps="30" loop="true"/>
+	<anim name="singLEFT" anim="left instance" x="376" y="-16" fps="40" loop="false"/>
+	<anim name="singDOWN" anim="down" x="705" y="1" fps="40" loop="false"/>
+	<anim name="singUP" anim="up instance" x="817" y="90" fps="40" loop="false"/>
+	<anim name="singRIGHT" anim="right instance" x="801" y="32" fps="40" loop="false"/>
+</character>

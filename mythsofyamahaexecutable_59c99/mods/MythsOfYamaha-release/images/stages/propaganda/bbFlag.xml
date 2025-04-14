@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bbFlag.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bbDown0000" x="100" y="100" width="334" height="474"/>
+	<SubTexture name="bbDown0001" x="100" y="100" width="334" height="474"/>
+	<SubTexture name="bbDown0002" x="534" y="100" width="334" height="474"/>
+	<SubTexture name="bbDown0003" x="534" y="100" width="334" height="474"/>
+	<SubTexture name="bbDown0004" x="968" y="100" width="334" height="474"/>
+	<SubTexture name="bbDown0005" x="968" y="100" width="334" height="474"/>
+	<SubTexture name="bbDown0006" x="1402" y="100" width="334" height="474"/>
+	<SubTexture name="bbDown0007" x="1402" y="100" width="334" height="474"/>
+	<SubTexture name="bbDown0008" x="100" y="674" width="334" height="474"/>
+	<SubTexture name="bbDown0009" x="100" y="674" width="334" height="474"/>
+	<SubTexture name="bbDown0010" x="534" y="674" width="334" height="474"/>
+	<SubTexture name="bbDown0011" x="534" y="674" width="334" height="474"/>
+	<SubTexture name="bbIdle0000" x="968" y="674" width="341" height="287"/>
+	<SubTexture name="bbIdle0001" x="968" y="674" width="341" height="287"/>
+	<SubTexture name="bbIdle0002" x="1409" y="674" width="341" height="287"/>
+	<SubTexture name="bbIdle0003" x="1409" y="674" width="341" height="287"/>
+	<SubTexture name="bbIdle0004" x="100" y="1248" width="341" height="287"/>
+	<SubTexture name="bbIdle0005" x="100" y="1248" width="341" height="287"/>
+	<SubTexture name="bbIdle0006" x="541" y="1248" width="341" height="287"/>
+	<SubTexture name="bbIdle0007" x="541" y="1248" width="341" height="287"/>
+	<SubTexture name="bbIdle0008" x="982" y="1248" width="341" height="287"/>
+	<SubTexture name="bbIdle0009" x="982" y="1248" width="341" height="287"/>
+	<SubTexture name="bbIdle0010" x="1423" y="1248" width="341" height="287"/>
+	<SubTexture name="bbIdle0011" x="1423" y="1248" width="341" height="287"/>
+</TextureAtlas>

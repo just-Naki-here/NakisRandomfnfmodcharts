@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grin.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grin0000" x="41" y="41" width="183" height="244" frameX="-24" frameY="-38" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0001" x="281" y="41" width="159" height="246" frameX="-25" frameY="-36" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0002" x="497" y="41" width="185" height="244" frameX="0" frameY="-38" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0003" x="739" y="41" width="160" height="247" frameX="-25" frameY="-35" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0004" x="956" y="41" width="190" height="246" frameX="-23" frameY="-36" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0005" x="1203" y="41" width="172" height="247" frameX="-24" frameY="-35" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0006" x="1432" y="41" width="163" height="247" frameX="-21" frameY="-35" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0007" x="41" y="345" width="163" height="247" frameX="-21" frameY="-35" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0008" x="261" y="345" width="162" height="247" frameX="-22" frameY="-35" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0009" x="480" y="345" width="162" height="247" frameX="-22" frameY="-35" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0010" x="699" y="345" width="163" height="254" frameX="-21" frameY="-29" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0011" x="919" y="345" width="164" height="260" frameX="-20" frameY="-23" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0012" x="1140" y="345" width="165" height="267" frameX="-19" frameY="-17" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0013" x="1362" y="345" width="166" height="272" frameX="-18" frameY="-12" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0014" x="41" y="674" width="167" height="279" frameX="-17" frameY="-6" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0015" x="265" y="674" width="168" height="285" frameX="-16" frameY="0" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0016" x="490" y="674" width="169" height="276" frameX="-15" frameY="-8" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0017" x="716" y="674" width="170" height="267" frameX="-14" frameY="-17" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0018" x="943" y="674" width="170" height="258" frameX="-14" frameY="-25" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0019" x="1170" y="674" width="171" height="250" frameX="-13" frameY="-33" frameWidth="213" frameHeight="285"/>
+	<SubTexture name="grin0020" x="1398" y="674" width="171" height="241" frameX="-13" frameY="-41" frameWidth="213" frameHeight="285"/>
+</TextureAtlas>

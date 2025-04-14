@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="-790" y="140" sprite="MCM/Propaganda/buttercup" scale="0.84" camy="230" isPlayer="true" icon="ppg" color="#D5616F" isGF="false">
+	<anim name="idle" anim="BGButtercup" x="0" y="0" fps="24" loop="false"/>
+	<anim name="igor being evil" anim="evil igor idle" x="12" y="365" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="evil igor idle" x="12" y="365" fps="24" loop="false" indices="26..38"/>
+</character>

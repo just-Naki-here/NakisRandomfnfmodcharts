@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="space.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="space0000" x="0" y="0" width="225" height="134" frameX="0" frameY="0" frameWidth="225" frameHeight="136"/>
+	<SubTexture name="space0001" x="0" y="0" width="225" height="134" frameX="0" frameY="0" frameWidth="225" frameHeight="136"/>
+	<SubTexture name="space0002" x="0" y="136" width="225" height="128" frameX="0" frameY="-6" frameWidth="225" frameHeight="136"/>
+	<SubTexture name="space0003" x="0" y="136" width="225" height="128" frameX="0" frameY="-6" frameWidth="225" frameHeight="136"/>
+	<SubTexture name="space0004" x="0" y="266" width="225" height="118" frameX="0" frameY="-16" frameWidth="225" frameHeight="136"/>
+	<SubTexture name="space0005" x="0" y="266" width="225" height="118" frameX="0" frameY="-16" frameWidth="225" frameHeight="136"/>
+	<SubTexture name="space0006" x="0" y="386" width="225" height="116" frameX="0" frameY="-20" frameWidth="225" frameHeight="136"/>
+	<SubTexture name="space0007" x="0" y="386" width="225" height="116" frameX="0" frameY="-20" frameWidth="225" frameHeight="136"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character y="-100" sprite="MCM/Humiliation/squidward_final" scale="0.4" camx="-180" camy="70" icon="Squidward" color="#59a89e" holdTime="6.1" iconoffsety="5" iconScale="0.85" isGF="false">
+	<anim name="idle" anim="Idle" x="-4" y="-97" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up" x="11" y="47" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left" x="59" y="-78" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right" x="-36" y="-69" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Down" x="-37" y="-214" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="Clarinet Up" x="20" y="71" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="Clarinet Left" x="-23" y="-54" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="Clarinet Right" x="-77" y="-30" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="Clarinet Down" x="15" y="-75" fps="24" loop="false"/>
+</character>

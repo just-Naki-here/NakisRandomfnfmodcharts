@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-1010" y="10" sprite="MCM/Surrogate/scaredsquid" scale="1.3" flipX="true" camx="800" camy="300" isPlayer="true" icon="surrsquid-scared" color="#69ffd9" holdTime="6">
+	<anim name="idle" anim="ScaredSquidIdle" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="ScaredSquidLeft" x="-490" y="65" fps="30" loop="false"/>
+	<anim name="singDOWN" anim="ScaredSquidDown" x="-635" y="-225" fps="30" loop="false"/>
+	<anim name="singUP" anim="ScaredSquidUp" x="-598" y="72" fps="30" loop="false"/>
+	<anim name="singRIGHT" anim="ScaredSquidright" x="-650" y="-78" fps="30" loop="false"/>
+</character>

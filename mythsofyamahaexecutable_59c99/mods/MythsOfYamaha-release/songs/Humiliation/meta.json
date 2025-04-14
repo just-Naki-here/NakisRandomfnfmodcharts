@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"Hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -11554917,
+	"displayName": "Humiliation",
+	"icon": "Squidward",
+	"name": "Humiliation",
+	"color": "#4FAF9B"
+}

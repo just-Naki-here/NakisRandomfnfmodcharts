@@ -1,0 +1,21 @@
+<!DOCTYPE codename-engine-character>
+<character x="120" y="280" sprite="bf_mcm" scale="0.4" flipX="true" camx="-20" camy="-10" isPlayer="true" icon="bf_mcm" color="#4CB9E4" gameOverChar="bf_mcm" iconoffsety="5" iconScale="0.85" isGF="false">
+	<anim name="idle" anim="bf_idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="bf_up" x="0" y="63" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="bf_left" x="128" y="54" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="bf_right" x="-13" y="47" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="bf_down" x="39" y="-11" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="Hidle" x="1" y="62" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="Hup" x="-3" y="49" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="Hleft" x="50" y="70" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="Hright" x="5" y="69" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="Hdown" x="25" y="-4" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="bf_umiss" x="-20" y="53" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="bf_lmiss" x="76" y="34" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="bf_rmiss" x="-10" y="23" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="bf_dmiss" x="6" y="-36" fps="24" loop="false"/>
+	<anim name="preDeath" anim="bf predeath" x="148" y="91" fps="24" loop="false"/>
+	<anim name="firstDeath" anim="bf death0" x="-29" y="-68" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="bf death static" x="-29" y="-68" fps="24" loop="false"/>
+	<anim name="deathConfirm" anim="bf death confirm" x="-27" y="-44" fps="24" loop="false"/>
+</character>

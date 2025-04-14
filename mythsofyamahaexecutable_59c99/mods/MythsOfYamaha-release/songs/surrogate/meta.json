@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "SquidClone",
+	"difficulties": [
+		"hard"
+	],
+	"parsedColor": -7572995,
+	"customValues": {},
+	"color": "#8C71FD",
+	"name": "Surrogate",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Surrogate",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 165
+}

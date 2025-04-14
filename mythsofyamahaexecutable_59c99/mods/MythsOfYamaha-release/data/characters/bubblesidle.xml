@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="1550" icon="ppg"  y="120" isGF="true" camy="230" color="#D5616F" flipX="false" scale="0.84" isPlayer="false" sprite="MCM/Propaganda/Bubblesidle">
+	<anim x="0" loop="false" y="0" fps="24" anim="BGBubbles" name="idle"/>
+</character>

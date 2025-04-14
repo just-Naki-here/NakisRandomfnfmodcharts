@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" camx="-105" icon="bf_delivery" iconScale="0.72" y="290" iconoffsetx="5" iconoffsety="2" isGF="false" holdTime="6.8" camy="55" color="#2985ff" flipX="true" isPlayer="true" gameOverChar="null" sprite="MCM/Delivery/delivery_bf">
+	<anim x="0" loop="true" y="0" fps="60" anim="idle" name="idle"/>
+	<anim x="25" loop="false" y="59" fps="80" anim="up" name="singUP"/>
+	<anim x="85" loop="false" y="-1" fps="80" anim="left" name="singLEFT"/>
+	<anim x="100" loop="false" y="0" fps="60" anim="right" name="singRIGHT"/>
+	<anim x="29" loop="false" y="8" fps="60" anim="down" name="singDOWN"/>
+	<anim x="313" loop="false" y="-4" fps="105" anim="shit1" name="why1"/>
+	<anim x="25" loop="false" y="-1" fps="100" anim="shit2" name="why2"/>
+</character>

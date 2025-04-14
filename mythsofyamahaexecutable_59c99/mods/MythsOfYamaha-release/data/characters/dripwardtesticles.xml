@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="80" y="80" sprite="MCM/Dripward/dripwardtesticles" scale="0.7" camx="-50" camy="-50" icon="drip" color="#75B0A5" holdTime="6.1" iconoffsety="5" iconScale="0.85" isGF="false">
+	<anim name="idle" anim="idle" x="-1" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="up" x="6" y="123" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left" x="82" y="-41" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right" x="-62" y="-67" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down" x="55" y="-197" fps="24" loop="false"/>
+</character>

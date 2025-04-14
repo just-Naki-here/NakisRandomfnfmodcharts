@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="treedome" folder="stages/treedome/" startCamPosX="800" startCamPosY="400">
+	<sprite name="bg" x="-10" y="-30" sprite="TreeDomeBG" scale="1.1" zoomfactor="1" />
+	<sprite name="chase" x="0" y="0" sprite="Dehydrated" scale="3.2" updateHitbox="true"/>
+	<girlfriend x="150" y="-15"  zoomfactor="0" scale="0.9" alpha="1"/>
+	<dad x="320" y="160" zoomfactor="1" scale="0.9"/>
+
+	<sprite name="die" x="-80" y="-140" sprite="DrySpongeDeath" scale="1" updateHitbox="true"/>
+	<boyfriend x="540" y="-70"  zoomfactor="0" scale="0.9" alpha="0"/>
+</stage>

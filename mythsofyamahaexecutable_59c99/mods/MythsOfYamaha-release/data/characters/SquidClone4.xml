@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="750" y="200" sprite="MCM/Surrogate/BIGSOGGY" animatedIcon="true" camx="340" camy="-120" icon="SquidClone4" iconoffsetx="-100" iconoffsety="-160" iconScale="0.4" color="#000000" holdTime="8" isGF="false">
+	<anim name="idle" anim="BigSoggyReal" x="-157" y="-7" fps="24" loop="true" indices="0..95"/>
+	<anim name="singLEFT" anim="BigSoggyReal" x="-70" y="215" fps="24" loop="false" indices="96..119"/>
+	<anim name="singDOWN" anim="BigSoggyReal" x="-255" y="350" fps="24" loop="false" indices="120..143"/>
+	<anim name="singUP" anim="BigSoggyReal" x="-15" y="-70" fps="24" loop="false" indices="144..167"/>
+	<anim name="singRIGHT" anim="BigSoggyReal" x="35" y="350" fps="24" loop="false" indices="168..191"/>
+</character>

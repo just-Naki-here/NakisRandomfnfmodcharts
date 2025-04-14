@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Jellyfish.png" width="1831" height="1327">
+	<SubTexture name="crowd0000" x="5" y="455" width="873" height="218" frameX="-34" frameY="-43" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0001" x="5" y="455" width="873" height="218" frameX="-34" frameY="-43" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0002" x="5" y="5" width="911" height="228" frameX="-15" frameY="-17" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0003" x="5" y="5" width="911" height="228" frameX="-15" frameY="-17" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0004" x="5" y="238" width="921" height="212" frameX="-10" frameY="-8" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0005" x="5" y="238" width="921" height="212" frameX="-10" frameY="-8" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0006" x="883" y="455" width="927" height="188" frameX="-7" frameY="-9" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0007" x="883" y="455" width="927" height="188" frameX="-7" frameY="-9" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0008" x="840" y="901" width="928" height="189" frameX="-7" frameY="-14" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0009" x="840" y="901" width="928" height="189" frameX="-7" frameY="-14" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0010" x="921" y="5" width="905" height="202" frameX="-18" frameY="-32" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0011" x="921" y="5" width="905" height="202" frameX="-18" frameY="-32" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0012" x="5" y="678" width="873" height="218" frameX="-34" frameY="-43" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0013" x="5" y="678" width="873" height="218" frameX="-34" frameY="-43" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0014" x="5" y="901" width="830" height="228" frameX="-56" frameY="-17" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0015" x="5" y="901" width="830" height="228" frameX="-56" frameY="-17" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0016" x="883" y="648" width="817" height="212" frameX="-62" frameY="-8" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0017" x="883" y="648" width="817" height="212" frameX="-62" frameY="-8" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0018" x="5" y="1134" width="829" height="188" frameX="-56" frameY="-9" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0019" x="5" y="1134" width="829" height="188" frameX="-56" frameY="-9" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0020" x="840" y="1095" width="837" height="189" frameX="-52" frameY="-14" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0021" x="840" y="1095" width="837" height="189" frameX="-52" frameY="-14" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0022" x="931" y="212" width="860" height="202" frameX="-41" frameY="-32" frameWidth="942" frameHeight="273"/>
+	<SubTexture name="crowd0023" x="931" y="212" width="860" height="202" frameX="-41" frameY="-32" frameWidth="942" frameHeight="273"/>
+</TextureAtlas>

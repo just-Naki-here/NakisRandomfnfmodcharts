@@ -1,0 +1,24 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.55" name="stage" folder="stages/propaganda/">
+	<sprite name="bg" x="-940" y="-500" sprite="daStage" scroll="0.87" zoomfactor="0.9"/>
+	<sprite name="Carter" x="950" y="10" sprite="carter" antialiasing="true" scrollx="0.9" scrolly="0.9">
+		<anim name="idle" anim="carterIdle" loop="false"/>
+		<anim name="wbulg" anim="kartor preaches idle" loop="false"  fps="24"/>
+	</sprite>
+	<sprite name="Bush" x="1200" y="20" sprite="bush" antialiasing="true" scrollx="0.94" scrolly="0.94">
+		<anim name="idle" anim="bushIdle" loop="false"/>
+		<anim name="idle-alt" anim="ooga booga2" loop="false"/>
+		<anim name="awkward" anim="bushoopsies" loop="false"/>
+	</sprite>
+	<sprite name="Ford" x="630" y="90" sprite="ford" antialiasing="true" scrollx="0.97" scrolly="0.96">
+		<anim name="idle" anim="fordIdle" loop="false"/>
+		<anim name="idle-alt" anim="oogabooga" loop="false"/>
+		<anim name="awkward" anim="fordoopsies" loop="false"/>
+	</sprite>
+	<girlfriend x="570" y="-155" scale="0.95" scroll="1"/>
+	<boyfriend x="1325" y="280" scale="1" scroll="0.96"/>
+	<dad x="-200" y="0" scale="1"/>
+	<sprite name="ppgdead" x="690" y="650" sprite="ppgdead" scroll="0.98"/>
+	<sprite name="laptop" x="1678" y="790" sprite="laptop"/>
+	<sprite name="overlay" x="-940" y="-500" sprite="daStageOverlay" scroll="0.87" zoomfactor="0.9"/>
+</stage>

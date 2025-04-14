@@ -1,0 +1,8 @@
+{
+	"displayName": "Delivery",
+	"bpm": 186.0,
+	"icon": "delivery",
+	"color": "#FFCD38",
+	"coopAllowed": true,
+	"opponentModeAllowed": true
+}

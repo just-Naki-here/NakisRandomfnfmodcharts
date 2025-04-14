@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-420" iconScale="0.8" iconoffsety="5" iconoffsetx="-4" icon="dehydrate" camx="200" y="-200" isGF="false" camy="200" color="#C1A15D" isPlayer="false" holdTime="8" sprite="MCM/Dehydrated/DrySpongeTop">
+	<anim x="0" loop="true" y="0" fps="60" anim=" idle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="60" anim=" left" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="60" anim=" down" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="60" anim=" up" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="60" anim=" right" name="singRIGHT"/>
+</character>

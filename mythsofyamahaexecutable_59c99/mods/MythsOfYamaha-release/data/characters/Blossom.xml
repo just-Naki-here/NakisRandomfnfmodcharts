@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" holdTime="4" x="500" y="-450" camx="-120" camy="350" scale="0.84" sprite="MCM/Propaganda/Blossom" icon="ppg" color="#d5616f">
+
+   <anim name="singLEFT" anim="LeftBlossom" x="84" y="-16"/>
+   <anim name="singDOWN" anim="DownBlossom" x="972" y="-111"/>
+   <anim name="singUP" anim="BlossomUp" x="-52" y="100"/>
+   <anim name="singRIGHT" anim="BlossomRight" x="-118" y="-20"/>
+   <anim name="idle" anim="IdleBlossom" x="-5" y="0"/>
+
+</character>

@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="300" y="100" sprite="MCM/Propaganda/Reagan" camx="240" icon="icon-reagan" color="#8FCA00" gameOverChar="null" isGF="false" iconScale="0.56">
+	<anim name="idle" anim="Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up" x="73" y="18" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left" x="-8" y="3" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right" x="-77" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Down" x="-107" y="-13" fps="24" loop="false"/>
+	<anim name="yellow" anim="code yellow" x="-34" y="-2" fps="24" loop="false"/>
+	<anim name="holdhim" anim="hold him" x="-29" y="-4" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="idle0" x="-30" y="-110" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="left0" x="-19" y="-110" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="down0" x="-29" y="-123" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="up0" x="-37" y="-77" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="right0" x="-35" y="-107" fps="24" loop="false"/>
+</character>

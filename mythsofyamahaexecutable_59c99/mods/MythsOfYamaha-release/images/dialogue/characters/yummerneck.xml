@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="YummerNeck.png" width="937" height="990">
+	<SubTexture name="NeckAngry0000" x="522" y="0" width="350" height="220" frameX="-849" frameY="-806" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckAngry0001" x="522" y="0" width="350" height="220" frameX="-849" frameY="-806" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckAwkward0000" x="0" y="777" width="460" height="213" frameX="-769" frameY="-711" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckAwkward0001" x="0" y="777" width="460" height="213" frameX="-769" frameY="-711" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckDefault0000" x="432" y="579" width="505" height="198" frameX="-1589" frameY="-841" frameWidth="2560" frameHeight="1440"/>
+	<SubTexture name="NeckDefault0001" x="432" y="579" width="505" height="198" frameX="-1589" frameY="-841" frameWidth="2560" frameHeight="1440"/>
+	<SubTexture name="NeckLaughing0000" x="432" y="315" width="440" height="264" frameX="-845" frameY="-933" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckLaughing0001" x="432" y="315" width="440" height="264" frameX="-845" frameY="-933" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckLaughing0002" x="432" y="315" width="440" height="264" frameX="-845" frameY="-933" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckLaughing0003" x="432" y="315" width="440" height="264" frameX="-845" frameY="-933" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckLaughing0004" x="432" y="315" width="440" height="264" frameX="-845" frameY="-933" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckLaughing0005" x="432" y="315" width="440" height="264" frameX="-845" frameY="-933" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckLaughing0006" x="432" y="315" width="440" height="264" frameX="-845" frameY="-933" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckLaughing0007" x="432" y="315" width="440" height="264" frameX="-845" frameY="-933" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckLockedIn0000" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0001" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0002" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0003" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0004" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0005" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0006" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0007" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0008" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0009" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0010" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckLockedIn0011" x="0" y="315" width="432" height="339" frameX="-980" frameY="-1222" frameWidth="1582" frameHeight="1727"/>
+	<SubTexture name="NeckShocked0000" x="460" y="777" width="457" height="190" frameX="-763" frameY="-826" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckShocked0001" x="460" y="777" width="457" height="190" frameX="-763" frameY="-826" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckThinking0000" x="0" y="0" width="522" height="315" frameX="-723" frameY="-767" frameWidth="1582" frameHeight="1440"/>
+	<SubTexture name="NeckThinking0001" x="0" y="0" width="522" height="315" frameX="-723" frameY="-767" frameWidth="1582" frameHeight="1440"/>
+</TextureAtlas>

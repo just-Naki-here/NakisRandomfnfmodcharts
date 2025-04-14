@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="paradies_bgcast.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="entire friends0000" x="20" y="20" width="3451" height="804" frameX="-3" frameY="-56" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0001" x="20" y="20" width="3451" height="804" frameX="-3" frameY="-56" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0002" x="3491" y="20" width="3452" height="844" frameX="0" frameY="-16" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0003" x="3491" y="20" width="3452" height="844" frameX="0" frameY="-16" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0004" x="20" y="884" width="3450" height="853" frameX="-3" frameY="-7" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0005" x="20" y="884" width="3450" height="853" frameX="-3" frameY="-7" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0006" x="3490" y="884" width="3447" height="860" frameX="-6" frameY="0" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0007" x="3490" y="884" width="3447" height="860" frameX="-6" frameY="0" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0008" x="20" y="1764" width="3445" height="860" frameX="-8" frameY="0" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0009" x="3485" y="1764" width="3446" height="859" frameX="-8" frameY="-1" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0010" x="3485" y="1764" width="3446" height="859" frameX="-8" frameY="-1" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0011" x="3485" y="1764" width="3446" height="859" frameX="-8" frameY="-1" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0012" x="20" y="2644" width="3446" height="807" frameX="-8" frameY="-53" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0013" x="20" y="2644" width="3446" height="807" frameX="-8" frameY="-53" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0014" x="3486" y="2644" width="3446" height="798" frameX="-8" frameY="-62" frameWidth="3454" frameHeight="860"/>
+	<SubTexture name="entire friends0015" x="3486" y="2644" width="3446" height="798" frameX="-8" frameY="-62" frameWidth="3454" frameHeight="860"/>
+</TextureAtlas>
