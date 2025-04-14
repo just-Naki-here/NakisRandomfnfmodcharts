@@ -1,4 +1,4 @@
---varibles
+--variables
 X = 300
 Y = 200
 
@@ -28,9 +28,42 @@ streeep = 0
 startTheHardPart = false
 startNoteTweening = false
 wasDownScrollOff = false
-applicationNameShift = 0
-applicationNameShift1 = "Naki's FNF Modcharts - Halcyon"
---actual modcharting
+local appShifts = {
+    "Nakis FNF Modcharts- Halcyon",
+    "nNakis FNF Modcharts- Halcyo",
+    "onNakis FNF Modcharts - Halcy",
+    "yonNakis FNF Modcharts - Halc",
+    "cyonNaki's FNF Modcharts - Hal",
+    "lcyonNakis FNF Modcharts - Ha",
+    "alcyonNakis FNF Modcharts - H",
+    "HalcyonNakis FNF Modcharts - ",
+    "  HalcyonNakis FNF Modcharts -",
+    "- HalcyonNakis FNF Modcharts ",
+    " - HalcyonNakis FNF Modcharts",
+    "s - HalcyonNakis FNF Modchart",
+    "ts - HalcyonNakis FNF Modchar",
+    "rts - HalcyonNakis FNF Modcha",
+    "arts - HalcyonNakis FNF Modch",
+    "harts - HalcyonNakis FNF Modc",
+    "charts - HalcyonNakis FNF Mod",
+    "dcharts - HalcyonNakis FNF Mo",
+    "odcharts - HalcyonNakis FNF M",
+    "Modcharts - HalcyonNakis FNF ",
+    " Modcharts - HalcyonNakis FNF",
+    "F Modcharts - HalcyonNakis FN",
+    "NF Modcharts - HalcyonNakis F",
+    "FNF Modcharts - HalcyonNakis ",
+    " FNF Modcharts - HalcyonNakis",
+    "s FNF Modcharts - HalcyonNaki",
+    "is FNF Modcharts - HalcyonNak",
+    "kis FNF Modcharts - HalcyonNa",
+    "akis FNF Modcharts - HalcyonN"
+}
+
+local applicationNameShift = 0
+
+
+--actual mod-charting
 
 function onBeatHit() -- executes when beat value changes
 
@@ -41,11 +74,12 @@ function onBeatHit() -- executes when beat value changes
         setProperty('health', health- 0.02)
 
     end
-
 end
 
 function onStepHit()-- checks if the current step is equal to certain numbers
-    
+    if curStep == 1 then
+        applicationNameShift = 1 
+    end
     if curStep == 278 then -- checks if the current step is equal to 278
         
         startNoteTweening = true -- starts the code that moves the player notes around
@@ -57,11 +91,13 @@ function onStepHit()-- checks if the current step is equal to certain numbers
 
         startTheHardPart = true -- starts the more difficult note movement
         startNoteTweening = false -- ends the more relaxed note movement
+    
     end
+   --the annoying shit that controls the application name.
 
 end
 
-function onCreate() -- code that executes when player selects the song
+function OnCreate() 
 
     if middlescroll == true then -- checks if the player has middlescroll on
 
@@ -76,7 +112,7 @@ function onCreate() -- code that executes when player selects the song
         wasDownScrollOff = true -- saves the client prefrence for downscroll
         
     end
-
+    runTimer("updateAppName", 0.1, 0) -- timer loops forever every 0.1s
 
 
     setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.3);
@@ -92,7 +128,6 @@ function onSongStart() -- code that executes when the song begins
     setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.3);
     setPropertyFromGroup('opponentStrums', 2, 'alpha', 0.3);
     setPropertyFromGroup('opponentStrums', 3, 'alpha', 0.3);
-    setPropertyFromClass("openfl.Lib", "application.window.title", "Naki's FNF Modcharts - Halcyon")
     debugPrint("Application title change sucessful!")
     setPropertyFromClass("openfl.Lib", "application.window.x", 300)
     setPropertyFromClass("openfl.Lib", "application.window.y", 200)
@@ -226,7 +261,7 @@ end
 
 function onDestroy() -- code that is executed when the game is closed or player exits the song through the pause menu
 
-    setPropertyFromClass("openfl.Lib", "application.window.title", "Naki's FNF Charts")
+
     debugPrint("Application window sucessfully moved!")
 
     if wasMidscrollOn == true then
@@ -257,4 +292,11 @@ function onEndSong() -- code that is executed when either the player completes t
     
     end
 
+end
+
+function onTimerCompleted(tag, loops, loopsLeft)
+    if tag == "updateAppName" then
+        setPropertyFromClass("openfl.Lib", "application.window.title", appShifts[applicationNameShift + 1])
+        applicationNameShift = (applicationNameShift + 1) % #appShifts
+    end
 end
