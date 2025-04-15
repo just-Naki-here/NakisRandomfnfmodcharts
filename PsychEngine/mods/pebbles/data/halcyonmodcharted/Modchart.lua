@@ -130,25 +130,12 @@ function OnCreate()
 
     -- runTimer("updateAppName", 1)
 
-    setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.3);
-    
-    setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.3);
-    
-    setPropertyFromGroup('opponentStrums', 2, 'alpha', 0.3);
-    
-    setPropertyFromGroup('opponentStrums', 3, 'alpha', 0.3);
 
 end
 
 function onSongStart() -- code that executes when the song begins
 
-    setPropertyFromGroup('opponentStrums', 0, 'alpha', 0.3);
-  
-    setPropertyFromGroup('opponentStrums', 1, 'alpha', 0.3);
-  
-    setPropertyFromGroup('opponentStrums', 2, 'alpha', 0.3);
-  
-    setPropertyFromGroup('opponentStrums', 3, 'alpha', 0.3);
+
   
     -- old defunct code i am too lazy to remove
 
@@ -303,6 +290,8 @@ function onUpdate(elapsed) -- code that executes every frame
     end
 
     if startTheHardPart == true then
+
+        windowNameCycle = "H3lP M3 Pl3453!"
 
         delay = 0
         
