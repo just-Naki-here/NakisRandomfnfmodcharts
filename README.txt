@@ -1,6 +1,3 @@
-<a href="https://wakatime.com/badge/github/just-Naki-here/NakisRandomfnfmodcharts"><img src="https://wakatime.com/badge/github/just-Naki-here/NakisRandomfnfmodcharts.svg" alt="wakatime"></a>
-
-
 ON HIATUS, Possibly perm hiatus
 
 
