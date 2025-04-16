@@ -1,0 +1,50 @@
+{
+	"storyName": "three beasts, against a pipsqueak",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"free-4-miros",
+			"mirosbird",
+			[
+				215,
+				135,
+				55
+			]
+		],
+		[
+			"free-4-vulture",
+			"vulture",
+			[
+				180,
+				255,
+				173
+			]
+		],
+		[
+			"free-4-renti",
+			"pico",
+			[
+				126,
+				0,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Low quality"
+}

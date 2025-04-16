@@ -1,0 +1,9 @@
+{
+	"name": "2011 Rain World Obituaries",
+	"description": "A Silly Mod of 3 Rain World monsters singing 2011 Obituaries. PATCH #1",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [215,113,120], 
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

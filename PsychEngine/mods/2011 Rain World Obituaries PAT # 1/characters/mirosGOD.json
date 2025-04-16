@@ -1,0 +1,85 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				-239
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				56,
+				355
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-50,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				545,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-50,
+				-110
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/mirosditch",
+	"position": [
+		-450,
+		-95
+	],
+	"healthicon": "mirosgod",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		37,
+		79
+	],
+	"camera_position": [
+		20,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 0.75,
+	"_editor_isPlayer": false
+}

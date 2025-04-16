@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-49,
+				-716
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-94,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-100,
+				-589
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				445,
+				-627
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-90,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mirosbirdsprite",
+	"position": [
+		-300,
+		-500
+	],
+	"healthicon": "mirosbird",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		37,
+		79
+	],
+	"camera_position": [
+		-90,
+		420
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

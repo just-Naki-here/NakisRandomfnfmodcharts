@@ -1,0 +1,9 @@
+{
+	"name": "Rotridden Mod",
+	"description": "A fan-remake of "Last Hope" from Raindrop Funkin by SchnuckbartBo.",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [215,113,120], 
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}
