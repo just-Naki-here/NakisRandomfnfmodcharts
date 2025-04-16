@@ -29,7 +29,16 @@ startTheHardPart = false
 startNoteTweening = false
 wasDownScrollOff = false
 startPassiveHealthDrain = false
+local windowNameCycle = "Naki's FNF Modcharts - Hatred - ZayDash Animates - Modchart by just-Naki-here"
+local delay = 0
 --actual modcharting
+
+function setWindowTitle(title) -- finally figured out how to make the app name do what the title in surrogate
+       
+    setPropertyFromClass("openfl.Lib", "application.window.title", title)
+       
+end
+
 
 function onBeatHit() -- executes when beat value changes
 
@@ -122,6 +131,19 @@ function onSongStart() -- code that executes when the song begins
 end
 
 function onUpdate(elapsed) -- code that executes every frame
+
+    if curStep > 1 then
+              
+        if delay == 0 then
+                     
+            windowNameCycle = string.sub(windowNameCycle, -1) .. string.sub(windowNameCycle, 1, -2)
+            setWindowTitle(windowNameCycle)
+            
+        end
+        
+        delay = (delay + 1) % 3
+        
+    end
 
     math.randomseed(os.time())
     Decider = math.random(1, 100)    

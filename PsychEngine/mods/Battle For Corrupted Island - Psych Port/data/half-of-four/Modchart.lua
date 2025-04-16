@@ -26,18 +26,10 @@ randomPlayerstrumY13 = 0
 randomPlayerstrumY14 = 0
 streeep = 0
 startTheHardPart = false
-startNoteTweening = true
+startNoteTweening = false
 wasDownScrollOff = false
 startPassiveHealthDrain = false
-local windowNameCycle = "Naki's FNF Modcharts - Ending Seasons - Composed by ZayDash Animates - Modchart and Rechart by just-Naki-here "
-local delay = 0
 --actual modcharting
-
-function setWindowTitle(title) -- finally figured out how to make the app name do what the title in surrogate
-       
-    setPropertyFromClass("openfl.Lib", "application.window.title", title)
-       
-end
 
 function onBeatHit() -- executes when beat value changes
 
@@ -45,9 +37,9 @@ function onBeatHit() -- executes when beat value changes
 
     if startPassiveHealthDrain == true then -- waits for the var startPassiveHealthDrain to be set to true
 
-        if getProperty('health') > 0.07 then -- makes sure player health is able to be drained
+        if getProperty('health') > 0.05 then -- makes sure player health is able to be drained
 
-            setProperty('health', health- 0.02) -- drains the players health
+            setProperty('health', health- 0.04) -- drains the players health
 
         end
 
@@ -56,20 +48,32 @@ function onBeatHit() -- executes when beat value changes
 end
 
 function onStepHit()-- checks if the current step is equal to certain numbers
+    
+    if curStep == 1 then -- checks if the current step is equal to 1 aka the start of the song
+        
+        startNoteTweening = true -- starts the code that moves the player notes around
+        startTheHardPart = false -- disables the more difficult note movement
+    
+    end
 
-    if curStep == 2980 then -- checks if the current step is equal to 2980
+    if curStep == 2 then -- checks if the current step is equal to 2980
 
         startPassiveHealthDrain = true -- activates the passive health drain every beat code
 
     end
 
-    if curStep == 4768 then -- checks if the current step is equal to 4768
+    if curStep == 1600 then -- checks if the current step is equal to 4768
 
         startTheHardPart = true -- starts the more difficult note movement
         startNoteTweening = false -- ends the more relaxed note movement
     
     end
 
+    if curStep == 2383 then -- checks if the curr step is 2383
+
+        startPassiveHealthDrain = false -- turns off passive health drain
+    end
+    
 end
 
 function onCreate() -- code that executes when player selects the song
@@ -118,19 +122,6 @@ function onSongStart() -- code that executes when the song begins
 end
 
 function onUpdate(elapsed) -- code that executes every frame
-    
-    if curStep > 1 then
-              
-        if delay == 0 then
-                     
-            windowNameCycle = string.sub(windowNameCycle, -1) .. string.sub(windowNameCycle, 1, -2)
-            setWindowTitle(windowNameCycle)
-            
-        end
-        
-        delay = (delay + 1) % 3
-        
-    end
 
     math.randomseed(os.time())
     Decider = math.random(1, 100)    
