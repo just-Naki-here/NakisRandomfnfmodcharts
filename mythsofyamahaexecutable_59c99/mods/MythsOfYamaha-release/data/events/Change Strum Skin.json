@@ -9,6 +9,11 @@
             "name": "Pixel?",
             "type": "Bool",
             "defaultValue": "false"
-        }
+        },
+	{
+	    "name": "Player?",
+	    "type": "Bool",
+	    "defaultValue": "false"
+	}
     ]
 }

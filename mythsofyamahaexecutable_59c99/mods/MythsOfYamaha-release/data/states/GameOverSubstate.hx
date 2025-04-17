@@ -1,12 +1,11 @@
 import openfl.Lib;
-import funkin.backend.utils.WindowUtils;
-
-static var deathCounter:Int = 0;
 
 var fakeCamFollow:FlxSprite;
 var replaceCamera:Bool = false;
 var daCharacter:Character;
 var fakeCamZoom:Float;
+var doBeatAnim:Bool = true;
+var canLoop:Bool = false;
 
 var createNewCharacter:Bool = false;
 
@@ -29,87 +28,40 @@ function create()
     fakeCamZoom = 1;
     switch (daCharacter.curCharacter)
     {
-        case 'bf-apoc':
+        case 'propa_sponge':
+            fakeCamZoom = 0.7;
+            position[0].x = 620 + daCharacter.x;
+            position[0].y = 300 + daCharacter.y;
+        case 'berryfriend-dead':
             fakeCamZoom = 0.6;
-            position[0].x = 160 + daCharacter.x;
-            position[0].y = 600 + daCharacter.y;  
-        case 'bf-ultra':
+            doBeatAnim = false;
+            canLoop = true;
+            position[0].x = 140 + daCharacter.x;
+            position[0].y = 390 + daCharacter.y;
+        case 'bf-dead':
             position[0].x = 200 + daCharacter.x;
-            position[0].y = 500 + daCharacter.y;  
-        case 'nermal-dead-cry':
-            fakeCamZoom = 0.5;
-            position[0].x = 550 + daCharacter.x;
-            position[0].y = 240 + daCharacter.y;  
-        case 'bf-sky':
-            fakeCamZoom = 1.5;
-            position[0].x = 60 + daCharacter.x;
-            position[0].y = 470 + daCharacter.y;  
-        case 'bf-black' | 'bf-black2':
-            var coolX = daCharacter.curCharacter == 'bf-black' ? 170 + daCharacter.x : 100 + daCharacter.x;
-            var coolY = daCharacter.curCharacter == 'bf-black' ? 500 + daCharacter.y : 400 + daCharacter.y;
-            position[0].x = coolX;
-            position[0].y = coolY; 
-            fakeCamZoom = 0.7;
-            snapCam();
-        case 'jesse-death':
-            fakeCamZoom = 0.7;
-            position[0].x = 430 + daCharacter.x;
-            position[0].y = 600 + daCharacter.y;    
-            snapCam();
-        case 'godnermaldeath':
-            fakeCamZoom = 0.75;
-            position[0].x = 530 + daCharacter.x;
-            position[0].y = 900 + daCharacter.y;    
-            snapCam();
-        case 'bf-dead-bw':
-            position[0].x = 330 + daCharacter.x;
-            position[0].y = 600 + daCharacter.y;    
-            snapCam(); 
-        case 'jon-player':
-            position[0].x = 210 + daCharacter.x;
-            position[0].y = 550 + daCharacter.y;
-        case 'bf-pixel-dead-lasagna':
-            fakeCamZoom = 0.85;
-            position[0].x = 820 + daCharacter.x;
-            position[0].y = 425 + daCharacter.y;
-            FlxG.camera.bgColor = 0xFF527f3a;
-            snapCam();
-        case 'binky_game_over':
-            position[0].x = 1030 + daCharacter.x;
-            position[0].y = 1070 + daCharacter.y;
-        case 'bf-dead-art':
+            position[0].y = 450 + daCharacter.y;
+        case 'bf_mcm':
+            fakeCamZoom = 1.4;
             position[0].x = 200 + daCharacter.x;
-            position[0].y = 500 + daCharacter.y;
-        case "luna-dead-angry":
-            position[0].x = 400 + daCharacter.x;
-            position[0].y = 200 + daCharacter.y;
-            fakeCamZoom = 0.8;
-            snapCam();
-        case 'garfield-dead':
-            position[0].x = 600 + daCharacter.x;
-            position[0].y = 500 + daCharacter.y;
-            fakeCamZoom = 0.8;
-            snapCam();
+            position[0].y = 450 + daCharacter.y;
         default:
             var camPos = daCharacter.getCameraPosition();
             position[0].x = camPos.x + daCharacter.x;
             position[0].y = camPos.y + daCharacter.y; 
     }
 
-    if (!FlxG.save.data.baby)
-        deathCounter++;
-
     fakeCamFollow = new FlxSprite(position[0].x, position[0].y).makeSolid(1, 1, 0xFFFFFFFF);
     fakeCamFollow.visible = false;
     add(fakeCamFollow);
     replaceCamera = true;
 
-
-    window.title = windowTitleGOREFIELD + " - " + PlayState.instance.SONG.meta.name + " - GAME OVER";
+    window.title = "Mistful Crimson Morning - " + PlayState.SONG.meta.name + " - GAME OVER";
 }
 
 function postCreate()
 {
+    FlxG.camera.bgColor = 0xFF000000;
     if (!createNewCharacter)
         return;
 
@@ -129,8 +81,10 @@ function beatHit(curBeat:Int)
     if (!createNewCharacter)
         return;
 
-    if (FlxG.sound.music != null && FlxG.sound.music.playing)
-        daCharacter.playAnim("deathLoop", true);
+    if (FlxG.sound.music != null && FlxG.sound.music.playing && doBeatAnim){
+        trace('test');
+        daCharacter.playAnim("deathLoop", false);
+    }
 }
 
 function update(elapsed:Float)
@@ -141,17 +95,19 @@ function update(elapsed:Float)
         replaceCamera = false;
     }
 
-    if (!FlxG.save.data.baby && deathCounter == 3 && controls.ACCEPT && !isEnding && !FlxG.save.data.dev)
-    {
-        isEnding = true;
-        deathCounter = 0;
-        FlxG.switchState(new ModState("gorefield/BebeRepeatAfterMem"));
-    }
+    for (member in members)
+        if (Std.isOfType(member, Character))
+        {
+            member.lastAnimContext = "LOCK"; //i hate the fact that i have to add this WHY DOES THE IDLE PLAY IN THE DEATH SCREEN
+        }
 
     if (createNewCharacter)
     {
         if (controls.ACCEPT && !isEnding)
             daCharacter.playAnim("deathConfirm", true);
+
+        if(!isEnding && (daCharacter.getAnimName() == "deathConfirm" && daCharacter.isAnimFinished()) && canLoop)
+            daCharacter.playAnim("deathConfirm-loop", true);
 
         if (!isEnding && ((!lossSFX.playing) || (daCharacter.getAnimName() == "firstDeath" && daCharacter.isAnimFinished())) && (FlxG.sound.music == null || !FlxG.sound.music.playing)) 
         {

@@ -1,32 +1,51 @@
-import funkin.backend.system.framerate.Framerate;
-import funkin.backend.utils.DiscordUtil;
+import funkin.backend.MusicBeatState;
+import funkin.savedata.FunkinSave;
+importScript("data/scripts/menus/mainMenuBG");
+importScript("data/scripts/menus/musicLoop");
 
-function postCreate() {
-    var bg:FlxSprite = new FlxSprite().makeSolid(FlxG.width, FlxG.height, FlxColor.fromRGB(17,5,33));
-    bg.scrollFactor.set(0,0);
-    //insert(1, bg); // 1 is right after bg WHICH IS NOT A VAR FOR SOME REASON!!!11
+FlxG.save.data.humizero = false;
+function postCreate()
+{
+    if (!FlxG.save.data.randomActive) playLoopedSong(); else playRandomSong(optionMenuReturn ? false : true);
+    if (FlxG.save.data.randomActive) depthLock = true;
+	camFront.zoom = (FlxG.save.data.randomActive ? 0.5 : 0.43);
+    FlxG.camera.zoom = 1;
+    camFront.scroll.y = -700;
 
-    var logoBl:FlxSprite = new FlxSprite(1020, 6);
-	logoBl.frames = Paths.getSparrowAtlas('menus/logoMod');
-	logoBl.animation.addByPrefix('bump', 'logo bumpin', 24);
-	logoBl.animation.play('bump');
-	logoBl.scale.set(0.3, 0.3);
-    logoBl.scrollFactor.set(0,0);
-	logoBl.updateHitbox();
-	logoBl.antialiasing = true;
-	add(logoBl);
+    FlxG.cameras.remove(camFront, false);
+	FlxG.cameras.remove(FlxG.camera, false);
 
-	for (option in main.members)
-		if (option.desc == "Modify mod options here")
-			main.members.remove(option);
+    FlxG.cameras.add(camFront, false);
+    FlxG.cameras.add(FlxG.camera, true);
+    
+    FlxG.camera.bgColor = 0;
 
-	var vigentte:FlxSprite = new FlxSprite().loadGraphic(Paths.image("menus/black_vignette"));
-	vigentte.alpha = 0.25; vigentte.scrollFactor.set(0,0);
-	add(vigentte);
-
-	DiscordUtil.changePresence('Scrolling Through Menus...', "Settings");
+    for (i=>member in members){
+        if (FlxG.save.data.randomActive){
+            switch(i){
+                case 0 | 1 | 2 | 3 | 4 | 5:
+                    member.cameras = [camFront];
+                case 6:
+                    remove(member);
+            }
+        }
+        else{
+            switch(i){
+                case 0 | 1 | 2 | 3 | 4 | 5 | 6:
+                    member.cameras = [camFront];
+                case 7:
+                    remove(member);
+            }
+        }
+    }
 }
 
-function update(elapsed:Float) {
-	Framerate.offset.y = pathBG.height;
+function update(){
+    if(optionMenuReturn)
+        MusicBeatState.skipTransIn = MusicBeatState.skipTransOut = true;
+    if(FlxG.save.data.humizero){
+        FunkinSave.getSongHighscore("Humiliation", "HARD").score = 0;
+        FlxG.save.data.humizero = false;
+        FlxG.save.data.randomActive = false;
+    }
 }

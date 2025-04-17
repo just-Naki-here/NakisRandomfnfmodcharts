@@ -1,30 +1,17 @@
 <!DOCTYPE codename-mod-options>
-
-<menu name="Song Options" desc="Specific settings for the songs in the mod.">
-    <menu name="Genesis Options" desc="Toggles for events, shaders, and mechanics in Genesis.">
-		<checkbox id="null" name="NMI gyat" desc=":tongue:"/>
-    </menu>
-    <menu name="Forever Dream Options" desc="Toggles for events, shaders, and mechanics in Forever Dream.">
-        <checkbox id="fdNTSC" name="NTSC Shader" desc="If enabled, applies a NTSC shader over the whole game."/>
-
-        <checkbox id="fdBloom" name="Bloom Shader" desc="If enabled, applies a Bloom shader over Stage and snow."/>
-        <checkbox id="fdGlitch" name="Glitch Shader" desc="If enabled, applies a Glitch shader in certain events and snow too lol."/>
-        <checkbox id="fdIvert" name="Invert Shader" desc="If enabled, applies Ivert shader in certain events."/>
-    <choice id="fdResolution" name="Resolution" desc="Changes the window resolution.">
-    <value name="836 x 720" value="small"/>
-		<value name="1120 x 960" value="big"/>
-	  </choice>
-		<checkbox id="fdGameCamPixel" name="Game Pixel Shader" desc="If enabled, applies a pixel perfect shader over the characters and background."/>
-		<checkbox id="fdHUDCamPixel" name="UI Pixel Shader" desc="If enabled, applies a pixelated shader over all UI elements."/>
-		<checkbox id="fdFlicker" name="Flicker Backgrounds" desc="If enabled, causes the background to flicker as part of song events."/>
-		<checkbox id="fdMechanics" name="Mechanics" desc="Disable this if you don't want to experience song mechanics."/>
-    </menu>
-    <menu name="Premeditated Options" desc="Toggles for events, shaders, and mechanics in Premeditated.">
-		<checkbox id="premedPcFuckery" name="Pc Mechanics" desc="Disable this if you dont want Premeditated to mess with your pc! (Removing the taskbar, changing your wallpaper, etc.)"/>
-    </menu>
-    <menu name="Classic Options" desc="Toggles for events, shaders, and mechanics in Classic.">
-		<checkbox id="null" name="insert option here" desc=""/>
-    </menu>
-
-	<checkbox id="moyDrainHealth" name="Health Drain" desc="If enabled, the opponent drains your health whenever they hit a note. Health can be gained back."/>
+<!-- TEMPLATE FOR CUSTOM OPTIONS!!! -->
+<menu name="MCM Options" desc="Modify MCM options here">
+	<checkbox id="mcm_noshaders" name="Disable Shaders" desc="Disables shaders that my impact on performance." />
+	<checkbox id="mcm_subtitles" name="Enable Subtitles" desc="Enables subtitles for dialogue during the songs."/>
+	<checkbox id="mcm_nomoving" name="Disable Moving Windows" desc="Disables instances of moving windows." />
+	<checkbox id="mcm_nocountdown" name="Disable Pause Countdown" desc="Disables countdown before resuming song." />
+	<!--  <checkbox id="dev" name="Developer Mode" desc="Enables debug_tools.hx, allows for speeding up/slowing down the game.
+		PRESS 1 - Skip Song
+		PRESS 2 - Slows Game By 10% (Min Speed: 10%)
+		PRESS 3 - Resets Game Speed To 100%
+		PRESS 4 - Speeds Game By 10% (Max Speed: 200%)
+		PRESS 5 - Hold To Speed Game By 2000%, Uses BOTPLAY
+		PRESS 6 - Toggle For Botplay On Player Strums" />
+	<checkbox id="humizero" name="Reset Humiliation Score?" desc="Resets your score for Humiliation
+	(for playtesting/debug purposes, probably remove this later)"/> -->
 </menu>

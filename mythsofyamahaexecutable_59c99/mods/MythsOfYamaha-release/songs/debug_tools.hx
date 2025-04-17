@@ -7,10 +7,12 @@ public var curSpeed:Float = 1;
 static var curBotplay:Bool = false;
 static var devControlBotplay:Bool = true;
 
+var disableBotDisplay:Bool = false; //mostly for preview videos lolll
+
 public var botplayTxt:FlxText;
 function postCreate() {
     botplayTxt = new FlxText(400, strumLines.members[0].members[0].y + 50, FlxG.width - 800, "BOTPLAY", 32);
-    botplayTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, FlxTextAlign.CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+    botplayTxt.setFormat(Paths.font("krabby.ttf"), 32, FlxColor.WHITE, FlxTextAlign.CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
     botplayTxt.visible = curBotplay;
     botplayTxt.borderSize = 1.25;
     botplayTxt.camera = camHUD;
@@ -18,7 +20,7 @@ function postCreate() {
 }
 
 function update(elapsed:Float) {
-    if (FlxG.save.data.dev || catbotEnabled)
+    if (FlxG.save.data.dev)
         updateBotplay(elapsed);
 
     if (startingSong || !canPause || paused || health <= 0 || !FlxG.save.data.dev) return;
@@ -47,7 +49,7 @@ function updateBotplay(elapsed:Float) {
         if(!strumLine.opponentSide)
             strumLine.cpu = FlxG.keys.pressed.FIVE || curBotplay;
 
-    botplayTxt.visible = curBotplay;
+    botplayTxt.visible = disableBotDisplay ? false : curBotplay;
     
     if (!curBotplay) return;
 
@@ -61,3 +63,5 @@ function updateSpeed(speed:Float)
 function onGamePause() {updateSpeed(1);}
 function onSongEnd() {updateSpeed(1);}
 function destroy() {FlxG.timeScale = 1;FlxG.sound.muted = false;}
+
+disableScript(); //for release

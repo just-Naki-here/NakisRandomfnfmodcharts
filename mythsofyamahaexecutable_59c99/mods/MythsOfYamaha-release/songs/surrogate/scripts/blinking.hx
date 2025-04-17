@@ -100,10 +100,10 @@ function onPlayerHit(event){ //heal value (less)
 	}
 
 	if(event.note.isSustain){
-		health -= damageMult * 0.7;
+		health += damageMult * 0.7;
 	}
 	else{
-		health -= damageMult;
+		health += damageMult;
 	}
 }
 

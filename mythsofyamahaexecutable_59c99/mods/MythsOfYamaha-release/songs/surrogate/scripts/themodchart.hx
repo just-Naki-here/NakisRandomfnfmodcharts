@@ -1,5 +1,6 @@
 // since athen's codename port doesn't work with "window" variable (assuming they deleted it) LET'S USE APPLICATION!!
 import lime.app.Application;
+import states.PlayState;
 
 //that modchart is cool but can we do this instead? - vani
 // do we... - hero
@@ -11,6 +12,12 @@ var nY;
 var windows = Application.current.window;
 var phase4time = false;
 
+
+function noteMiss(id:Int, dir:Int):Void {
+  
+	trace('Total misses: ${PlayState.instance.songMisses}');
+
+}
 var bloom = new CustomShader('bloom2');
 
 function postCreate() {
@@ -80,10 +87,10 @@ function beatHit(curBeat) {
 }
 
 function applyRandomOffset(obj) {
-	var nX = FlxG.random.float(-20, 20);
+	var nX = FlxG.random.float(-25, 25);
 	obj.x = (obj.x + nX > 0 && obj.x + nX < 1280) ? obj.x + nX : obj.x - 2 * nX;
 	
-	var nY = FlxG.random.float(-20, 20);
+	var nY = FlxG.random.float(-25, 25);
 	obj.y = (obj.y + nY > 0 && obj.y + nY < 470) ? obj.y + nY : obj.y - 2 * nY;
 }
 
