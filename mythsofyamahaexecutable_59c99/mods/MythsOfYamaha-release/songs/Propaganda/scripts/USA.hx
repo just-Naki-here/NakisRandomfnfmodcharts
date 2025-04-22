@@ -5,7 +5,7 @@ if (!windowResized){
 	resize(960, 720, true);
 } 
 
-var devMode = true;
+var devMode = false;
 var timer = 0;
 var qualityLow = new CustomShader('VHS');
 var circleblur = new CustomShader('circleblur');

@@ -227,9 +227,9 @@ function update(elapsed) {
 	//vignette.alpha = FlxG.camera.zoom;
 	switch (phase) {
 		case 0|4: drainAmount = 0;
-		case 1: drainAmount = 0.015;
-		case 2: drainAmount = 0.025;
-		case 3: drainAmount = 0.050;
+		case 1: drainAmount = 0.025;
+		case 2: drainAmount = 0.05;
+		case 3: drainAmount = 0.075;
 
 	}
 	if (health > 0.1) health -= drainAmount*elapsed;
