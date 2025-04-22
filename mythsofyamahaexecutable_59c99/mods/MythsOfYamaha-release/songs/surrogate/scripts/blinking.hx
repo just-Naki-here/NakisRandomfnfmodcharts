@@ -92,15 +92,15 @@ function onPlayerHit(event){ //heal value (less)
 
 	switch(phase){
 		case 1:
-			damageMult = 0.005;
+			damageMult = 0.0025;
 		case 2:
-			damageMult = 0.010;
+			damageMult = 0.0050;
 		case 3:
-			damageMult = 0.015;
+			damageMult = 0.0075;
 	}
 
 	if(event.note.isSustain){
-		health -= damageMult * 0.7;
+		health -= damageMult * 0.35;
 	}
 	else{
 		health -= damageMult;
@@ -111,11 +111,11 @@ function onPlayerMiss(event){ //miss damage
 	var damageMult = 0;
 	switch(phase){
 		case 1:
-			damageMult = 0.004;
+			damageMult = 0.002;
 		case 2:
-			damageMult = 0.008;
+			damageMult = 0.004;
 		case 3:
-			damageMult = 0.012;
+			damageMult = 0.006;
 	}
 	event.healthGain = event.healthGain - damageMult;
 }
