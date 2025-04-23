@@ -28,3 +28,57 @@
 
 	<checkbox id="moyDrainHealth" name="Health Drain" desc="If enabled, the opponent drains your health whenever they hit a note. Health can be gained back."/>
 </menu>
+<menu name="MCM Options" desc="Modify MCM options here">
+	<checkbox id="mcm_noshaders" name="Disable Shaders" desc="Disables shaders that my impact on performance." />
+	<checkbox id="mcm_subtitles" name="Enable Subtitles" desc="Enables subtitles for dialogue during the songs."/>
+	<checkbox id="mcm_nomoving" name="Disable Moving Windows" desc="Disables instances of moving windows." />
+	<checkbox id="mcm_nocountdown" name="Disable Pause Countdown" desc="Disables countdown before resuming song." />
+	  <checkbox id="dev" name="Developer Mode" desc="Enables debug_tools.hx, allows for speeding up/slowing down the game.
+		PRESS 1 - Skip Song
+		PRESS 2 - Slows Game By 10% (Min Speed: 10%)
+		PRESS 3 - Resets Game Speed To 100%
+		PRESS 4 - Speeds Game By 10% (Max Speed: 200%)
+		PRESS 5 - Hold To Speed Game By 2000%, Uses BOTPLAY
+		PRESS 6 - Toggle For Botplay On Player Strums" />
+	<checkbox id="humizero" name="Reset Humiliation Score?" desc="Resets your score for Humiliation
+	(for playtesting/debug purposes, probably remove this later)"/>
+</menu>
+<menu name="Naki's Funni Settings" desc="Just to config stuff for Naki's testing purposes.">
+  <checkbox id="No" name="No" desc="Nothing Here"/> 
+  <menu name="The True Debug" desc="True Debug Access">
+    <checkbox id="Nope" name="No" desc="Nothing Here"/> 
+    <menu name="Are You Sure?" desc="It Might Not Be What It Says It Is.">
+      <checkbox id="Nah" name="No" desc="Nothing Here"/> 
+      <menu name="Are You Sure Sure?" desc="Do You Really Want To Know?">
+        <checkbox id="NotToday" name="No" desc="Nothing Here"/> 
+        <menu name="Why Are You So Persistant?" desc="This Is Pointless.">
+          <checkbox id="IHateThis" name="No" desc="Nothing Here"/> 
+          <menu name="There Is Nothing Here" desc="You Are Wasting Your Time.">
+            <checkbox id="ThisIsTiring" name="No" desc="Nothing Here"/> 
+            <menu name="Stop It, It's Not Worth It" desc="I'm Being Serious.">
+              <checkbox id="IHaveToFinish" name="No" desc="Nothing Here"/> 
+              <menu name="Like Seriously It's Not Worth It" desc="Are You Even Looking At The Descriptions?">
+                <checkbox id="ThisSucks" name="No" desc="Nothing Here"/> 
+                <menu name="You Are Seriously Wasting Time For This?" desc="It's Quite Dumb If You Are.">
+                  <checkbox id="LetMeGo" name="No" desc="Nothing Here"/> 
+                  <menu name="Go Back... NOW!" desc="This Is Stupid... Why Do You Have To Continue?">
+                    <checkbox id="FreeMe" name="No" desc="Nothing Here"/> 
+                    <menu name="Stop Continuing!" desc="You Are Hurting My Head!!!">
+                      <checkbox id="ItsNotWorthIt" name="No" desc="Nothing Here"/> 
+                      <menu name="Are You Blind?" desc="There Is Nothing Here.">
+                        <checkbox id="StopItPlease" name="No" desc="Nothing Here"/> 
+                        <menu name="This Is Pointless!" desc="Give Up... Please!">
+                          <checkbox id="TrueDebug" name="True Debug" desc="If enabled, makes the songs more difficult"/>
+                        </menu>
+                      </menu>
+                    </menu>
+                  </menu>
+                </menu>
+              </menu>
+            </menu>
+          </menu>
+        </menu>
+      </menu>
+    </menu>
+  </menu>
+</menu>

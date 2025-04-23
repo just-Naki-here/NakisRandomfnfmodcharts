@@ -48,7 +48,20 @@ function new() {
         if (FlxG.save.data.moyTransitionType == null) FlxG.save.data.moyTransitionType = false;
 
         if (FlxG.save.data.moySongsBeat == null) FlxG.save.data.moySongsBeat = [];
-
+        // _NAKIS FUNNI SHIT
+        if (FlxG.save.data.No == null) FlxG.save.data.No = false;
+        if (FlxG.save.data.Nope == null) FlxG.save.data.Nope = false;
+        if (FlxG.save.data.Nah == null) FlxG.save.data.Nah = false;
+        if (FlxG.save.data.NotToday == null) FlxG.save.data.NotToday = false;
+        if (FlxG.save.data.IHateThis == null) FlxG.save.data.IHateThis = false;
+        if (FlxG.save.data.ThisIsTiring == null) FlxG.save.data.ThisIsTiring = false;
+        if (FlxG.save.data.IHaveToFinish == null) FlxG.save.data.IHaveToFinish = false;
+        if (FlxG.save.data.ThisSucks == null) FlxG.save.data.ThisSucks = false;
+        if (FlxG.save.data.LetMeGo == null) FlxG.save.data.LetMeGo = false;
+        if (FlxG.save.data.FreeMe == null) FlxG.save.data.FreeMe = false;
+        if (FlxG.save.data.ItsNotWorthIt == null) FlxG.save.data.ItsNotWorthIt = false;
+        if (FlxG.save.data.StopItPlease == null) FlxG.save.data.StopItPlease = false;
+        if (FlxG.save.data.TrueDebug == null) FlxG.save.data.TrueDebug = false;
     FlxG.mouse.load(Paths.image('menus/cursor'), 0.2);
     FlxG.mouse.visible = !(FlxG.mouse.useSystemCursor = false);
 

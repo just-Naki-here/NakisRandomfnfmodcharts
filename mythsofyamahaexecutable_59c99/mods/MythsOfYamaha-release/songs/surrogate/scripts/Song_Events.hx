@@ -223,14 +223,33 @@ function stepHit(step) {
 }
 var drainAmount = 0;
 function update(elapsed) {
+	if (FlxG.save.data.TrueDebug == true) {
+		if (phase==0) {
+			drainAmount = 0.0125;
+		}
+		if (phase==1) {
+			drainAmount=0.025;
+		}
+		if (phase== 2) {
+			drainAmount = 0.0325;
+		}
+		if (phase==3) {
+			drainAmount = 0.05;
+		}
+		if (phase==4) {
+			drainAmount = 0.0125;
+		}
+	}
+	else {
+		switch (phase) {
+			case 0|4: drainAmount = 0;
+			case 1: drainAmount = 0.0125;
+			case 2: drainAmount = 0.025;
+			case 3: drainAmount = 0.0375;
+		}
+	}
+	
 	for (shader in [wave, weird, glitch]) shader.iTime += [5, 3, 0.001][[wave, weird, glitch].indexOf(shader)] * elapsed;
 	//vignette.alpha = FlxG.camera.zoom;
-	switch (phase) {
-		case 0|4: drainAmount = 0;
-		case 1: drainAmount = 0.0125;
-		case 2: drainAmount = 0.025;
-		case 3: drainAmount = 0.0375;
-
-	}
 	if (health > 0.1) health -= drainAmount*elapsed;
 }

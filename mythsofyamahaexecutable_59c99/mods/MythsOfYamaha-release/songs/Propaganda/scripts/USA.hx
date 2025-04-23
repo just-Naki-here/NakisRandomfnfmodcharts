@@ -122,8 +122,7 @@ function postCreate()
 		for (camera in [camGame, camExtras, camFlags, camHUD, camVideos]) camera.addShader(qualityLow);
 	}
 	for (c in [camFlags, camHUD]) c.alpha = 0.0001;
-	if (!devMode)
-	{
+	if (true){
 		camGame.alpha = 0.0001;
 		strumLines.members[2].characters[0].visible = strumLines.members[3].characters[0].visible = strumLines.members[3].characters[1].visible = false;
 		stage.stageSprites["ppgdead"].visible = false;
