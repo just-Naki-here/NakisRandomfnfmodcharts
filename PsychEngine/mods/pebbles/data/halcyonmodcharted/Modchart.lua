@@ -43,18 +43,34 @@ function onBeatHit() -- executes when beat value increases by 1
               setProperty('health', health- 0.01) -- If the condition is true, this line decreases the health by 0.01
                                                   -- and updates the health property with the new value.
        end
-       if curBeat % 5 == 0 then
-        
-              currentAngle = currentAngle + (10 * rotationDirection) -- Update angle
-              -- Reverse direction if angle hits 90 or -90
-              if currentAngle >= 90 or currentAngle <= -90 then
-                     rotationDirection = rotationDirection * -1
-              end
-              -- Apply rotation to player strums (indexes 4 to 7)
-              for i = 4, 7 do
-                     setPropertyFromGroup('strumLineNotes', i, 'angle', currentAngle)
-              end
-       end
+                                                                                                  --[[all this to control the note angles]]--
+              if curBeat % 2 == 0 then                                                            --|
+                     currentAngle = currentAngle + (5 * rotationDirection) -- Update angle        --|
+                     if currentAngle<0 then                                                       --|
+                            if curStep%2 == 0 then                                                --|
+                                   sustainDirection = -270 - (currentAngle/5)                     --|
+                            else                                                                  --|
+                                   sustainDirection = -270 + (currentAngle/5)                     --|
+                            end                                                                   --|
+                     elseif currentAngle > 0 then                                                 --|
+                            if curStep%2 == 0 then                                                --|
+                                   sustainDirection= 90 - (currentAngle/5)                        --|
+                            else                                                                  --|
+                                   sustainDirection = 90 + (currentAngle/5)                       --|
+                            end                                                                   --|
+                     else                                                                         --|
+                            sustainDirection = 90                                                 --|
+                     end                                                                          --|
+                     -- Reverse direction if angle hits 45 or -45                                 --|
+                     if currentAngle >= 45 or currentAngle <= -45 then                            --|
+                     rotationDirection = rotationDirection * -1                                   --|
+                     end                                                                          --|
+              -- Apply rotation to player strums (indexes 4 to 7)                                 --|
+              for i = 4, 7 do                                                                     --|
+                     setPropertyFromGroup('strumLineNotes', i, 'angle', currentAngle)             --|
+                     noteTweenDirection('noteSustainDir' .. i, i, sustainDirection, 0.3)          --|
+              end                                                                                 --|
+       end                                                                                        --|
 end
 function onStepHit()-- checks if the current step is equal to certain numbers
        -- old defunct code i am too lazy to remove
@@ -228,11 +244,17 @@ function onEndSong() -- code that is executed when either the player completes t
               setPropertyFromClass("ClientPrefs", "downScroll", false)
        end
 end
--- old defunct code i am too lazy to remove
--- function onTimerCompleted(tag, loops, loopsLeft)
---     if tag == "updateAppName" then
---           setPropertyFromClass("openfl.Lib", "application.window.title", appShifts[applicationNameShift + 1])
---           applicationNameShift = (applicationNameShift + 1) % #appShifts
---           runTimer("updateAppName", 1) -- re-run after 0.1s
---     end
--- end
+function goodNoteHit(noteID, direction, noteType, isSustainNote)
+       if not isSustainNote then
+           local strumIndex = direction + 4
+           -- Random shake offset
+           local shakeX = math.random(-8, 8)
+           local shakeY = math.random(-8, 8)
+           -- Apply shake
+           setPropertyFromGroup('strumLineNotes', strumIndex, 'x', defaultStrumX[strumIndex] + shakeX)
+           setPropertyFromGroup('strumLineNotes', strumIndex, 'y', defaultStrumY[strumIndex] + shakeY)
+           -- Tween back to default position quickly
+           doTweenX('resetX'..strumIndex, 'strumLineNotes['..strumIndex..']', defaultStrumX[strumIndex], 0.05, 'linear')
+           doTweenY('resetY'..strumIndex, 'strumLineNotes['..strumIndex..']', defaultStrumY[strumIndex], 0.05, 'linear')
+       end
+end
