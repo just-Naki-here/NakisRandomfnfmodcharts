@@ -305,6 +305,7 @@ function onEndSong() -- code that is executed when either the player completes t
        if wasDownScrollOff == true then
               setPropertyFromClass("ClientPrefs", "downScroll", false)
        end
+       setWindowTitle("Naki's FNF Modcharts")
 end
 function goodNoteHit(noteID, direction, noteType, isSustainNote)
        if not isSustainNote then

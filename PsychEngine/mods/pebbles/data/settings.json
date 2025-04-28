@@ -48,5 +48,12 @@
 		"type": "bool",
 		"description": "should discord show whenever you are in charting mode or not",
 		"value": true
+	},
+	{
+		"save": "disableInsanityEffects",
+		"name": "disableInsanityEffects",
+		"type": "bool",
+		"description": "disable if you want the insane modcharting on halcyonmodcharting to be active",
+		"value": false
 	}
 ]
