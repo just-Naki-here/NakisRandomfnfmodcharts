@@ -141,6 +141,7 @@ function OnCreate()
         old defunct code i am too lazy to remove
        runTimer("updateAppName", 1)
        --]]
+ 
 end
 function onSongStart() -- code that executes when the song begins
        --[[

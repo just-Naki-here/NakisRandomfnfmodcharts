@@ -1,4 +1,5 @@
--- MissEffects.lua
+--step check
+local allowWindowBullShit = false
 
 -- Window and screen effects
 local shakeIntensity = 0
@@ -26,12 +27,23 @@ local shaderEnabled = false
 local shaderName = 'wobble'
 
 local lastMisses = 0
-
+function onStepHit()
+    if curStep < 2631 then
+        allowWindowBullShit = true
+    elseif curStep == 2632 then
+        allowWindowBullShit = false
+    else
+        allowWindowBullShit = true
+    end
+end
 function onCreatePost()
     -- Store original window position
     windowX = getPropertyFromClass('openfl.Lib', 'application.window.x')
     windowY = getPropertyFromClass('openfl.Lib', 'application.window.y')
-
+    local centerX = windowX
+    local centerY = windowY
+    debugPrint(centerX)
+    debugPrint(centerY)
     -- Preload the wobble shader
     initLuaShader(shaderName)
 end
@@ -41,115 +53,121 @@ function onUpdate(elapsed)
     if getDataFromSave("disableInsanityEffects") == "true" then
         return -- If the insanity effects are disabled, return and do nothing
     end
+    if allowWindowBullShit == true then
 
-    local misses = getProperty('songMisses')
+        local misses = getProperty('songMisses')
 
-    if misses > lastMisses then
-        -- Set effect mode based on miss count
-        if misses >= 50 then
-            applyShader()
-            isRotating = true
-            isResizing = false
-            isTeleporting = false
-            isTornado = false
-            isShaking = false
-        elseif misses >= 40 then
-            removeShader()
-            isRotating = true
-            isResizing = false
-            isTeleporting = false
-            isTornado = false
-            isShaking = false
-        elseif misses >= 30 then
-            removeShader()
-            isResizing = true
-            isTeleporting = true
-            isTornado = false
-            isRotating = false
-            isShaking = false
-        elseif misses >= 20 then
-            removeShader()
-            isTeleporting = true
-            isResizing = false
-            isTornado = false
-            isRotating = false
-            isShaking = false
-        elseif misses >= 10 then
-            removeShader()
-            isTornado = true
-            isTeleporting = false
-            isResizing = false
-            isRotating = false
-            isShaking = false
-        else
-            removeShader()
-            shakeIntensity = 10 + (misses * 3)
-            shakeTimer = shakeDuration
-            isShaking = true
-            isTornado = false
-            isTeleporting = false
-            isResizing = false
-            isRotating = false
+        if misses > lastMisses then
+            -- Set effect mode based on miss count
+            if misses >= 50 then
+                applyShader()
+                isRotating = true
+                isResizing = false
+                isTeleporting = false
+                isTornado = false
+                isShaking = false
+            elseif misses >= 40 then
+                removeShader()
+                isRotating = true
+                isResizing = false
+                isTeleporting = false
+                isTornado = false
+                isShaking = false
+            elseif misses >= 30 then
+                removeShader()
+                isResizing = true
+                isTeleporting = true
+                isTornado = false
+                isRotating = false
+                isShaking = false
+            elseif misses >= 20 then
+                removeShader()
+                isTeleporting = true
+                isResizing = false
+                isTornado = false
+                isRotating = false
+                isShaking = false
+            elseif misses >= 10 then
+                removeShader()
+                isTornado = true
+                isTeleporting = false
+                isResizing = false
+                isRotating = false
+                isShaking = false
+            else
+                removeShader()
+                shakeIntensity = 10 + (misses * 3)
+                shakeTimer = shakeDuration
+                isShaking = true
+                isTornado = false
+                isTeleporting = false
+                isResizing = false
+                isRotating = false
+            end
         end
-    end
 
-    lastMisses = misses
+        lastMisses = misses
 
-    -- Handle each mode (no effects if insanity is disabled)
-    if isShaking then
-        shakeTimer = shakeTimer - elapsed
-        if shakeTimer > 0 then
-            setPropertyFromClass('openfl.Lib', 'application.window.x', windowX + math.random(-shakeIntensity, shakeIntensity))
-            setPropertyFromClass('openfl.Lib', 'application.window.y', windowY + math.random(-shakeIntensity, shakeIntensity))
-        else
-            setPropertyFromClass('openfl.Lib', 'application.window.x', windowX)
-            setPropertyFromClass('openfl.Lib', 'application.window.y', windowY)
+        -- Handle each mode (no effects if insanity is disabled)
+        if isShaking then
+            shakeTimer = shakeTimer - elapsed
+            if shakeTimer > 0 then
+                setPropertyFromClass('openfl.Lib', 'application.window.x', windowX + math.random(-shakeIntensity, shakeIntensity))
+                setPropertyFromClass('openfl.Lib', 'application.window.y', windowY + math.random(-shakeIntensity, shakeIntensity))
+            else
+                setPropertyFromClass('openfl.Lib', 'application.window.x', windowX)
+                setPropertyFromClass('openfl.Lib', 'application.window.y', windowY)
+            end
         end
-    end
 
-    if isTornado then
-        local centerX = windowX + 400
-        local centerY = windowY + 300
-        tornadoAngle = tornadoAngle + tornadoSpeed * elapsed
-        local offsetX = math.cos(tornadoAngle) * tornadoRadius
-        local offsetY = math.sin(tornadoAngle) * tornadoRadius
-        setPropertyFromClass('openfl.Lib', 'application.window.x', centerX + offsetX)
-        setPropertyFromClass('openfl.Lib', 'application.window.y', centerY + offsetY)
-    end
+        if isTornado then
 
-    if isTeleporting then
-        local screenWidth = 1920
-        local screenHeight = 1080
-        local windowWidth = getPropertyFromClass('openfl.Lib', 'application.window.width')
-        local windowHeight = getPropertyFromClass('openfl.Lib', 'application.window.height')
+            tornadoAngle = tornadoAngle + tornadoSpeed * elapsed
+            local offsetX = math.cos(tornadoAngle) * tornadoRadius
+            local offsetY = math.sin(tornadoAngle) * tornadoRadius
+            setPropertyFromClass('openfl.Lib', 'application.window.x', centerX + offsetX)
+            setPropertyFromClass('openfl.Lib', 'application.window.y', centerY + offsetY)
+        end
 
-        local maxX = screenWidth - windowWidth
-        local maxY = screenHeight - windowHeight
-        local randomX = math.random(0, math.max(maxX, 0))
-        local randomY = math.random(0, math.max(maxY, 0))
+        if isTeleporting then
+            local screenWidth = 1920
+            local screenHeight = 1080
+            local windowWidth = getPropertyFromClass('openfl.Lib', 'application.window.width')
+            local windowHeight = getPropertyFromClass('openfl.Lib', 'application.window.height')
 
-        setPropertyFromClass('openfl.Lib', 'application.window.x', randomX)
-        setPropertyFromClass('openfl.Lib', 'application.window.y', randomY)
-    end
+            local maxX = screenWidth - windowWidth
+            local maxY = screenHeight - windowHeight
+            local randomX = math.random(0, math.max(maxX, 0))
+            local randomY = math.random(0, math.max(maxY, 0))
 
-    if isResizing then
-        local newWidth = 800 + math.random(-200, 400)
-        local newHeight = 600 + math.random(-150, 300)
-        newWidth = math.min(math.max(newWidth, 200), 1200)
-        newHeight = math.min(math.max(newHeight, 150), 900)
+            setPropertyFromClass('openfl.Lib', 'application.window.x', randomX)
+            setPropertyFromClass('openfl.Lib', 'application.window.y', randomY)
+        end
 
-        setPropertyFromClass('openfl.Lib', 'application.window.width', newWidth)
-        setPropertyFromClass('openfl.Lib', 'application.window.height', newHeight)
-    end
+        if isResizing then
+            local newWidth = 800 + math.random(-200, 400)
+            local newHeight = 600 + math.random(-150, 300)
+            newWidth = math.min(math.max(newWidth, 200), 1200)
+            newHeight = math.min(math.max(newHeight, 150), 900)
 
-    if isRotating then
-        currentRotation = currentRotation + rotationSpeed * elapsed
-        setProperty('camGame.angle', currentRotation)
-        setProperty('camHUD.angle', currentRotation)
-    else
-        -- Reset rotation
-        setProperty('camGame.angle', 0)
-        setProperty('camHUD.angle', 0)
+            setPropertyFromClass('openfl.Lib', 'application.window.width', newWidth)
+            setPropertyFromClass('openfl.Lib', 'application.window.height', newHeight)
+        end
+
+        if isRotating then
+            currentRotation = currentRotation + rotationSpeed * elapsed
+            setProperty('camGame.angle', currentRotation)
+            setProperty('camHUD.angle', currentRotation)
+        else
+            -- Reset rotation
+            setProperty('camGame.angle', 0)
+            setProperty('camHUD.angle', 0)
+        end
+        if curStep == 2631 then
+            -- Reset rotation
+            setProperty('camGame.angle', 0)
+            setProperty('camHUD.angle', 0)
+        end
     end
 end
 
