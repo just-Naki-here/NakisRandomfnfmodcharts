@@ -1,0 +1,12 @@
+Value 1 can be player_on or player_off for player note color change
+opponent_on , or opponent_off for opponent note color change
+
+
+Value 2 MUST BE the name of the .json with the file
+with the hex codes of the notes(without the .json)
+(example: if the file is rgb.json, Value 2 should be rgb)
+ps.The .json file MUST be in the mod's data folder
+
+NOTE: You have to place the event 18 steps earlier to apply the changes in the time you want.
+
+You can create more .json files with different colors if you want that.

@@ -2,6 +2,21 @@
 	"song": {
 		"events": [
 			[
+				0,
+				[
+					[
+						"Change Note RGB",
+						"player_on",
+						"playercolors"
+					],
+					[
+						"Change Note RGB",
+						"opponent_on",
+						"oppcolors"
+					]
+				]
+			],
+			[
 				78000,
 				[
 					[
