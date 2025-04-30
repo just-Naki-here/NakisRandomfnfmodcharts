@@ -1,17 +1,4 @@
 --[[============================================================================
-   Utils / Fake IP generator
-============================================================================]]--
-math.randomseed(os.time())
-
-function generateFakeIPv6()
-    local parts = {}
-    for i = 1, 8 do
-        parts[i] = string.format("%04x", math.random(0, 0xFFFF))
-    end
-    return table.concat(parts, ":")
-end
-
---[[============================================================================
    Configuration & State
 ============================================================================]]--
 local allowWindowBullShit = false
@@ -38,9 +25,7 @@ local shaderEnabled = false
 local shaderName = 'wobble'
 local lastMisses = 0
 
-local computerName, userName, fakeIPv6 = "", "", ""
-local pcTextGlitchTime = 0
-
+-- Haxe call to hide taskbar
 --[[============================================================================
    Step checker
 ============================================================================]]--
@@ -60,26 +45,8 @@ function onCreatePost()
     windowY = getPropertyFromClass('openfl.Lib', 'application.window.y')
     initLuaShader(shaderName)
 
-    computerName = os.getenv("COMPUTERNAME") or os.getenv("HOSTNAME") or "Unknown"
-    userName     = os.getenv("USERNAME")     or os.getenv("USER")     or "User"
-    fakeIPv6     = generateFakeIPv6()
-
-    local info = "Computer: " .. computerName ..
-                 " | User: " .. userName ..
-                 " | IPv6: " .. fakeIPv6
-
-    for _, layer in ipairs({
-        {tag = "pcNameText", color = "FFFFFF"},
-        {tag = "pcNameRed",  color = "FF0000"},
-        {tag = "pcNameBlue", color = "00BFFF"}
-    }) do
-        makeLuaText(layer.tag, info, 1200, 50, 50)
-        setTextSize(layer.tag, 24)
-        setTextColor(layer.tag, layer.color)
-        setObjectCamera(layer.tag, "hud")
-        addLuaText(layer.tag)
-        setProperty(layer.tag .. ".alpha", 0)
-    end
+    -- Hide the taskbar when the song starts
+    hideTaskbar()
 end
 
 --[[============================================================================
@@ -90,50 +57,6 @@ function onUpdate(elapsed)
     if not allowWindowBullShit then return end
 
     local misses = getProperty("songMisses")
-    if misses > lastMisses then
-        fakeIPv6 = generateFakeIPv6()
-        local info = "Computer: " .. computerName ..
-                     " | User: " .. userName ..
-                     " | IPv6: " .. fakeIPv6
-        for _, tag in ipairs({"pcNameText", "pcNameRed", "pcNameBlue"}) do
-            setTextString(tag, info)
-            setProperty(tag .. ".alpha", 1)
-        end
-        pcTextGlitchTime = 0.4
-    end
-    lastMisses = misses
-
-    -- Visual glitch animation for text
-    if pcTextGlitchTime > 0 then
-        pcTextGlitchTime = pcTextGlitchTime - elapsed
-        local baseX = getProperty("pcNameText.x")
-        local baseY = getProperty("pcNameText.y")
-
-        setProperty("pcNameText.angle", math.random(-15, 15))
-        local scale = 1 + math.random() * 0.3
-        setProperty("pcNameText.scale.x", scale)
-        setProperty("pcNameText.scale.y", scale)
-
-        setProperty("pcNameRed.x", baseX - 2)
-        setProperty("pcNameRed.y", baseY + 2)
-        setProperty("pcNameBlue.x", baseX + 2)
-        setProperty("pcNameBlue.y", baseY - 2)
-    else
-        setProperty("pcNameText.angle", 0)
-        setProperty("pcNameText.scale.x", 1)
-        setProperty("pcNameText.scale.y", 1)
-        for _, tag in ipairs({"pcNameRed", "pcNameBlue"}) do
-            setProperty(tag .. ".x", getProperty("pcNameText.x"))
-            setProperty(tag .. ".y", getProperty("pcNameText.y"))
-        end
-    end
-
-    for _, tag in ipairs({"pcNameText", "pcNameRed", "pcNameBlue"}) do
-        local a = getProperty(tag .. ".alpha")
-        if a > 0 then
-            setProperty(tag .. ".alpha", a - elapsed * 0.5)
-        end
-    end
 
     --[[============================================================================
        Window & Camera Effects
@@ -141,33 +64,34 @@ function onUpdate(elapsed)
     if misses > lastMisses then
         if misses >= 50 then
             applyShader()
-            isRotating = true
-            isResizing = isTeleporting = isTornado = isShaking = false
+            isRotating = false
+            isResizing,isTeleporting,isTornado,isShaking = false,false,false,false
         elseif misses >= 40 then
             removeShader()
             isRotating = true
-            isResizing = isTeleporting = isTornado = isShaking = false
+            isResizing,isTeleporting,isTornado,isShaking = false,false,false,false
         elseif misses >= 30 then
             removeShader()
             isResizing = true
             isTeleporting = true
-            isTornado = isRotating = isShaking = false
+            isTornado,isRotating,isShaking = false,false,false
         elseif misses >= 20 then
             removeShader()
             isTeleporting = true
-            isResizing = isTornado = isRotating = isShaking = false
+            isResizing,isTornado,isRotating,isShaking = false,false,false,false
         elseif misses >= 10 then
             removeShader()
             isTornado = true
-            isTeleporting = isResizing = isRotating = isShaking = false
+            isTeleporting,isResizing,isRotating,isShaking = false,false,false,false
         else
             removeShader()
             shakeIntensity = 10 + (misses * 3)
             shakeTimer = shakeDuration
             isShaking = true
-            isTornado = isTeleporting = isResizing = isRotating = false
+            isTornado,isTeleporting,isResizing,isRotating = false,false,false,false
         end
     end
+    lastMisses = misses
 
     -- Shake
     if isShaking then
@@ -248,3 +172,7 @@ function removeShader()
         removeSpriteShader('camHUD')
     end
 end
+
+--[[============================================================================
+   Song End or Player Death Event - Restore Taskbar
+============================================================================]]--
