@@ -66,11 +66,19 @@ end
 function onCreatePost()
     windowX = getPropertyFromClass('openfl.Lib', 'application.window.x')
     windowY = getPropertyFromClass('openfl.Lib', 'application.window.y')
-    initLuaShader(shaderName)
+    initLuaShader("glitchNoise")
+    makeLuaSprite("shaderOverlay")
+    makeGraphic("shaderOverlay", screenWidth, screenHeight, "000000")
+    setSpriteShader("shaderOverlay", "glitchNoise")
+    setObjectCamera("shaderOverlay", "other")
+    setProperty("shaderOverlay.alpha", 0)
+    addLuaSprite("shaderOverlay", true)
+    setShaderFloat("shaderOverlay", "alpha", 0.4) -- 0.0 (fully transparent) to 1.0 (opaque)
 
-    -- Hide the taskbar when the song starts
 end
-
+function onUpdatePost(elapsed)
+    setShaderFloat("shaderOverlay", "iTime", os.clock())
+end
 --[[============================================================================
    Frame Update
 ============================================================================]]--
@@ -90,12 +98,14 @@ function onUpdate(elapsed)
         -- Miss-based effects
         if misses >= 50 then
             applyShader()
-            colorShiftIntensity = 1
-            colorShiftTimer = colorShiftDuration
             noiseIntensity = 1
-            noiseTimer = noiseDuration
+            noiseTimer = 0.5
+            noiseActive = true
         elseif misses >= 45 then
             applyShader()
+            noiseIntensity = 1
+            noiseTimer = 0.5
+            noiseActive = true
             colorShiftIntensity = 0.8
             colorShiftTimer = colorShiftDuration
             noiseIntensity = 0.8
@@ -138,10 +148,15 @@ function onUpdate(elapsed)
             camTiltActive = true
             cameraTiltTimer = 0.2
             setProperty('camGame.angle', 3)
+            noiseActive = false 
         elseif misses >= 1 then
             shakeIntensity = 4
             shakeTimer = shakeDuration
             isShaking = true
+            applyShader()
+            noiseIntensity = 1
+            noiseTimer = 0.5
+            noiseActive = true
             doTweenZoom('screenZoom', 'camGame', 1.1, 0.1, 'quadInOut')
         else
             -- No misses; clear effects
@@ -164,12 +179,17 @@ function onUpdate(elapsed)
     end
 
     -- Apply Noise Effect
+    
     if noiseActive then
         noiseTimer = noiseTimer - elapsed
         if noiseTimer > 0 then
-            -- Add static noise visual effect
-            -- You could use an additional sprite layer with random noise patterns here
+            setProperty("shaderOverlay.alpha", 1)
+            setShaderFloat("shaderOverlay", "alpha", 0.4) -- Or lower for more transparency
+            for i in 100 do
+                applyShader()
+            end
         else
+            setProperty("shaderOverlay.alpha", 0)
             noiseActive = false
         end
     end
