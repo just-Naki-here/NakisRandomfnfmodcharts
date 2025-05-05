@@ -25,7 +25,30 @@ local shaderEnabled = false
 local shaderName = 'wobble'
 local lastMisses = 0
 
--- Haxe call to hide taskbar
+local hudFlickerTimer = 0
+local cameraTiltTimer = 0
+local camTiltActive = false
+local flickerActive = false
+
+--[[============================================================================
+   Additional Visual Effects
+============================================================================]]--
+
+-- Color Shift Effect (for higher miss counts)
+local colorShiftIntensity = 0
+local colorShiftTimer = 0
+local colorShiftDuration = 0.5
+local colorShiftActive = false
+
+-- Noise Effect (for higher miss counts)
+local noiseIntensity = 0
+local noiseTimer = 0
+local noiseDuration = 0.5
+local noiseActive = false
+
+-- Camera Shake Intensity (adjustable as the miss count increases)
+local maxShakeIntensity = 10
+
 --[[============================================================================
    Step checker
 ============================================================================]]--
@@ -46,7 +69,6 @@ function onCreatePost()
     initLuaShader(shaderName)
 
     -- Hide the taskbar when the song starts
-    hideTaskbar()
 end
 
 --[[============================================================================
@@ -58,40 +80,99 @@ function onUpdate(elapsed)
 
     local misses = getProperty("songMisses")
 
-    --[[============================================================================
-       Window & Camera Effects
-    =============================================================================]]--
+    -- Detect new miss
     if misses > lastMisses then
+        -- Reset all main effects
+        isShaking, isTornado, isTeleporting, isResizing, isRotating = false, false, false, false, false
+        colorShiftActive = false
+        noiseActive = false
+
+        -- Miss-based effects
         if misses >= 50 then
             applyShader()
-            isRotating = false
-            isResizing,isTeleporting,isTornado,isShaking = false,false,false,false
+            colorShiftIntensity = 1
+            colorShiftTimer = colorShiftDuration
+            noiseIntensity = 1
+            noiseTimer = noiseDuration
+        elseif misses >= 45 then
+            applyShader()
+            colorShiftIntensity = 0.8
+            colorShiftTimer = colorShiftDuration
+            noiseIntensity = 0.8
+            noiseTimer = noiseDuration
         elseif misses >= 40 then
             removeShader()
             isRotating = true
-            isResizing,isTeleporting,isTornado,isShaking = false,false,false,false
-        elseif misses >= 30 then
-            removeShader()
+            triggerEvent("Add Camera Zoom", "0.15", "0.15")
+        elseif misses >= 35 then
             isResizing = true
             isTeleporting = true
-            isTornado,isRotating,isShaking = false,false,false
-        elseif misses >= 20 then
-            removeShader()
+            setProperty('cameraFollow.x', getProperty('cameraFollow.x') + 50)
+            setProperty('cameraFollow.y', getProperty('cameraFollow.y') + 50)
+        elseif misses >= 30 then
+            isResizing = true
             isTeleporting = true
-            isResizing,isTornado,isRotating,isShaking = false,false,false,false
-        elseif misses >= 10 then
-            removeShader()
-            isTornado = true
-            isTeleporting,isResizing,isRotating,isShaking = false,false,false,false
-        else
-            removeShader()
-            shakeIntensity = 10 + (misses * 3)
+            setProperty('camHUD.y', math.random(-5, 5))
+        elseif misses >= 25 then
+            isResizing = true
+            isTeleporting = true
+            setPropertyFromClass('openfl.Lib', 'application.window.width', 300)
+            setPropertyFromClass('openfl.Lib', 'application.window.height', 300)
+        elseif misses >= 20 then
+            isTeleporting = true
+            cameraFlash('game', 'FF0000', 0.2)
+        elseif misses >= 15 then
+            shakeIntensity = 6
+            shakeTimer = 0.05
+            isShaking = true
+        elseif misses >= 11 then
+            shakeIntensity = 5
             shakeTimer = shakeDuration
             isShaking = true
-            isTornado,isTeleporting,isResizing,isRotating = false,false,false,false
+            flickerActive = true
+            hudFlickerTimer = 0.2
+        elseif misses >= 5 then
+            shakeIntensity = 5
+            shakeTimer = shakeDuration
+            isShaking = true
+            camTiltActive = true
+            cameraTiltTimer = 0.2
+            setProperty('camGame.angle', 3)
+        elseif misses >= 1 then
+            shakeIntensity = 4
+            shakeTimer = shakeDuration
+            isShaking = true
+            doTweenZoom('screenZoom', 'camGame', 1.1, 0.1, 'quadInOut')
+        else
+            -- No misses; clear effects
+            removeShader()
         end
     end
+
     lastMisses = misses
+
+    -- === FRAME-EFFECT UPDATES === --
+
+    -- Apply Color Shift Effect
+    if colorShiftActive then
+        colorShiftTimer = colorShiftTimer - elapsed
+        if colorShiftTimer > 0 then
+            setProperty('camGame.color', {colorShiftIntensity, colorShiftIntensity * 0.5, colorShiftIntensity * 0.3})
+        else
+            colorShiftActive = false
+        end
+    end
+
+    -- Apply Noise Effect
+    if noiseActive then
+        noiseTimer = noiseTimer - elapsed
+        if noiseTimer > 0 then
+            -- Add static noise visual effect
+            -- You could use an additional sprite layer with random noise patterns here
+        else
+            noiseActive = false
+        end
+    end
 
     -- Shake
     if isShaking then
@@ -102,16 +183,26 @@ function onUpdate(elapsed)
         else
             setPropertyFromClass('openfl.Lib', 'application.window.x', windowX)
             setPropertyFromClass('openfl.Lib', 'application.window.y', windowY)
+            isShaking = false
         end
     end
 
-    -- Tornado
+    -- Tornado effect adjusted for aspect ratio
     if isTornado then
-        local centerX = 1920 / 2 - 300
-        local centerY = 1028 / 2 - 200
+        local screenWidth = getPropertyFromClass('openfl.Lib', 'application.window.width')  -- Get screen width
+        local screenHeight = getPropertyFromClass('openfl.Lib', 'application.window.height') -- Get screen height
+
+        -- Calculate the center of the screen dynamically
+        local centerX = screenWidth / 2
+        local centerY = screenHeight / 2
+
         tornadoAngle = tornadoAngle + tornadoSpeed * elapsed
+
+        -- Use the center of the screen for the tornado's rotation
         local offsetX = math.cos(tornadoAngle) * tornadoRadius
         local offsetY = math.sin(tornadoAngle) * tornadoRadius
+
+        -- Move the window based on the tornado angle and center
         setPropertyFromClass('openfl.Lib', 'application.window.x', centerX + offsetX)
         setPropertyFromClass('openfl.Lib', 'application.window.y', centerY + offsetY)
     end
@@ -147,11 +238,6 @@ function onUpdate(elapsed)
         setProperty('camGame.angle', 0)
         setProperty('camHUD.angle', 0)
     end
-
-    if curStep == 2631 then
-        setProperty('camGame.angle', 0)
-        setProperty('camHUD.angle', 0)
-    end
 end
 
 --[[============================================================================
@@ -172,7 +258,3 @@ function removeShader()
         removeSpriteShader('camHUD')
     end
 end
-
---[[============================================================================
-   Song End or Player Death Event - Restore Taskbar
-============================================================================]]--
