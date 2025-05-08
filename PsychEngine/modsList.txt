@@ -1,6 +1,6 @@
 pebbles|1
 MCM fan|1
-global|1
+global|0
 Zelx RW 2 Shot|1
 2011 Rain World Obituaries PAT # 1|1
 ROTRIDDEN|1
