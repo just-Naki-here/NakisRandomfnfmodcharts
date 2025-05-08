@@ -1,8 +1,14 @@
+---@funkinScript
+local MOD_NAME = 'Battle For Corrupted Island - Psych Port'  -- ← change this to your actual mod folder name
 function onCreate()
-    local currentSong = songName -- songName is a global provided by Psych Engine
-    local modchartFolder = 'data/' .. currentSong .. '/modcharts/'
+    local currentSong = songName -- Original song name
+    local formattedSongName = formatSongName(currentSong)
 
-    -- You must manually list files because Lua can't read folder contents directly in Psych Engine.
+    -- Debug prints to help you verify what song name is being used
+    debugPrint("Original song name: " .. currentSong)
+    debugPrint("Formatted song name: " .. formattedSongName)
+
+    -- Define which scripts to load for each formatted song name
     local knownScripts = {
         ['bashed-friendship'] = {
             'dialouge',
@@ -58,18 +64,67 @@ function onCreate()
             'dialouge',
             'SongIntro',
             'script'
-        }-- finish this up later, need to do pins and needles,prevented trust,pudgy,snakes,verzephobia, and who marks the spot
-
-
-
-        -- Add entries for other songs like this:
-        -- ['another-song'] = { 'script1', 'script2', ... },
+        },
+        ['pins-and-needles'] = {
+            'script',
+            'SongIntro'
+        },
+        ['prevented-trust'] = {
+            'script',
+            'SongIntro',
+            'dialouge'
+        },
+        ['pudgy'] = {
+            'SongIntro',
+            'dialouge'
+        },
+        ['Snakes'] = {
+            'script'
+        },
+        ['verzephobia'] = {
+            'cutscene',
+            'SongIntro'
+        },
+        ['who-marks-the-spot'] = {
+            'SongIntro',
+            'dialouge'
+        }
     }
 
-    local scriptsToRun = knownScripts[currentSong]
-    if scriptsToRun ~= nil then
-        for i = 1, #scriptsToRun do
-            runScript(currentSong .. '/modcharts/' .. scriptsToRun[i])
+    function onSongStart()
+        local original = songName
+        local formatted = formatSongName(original)
+        print("→ original song: " .. original)
+        print("→ formatted song: " .. formatted)
+    
+        local list = knownScripts[formatted]
+        if not list then
+            print("⚠️ No modcharts entry for: " .. formatted)
+            return
         end
+    
+        for _, name in ipairs(list) do
+            local path = string.format(
+                'mods/%s/data/%s/modcharts/%s.lua',
+                MOD_NAME, formatted, name
+            )
+            print("→ loading modchart file: " .. path)
+            -- use loadfile for error handling, then execute:
+            local chunk, err = loadfile(path)
+            if chunk then
+                chunk()
+            else
+                print("‼️ Error loading " .. path .. ": " .. err)
+            end
+        end
+    end
+    
+    -- formatSongName: lowercase + dashes except special cases
+    function formatSongName(n)
+        if n == 'Snakes'       then return 'Snakes'
+        elseif n == 'Finalists'    then return 'Finalists'
+        elseif n == 'Ending Seasons' then return 'Ending-Seasons'
+        end
+        return n:lower():gsub(" ", "-")
     end
 end
