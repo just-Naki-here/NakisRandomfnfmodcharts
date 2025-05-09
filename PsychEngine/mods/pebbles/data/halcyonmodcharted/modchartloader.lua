@@ -1,4 +1,4 @@
-local scriptList = {
+local scriptList = { 
     'ChaosInsanity',
     'forcemiddlescroll',
     'halo',
@@ -17,6 +17,7 @@ local scriptList = {
 
 function onCreate()
     for i = 1, #scriptList do
-        runScript('halcyonmodcharted/modcharts/' .. scriptList[i])
+        addLuaScript('scripts/halcyonmodcharted/modcharts/' .. scriptList[i])
+        debugPrint('Loaded: ' .. scriptList[i])
     end
 end
