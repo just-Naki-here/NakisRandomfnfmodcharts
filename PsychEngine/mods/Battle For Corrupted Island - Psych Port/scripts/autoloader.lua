@@ -8,15 +8,9 @@ function formatSongName(n)
 end
 -- Known scripts to load per song
 local knownScripts = {
-    ['bashed-friendship'] = {
-        'dialouge', 'SongIntro', 'script'
-    },
-    ['budget-cuts'] = {
-        'dialouge', 'SongIntro'
-    },
-    ['Ending-Seasons'] = {
-        'forcemiddlescroll', 'HideGF', 'Modchart', 'movenote', 'timemechanicfixed'
-    },
+    ['bashed-friendship'] = {'dialouge', 'SongIntro', 'script'},
+    ['budget-cuts'] = {'dialouge', 'SongIntro'},
+    ['Ending-Seasons'] = {'forcemiddlescroll', 'HideGF', 'Modchart', 'movenote', 'timemechanicfixed'},
     ['error'] = { 'SongIntro' },
     ['even-primes'] = { 'dialouge', 'SongIntro' },
     ['exited'] = { 'dialouge', 'SongIntro', 'script', 'deathup' },
@@ -29,7 +23,7 @@ local knownScripts = {
     ['prevented-trust'] = { 'script', 'SongIntro', 'dialouge' },
     ['pudgy'] = { 'SongIntro', 'dialouge' },
     ['Snakes'] = { 'script' },
-    ['verzephobia'] = { 'cutscene', 'SongIntro' },
+    ['verzephobia'] = { 'cutscene', 'SongIntro','Modchart', 'timemechanicfixed' },
     ['who-marks-the-spot'] = { 'SongIntro', 'dialouge' }
 }
 

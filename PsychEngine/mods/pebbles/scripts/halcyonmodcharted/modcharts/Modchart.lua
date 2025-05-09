@@ -228,6 +228,7 @@ function onUpdate(elapsed) -- code that executes every frame
        if Decider == 50 then -- If Decider exactly equals 50, reroll
 
            Decider = math.random(1, 100)
+           debugPrint("You Witnessed a RARE occurence!", 'RED')
        
        end
        if startNoteTweening == true then -- If note tweening is active (mild visual shake)
