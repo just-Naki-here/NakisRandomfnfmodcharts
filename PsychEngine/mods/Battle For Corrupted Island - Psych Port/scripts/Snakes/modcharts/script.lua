@@ -1,6 +1,3 @@
-function onCreate()
-    debugPrint("hi")
-end
 local allowCountdown = false
 function onStartCountdown()
 	if not allowCountdown and isStoryMode and not seenCutscene then --Block the first countdown

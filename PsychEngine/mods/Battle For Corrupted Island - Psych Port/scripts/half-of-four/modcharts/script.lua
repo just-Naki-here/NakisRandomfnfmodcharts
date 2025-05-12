@@ -1,6 +1,4 @@
-function onCreate()
-    debugPrint("hi")
-end
+
 function opponentNoteHit()
     health = getProperty('health')
     if getProperty('health') > 0.05 then

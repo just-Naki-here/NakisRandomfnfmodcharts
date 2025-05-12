@@ -8,23 +8,23 @@ function formatSongName(n)
 end
 -- Known scripts to load per song
 local knownScripts = {
-    ['bashed-friendship'] = {'dialouge', 'SongIntro', 'script'},
-    ['budget-cuts'] = {'dialouge', 'SongIntro'},
-    ['Ending-Seasons'] = {'forcemiddlescroll', 'HideGF', 'Modchart', 'movenote', 'timemechanicfixed'},
-    ['error'] = { 'SongIntro' },
-    ['even-primes'] = { 'dialouge', 'SongIntro' },
-    ['exited'] = { 'dialouge', 'SongIntro', 'script', 'deathup' },
-    ['Finalists'] = { 'HideGF' },
+    ['bashed-friendship'] = {'dialouge', 'SongIntro', 'script' , 'windowandnoterotate' },
+    ['budget-cuts'] = {'dialouge', 'SongIntro' , 'windowandnoterotate' },
+    ['Ending-Seasons'] = {'forcemiddlescroll', 'HideGF', 'movenote', 'timemechanicfixed' , 'windowandnoterotate' , 'Modchart' },
+    ['error'] = { 'SongIntro' , 'Modchart' },
+    ['even-primes'] = { 'dialouge', 'SongIntro' , 'windowandnoterotate' },
+    ['exited'] = { 'dialouge', 'SongIntro', 'script', 'deathup' , 'windowandnoterotate' },
+    ['Finalists'] = { 'HideGF' , 'windowandnoterotate' },
     ['half-of-four'] = { 'dialouge', 'SongIntro', 'deathup', 'floatnotes', 'fly', 'script', 'Modchart' },
     ['hatred'] = { 'SongIntro', 'deathup', 'Modchart', 'forcemiddlescroll', 'movenote', 'timemechanicfixed' },
-    ['lost-value'] = { 'dialouge', 'SongIntro' },
-    ['loved-idols'] = { 'dialouge', 'SongIntro', 'script' },
-    ['pins-and-needles'] = { 'script', 'SongIntro' },
-    ['prevented-trust'] = { 'script', 'SongIntro', 'dialouge' },
-    ['pudgy'] = { 'SongIntro', 'dialouge' },
-    ['Snakes'] = { 'script' },
+    ['lost-value'] = { 'dialouge', 'SongIntro' , 'windowandnoterotate' },
+    ['loved-idols'] = { 'dialouge', 'SongIntro', 'script' , 'windowandnoterotate' },
+    ['pins-and-needles'] = { 'script', 'SongIntro' , 'windowandnoterotate' },
+    ['prevented-trust'] = { 'script', 'SongIntro', 'dialouge' , 'windowandnoterotate' },
+    ['pudgy'] = { 'SongIntro', 'dialouge' , 'windowandnoterotate' },
+    ['Snakes'] = { 'script' , 'windowandnoterotate' },
     ['verzephobia'] = { 'cutscene', 'SongIntro','Modchart', 'timemechanicfixed' },
-    ['who-marks-the-spot'] = { 'SongIntro', 'dialouge' }
+    ['who-marks-the-spot'] = { 'SongIntro', 'dialouge' , 'windowandnoterotate' }
 }
 
 function onCreate()
