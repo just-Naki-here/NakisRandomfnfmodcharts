@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"NORMAL"
+	],
+	"icon": "toymaker",
+	"coopAllowed": false,
+	"name": "deadlines",
+	"color": "#9271FD",
+	"customValues": {
+		"infoTitle": "HARMONY & HORROR",
+		"credits": "*Musician(s):*\nTackSFM\n*Artist(s):*\nThe Trap 8r1o\nDeathwish (BG)\n*Coder(s):*\nChronic x3\n*Charter(s):*\nLemmeo\n*Animator(s):*\nPuritzel",
+		"infoDesc": "After failing to create the perfect toy, the Toymaker starts to become frustrated and harsh. After cornering the boys, his glaze shifts to Andrew, expressing how he is to blame for his failure in creating the perfect toy by doubting him. While the Toymaker is on a tangent, he soon realizes that his time is up.\n\n\n\n\nBased off of Harmony & Horror \"Wh4t_Went_Wr0ng?\" by Battington."
+	},
+	"stepsPerBeat": 4,
+	"displayName": "Deadlines",
+	"needsVoices": false,
+	"beatsPerMeasure": 4,
+	"bpm": 184
+}

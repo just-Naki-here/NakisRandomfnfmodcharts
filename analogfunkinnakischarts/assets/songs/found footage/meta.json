@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -13621468,
+	"displayName": "Found Footage",
+	"icon": "bacteria",
+	"name": "found footage",
+	"color": "#302724",
+	"customValues": {
+		"credits": "*Musician(s):*\nBubu\nKobaiKid\nChase Redding\n*Artist(s):*\nDeathWish\nLio (BG)\n*Coder(s):*\nDeathWish\n*Charter(s):*\nJunebug\n*Animator(s):*\nPuritzel\nMRmorian",
+		"infoTitle": "THE BACKROOMS",
+		"infoDesc": "After Boyfriend beats the Smiler, the lights out go fully and turn back on. The Smiler now being replaced with a tall lanky black figure. The lights start to flicker as he goes against the ''Bacteria''.\n\n\n\n\n\n\nBacteria is from Kane Pixel's analog horror series based on the Backrooms."
+	}
+}

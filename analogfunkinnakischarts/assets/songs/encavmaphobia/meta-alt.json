@@ -1,0 +1,21 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"NORMAL",
+		"ALT"
+	],
+	"icon": "seeker",
+	"coopAllowed": false,
+	"name": "encavmaphobia",
+	"color": "#343356",
+	"customValues": {
+		"infoTitle": "THATS WHAT I DO",
+		"credits": "*Musician(s):*\nAXIE\n*Artist(s):*\nAtari\n*Coder(s):*\nChronic x3\n*Charter(s):*\nFakeBurrito\n*Animator(s):*\nPuritzel\n*Baldi(s):*\nBaldi",
+		"infoDesc": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhelp."
+	},
+	"stepsPerBeat": 4,
+	"displayName": "Thats What I Do",
+	"needsVoices": false,
+	"beatsPerMeasure": 4,
+	"bpm": 140
+}

@@ -1,0 +1,1 @@
+<!DOCTYPE codename-engine-character><character color="#302724"><anim name="singDOWN" anim="down0" x="55" y="-220"/><anim name="idle" anim="idle0" loop="true"/><anim name="singRIGHT" anim="right0" x="-25" y="-60"/><anim name="singUP" anim="up0" x="-99" y="175"/><anim name="singLEFT" anim="left" x="220" y="-15"/></character>

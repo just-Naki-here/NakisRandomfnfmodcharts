@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 130,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -2578368,
+	"displayName": "Celebration",
+	"icon": "partygoer",
+	"name": "celebration",
+	"color": "#D8A840",
+	"customValues": {
+		"credits": "*Musician(s):*\nKobai\nFacdela\n*Artist(s):*\nDeathwish\n*Coder(s):*\nChronic x3\nDeathwish\n*Charter(s):*\nFakeBurrito\n*Animator(s):*\nPiQ\nthebron",
+		"infoTitle": "THE BACKROOMS",
+		"infoDesc": "After wandering the halls for god knows how long, Boyfriend stumbles onto a new room. The room is filled with party decorations and such. After eyeing the room, he notices an oddly shaped figure holding a balloon in front of him. The figure turns to him. The figure was something known as a \"Partygoer\".\n\n\n\n\nBased on the original Backrooms and tons of fanmade analog horror surrounding the concept."
+	}
+}

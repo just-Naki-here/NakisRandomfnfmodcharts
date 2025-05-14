@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="invis.png">
+	<SubTexture name="a0000" x="0" y="0" width="0" height="0"/>
+</TextureAtlas>

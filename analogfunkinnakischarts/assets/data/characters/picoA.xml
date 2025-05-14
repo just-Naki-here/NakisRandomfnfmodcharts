@@ -1,0 +1,1 @@
+<!DOCTYPE codename-engine-character><character flipX="true" isPlayer="true" icon="pico" color="#969696"><anim name="idle" anim="IDLE0"/><anim name="singDOWN" anim="DOWN0" x="-3" y="-27"/><anim name="singLEFT" anim="LEFT0" x="77" y="-15"/><anim name="singRIGHT" anim="RIGHT0" x="-3" y="-23"/><anim name="singUP" anim="UP0" x="-13" y="32"/></character>

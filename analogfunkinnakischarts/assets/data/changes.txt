@@ -1,0 +1,14 @@
+SONG FIXES:
+- *Memory Lane*'s intro zoom bug has been fixed
+- Added missing notes in *Petals* chart
+- Particles in *Abduction* can now be toggled
+MENU FIXES:
+- *Keybinds* now allow only one bind per key
+MISC:
+- *Money cutscene* can be skipped
+- Earnings have been *increased 25%*
+- Fullscreen has been disabled
+- Miscellaneous errors have been fixed
+ADDITIONS:
+- Added the *changelog*
+- *Gurt:* yo

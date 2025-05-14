@@ -1,0 +1,22 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 140,
+	"difficulties": [
+		"NORMAL",
+		"OLD"
+	],
+	"needsVoices": true,
+	"parsedColor": -3164344,
+	"displayName": "Newmaker Plane",
+	"icon": "guardian",
+	"name": "newmaker plane",
+	"color": "#CFB748",
+	"customValues": {
+		"credits": "*Musician(s):*\nKobai\n*Artist(s):*\nDeathWish\nMorian\n*Coder(s):*\nChronic x3\nDeathWish\n*Charter(s):*\nJunebug\n*Animator(s):*\nMorian\nDeathWish\nPiQ",
+		"infoTitle": "PETSCOP",
+		"infoDesc": "After defeating the entity in the Backrooms, Boyfriend clips again. This time he clips into a empty grass field with nothing in sight. He looks down to see his body is different and he has no idea what is going on. He looks up to see a creature that followed the same shape as his new body did. He meets the \"Guardian\".\n\n\n\n\n\nBased on Petscop by Tony Domenico."
+	}
+}

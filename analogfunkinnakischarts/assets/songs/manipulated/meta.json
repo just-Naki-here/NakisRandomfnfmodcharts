@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Manipulated",
+	"icon": "tmk",
+	"name": "manipulated",
+	"color": "#FFFFFF",
+	"customValues": {
+		"credits": "*Musician(s):*\nChase Redding\n*Artist(s):*\nIlluminion\nMillie\n*Coder(s):*Quackerona\nChronic x3 (Port)\nDeathwish (Port)\n*Charter(s):*\nTackSFM\n*Animator(s):*\nIllumion\nMillie",
+		"infoTitle": "TOO MUCH KIRBY",
+		"infoDesc": "During the \"Greens Greens\" stage, Kirby walks through a door. Upon Kirby entering the room, it is very dark. The lights turn on revealing a small room with stars and a hanging corpse. After the corpse hangs for a moment, TMK is revealed to be wearing it as a costume, and asks Kirby to do a favor. He asks Kirby to write a message to Donny Smith.\n\n\nBased on TMK \"Kirby Super Star Gameplay: Green Greens\" by Maple Riot."
+	}
+}

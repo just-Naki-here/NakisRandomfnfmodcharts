@@ -1,0 +1,1 @@
+<!DOCTYPE codename-engine-character><character holdTime="6.1" color="#a25734" camx="175" camy="375" x="625" y="-325"><anim name="idle" anim="RABBIT/idle" loop="true"/><anim name="singUP" anim="RABBIT/up"/><anim name="singLEFT" anim="RABBIT/left"/><anim name="singRIGHT" anim="RABBIT/right"/><anim name="singDOWN" anim="RABBIT/down"/></character>

@@ -1,3 +1,0 @@
-Plays omori's slash animation.
-Value 1: Character (ENTER 1 ITS OMORI)
-Value 2: How much damage (2 is full kill)

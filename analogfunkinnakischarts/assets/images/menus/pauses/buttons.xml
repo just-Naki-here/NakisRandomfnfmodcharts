@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="s.png" width="438" height="1304">
+	<SubTexture name="Info0000" x="0.75" y="0.75" width="99" height="96.75" frameX="-0" frameY="-0" frameWidth="99" frameHeight="97.5"/>
+	<SubTexture name="Info0001" x="0.75" y="0.75" width="99" height="96.75" frameX="-0" frameY="-0" frameWidth="99" frameHeight="97.5"/>
+	<SubTexture name="Info0002" x="0.75" y="0.75" width="99" height="96.75" frameX="-0" frameY="-0" frameWidth="99" frameHeight="97.5"/>
+	<SubTexture name="Info0003" x="0.75" y="0.75" width="99" height="96.75" frameX="-0" frameY="-0" frameWidth="99" frameHeight="97.5"/>
+	<SubTexture name="Info0004" x="0.75" y="0.75" width="99" height="96.75" frameX="-0" frameY="-0" frameWidth="99" frameHeight="97.5"/>
+	<SubTexture name="Info0005" x="102" y="0.75" width="97.5" height="97.5" frameX="-0" frameY="-0" frameWidth="99" frameHeight="97.5"/>
+	<SubTexture name="Info0006" x="102" y="0.75" width="97.5" height="97.5" frameX="-0" frameY="-0" frameWidth="99" frameHeight="97.5"/>
+	<SubTexture name="Info0007" x="102" y="0.75" width="97.5" height="97.5" frameX="-0" frameY="-0" frameWidth="99" frameHeight="97.5"/>
+	<SubTexture name="Info0008" x="102" y="0.75" width="97.5" height="97.5" frameX="-0" frameY="-0" frameWidth="99" frameHeight="97.5"/>
+	<SubTexture name="Info0009" x="102" y="0.75" width="97.5" height="97.5" frameX="-0" frameY="-0" frameWidth="99" frameHeight="97.5"/>
+	<SubTexture name="Quit0000" x="0.75" y="881.25" width="436.5" height="208.5" frameX="-0" frameY="-0" frameWidth="436.5" frameHeight="227.25"/>
+	<SubTexture name="Quit0001" x="0.75" y="881.25" width="436.5" height="208.5" frameX="-0" frameY="-0" frameWidth="436.5" frameHeight="227.25"/>
+	<SubTexture name="Quit0002" x="0.75" y="881.25" width="436.5" height="208.5" frameX="-0" frameY="-0" frameWidth="436.5" frameHeight="227.25"/>
+	<SubTexture name="Quit0003" x="0.75" y="881.25" width="436.5" height="208.5" frameX="-0" frameY="-0" frameWidth="436.5" frameHeight="227.25"/>
+	<SubTexture name="Quit0004" x="0.75" y="881.25" width="436.5" height="208.5" frameX="-0" frameY="-0" frameWidth="436.5" frameHeight="227.25"/>
+	<SubTexture name="Quit0005" x="0.75" y="1092" width="426" height="210.75" frameX="-5.25" frameY="-16.5" frameWidth="436.5" frameHeight="227.25"/>
+	<SubTexture name="Quit0006" x="0.75" y="1092" width="426" height="210.75" frameX="-5.25" frameY="-16.5" frameWidth="436.5" frameHeight="227.25"/>
+	<SubTexture name="Quit0007" x="0.75" y="1092" width="426" height="210.75" frameX="-5.25" frameY="-16.5" frameWidth="436.5" frameHeight="227.25"/>
+	<SubTexture name="Quit0008" x="0.75" y="1092" width="426" height="210.75" frameX="-5.25" frameY="-16.5" frameWidth="436.5" frameHeight="227.25"/>
+	<SubTexture name="Quit0009" x="0.75" y="1092" width="426" height="210.75" frameX="-5.25" frameY="-16.5" frameWidth="436.5" frameHeight="227.25"/>
+	<SubTexture name="Restart0000" x="0.75" y="674.25" width="429" height="204.75" frameX="-0" frameY="-0" frameWidth="431.25" frameHeight="217.5"/>
+	<SubTexture name="Restart0001" x="0.75" y="674.25" width="429" height="204.75" frameX="-0" frameY="-0" frameWidth="431.25" frameHeight="217.5"/>
+	<SubTexture name="Restart0002" x="0.75" y="674.25" width="429" height="204.75" frameX="-0" frameY="-0" frameWidth="431.25" frameHeight="217.5"/>
+	<SubTexture name="Restart0003" x="0.75" y="674.25" width="429" height="204.75" frameX="-0" frameY="-0" frameWidth="431.25" frameHeight="217.5"/>
+	<SubTexture name="Restart0004" x="0.75" y="674.25" width="429" height="204.75" frameX="-0" frameY="-0" frameWidth="431.25" frameHeight="217.5"/>
+	<SubTexture name="Restart0005" x="0.75" y="473.25" width="426.75" height="198.75" frameX="-4.5" frameY="-12.75" frameWidth="431.25" frameHeight="217.5"/>
+	<SubTexture name="Restart0006" x="0.75" y="473.25" width="426.75" height="198.75" frameX="-4.5" frameY="-12.75" frameWidth="431.25" frameHeight="217.5"/>
+	<SubTexture name="Restart0007" x="0.75" y="473.25" width="426.75" height="198.75" frameX="-4.5" frameY="-12.75" frameWidth="431.25" frameHeight="217.5"/>
+	<SubTexture name="Restart0008" x="0.75" y="473.25" width="426.75" height="198.75" frameX="-4.5" frameY="-12.75" frameWidth="431.25" frameHeight="217.5"/>
+	<SubTexture name="Restart0009" x="0.75" y="473.25" width="426.75" height="198.75" frameX="-4.5" frameY="-12.75" frameWidth="431.25" frameHeight="217.5"/>
+	<SubTexture name="Resume0000" x="0.75" y="100.5" width="432" height="183.75" frameX="-0" frameY="-0.75" frameWidth="432" frameHeight="186"/>
+	<SubTexture name="Resume0001" x="0.75" y="100.5" width="432" height="183.75" frameX="-0" frameY="-0.75" frameWidth="432" frameHeight="186"/>
+	<SubTexture name="Resume0002" x="0.75" y="100.5" width="432" height="183.75" frameX="-0" frameY="-0.75" frameWidth="432" frameHeight="186"/>
+	<SubTexture name="Resume0003" x="0.75" y="100.5" width="432" height="183.75" frameX="-0" frameY="-0.75" frameWidth="432" frameHeight="186"/>
+	<SubTexture name="Resume0004" x="0.75" y="100.5" width="432" height="183.75" frameX="-0" frameY="-0.75" frameWidth="432" frameHeight="186"/>
+	<SubTexture name="Resume0005" x="0.75" y="286.5" width="432" height="184.5" frameX="-0" frameY="-1.5" frameWidth="432" frameHeight="186"/>
+	<SubTexture name="Resume0006" x="0.75" y="286.5" width="432" height="184.5" frameX="-0" frameY="-1.5" frameWidth="432" frameHeight="186"/>
+	<SubTexture name="Resume0007" x="0.75" y="286.5" width="432" height="184.5" frameX="-0" frameY="-1.5" frameWidth="432" frameHeight="186"/>
+	<SubTexture name="Resume0008" x="0.75" y="286.5" width="432" height="184.5" frameX="-0" frameY="-1.5" frameWidth="432" frameHeight="186"/>
+	<SubTexture name="Resume0009" x="0.75" y="286.5" width="432" height="184.5" frameX="-0" frameY="-1.5" frameWidth="432" frameHeight="186"/>
+</TextureAtlas>

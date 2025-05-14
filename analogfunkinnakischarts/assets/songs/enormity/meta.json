@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 170,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -1915304,
+	"displayName": "Enormity",
+	"icon": "giddy",
+	"name": "enormity",
+	"color": "#E2C658",
+	"customValues": {
+		"credits": "*Musician(s):*\nChase Redding\nSmokeCannon\n*Artist(s):*\nMago\nBio\nDeathwish (BG)\n*Coder(s):*\nDeathwish\n*Charter(s):*\nDeathwish\n*Animator(s):*\nthebron\nBio\nPiQ",
+		"infoTitle": "SMILEY ARCHIVE",
+		"infoDesc": "After the events with the TV, Boyfriend finds an unexpected program on his computer. Unbeknownst to him, he starts to feel some kind of urge. A violent urge.\n\n\n\n\n\n\n\n\n\nBased off of Smiley Archive."
+	}
+}

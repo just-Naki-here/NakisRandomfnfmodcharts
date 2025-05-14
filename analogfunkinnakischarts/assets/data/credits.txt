@@ -1,0 +1,113 @@
+DIRECTOR:
+TackSFM
+
+CO-DIRECTORS:
+Chase Redding
+DeathWish
+
+CODERS:
+Chronic x3
+DeathWish
+Quackerona
+Terminalangst
+
+MUSICIANS:
+BreadiBoyo
+Bubu
+Chase Redding
+DeathWish
+Dissonified
+Facdela
+Gojira Darko
+KOBAIKID
+Obscurity
+Sinwalker
+Smokecannon
+Stawii
+TackSFM
+Thebron
+
+ARTISTS (Sprites):
+Akayo
+Atari
+Awaken
+Bio
+DeathWish
+Hazey
+Hemp
+Izy_
+Jade
+LeShark
+Magafourts
+MRmorian
+Spukuz
+Steriox
+The Trap 8r1o
+Zalo
+
+ARTISTS (Backgrounds):
+DeathWish
+Hemp
+Izy_
+Lotus
+Magafourts
+MRmorian
+Steriox
+
+ARTISTS (Pixel):
+Illuminion
+Millie
+
+ARTISTS (Miscellaneous):
+Effy
+Ezekiel
+Gio
+Hazey
+Isaac
+Leon
+MerilynC
+Netrogrand
+YoshiFan
+Zalo
+
+3D Modeler/Animator:
+TheGoldhare
+
+ANIMATORS:
+Awaken
+DeathWish
+Hemp
+MRmorian
+Nope
+PiQ
+Puritzel
+Thebron
+
+CHARTERS:
+DeathWish
+FakeBurritos
+JuneBug
+Lemmeo
+Phantom
+TackSFM
+
+EDITORS:
+TackSFM
+EdinClutch
+
+VOICE ACTORS:
+Comic
+DeathWish
+Isaac
+KINGFOX
+Obscurity
+TackSFM
+
+CUTSCENE ANIMATORS/ARTISTS:
+DeathWish
+Gio
+LeShark
+
+SPECIAL THANKS:
+Nep
+Codename Engine Devs

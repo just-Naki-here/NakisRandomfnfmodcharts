@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="tallgrss.png"><SubTexture name="tallgrss down0000" x="0" y="1223" width="853" height="974" frameX="-34" frameY="-248" frameWidth="1012" frameHeight="1314" />
-<SubTexture name="tallgrss down0001" x="0" y="1223" width="853" height="974" frameX="-34" frameY="-248" frameWidth="1012" frameHeight="1314" />
-<SubTexture name="tallgrss down0002" x="1482" y="0" width="785" height="1026" frameX="-68" frameY="-196" frameWidth="1012" frameHeight="1314" />
-<SubTexture name="tallgrss up0000" x="0" y="0" width="717" height="1223" frameX="-105" frameY="0" frameWidth="1012" frameHeight="1314" />
-<SubTexture name="tallgrss up0001" x="0" y="0" width="717" height="1223" frameX="-105" frameY="0" frameWidth="1012" frameHeight="1314" />
-<SubTexture name="tallgrss up0002" x="717" y="0" width="765" height="1184" frameX="-81" frameY="-39" frameWidth="1012" frameHeight="1314" />
-</TextureAtlas>

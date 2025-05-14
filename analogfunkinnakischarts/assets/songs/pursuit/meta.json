@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 165,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -4968395,
+	"displayName": "Pursuit",
+	"icon": "mimic",
+	"name": "pursuit",
+	"color": "#B43035",
+	"customValues": {
+		"credits": "*Musician(s):*\nDissonified\n*Artist(s):*\nMago\n*Coder(s):*\nDeathwish\n*Charter(s):*\nJunebug\n*Animator(s):*\nPuritzel",
+		"infoTitle": "VITA CARNIS",
+		"infoDesc": "Janice is walking on the road along with Christopher, in search of finding any information about a recent attack. Shortly after, Chris disappears without a trace and Janice thinks it's some kind of joke. When Janice finds him, she sees a Mimic atop of him, feasting on his corpse. Janice runs away as fast as she can and screams for help.\n\n\n\nBased on Vita Carnis by Darian Quilloy."
+	}
+}

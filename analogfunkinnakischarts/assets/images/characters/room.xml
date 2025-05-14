@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="room.png" width="2771" height="6301" spritePadding="3" borderPadding="1">
+	<SubTexture name="room idle0000" x="1002" y="602" width="482" height="760" frameX="0" frameY="-22" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0001" x="1002" y="602" width="482" height="760" frameX="0" frameY="-22" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0002" x="1487" y="602" width="474" height="768" frameX="-8" frameY="-15" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0003" x="1487" y="602" width="474" height="768" frameX="-8" frameY="-15" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0004" x="1964" y="602" width="468" height="782" frameX="-14" frameY="-1" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0005" x="1964" y="602" width="468" height="782" frameX="-14" frameY="-1" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0006" x="1" y="1387" width="472" height="781" frameX="-10" frameY="-2" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0007" x="1" y="1387" width="472" height="781" frameX="-10" frameY="-2" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0008" x="476" y="1387" width="475" height="782" frameX="-7" frameY="-1" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0009" x="476" y="1387" width="475" height="782" frameX="-7" frameY="-1" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0010" x="954" y="1387" width="475" height="783" frameX="-7" frameY="0" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0011" x="954" y="1387" width="475" height="783" frameX="-7" frameY="0" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0012" x="1432" y="1387" width="474" height="781" frameX="-8" frameY="-2" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room idle0013" x="1432" y="1387" width="474" height="781" frameX="-8" frameY="-2" frameWidth="482" frameHeight="783"/>
+	<SubTexture name="room down0000" x="1" y="1" width="505" height="598" frameX="0" frameY="0" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0001" x="1" y="1" width="505" height="598" frameX="0" frameY="0" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0002" x="509" y="1" width="497" height="590" frameX="-7" frameY="-8" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0003" x="509" y="1" width="497" height="590" frameX="-7" frameY="-8" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0004" x="1009" y="1" width="497" height="590" frameX="-8" frameY="-8" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0005" x="1009" y="1" width="497" height="590" frameX="-8" frameY="-8" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0006" x="1509" y="1" width="497" height="594" frameX="-9" frameY="-4" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0007" x="1509" y="1" width="497" height="594" frameX="-9" frameY="-4" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0008" x="2009" y="1" width="497" height="594" frameX="-9" frameY="-4" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0009" x="2009" y="1" width="497" height="594" frameX="-9" frameY="-4" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0010" x="1" y="602" width="497" height="595" frameX="-9" frameY="-3" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0011" x="1" y="602" width="497" height="595" frameX="-9" frameY="-3" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0012" x="501" y="602" width="498" height="595" frameX="-8" frameY="-3" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room down0013" x="501" y="602" width="498" height="595" frameX="-8" frameY="-3" frameWidth="505" frameHeight="598"/>
+	<SubTexture name="room left0000" x="1909" y="1387" width="637" height="735" frameX="-13" frameY="0" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0001" x="1909" y="1387" width="637" height="735" frameX="-13" frameY="0" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0002" x="1" y="2173" width="642" height="721" frameX="-8" frameY="-14" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0003" x="1" y="2173" width="642" height="721" frameX="-8" frameY="-14" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0004" x="646" y="2173" width="650" height="714" frameX="0" frameY="-21" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0005" x="646" y="2173" width="650" height="714" frameX="0" frameY="-21" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0006" x="1299" y="2173" width="647" height="717" frameX="-3" frameY="-18" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0007" x="1299" y="2173" width="647" height="717" frameX="-3" frameY="-18" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0008" x="1949" y="2173" width="646" height="718" frameX="-4" frameY="-17" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0009" x="1949" y="2173" width="646" height="718" frameX="-4" frameY="-17" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0010" x="1" y="2897" width="644" height="720" frameX="-6" frameY="-15" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0011" x="1" y="2897" width="644" height="720" frameX="-6" frameY="-15" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0012" x="648" y="2897" width="645" height="720" frameX="-5" frameY="-15" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room left0013" x="648" y="2897" width="645" height="720" frameX="-5" frameY="-15" frameWidth="650" frameHeight="735"/>
+	<SubTexture name="room right0000" x="1296" y="2897" width="651" height="819" frameX="0" frameY="0" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0001" x="1296" y="2897" width="651" height="819" frameX="0" frameY="0" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0002" x="1950" y="2897" width="641" height="807" frameX="-3" frameY="-8" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0003" x="1950" y="2897" width="641" height="807" frameX="-3" frameY="-8" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0004" x="1" y="3719" width="638" height="801" frameX="0" frameY="-18" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0005" x="1" y="3719" width="638" height="801" frameX="0" frameY="-18" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0006" x="642" y="3719" width="634" height="799" frameX="-3" frameY="-16" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0007" x="642" y="3719" width="634" height="799" frameX="-3" frameY="-16" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0008" x="1279" y="3719" width="637" height="804" frameX="0" frameY="-15" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0009" x="1279" y="3719" width="637" height="804" frameX="0" frameY="-15" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0010" x="1919" y="3719" width="634" height="801" frameX="-3" frameY="-14" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0011" x="1919" y="3719" width="634" height="801" frameX="-3" frameY="-14" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0012" x="1279" y="3719" width="637" height="804" frameX="0" frameY="-15" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room right0013" x="1279" y="3719" width="637" height="804" frameX="0" frameY="-15" frameWidth="651" frameHeight="819"/>
+	<SubTexture name="room up0000" x="1" y="4526" width="556" height="911" frameX="0" frameY="0" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0001" x="1" y="4526" width="556" height="911" frameX="0" frameY="0" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0002" x="560" y="4526" width="553" height="877" frameX="-18" frameY="-34" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0003" x="560" y="4526" width="553" height="877" frameX="-18" frameY="-34" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0004" x="1116" y="4526" width="550" height="868" frameX="-24" frameY="-43" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0005" x="1669" y="4526" width="550" height="868" frameX="-24" frameY="-43" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0006" x="2222" y="4526" width="548" height="860" frameX="-29" frameY="-51" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0007" x="1" y="5440" width="548" height="860" frameX="-29" frameY="-51" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0008" x="552" y="5440" width="546" height="858" frameX="-31" frameY="-53" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0009" x="552" y="5440" width="546" height="858" frameX="-31" frameY="-53" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0010" x="1101" y="5440" width="545" height="859" frameX="-31" frameY="-52" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0011" x="1649" y="5440" width="545" height="859" frameX="-31" frameY="-52" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0012" x="2197" y="5440" width="546" height="858" frameX="-31" frameY="-53" frameWidth="556" frameHeight="911"/>
+	<SubTexture name="room up0013" x="552" y="5440" width="546" height="858" frameX="-31" frameY="-53" frameWidth="556" frameHeight="911"/>
+</TextureAtlas>

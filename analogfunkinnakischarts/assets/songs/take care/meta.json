@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -16777216,
+	"displayName": "Take Care",
+	"icon": "room",
+	"name": "take care",
+	"color": "#000000",
+	"customValues": {
+		"credits": "*Musician(s):*\nBubu\nChase Redding\n*Artist(s):*\nHemp\n*Coder(s):*\nDeathwish\n*Charter(s):*\nJunebug\n*Animator(s):*\nHemp",
+		"infoTitle": "_BOISVERT",
+		"infoDesc": "After falling asleep one faithful night Pico finds himself against a weird figure in his dream in a grayscale room. Unable to determine whether the scenario's apart of reality or not he approached with caution.\n\n\n\n\n\n\n\nBased off of \"Take Care\" & \"Burning.mp4\" by Xreamy."
+	}
+}

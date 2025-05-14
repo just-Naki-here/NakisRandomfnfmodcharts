@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 159,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -14468577,
+	"displayName": "Invective",
+	"icon": "marvin",
+	"name": "invective",
+	"color": "#233A1F",
+	"customValues": {
+		"credits": "*Musician(s):*\nthebron\nChase Redding\n*Artist(s):*\nDeathwish\nMorian\n*Coder(s):*\nChronic x3\nTerminal\n*Charter(s):*\nDeathwish\n*Animator(s):*\nDeathwish\nMorian",
+		"infoTitle": "PETSCOP",
+		"infoDesc": "After defeating what looked like himself, Boyfriend stumbled his way into a school. Unfamiliar with his setting, he enters a classroom. Upon entering the classroom he saw a shadowed out figure behind a desk.\n\n\n\n\n\n\n\nBased on Petscop 15 by Tony Domenico."
+	}
+}

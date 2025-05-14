@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 247,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": false,
+	"parsedColor": -13022620,
+	"displayName": "Archived",
+	"icon": "bon-archived",
+	"name": "archived",
+	"color": "#394A64",
+	"customValues": {
+		"credits": "*Musician(s):*\nStawii\n*Artist(s):*\nSammy\nDeathWish\nEffy (BG)\n*Coder(s):*\nTerminal\nChronic x3\nDeathWish\n*Charter(s):*\nFakeBurrito\n*Animator(s):*\nPuritzel",
+		"infoTitle": "THE WALTEN FILES",
+		"infoDesc": "After Boyfriend wakes up from being pulled into the TV, he awakens in some kind of facility. He notices an odd animatronic bunny at the end of the hall.\n\n\n\n\n\n\n\n\n\nBased on the Walten Files 2 \"Relocate Project\" by Martin Walls."
+	}
+}

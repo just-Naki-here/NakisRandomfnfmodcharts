@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"NORMAL"
+	],
+	"icon": "nmi",
+	"coopAllowed": false,
+	"name": "wonderland",
+	"color": "#000000",
+	"customValues": {
+		"infoTitle": "NO MORE INNOCENCE",
+		"credits": "*Musician(s):*\nChase Redding\nGoji\nKobai\n*Artist(s):*\nAkayo\nLeShark\nDeathwish (BG)\n*Coder(s):*\nDeathwish\n*Charter(s):*\nPhatom\n*Animator(s):*\nDeathwish",
+		"infoDesc": "After buying a knock-off Sonic The Hedgehog 2 cartridge, GF proceeded to play it, only to realize how bad of a decision that would turn out to be. Sonic appeared on the TV only to look different from his usual self.\n\n\n\n\n\n\nBased off of \"No More Innocence\" by Dumbie, and the analog horror by LeShark."
+	},
+	"stepsPerBeat": 4,
+	"displayName": "Wonderland",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 150
+}

@@ -1,0 +1,1 @@
+<!DOCTYPE codename-engine-stage><stage folder="stages/" zoom="0.5"><ext script="petscopsong"/><sprite sprite="newmakerplane" name="plane" scale="1.25"/><dad scale="0.9" x="0" y="192.5" camxoffset="100" camyoffset="100"/><bf flipX="false" x="1250" y="350" camxoffset="-375"/></stage>

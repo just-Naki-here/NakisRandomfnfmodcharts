@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 3,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -13586223,
+	"displayName": "Tally Mark",
+	"icon": "bf",
+	"name": "tally mark",
+	"color": "#30B0D1",
+	"customValues": {
+		"credits": "*Musician(s):*\nSinn\n*Artist(s):*\nZalo\nSammy (BG)\n*Coder(s):*\nChronic x3\n*Charter(s):*\nPhantom\n*Animator(s):*\nPiQ",
+		"infoTitle": "THE BACKROOMS",
+		"infoDesc": "After escaping the facility and running through the woods, BF clips into the floor. He falls face first onto a moisty carpet. As he is lost and confused, he hears noises in the halls.\n\n\n\n\n\n\n\n\n\nBased on the Backrooms."
+	}
+}

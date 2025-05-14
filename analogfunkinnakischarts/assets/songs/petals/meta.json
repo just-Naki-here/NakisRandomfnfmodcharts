@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 85,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -10468285,
+	"displayName": "Petals",
+	"icon": "care",
+	"name": "petals",
+	"color": "#604443",
+	"customValues": {
+		"credits": "*Musician(s):*\nChase Redding\n*Artist(s):*\nIzy\nSammy\nMorian\n*Coder(s):*\nChronic x3\n*Charter(s):*\nDeathwish\n*Animator(s):*\nPiQ\nDeathWish",
+		"infoTitle": "PETSCOP",
+		"infoDesc": "Once he is done with the Guardian, BF roams off and wanders off into some kind of shed where he sees a little girl on top of a stone tower.\n\n\n\n\n\n\n\n\n\nBased on Petscop 2 by Tony Domenico."
+	}
+}

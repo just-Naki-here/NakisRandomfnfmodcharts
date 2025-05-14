@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 160,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -1052689,
+	"displayName": "Grave Mistake",
+	"icon": "cadavre",
+	"name": "grave mistake",
+	"color": "#EFEFEF",
+	"customValues": {
+		"infoTitle": "LOCAL 58",
+		"credits": "*Musician(s):*\nChase Redding\nSinn\n*Artist(s):*\nSammy\n*Coder(s):*\nQuackerona\nDeathwish (Port)\n*Charter(s):*\nPhantom\n*Animator(s):*\nPuritzel",
+		"infoDesc": "Once BF beat Marvin, he blacked out and woke up in another strange world. Everything was black and white. He woke up in a graveyard and saw himself as a skeleton. He looked across the graveyard and found another skeleton, ready to sing.\n\n\n\n\n\n\nBased on LOCAL 58 \"Show For Children\" by Kris Straub."
+	}
+}

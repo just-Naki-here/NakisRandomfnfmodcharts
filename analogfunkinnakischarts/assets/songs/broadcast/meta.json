@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 155,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -13355705,
+	"displayName": "Broadcast",
+	"icon": "broadcaster",
+	"name": "Broadcast",
+	"color": "#343547",
+	"customValues": {
+		"credits": "*Musician(s):*\nSinn\n*Artist(s):*\nDeathwish\n*Coder(s):*\nChronic x3\nTerminal\n*Charter(s):*\nLemmeo\n*Animator(s):*\nPuritzel",
+		"infoTitle": "LOCAL 58",
+		"infoDesc": "As BF had beaten the strange series of faces, a shadowed out man approached him. The man was blabbering to himself about the \"night sky\". All that was understood was the fact that \"there are other recievers\".\n\nBased on LOCAL 58 \"Digital Transition\" by Kris Straub"
+	}
+}

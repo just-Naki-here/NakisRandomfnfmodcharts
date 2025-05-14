@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 3,
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 117,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": false,
+	"parsedColor": -7179779,
+	"displayName": "Memory Lane",
+	"icon": "showbear",
+	"name": "memory lane",
+	"color": "#9271FD",
+	"customValues": {
+		"credits": "*Musician(s):*\nSinn\nChase Redding\nTackSFM\n*Artist(s):*\nBiookie\nLio (BG)\n*Coder(s):*\nChronic x3\nDeathWish\n*Charter(s):*\nJunebug\n*Animator(s):*\nPiQ",
+		"infoTitle": "THE WALTEN FILES",
+		"infoDesc": "While Boyfriend runs from the animatronic he runs and hides in a room and locks the door. While thinking he is safe, an arcade turns on. Revealing a game called \"Bunny Farm\". A strangely familiar bear shows itself in the arcade machine.\n\n\n\n\n\n\nBased on the Walten Files 3 \"BunnyFarm\" by Martin Walls."
+	}
+}

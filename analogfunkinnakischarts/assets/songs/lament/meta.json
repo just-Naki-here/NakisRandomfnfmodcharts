@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"stepsPerBeat": 4,
+	"bpm": 200,
+	"needsVoices": false,
+	"parsedColor": -7438506,
+	"displayName": "Lament",
+	"icon": "felix",
+	"name": "lament",
+	"color": "#8E7F56",
+	"customValues": {
+		"credits": "*Musician(s):*\nTackSFM\n*Artist(s):*\nBiookie\nDeathwish (BG)\n*Coder(s):*\nDeathwish\n*Charter(s):*\nFakeBurrito\n*Animator(s):*\nAwaken\nDeathwish",
+		"infoTitle": "THE WALTEN FILES",
+		"infoDesc": "Jack Walten has asked his friend Felix to pick up his children. Felix, a severe alcoholic, drank at the party, and when him and the children were driving home, Felix crashed the car due to his intoxicated state, killing Ed and Molly instantly. Panicked and inebriated, Felix buried them in the forest near where the crash had happened. Jack tries to call Felix but to no hope of an answer to where his children are.\n\nBased on the Walten Files 3 \"BunnyFarm\" by Martin Walls."
+	}
+}

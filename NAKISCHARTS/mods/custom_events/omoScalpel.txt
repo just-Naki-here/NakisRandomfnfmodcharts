@@ -1,3 +1,0 @@
-Does scalpel animation, sets min HP
-Value 1: Cut value
-Value 2: Bleed value (-hp/s)

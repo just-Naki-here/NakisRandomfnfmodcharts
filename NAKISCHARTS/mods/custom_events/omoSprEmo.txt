@@ -1,4 +1,0 @@
-Change character Sprite to emotion the character has
-Value 1: Target, 0 - Dad, 1 - Bf
-Value 2: Base Character, will try to find
-sprite name and add "-emotion" of it.

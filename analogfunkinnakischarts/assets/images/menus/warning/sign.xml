@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="texture.png" width="453" height="139">
+	<SubTexture name="sign0000" x="1" y="1" width="150" height="135" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0001" x="1" y="1" width="150" height="135" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0002" x="1" y="1" width="150" height="135" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0003" x="1" y="1" width="150" height="135" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0004" x="1" y="1" width="150" height="135" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0005" x="154" y="1" width="148" height="137" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0006" x="154" y="1" width="148" height="137" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0007" x="154" y="1" width="148" height="137" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0008" x="154" y="1" width="148" height="137" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0009" x="154" y="1" width="148" height="137" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0010" x="305" y="1" width="147" height="137" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0011" x="305" y="1" width="147" height="137" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0012" x="305" y="1" width="147" height="137" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0013" x="305" y="1" width="147" height="137" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+	<SubTexture name="sign0014" x="305" y="1" width="147" height="137" frameX="-0" frameY="-0" frameWidth="150" frameHeight="137"/>
+</TextureAtlas>

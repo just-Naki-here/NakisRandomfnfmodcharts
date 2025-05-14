@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 160,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -855310,
+	"displayName": "Ectype",
+	"icon": "belle",
+	"name": "ectype",
+	"color": "#F2F2F2",
+	"customValues": {
+		"credits": "*Musician(s):*\nTackSFM\nDissonified\n*Artist(s):*\nDeathwish\nHazeyPurple (BG)\n*Coder(s):*\nChronic x3\nTerminal\n*Charter(s):*\nFakeBurrito\n*Animator(s):*\nDeathwish",
+		"infoTitle": "PETSCOP",
+		"infoDesc": "After boyfriend roams around the grave room and shed, he discovers an enterance into a room known as the \"QUITTER'S ROOM\". After looking around for a bit, he notices a reflection of himself in the middle of the room. While looking at the reflection, he notices that his head is different in the reflection, replaced by a white face that was smiling. Something was mimicking and syncing his every move.\n\n\nBased on Petscop 2 by Tony Domenico"
+	}
+}

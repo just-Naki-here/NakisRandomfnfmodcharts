@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 204,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -16777216,
+	"displayName": "In The Dark",
+	"icon": "smiler",
+	"name": "in the dark",
+	"color": "#000000",
+	"customValues": {
+		"credits": "*Musician(s):*\nStawii\n*Artist(s):*\nSpukuz\nLion (BG)\n*Coder(s):*\nDeathwish\n*Charter(s):*\nPhantom\n*Animator(s):*\nthebron",
+		"infoTitle": "THE BACKROOMS",
+		"infoDesc": "While making his escape from the Partygoers, the rooms slowly start getting darker and darker. Boyfriend can feel himself losing his mind as he keeps wandering. He at one point stumbles into some kind of floating white face. This \"face\" was a \"Smiler\".\n\n\n\n\n\nBased on the original Backrooms and tons of fanmade analog horror surrounding the concept."
+	}
+}

@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="split.png"><SubTexture name="split loop0000" x="439" y="0" width="210" height="1082" frameX="-149" frameY="-95" frameWidth="1530" frameHeight="1240" />
-<SubTexture name="split loop0001" x="217" y="0" width="222" height="1085" frameX="-144" frameY="-94" frameWidth="1530" frameHeight="1240" />
-<SubTexture name="split loop0002" x="0" y="0" width="217" height="1086" frameX="-145" frameY="-94" frameWidth="1530" frameHeight="1240" />
-</TextureAtlas>

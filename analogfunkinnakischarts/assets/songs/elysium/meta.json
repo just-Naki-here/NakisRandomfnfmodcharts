@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 170,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -1447447,
+	"displayName": "Elysium",
+	"icon": "bon-elysium",
+	"name": "elysium",
+	"color": "#E9E9E9",
+	"customValues": {
+		"credits": "*Musician(s):*\nObscurity\n*Artist(s):*\nHazeyPurple\nSammy\nDeathwish (BG)\n*Coder(s):*\nChronic x3\nDeathwish\n*Charter(s):*\nDeathwish\n*Animator(s):*\nPuritzel",
+		"infoTitle": "THE WALTEN FILES",
+		"infoDesc": "Boyfriend makes his escape out of the facility and succeeds. During all of this, someplace else, Susan Woodings is confronted by a odd man in a place known as \"wonderland\".\n\n\n\n\n\n\n\n\n\nBased on Walten Files 4 \"CyberFun Tech\" by Martin Walls."
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "pumpkinrabbit-1",
+	"difficulties": [
+		"NORMAL"
+	],
+	"customValues": {
+		"infoTitle": "ABDUCTION",
+		"credits": "*Musician(s):*\nthebron\nChase Redding\nTackSFM\n*Artist(s):*\nBiookie\nThe Trap 8r1o\nIzy (BG)\n*Coder(s):*\nChronic x3\n*Charter(s):*\nLemmeo\n*Animator(s):*\nPiQ\nPuritzel",
+		"infoDesc": "While Duckie and Tammy are trick or treating, they stumble upon a house belonging to a wife and a husband, Witch Sheep & Pumpkin Rabbit. They gladly welcome them inside and insist for them to stay the night. While they stay the night, Tammy uncovers an awful truth about their hosts.\n\n\n\n\nBased on \"The Mysterious House\" & \"Return of the Pumpkin Rabbit\" by Martin Walls."
+	},
+	"color": "#984F2D",
+	"name": "abduction",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Abduction",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 140
+}

@@ -1,0 +1,1 @@
+<!DOCTYPE codename-engine-stage><stage folder="stages/invective/" zoom="0.7"><ext script="petscopsong"/><sprite sprite="bg" name="bg"/><boyfriend flipX="false" x="1375" y="650" camxoffset="-250"/><dad x="600" y="850" scale="0.85" camxoffset="-100"/><sprite sprite="desk" name="desk" x="255" y="820"/></stage>

@@ -1,0 +1,22 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"NORMAL",
+		"ALT"
+	],
+	"needsVoices": true,
+	"parsedColor": -14343633,
+	"displayName": "His Throne",
+	"icon": "tv",
+	"name": "his throne",
+	"color": "#25222F",
+	"customValues": {
+		"credits": "*Musician(s):*\nKobai\nChase Redding\nTackSFM\n*Artist(s):*\nMorian\nDeathwish (BG)\n*Coder(s):*\nChronic x3\n*Charter(s):*\nJunebug\n*Animator(s):*\nMorian\nDeathwish",
+		"infoTitle": "LOCAL 58",
+		"infoDesc": "Once BF defeated the strange man, he finally awoke outside of the TV he was sucked in from the start. The TV started to static and alarms echoed outside. The TV started to give BF a warning before it eventually succumbed to a view of the moon. The TV had to be ridden of.\n\nBased on LOCAL 58 \"Skywatching\" by Kris Straub"
+	}
+}

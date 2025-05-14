@@ -1,0 +1,21 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 126,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -13356202,
+	"displayName": "Encavmaphobia",
+	"icon": "seeker",
+	"name": "encavmaphobia",
+	"color": "#343356",
+	"customValues": {
+		"credits": "*Musician(s):*\nTackSFM\nChase Redding\n*Artist(s):*\nAtari\n*Coder(s):*\nChronic x3\n*Charter(s):*\nLemmeo\n*Animator(s):*\nNep\nPuritzel",
+		"infoTitle": "CASUALTY",
+		"infoDesc": "Months after the death of Sonic, Miles starts to lose his sense of sanity. He assumed himself to be having hallucinations due to causing the death of Sonic. Miles was confronted by the vengeful spirit of Sonic, now known as Seeker, and soon learned that there was more to this just being a hallucination.\n\n\n\n\nBased off of Casualty/Seeker by TackSFM."
+	}
+}

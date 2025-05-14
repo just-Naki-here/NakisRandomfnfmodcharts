@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Untitled-4e1.png" width="1284" height="1342" spritePadding="3" borderPadding="1">
+	<SubTexture name="Children0000" x="1" y="673" width="1282" height="668" frameX="0" frameY="-1" frameWidth="1282" frameHeight="669"/>
+	<SubTexture name="Children0001" x="1" y="673" width="1282" height="668" frameX="0" frameY="-1" frameWidth="1282" frameHeight="669"/>
+	<SubTexture name="Children0002" x="1" y="673" width="1282" height="668" frameX="0" frameY="-1" frameWidth="1282" frameHeight="669"/>
+	<SubTexture name="Children0003" x="1" y="673" width="1282" height="668" frameX="0" frameY="-1" frameWidth="1282" frameHeight="669"/>
+	<SubTexture name="Children0004" x="1" y="673" width="1282" height="668" frameX="0" frameY="-1" frameWidth="1282" frameHeight="669"/>
+	<SubTexture name="Children0005" x="1" y="1" width="1282" height="669" frameX="0" frameY="0" frameWidth="1282" frameHeight="669"/>
+	<SubTexture name="Children0006" x="1" y="1" width="1282" height="669" frameX="0" frameY="0" frameWidth="1282" frameHeight="669"/>
+	<SubTexture name="Children0007" x="1" y="1" width="1282" height="669" frameX="0" frameY="0" frameWidth="1282" frameHeight="669"/>
+	<SubTexture name="Children0008" x="1" y="1" width="1282" height="669" frameX="0" frameY="0" frameWidth="1282" frameHeight="669"/>
+	<SubTexture name="Children0009" x="1" y="1" width="1282" height="669" frameX="0" frameY="0" frameWidth="1282" frameHeight="669"/>
+</TextureAtlas>
