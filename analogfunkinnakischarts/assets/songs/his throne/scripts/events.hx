@@ -21,6 +21,12 @@ if (PlayState.difficulty != "ALT") {
     var idk:Int = 0;
     var guh:Float = 0;
     var floatAmount:Float = 0;
+    var wtf:Int = 0;
+    var smh:Int = 0;
+    var iks:Int = 0;
+    var buh:Float = 0;
+    var duh:Float = 0;
+    var huh:Float = 0;
     // events
     var bloom:CustomShader = new CustomShader("bloomAlt");
     var cool:CustomShader = new CustomShader("coolShit");
@@ -233,11 +239,16 @@ if (PlayState.difficulty != "ALT") {
         if (FlxG.save.data.customOptions.modcharts) {
             for (a in strumLines.members[0]) {
                 a.y = idk + Math.sin((Conductor.songPosition / 250) + (a.ID * 3)) * guh * 2;
+                a.x = idk + Math.sin((Conductor.songPosition / 250) - (a.ID * 3)) * buh * 2;
             }
             for (a in strumLines.members[1]) {
-                a.y = idk + Math.sin((Conductor.songPosition / 250) + ((4 - a.ID) * 3)) * guh * 2;
+                a.y = idk + Math.sin((Conductor.songPosition / 250) + ((4 - a.ID) * 3)) * duh * 2;
+                a.x = idk + Math.sin((Conductor.songPosition / 250) - ((4 - a.ID) * 3)) * huh * 2;
             }
             guh = FlxMath.lerp(guh, floatAmount, 0.0025);
+            buh = FlxMath.lerp(guh, floatAmount, 0.0035);
+            duh = FlxMath.lerp(guh, floatAmount, 0.0045);
+            huh = FlxMath.lerp(guh, floatAmount, 0.0055);
         }
         // other
         if (mechanic) {
@@ -272,6 +283,9 @@ if (PlayState.difficulty != "ALT") {
 
     function onStrumCreation(e)
         idk = strumLines.members[e.player].startingPos.y;
+        wtf = strumLines.members[e.opponent].startingPos.y;
+        smh = strumLines.members[e.player].startingPos.x;
+        iks = strumLines.members[e.opponent].startingPos.x;
 
     function onCameraMove() {
         defaultCamZoom = camZoomera + (curCameraTarget == 1 ? 0.75 : 1.2);
