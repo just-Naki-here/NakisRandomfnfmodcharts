@@ -1,18 +1,6 @@
 function onCreate()
     debugPrint("timemechanic script is loaded")
-end
-
--- Declare variables used to control song time events
-local realLength = 0                        -- Will store the original length of the song
-local fivePebsSing = 30000                 -- Custom timestamp (30 seconds) for a specific moment in the song
-local gettingMoreIntense = 78000           -- Timestamp for when the song intensifies (Step 1040)
-local fivePebsAnimationChanges = 135600    -- Timestamp for when animation changes (Step 1808)
-local songGoesFirstPerson = 154800         -- Timestamp for a POV change (first person view)
-local theEnd = 197400                      -- Timestamp indicating the end of the song
-
--- Triggered once at the beginning of the song
-function onSongStart()
-
+    
     realLength = getProperty('songLength') -- Save the actual song length to use later
     setProperty('songLength', 20400)       -- Temporarily override song length to 20.4 seconds (used for visual effect)
 
@@ -23,6 +11,13 @@ function onSongStart()
     end
 end
 
+-- Declare variables used to control song time events
+local realLength = 0                        -- Will store the original length of the song
+local fivePebsSing = 30000                 -- Custom timestamp (30 seconds) for a specific moment in the song
+local gettingMoreIntense = 78000           -- Timestamp for when the song intensifies (Step 1040)
+local fivePebsAnimationChanges = 135600    -- Timestamp for when animation changes (Step 1808)
+local songGoesFirstPerson = 154800         -- Timestamp for a POV change (first person view)
+local theEnd = 197400                      -- Timestamp indicating the end of the song
 -- Runs every frame
 function onUpdate()
 

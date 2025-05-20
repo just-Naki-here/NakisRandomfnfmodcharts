@@ -192,16 +192,16 @@ function onUpdate(elapsed) -- code that executes every frame
               This creates a repeating cycle: 0 → 1 → 2 → 0 → ...
               --]]
        end
-       Decider = math.random(1, 100)  -- Random value from 1 to 100 to decide behavior this frame              
+       Decider = math.random(1, 1000)  -- Random value from 1 to 100 to decide behavior this frame              
        songPos = getSongPosition() -- Get current song position in milliseconds
        local currentBeat = (songPos / 5000) * (curBpm / 60) -- Calculate current beat based on song position and BPM
-       if Decider < 50 then -- If Decider is less than 50
+       if Decider < 500 then -- If Decider is less than 50
               if Decider < 2 then -- If it's really low (1 or 2), re-randomize
-                     Decider = math.random(1, 100)
+                     Decider = math.random(1, 1000)
               end
-              Decider = math.random(1, 100) -- Reroll Decider again (adds more randomness)
+              Decider = math.random(1, 1000) -- Reroll Decider again (adds more randomness)
        end
-       if Decider > 50 then -- If Decider is greater than 50, set up random strum values
+       if Decider > 500 then -- If Decider is greater than 50, set up random strum values
               -- Random vertical movement amounts (Y axis)
               randomPlayerstrumY1 = math.random(0, 150)
               randomPlayerstrumY2 = math.random(0, 150)
@@ -223,13 +223,14 @@ function onUpdate(elapsed) -- code that executes every frame
               randomPlayerstrumX7 = 0.2
               randomPlayerstrumX8 = 0.2
               -- Reroll Decider again
-              Decider = math.random(1, 100)
+              Decider = math.random(1, 1000)
        end
-       if Decider == 50 then -- If Decider exactly equals 50, reroll
+       if Decider == 500 then -- If Decider exactly equals 50, reroll
 
-           Decider = math.random(1, 100)
-           debugPrint("You Witnessed a RARE occurence!", 'RED')
-       
+           Decider = math.random(1, 1000)
+           for i in 1 do 
+                  debugPrint("You Witnessed a RARE occurence!", 'RED')
+              end
        end
        if startNoteTweening == true then -- If note tweening is active (mild visual shake)
            -- Random vertical amounts for note movement
