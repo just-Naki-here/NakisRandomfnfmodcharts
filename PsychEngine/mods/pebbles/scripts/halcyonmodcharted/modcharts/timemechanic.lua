@@ -1,7 +1,14 @@
+
+
+-- Declare variables used to control song time events
+realLength = getProperty('songLength ')                       -- Will store the original length of the song
+fivePebsSing = 30000                 -- Custom timestamp (30 seconds) for a specific moment in the song
+gettingMoreIntense = 78000           -- Timestamp for when the song intensifies (Step 1040)
+fivePebsAnimationChanges = 135600    -- Timestamp for when animation changes (Step 1808)
+songGoesFirstPerson = 154800         -- Timestamp for a POV change (first person view)
+theEnd = 197400                      -- Timestamp indicating the end of the song
+-- Runs every frame
 function onCreate()
-    debugPrint("timemechanic script is loaded")
-    
-    realLength = getProperty('songLength') -- Save the actual song length to use later
     setProperty('songLength', 20400)       -- Temporarily override song length to 20.4 seconds (used for visual effect)
 
     -- For older Psych Engine versions
@@ -10,15 +17,6 @@ function onCreate()
         makeLuaSprite('unknownTime', 0, getProperty('songLength'))
     end
 end
-
--- Declare variables used to control song time events
-local realLength = 0                        -- Will store the original length of the song
-local fivePebsSing = 30000                 -- Custom timestamp (30 seconds) for a specific moment in the song
-local gettingMoreIntense = 78000           -- Timestamp for when the song intensifies (Step 1040)
-local fivePebsAnimationChanges = 135600    -- Timestamp for when animation changes (Step 1808)
-local songGoesFirstPerson = 154800         -- Timestamp for a POV change (first person view)
-local theEnd = 197400                      -- Timestamp indicating the end of the song
--- Runs every frame
 function onUpdate()
 
     -- Activate extra UI elements between steps 1615 and 1736
