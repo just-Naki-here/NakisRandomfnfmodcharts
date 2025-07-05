@@ -1,43 +1,43 @@
 function onCreate()
-    debugPrint('scriptloaded')
+    debugPrint('script loaded')
     setPropertyFromClass('openfl.Lib', 'application.window.fullscreen', false)
 end
-
--- Config 
+-- Config
+local bpm = 168
 local waveAmplitude = 50       -- Note movement strength
 local waveSpeed = 4            -- Note wave speed multiplier
 local windowAmplitude = 20     -- Window movement strength
 local windowSpeed = 2          -- Window wave speed multiplier
 
 local defaultStrumPos = {}
+local time = 0
+
+
+
 function onCreatePost()
-    -- Save default strum positions
+    debugPrint('Saving default strum positions')
     for i = 0, 7 do
-        defaultStrumPos[i] = {
-            x = getPropertyFromGroup('strumLineNotes', i, 'x'),
-            y = getPropertyFromGroup('strumLineNotes', i, 'y')
-        }
+        if getPropertyFromGroup('strumLineNotes', i, 'x') ~= nil then
+            defaultStrumPos[i] = {
+                x = getPropertyFromGroup('strumLineNotes', i, 'x'),
+                y = getPropertyFromGroup('strumLineNotes', i, 'y')
+            }
+        else
+            debugPrint('Failed to get strum position for index ' .. i)
+        end
     end
 end
 
-local bpm = 168 -- initial value; will update
-local time = 0
-
 function onUpdate(elapsed)
-    local currentBpm = getProperty('curBpm')
-    if bpm ~= currentBpm then
-        bpm = currentBpm
-        -- Debug print or handle BPM change here if needed
-        -- debugPrint('BPM changed to: ' .. bpm)
-    end
-
-    time = time + (elapsed * (bpm / 60))  -- Convert to beats
+    time = time + (elapsed * (bpm / 60))
 
     for i = 0, 7 do
-        local waveX = math.cos(time * waveSpeed + i) * waveAmplitude
-        local waveY = math.sin(time * waveSpeed + i) * waveAmplitude
-        setPropertyFromGroup('strumLineNotes', i, 'x', defaultStrumPos[i].x + waveX)
-        setPropertyFromGroup('strumLineNotes', i, 'y', defaultStrumPos[i].y + waveY)
+        if defaultStrumPos[i] then
+            local waveX = math.cos(time * waveSpeed + i) * waveAmplitude
+            local waveY = math.sin(time * waveSpeed + i) * waveAmplitude
+            setPropertyFromGroup('strumLineNotes', i, 'x', defaultStrumPos[i].x + waveX)
+            setPropertyFromGroup('strumLineNotes', i, 'y', defaultStrumPos[i].y + waveY)
+        end
     end
 
     if not inChartEditor then

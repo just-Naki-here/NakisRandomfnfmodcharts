@@ -1,135 +1,64 @@
+-- Song metadata
+local songList = {
+    "baked", "bold-or-brash", "cannibalism", "cannibalism-midi", "cannibalism-old", "cannibalism-test",
+    "darnell-wet-fart", "datamine", "dead-hope", "dead-hope-re-old", "dead-hope-v2",
+    "Deadly-Reflection", "Deadly-Reflection-v2", "dehydrated-v1", "dehydrated-v1-remake",
+    "dehydrated-v2", "dehydrated-v3", "dehydrated-v4", "Delivery", "Delusional", "Delusional-old",
+    "Devious", "doomsday-oldv2", "doomsday-poproxx-Mix", "doomsday-re", "doomsday-re-old",
+    "doomsday-v1", "doomsday-v2", "double-homicide", "downfall", "dumped-midi", "dumped-mmm",
+    "Dumped-Oldest", "dumped-v1", "dumped-v2", "ERSATZ", "final-night", "freeplay", "he-gets-ya",
+    "he-gets-ya-old", "humiliation-v2", "humiliation-v3", "icuvug", "inksplot", "insert-soul",
+    "joe-mama", "judgement-day", "last-meal", "massacre", "menu", "Misery-Old-v2", "misery-v1",
+    "misery-v2", "mist-mmm", "mist-re-old", "mist-v1", "mist-v2", "not-happy", "pat",
+    "plagerize-midi", "plagerize-test", "plagerize-v1", "plagerize-v2", "primal-instinct",
+    "propaganda", "propaganda-old", "Road-Rage", "rumental", "Sadness", "Sadness-Scrapped-Remaster",
+    "sanguilacrimae-re-old", "sanguilacrimae-Retake", "sanguilacrimae-v1", "sanguilacrimae-v1-v2Voices",
+    "sanguilacrimae-v2", "sanguilacrimae-v2-v1Voices", "satisfaction", "satisfaction-no",
+    "satisfaction-old", "served-v1", "served-v2", "served-v3", "Serving-The-Served", "tonight-re",
+    "tortured-DogeRemake", "tortured-Legacy", "tortured-v1", "tortured-v1-remake", "tortured-v2",
+    "Unpoppable"
+}
+
+local freeplay = 1
+local TextSize = 50
+
 function onCreate()
-    
-    song = 'Dehydrated'
-    
-    Delusional = 0
-    
-    freeplay = 1
-    
-    Camera = 385
-    TextSize = 50
-   end
-   
-   a = 0
+    makeLuaText('songName', songList[freeplay], 1275, 0, 50)
+    setTextSize('songName', TextSize)
+    setTextAlignment('songName', 'center')
+    setObjectCamera('songName', 'other')
+    addLuaText('songName')
+end
+
 function onUpdate()
---setPropertyFromClass('Conductor', 'songPosition', a  ) -- 13.6
-	--setPropertyFromClass('flixel.FlxG', 'sound.music.time', a)
-	--setProperty('vocals.time', a)
-if Delusional > 66 then
-i = 0
-freeplay = 99999999
-song = 'Delusional'
-setProperty('cameraSpeed', 9999)
-end	
-if keyJustPressed('UP') and TextSize < 100 then
-TextSize = TextSize + 10
---setProperty('TextSize',TextSize+10)
-playSound('scroll_Test');
-end
-if keyJustPressed('LEFT') then
-freeplay = freeplay + -1
-playSound('scroll_Test');
-end
-if keyJustPressed('RIGHT') then
-freeplay = freeplay - -1
-playSound('scroll_Test');
-end
-if keyJustPressed('DOWN') and TextSize > 10 then
-TextSize = TextSize - 10
-playSound('scroll_Test');
-end
-if freeplay < 1 and i ~= 0 then
-freeplay = 17
-end
-if freeplay > 17 and i ~= 0 then
-freeplay = 1
-end
+    if keyJustPressed('LEFT') then
+        freeplay = freeplay - 1
+        playSound('scroll_Test')
+    end
+    if keyJustPressed('RIGHT') then
+        freeplay = freeplay + 1
+        playSound('scroll_Test')
+    end
+    if keyJustPressed('UP') then
+        TextSize = math.min(100, TextSize + 5)
+        playSound('scroll_Test')
+    end
+    if keyJustPressed('DOWN') then
+        TextSize = math.max(10, TextSize - 5)
+        playSound('scroll_Test')
+    end
+	if keyJustPressed('accept') then
+	    loadSong(songList[freeplay])
+	end
 
-if freeplay == 1 then
-text = 'The song that used to be called Sadness,\nObsolete because it was leaked'
-by = 'Sandi'
-song = 'Humiliation v1'
-end
-if freeplay == 2 then
-text = 'The version used by module v1'
-by = 'Sandi'
-song = 'Humiliation v2'
-end
-if freeplay == 3 then
-text = 'The version that should be used in module v2,\nbut due to leaks,\nit should no longer be used,\nBF doesn’t even have miss image'
-by = 'Sublime(ft.Sandi)'
-song = 'Humiliation v3'
-end
-if freeplay == 4 then
-text = 'mcm predecessor Monday Morning Mist (mmm) version of mist\nIt was planned to appear as a bonus song until FLP was lost,\nalthough it was later discovered that FLP was not lost.'
-by = '5th-gmj'
-song = 'mist mmm'
-end
-if freeplay == 5 then
-text ='Only minor differences from v2.'
-by = 'Vruzzen'
-song = 'mist v1'
-end
-if freeplay == 6 then
-text = 'The story was supposed to end, \nbut due to the intervention of the boyfriend, \nSquidward death was delayed for a few minutes'
-by = 'Vruzzen'
-song = 'mist v2'
-end
-if freeplay == 7 then
-text = 'Still playable in Friday Night Bloxxin(Roblox).\nUnused due to leaking\nAnd its never the first stage.'
-by = 'Vruzzen'
-song = 'doomsday v1'
-end
-if freeplay == 8 then
-text = 'It was very surprising when I first saw it.\nIt can be said that it was the most anticipated song at that time.'
-by = 'Vruzzen'
-song = 'doomsday v2'
-end
-if freeplay == 9 then
-text = 'Vruzzen has stated that this remaster of Doomsday is also unfinished. \nAs it lacks the guitar riffs for the finale. \nScrapped for unknown reasons.'
-by = 'Vruzzen'
-song = 'doomsday oldv2'
-end
-if freeplay == 9 then
-text = 'Isn’t apart of the mod was only made for fun.\nThe name I gave this song in this mod has nothing to do with the original one,and it’s also a joke.'
-by = 'poproxx(ft.Vruzzen)'
-song = 'doomsday art'
-end
-if freeplay == 10 then
-text = ''
-by = ''
-song = ''
-end
+    -- Wrap the index
+    if freeplay < 1 then
+        freeplay = #songList
+    elseif freeplay > #songList then
+        freeplay = 1
+    end
 
-    makeLuaText('sub4', freeplay, 0, 0, 0)
-	setTextSize('sub4', 52.5);
-	setObjectCamera('sub4', 'other')
-	setTextAlignment('sub4', 'center')
-	addLuaText('sub4')
-	
-	makeLuaText('TextSize', TextSiz, 1750, 0, 0)
-	setTextSize('TextSize', 52.5);
-	setObjectCamera('TextSize', 'other')
-	setTextAlignment('TextSize', 'center')
-	addLuaText('TextSize')
-	
-	makeLuaText('song', song, 1275, 0, 70)
-	setTextSize('song', 52.5);
-	--setTextFont('song', 52.5);
-	setObjectCamera('song', 'other')
-	setTextAlignment('song', 'center')
-	addLuaText('song')
-	
-	makeLuaText('text', text, 1275, 0, 170)
-	setTextSize('text', TextSize);
-	setObjectCamera('text', 'other')
-	setTextAlignment('text', 'left')
-	addLuaText('text')
-	setTextFont("text", 'vcr1.ttf')
-	
-	makeLuaText('by', by, 1275, 0, 570)
-	setTextSize('by', 52.5);
-	setObjectCamera('by', 'other')
-	setTextAlignment('by', 'center')
-	addLuaText('by')
+    -- Update text object
+    setTextString('songName', songList[freeplay])
+    setTextSize('songName', TextSize)
 end

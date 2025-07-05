@@ -1,0 +1,6 @@
+value 1: object
+value 2: 
+[1] x, y or both,
+[2] offset(x if [1] = x or both or y 
+if [1] = y),
+[3] offset y (if [1] 4= both)

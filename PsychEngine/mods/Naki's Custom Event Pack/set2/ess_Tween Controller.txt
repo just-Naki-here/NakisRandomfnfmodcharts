@@ -1,0 +1,4 @@
+Tweens the value of the Controller/Shader Float
+
+v1: Controller/Shader Float
+v2: Value, Time, Ease

@@ -10,7 +10,7 @@ end
 local knownScripts = {
     ['bashed-friendship'] = {'dialouge', 'SongIntro', 'script' , 'windowandnoterotate' },
     ['budget-cuts'] = {'dialouge', 'SongIntro' , 'windowandnoterotate' },
-    ['Ending-Seasons'] = {'forcemiddlescroll', 'HideGF', 'movenote', 'timemechanicfixed' , 'windowandnoterotate' , 'Modchart' },
+    ['Ending-Seasons'] = {'forcemiddlescroll', 'HideGF', 'movenote', 'timemechanicfixed' , 'Modchart' },
     ['error'] = { 'SongIntro' , 'Modchart' },
     ['even-primes'] = { 'dialouge', 'SongIntro' , 'windowandnoterotate' },
     ['exited'] = { 'dialouge', 'SongIntro', 'script', 'deathup' , 'windowandnoterotate' },
@@ -23,7 +23,7 @@ local knownScripts = {
     ['prevented-trust'] = { 'script', 'SongIntro', 'dialouge' , 'windowandnoterotate' },
     ['pudgy'] = { 'SongIntro', 'dialouge' , 'windowandnoterotate' },
     ['Snakes'] = { 'script' , 'windowandnoterotate' },
-    ['verzephobia'] = { 'cutscene', 'SongIntro','Modchart', 'timemechanicfixed' },
+    ['verzephobia'] = { 'SongIntro','Modchart', 'timemechanicfixed' },
     ['who-marks-the-spot'] = { 'SongIntro', 'dialouge' , 'windowandnoterotate' }
 }
 
@@ -36,7 +36,7 @@ function onCreate()
 
     local list = knownScripts[formatted]
     if not list then
-        debugPrint("⚠️ No modcharts entry for: " .. formatted)
+        debugPrint("No modcharts entry for: " .. formatted)
         return
     end
 

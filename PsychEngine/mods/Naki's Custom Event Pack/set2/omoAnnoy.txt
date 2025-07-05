@@ -1,0 +1,2 @@
+Plays Annoy effect on target, give 1 tier of anger to target
+Value 1: Target (0 - dad, 1 - bf)

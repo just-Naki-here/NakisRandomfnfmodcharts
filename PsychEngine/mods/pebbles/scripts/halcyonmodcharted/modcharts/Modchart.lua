@@ -172,125 +172,65 @@ function onSongStart() -- code that executes when the song begins
        setPropertyFromGroup("opponentStrums", 3, "x", defaultOpponentStrumX3 + 320)
        setPropertyFromClass("openfl.Lib", "application.window.title", windowNameCycle)
 end
-function onUpdate(elapsed) -- code that executes every frame
-       if curStep > 1808 then 
-              --[[^
-              checks if the current step in the song (tracked by curStep) is past step 1808.
-              If this condition is true, the code inside runs
-              --]]
-              if delay == 0 then -- This checks if the variable delay is 0
-                     windowNameCycle = string.sub(windowNameCycle, -1) .. string.sub(windowNameCycle, 1, -2) 
-                     --[[ ^
-                     string.sub(windowNameCycle, -1) gets the last character of the string.
-                     string.sub(windowNameCycle, 1, -2) gets the string from the first character up to the second-to-last character.
-                     --]]
-                     setWindowTitle(windowNameCycle) -- This sets the window title of the game to the new value of windowNameCycle, which is now rotated.                     
-              end
-              delay = (delay + 1) % 3 
-              --[[^
-               This increments the delay variable by 1, and then uses modulo 3 to wrap it back around to 0 after it hits 2.
-              This creates a repeating cycle: 0 → 1 → 2 → 0 → ...
-              --]]
-       end
-       Decider = math.random(1, 1000)  -- Random value from 1 to 100 to decide behavior this frame              
-       songPos = getSongPosition() -- Get current song position in milliseconds
-       local currentBeat = (songPos / 5000) * (curBpm / 60) -- Calculate current beat based on song position and BPM
-       if Decider < 500 then -- If Decider is less than 50
-              if Decider < 2 then -- If it's really low (1 or 2), re-randomize
-                     Decider = math.random(1, 1000)
-              end
-              Decider = math.random(1, 1000) -- Reroll Decider again (adds more randomness)
-       end
-       if Decider > 500 then -- If Decider is greater than 50, set up random strum values
-              -- Random vertical movement amounts (Y axis)
-              randomPlayerstrumY1 = math.random(0, 150)
-              randomPlayerstrumY2 = math.random(0, 150)
-              randomPlayerstrumY3 = math.random(0, 150)
-              randomPlayerstrumY4 = math.random(0, 150)
-              -- Tween durations for Y tweens (all set to 0.2 seconds)
-              randomPlayerstrumY5 = 0.2
-              randomPlayerstrumY6 = 0.2
-              randomPlayerstrumY7 = 0.2
-              randomPlayerstrumY8 = 0.2
-              -- Random horizontal movement amounts (X axis)
-              randomPlayerstrumX1 = math.random(0, 150)
-              randomPlayerstrumX2 = math.random(0, 150)
-              randomPlayerstrumX3 = math.random(0, 150)
-              randomPlayerstrumX4 = math.random(0, 150)
-              -- Tween durations for X tweens (also 0.2 seconds)
-              randomPlayerstrumX5 = 0.2
-              randomPlayerstrumX6 = 0.2
-              randomPlayerstrumX7 = 0.2
-              randomPlayerstrumX8 = 0.2
-              -- Reroll Decider again
-              Decider = math.random(1, 1000)
-       end
-       if Decider == 500 then -- If Decider exactly equals 50, reroll
+function onUpdate(elapsed)
+    songPos = getSongPosition()
+    local currentBeat = (songPos / 1000) * (curBpm / 60)
 
-           Decider = math.random(1, 1000)
-           for i in 1 do 
-                  debugPrint("You Witnessed a RARE occurence!", 'RED')
-              end
-       end
-       if startNoteTweening == true then -- If note tweening is active (mild visual shake)
-           -- Random vertical amounts for note movement
-           randomPlayerstrumY1 = math.random(0, 90)
-           randomPlayerstrumY2 = math.random(0, 100)
-           randomPlayerstrumY3 = math.random(0, 110)
-           randomPlayerstrumY4 = math.random(0, 120)
-           -- Apply sinusoidal tween to each player's Y notes (indexes 4–7)
-           noteTweenY("defaultPlayerStrumY0", 4, defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi), randomPlayerstrumY5)
-           noteTweenY("defaultPlayerStrumY1", 5, defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi), randomPlayerstrumY6)
-           noteTweenY("defaultPlayerStrumY2", 6, defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi), randomPlayerstrumY7)
-           noteTweenY("defaultPlayerStrumY3", 7, defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi), randomPlayerstrumY8)
-           -- Random horizontal amounts for note movement
-           randomPlayerstrumX1 = math.random(0, 120)
-           randomPlayerstrumX2 = math.random(0, 120)
-           randomPlayerstrumX3 = math.random(0, 120)
-           randomPlayerstrumX4 = math.random(0, 120)
-           -- Apply sinusoidal tween to each player's X notes (with -320 offset)
-           noteTweenX("defaultPlayerStrumX0", 4, defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi), randomPlayerstrumX5)
-           noteTweenX("defaultPlayerStrumX1", 5, defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi), randomPlayerstrumX6)
-           noteTweenX("defaultPlayerStrumX2", 6, defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi), randomPlayerstrumX7)
-           noteTweenX("defaultPlayerStrumX3", 7, defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi), randomPlayerstrumX8)
-       end
-       if startTheHardPart == true then -- If the "hard part" is active (more intense effects)
-              -- Random vertical movement with higher values
-              randomPlayerstrumY1 = math.random(0, 120)
-              randomPlayerstrumY2 = math.random(0, 130)
-              randomPlayerstrumY3 = math.random(0, 140)
-              randomPlayerstrumY4 = math.random(0, 150)
-              -- Sinusoidal Y movement (preserving note order)
-              noteTweenY("defaultPlayerStrumY0", 4, defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 1) * math.pi), 0.5)
-              noteTweenY("defaultPlayerStrumY1", 5, defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 1.25) * math.pi), 0.5)
-              noteTweenY("defaultPlayerStrumY2", 6, defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 1.5) * math.pi), 0.5)
-              noteTweenY("defaultPlayerStrumY3", 7, defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 1.75) * math.pi), 0.5)
-              -- Random horizontal movement
-              randomPlayerstrumX1 = math.random(0, 300)
-              randomPlayerstrumX2 = math.random(0, 300)
-              randomPlayerstrumX3 = math.random(0, 300)
-              randomPlayerstrumX4 = math.random(0, 300)
-              -- Sinusoidal X movement (preserving note order)
-              noteTweenX("defaultPlayerStrumX0", 4, defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 1) * math.pi), 0.5)
-              noteTweenX("defaultPlayerStrumX1", 5, defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 1.25) * math.pi), 0.5)
-              noteTweenX("defaultPlayerStrumX2", 6, defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 1.5) * math.pi), 0.5)
-              noteTweenX("defaultPlayerStrumX3", 7, defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 1.75) * math.pi), 0.5)
-              -- End of hard part tweens
-       end
-       --[[ 
-       old defunct code i am too lazy to remove
-        getMisses()
-        if misses == 1 then
-           for i in misses do
-               newScrollSpeed = originSS - 0.0
-               setProperty('songSpeed', newScrollSpeed)
-           end
-        else
-           newerScrollSpeed = newScrollSpeed - 0.02
-           newScrollSpeed = newerScrollSpeed
-           setProperty('songSpeed', newerScrollSpeed)
+    if curStep > 1808 then
+        delay = (delay + 1) % 3
+        if delay == 0 then
+            windowNameCycle = string.sub(windowNameCycle, -1) .. string.sub(windowNameCycle, 1, -2)
+            setWindowTitle(windowNameCycle)
         end
-        --]]
+
+        -- Window Shake
+        setPropertyFromClass("openfl.Lib", "application.window.x", 300 + math.random(-5, 5))
+        setPropertyFromClass("openfl.Lib", "application.window.y", 200 + math.random(-5, 5))
+
+        -- Random Zoom
+        if curStep % 2 == 0 then
+            setProperty('camGame.zoom', 1 + 0.05 * math.sin(currentBeat * 6))
+        end
+
+        -- Camera angle jitter
+        setProperty('camHUD.angle', math.random(-8, 8))
+        setProperty('camGame.angle', math.random(-6, 6))
+
+        -- Rapid color cycling
+        for i = 4, 7 do
+            setPropertyFromGroup('strumLineNotes', i, 'color', getColorFromHex(string.format("%06x", math.random(0x000000, 0xFFFFFF))))
+        end
+
+        -- Low-health note explosion
+        if getProperty('health') < 0.3 and curStep % 8 == 0 then
+            for i = 4, 7 do
+                noteTweenX('explodeX'..i, i, defaultPlayerStrumX0 + math.random(-400, 400), 0.2, 'expoOut')
+                noteTweenY('explodeY'..i, i, defaultPlayerStrumY0 + math.random(-400, 400), 0.2, 'expoOut')
+            end
+        end
+
+        -- BPM Chaos
+        if curStep % 32 == 0 then
+            setProperty('curBpm', curBpm + math.random(-10, 10))
+        end
+
+        -- Rare Glitch Pulse
+        if math.random(1, 1000) == 1 then
+            debugPrint("GLITCH PULSE TRIGGERED")
+            triggerEvent('Add Camera Zoom', '0.3', '0.5')
+                for i = 4, 7 do
+                     setPropertyFromGroup('strumLineNotes', i, 'alpha', 0.1)
+                 runTimer('resetAlpha'..i, 0.1)
+            end
+        end
+
+    -- Reset strum note alpha if pulsed
+    for i = 4, 7 do
+        if getPropertyFromGroup('strumLineNotes', i, 'alpha') < 1 and not getProperty('resetAlphaTimer'..i) then
+            runTimer('resetAlpha'..i, 0.1)
+            setProperty('resetAlphaTimer'..i, true) -- prevent spammed timers
+        end
+    end
 end
 function onDestroy() -- code that is executed when the game is closed or player exits the song through the pause menu
        --[[ 
@@ -326,4 +266,13 @@ function goodNoteHit(noteID, direction, noteType, isSustainNote)
            doTweenX('resetX'..strumIndex, 'strumLineNotes['..strumIndex..']', defaultStrumX[strumIndex], 0.05, 'linear')
            doTweenY('resetY'..strumIndex, 'strumLineNotes['..strumIndex..']', defaultStrumY[strumIndex], 0.05, 'linear')
        end
+end
+function onTimerCompleted(tag, loops, loopsLeft)
+    if string.sub(tag, 1, 10) == 'resetAlpha' then
+        local i = tonumber(string.sub(tag, 11))
+        if i then
+            setPropertyFromGroup('strumLineNotes', i, 'alpha', 1)
+            setProperty('resetAlphaTimer'..i, false) -- allow future glitch resets
+        end
+    end
 end

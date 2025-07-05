@@ -1,0 +1,7 @@
+Used on cameraMoviment script
+Value 1 = x,y
+you can use operations on v1, example: 500+100,600+50;
+some variables for positions: {dadX,dadY,curX,curY,bfX,bfY,gfX,gfY,
+middlebfdadX,middlebfdadY,middlegfdadY,middlegfdadY,middlebfgfX,
+middlebfgfY}
+Value 2 = target(any character), leave blank for all

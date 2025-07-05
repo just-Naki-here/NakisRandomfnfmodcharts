@@ -1,0 +1,2 @@
+value 1: true or false
+true = zooming, false = stop zooming

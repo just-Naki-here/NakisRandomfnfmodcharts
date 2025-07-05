@@ -1,0 +1,4 @@
+value 1 = game beat force,hud beat force, game shake force, hud shake force
+value 2 = stop after how much beats, frequency
+
+To disable, put nothing on value 2.

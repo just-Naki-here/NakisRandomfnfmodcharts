@@ -1,0 +1,7 @@
+value 1: Nombre del sprite o elemento del hud o algo
+value 2: duracion y alpha
+
+ejemplo pa que se entienda pq si XD
+
+value 1: boyfriend
+value 2: 0.7, 0

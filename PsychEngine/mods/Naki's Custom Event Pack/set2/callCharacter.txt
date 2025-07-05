@@ -1,0 +1,6 @@
+value 1: add or remove
+if add
+value 2: charName, json, x pos, y pos, playable
+in front
+if remove
+value 2: charName, remove image from memory

@@ -1,0 +1,5 @@
+Put zoom on each section of Bf or GF or dad ( Depending on the stage)  
+Value 1: Zoom BF, Zoom dad
+
+value 2:Zoom GF, true or false
+Zoom from girlfriend (duh) And if to put true or false ( Zoom or no zoom)

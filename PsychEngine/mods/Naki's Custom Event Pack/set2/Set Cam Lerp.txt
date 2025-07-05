@@ -1,0 +1,5 @@
+Used on cameraMovement
+Value 1 = start,target,speed
+
+If you want the speed to remain the same, 
+write "nil" in the "target".
