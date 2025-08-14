@@ -1,6 +1,17 @@
-function onCreate()
-    -- Variables
+-- Store default positions
+local defaultPlayerStrumPos = {}
+local movePlayerNotes = false
 
+-- Base movement settings
+local baseWaveAmplitude = 1 -- starting Y movement
+local baseXAmplitude = 1    -- starting X movement
+local baseWaveSpeed = 1      -- starting speed
+local chaseGrowthRate = 0.015  -- amplitude growth rate per second
+local chaseSpeedGrowthRate = 0.005  -- speed growth rate per second
+
+local chaseTimer = 0
+
+function onCreate()
     -- Preferences check and set
     wasMidscrollOn = false
     wasDownScrollOff = false
@@ -15,6 +26,17 @@ function onCreate()
 
     for i = 0, 3 do
         setPropertyFromGroup('opponentStrums', i, 'alpha', 0.3)
+    end
+
+   
+end
+function onCreatePost()
+    -- Save player strum positions 
+    for i = 4, 7 do
+        defaultPlayerStrumPos[i] = {
+            x = getPropertyFromGroup('strumLineNotes', i, 'x'),
+            y = getPropertyFromGroup('strumLineNotes', i, 'y')
+        }
     end
 end
 local startPassiveHealthDrain = false
@@ -36,6 +58,8 @@ end
 function onStepHit()
     if curStep == 2980 then
         startPassiveHealthDrain = true
+        movePlayerNotes = true
+        chaseTimer = 0
     end
 end
 
@@ -46,6 +70,25 @@ function onUpdatePost(elapsed)
             setWindowTitle(windowNameCycle)
         end
         delay = (delay + 1) % 3
+    end
+
+    -- Player note chaos movement
+    if movePlayerNotes then
+        chaseTimer = chaseTimer + elapsed
+
+        -- Amplitudes & speed increase over time
+        local currentWaveAmp = baseWaveAmplitude + (chaseTimer * chaseGrowthRate * baseWaveAmplitude)
+        local currentXAmp = baseXAmplitude + (chaseTimer * chaseGrowthRate * baseXAmplitude)
+        local currentSpeed = baseWaveSpeed + (chaseTimer * chaseSpeedGrowthRate)
+
+        local songTime = getSongPosition() / 1000
+        for i = 4, 7 do
+            local xOffset = math.cos(songTime * currentSpeed + i) * currentXAmp
+            local yOffset = math.sin(songTime * currentSpeed + i) * currentWaveAmp
+
+            setPropertyFromGroup('strumLineNotes', i, 'x', defaultPlayerStrumPos[i].x + xOffset)
+            setPropertyFromGroup('strumLineNotes', i, 'y', defaultPlayerStrumPos[i].y + yOffset)
+        end
     end
 end
 

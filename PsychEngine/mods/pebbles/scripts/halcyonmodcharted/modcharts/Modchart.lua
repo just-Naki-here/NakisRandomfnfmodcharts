@@ -221,8 +221,9 @@ function onUpdate(elapsed)
                 for i = 4, 7 do
                      setPropertyFromGroup('strumLineNotes', i, 'alpha', 0.1)
                  runTimer('resetAlpha'..i, 0.1)
+                end
             end
-        end
+       end
 
     -- Reset strum note alpha if pulsed
     for i = 4, 7 do
