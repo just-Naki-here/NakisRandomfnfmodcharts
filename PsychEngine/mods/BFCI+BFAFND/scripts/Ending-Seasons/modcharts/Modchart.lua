@@ -6,8 +6,8 @@ local movePlayerNotes = false
 local baseWaveAmplitude = 1 -- starting Y movement
 local baseXAmplitude = 1    -- starting X movement
 local baseWaveSpeed = 1      -- starting speed
-local chaseGrowthRate = 0.015  -- amplitude growth rate per second
-local chaseSpeedGrowthRate = 0.005  -- speed growth rate per second
+local chaseGrowthRate = 0.1  -- amplitude growth rate per second
+local chaseSpeedGrowthRate = 0.01  -- speed growth rate per second
 
 local chaseTimer = 0
 
@@ -56,6 +56,13 @@ function onBeatHit()
 end
 
 function onStepHit()
+    if curStep == 1280 then
+        startPassiveHealthDrain = true
+    end
+    if curStep == 1791 then 
+        startPassiveHealthDrain = false
+    end
+
     if curStep == 2980 then
         startPassiveHealthDrain = true
         movePlayerNotes = true
