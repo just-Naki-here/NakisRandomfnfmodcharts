@@ -3,7 +3,7 @@ function onCreate()
     debugPrint("hi")
 end
 
--- Default Value Storing
+-- Stores default values for opponent Strums
 local defaultOpponentStrumX0, defaultOpponentStrumX1, defaultOpponentStrumX2, defaultOpponentStrumX3
 local defaultOpponentStrumY0, defaultOpponentStrumY1, defaultOpponentStrumY2, defaultOpponentStrumY3
 
@@ -26,10 +26,15 @@ local safetyMargin  = 2    -- pixel margin to avoid touching neighbors
 
 -- gets the "base lane X"(+620 for lanes 2/3)
 local function baseLaneX(i)
-    if i == 0 then return defaultOpponentStrumX0
-    elseif i == 1 then return defaultOpponentStrumX1
-    elseif i == 2 then return defaultOpponentStrumX2 + 620
-    else return defaultOpponentStrumX3 + 620 end
+    if i == 0 then 
+        return defaultOpponentStrumX0
+    elseif i == 1 then 
+        return defaultOpponentStrumX1
+    elseif i == 2 then 
+        return defaultOpponentStrumX2 + 620
+    else 
+        return defaultOpponentStrumX3 + 620 
+    end
 end
 
 function onUpdate(elapsed)
@@ -84,19 +89,16 @@ function onUpdate(elapsed)
     noteTweenY("defaultOpponentStrumY3", 3, defaultOpponentStrumY3 - randomOppstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi), 0.2)
 
     -- X TWEENS & WAVE
-    noteTweenX("defaultOpponentStrumX0", 0,
-        (defaultOpponentStrumX0 - randomOppstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi)) + wave0, 0.2)
+    noteTweenX("defaultOpponentStrumX0", 0,(defaultOpponentStrumX0 - randomOppstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi)) + wave0, 0.2)
 
-    noteTweenX("defaultOpponentStrumX1", 1,
-        (defaultOpponentStrumX1 - randomOppstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi)) + wave1, 0.2)
+    noteTweenX("defaultOpponentStrumX1", 1,(defaultOpponentStrumX1 - randomOppstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi)) + wave1, 0.2)
 
-    noteTweenX("defaultOpponentStrumX2", 2,
-        (defaultOpponentStrumX2 + 620 - randomOppstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi)) + wave2, 0.2)
+    noteTweenX("defaultOpponentStrumX2", 2,(defaultOpponentStrumX2 + 620 - randomOppstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi)) + wave2, 0.2)
 
-    noteTweenX("defaultOpponentStrumX3", 3,
-        (defaultOpponentStrumX3 + 620 - randomOppstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi)) + wave3, 0.2)
+    noteTweenX("defaultOpponentStrumX3", 3,(defaultOpponentStrumX3 + 620 - randomOppstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi)) + wave3, 0.2)
 
     -- FLIP LOGIC(notey)
+    -- this hunk of code basically makes the opponent notes flip when they reach the top or bottom of the screen
     if notey > 300 then
         noteTweenDirection("PlayerNote0", 0, 90, 0.2, "linear")
         noteTweenDirection("PlayerNote1", 1, 90, 0.3, "linear")
