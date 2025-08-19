@@ -10,7 +10,7 @@ end
 local knownScripts = {
     ['bashed-friendship'] = {'dialouge', 'SongIntro', 'script' , 'windowandnoterotate' },
     ['budget-cuts'] = {'dialouge', 'SongIntro' , 'windowandnoterotate' },
-    ['Ending-Seasons'] = {'forcemiddlescroll', 'HideGF', 'movenote', 'timemechanicfixed' , 'Modchart' },
+    ['Ending-Seasons'] = {'forcemiddlescroll', 'HideGF', 'movenote', 'timemechanicfixed' , 'Modchart' , 'healthmechanicshit' },
     ['error'] = { 'SongIntro' , 'Modchart' },
     ['even-primes'] = { 'dialouge', 'SongIntro' , 'windowandnoterotate' },
     ['exited'] = { 'dialouge', 'SongIntro', 'script', 'deathup' , 'windowandnoterotate' },
