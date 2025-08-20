@@ -1,87 +1,73 @@
--- Config
-local maxHealthCap = 4.0 -- Player health can go up to this value
-local sustainDrainAmount = 0.01 -- Base drain amount per sustain beat
-local healAmount = 0.005 -- Passive healing amount
-local healMultiplier = 2.0 -- Healing triggers 2x as fast as drain
-
--- Internal state
-local drainOnOpponentNotes = true
-local healTimer = 0
-local healingActive = false
+function onCreate()
+   totp=1 
+end
+local drainOnOpponentNotes = false
 local frozenHealth = nil
-local healthText = nil
+local healTimer = 0
 
 function onCreatePost()
-    -- Health percent text
-    healthText = makeLuaText('healthText', '100% HP', 200, 20, 690)
-    setTextSize(healthText, 20)
-    addLuaText(healthText)
-
-    -- Make sure health bar can scale
-    setProperty('healthBar.scale.x', 1)
+    -- Create health percent display
+    makeLuaText("healthText", "Health: 100%", 200, screenWidth - 220, 20)
+    setTextSize("healthText", 20)
+    setTextAlignment("healthText", "left")
+    setTextBorder("healthText", 1, "000000") -- black outline
+    addLuaText("healthText")
 end
 
+-- Opponent note drain
 function opponentNoteHit(id, direction, noteType, isSustainNote)
-    if drainOnOpponentNotes and isSustainNote then
-        local bpm = getProperty("curBpm")
-        local beatLength = 60 / bpm
-        -- Scale drain with BPM (faster BPM = faster drain)
-        local drainScale = (bpm / 120)
-        setProperty('health', getProperty('health') - sustainDrainAmount * drainScale)
+    if drainOnOpponentNotes and getProperty('health') > 0.07 then
+        if isSustainNote then
+            -- Sustain drain scaled to BPM
+            local bpm = getProperty("curBpm")
+            local drainPerBeat = 0.04
+            local tickRate = 0.25 -- Psych sustains tick ~ quarter beat
+            local sustainDrain = drainPerBeat * tickRate
+            setProperty('health', getProperty('health') - sustainDrain)
+        else
+            -- Tap note drain
+            setProperty('health', getProperty('health') - 0.02)
+        end
     end
 end
 
 function onStepHit()
-    -- Healing active between step 1281–1792
-        if curStep == 1280 then
-        drainOnOpponentNotes = true
-    end    
-    if curStep == 1281 then
-        healingActive = true
-        healTimer = 0
-    end
-    if curStep == 1791 then 
-        drainOnOpponentNotes = false
-    end
-    curStep == 1793 then
-        healingActive = false
-    end
+    -- Enable/disable drain phases
+    if curStep == 1280 then drainOnOpponentNotes = true end
+    if curStep == 1791 then drainOnOpponentNotes = false end
+    if curStep == 2980 then drainOnOpponentNotes = true end
 end
 
 function onUpdatePost(elapsed)
-    -- Freeze health when drain is off
+    local currentHealth = getProperty('health')
+
+    -- Freeze health outside drain phases
     if not drainOnOpponentNotes then
         if frozenHealth == nil then
-            frozenHealth = getProperty('health')
+            frozenHealth = currentHealth
         else
             setProperty('health', frozenHealth)
+            currentHealth = frozenHealth -- keep text in sync
         end
     else
         frozenHealth = nil
     end
 
-    -- Expand HUD health bar dynamically
-    local currentHealth = getProperty('health')
-    if currentHealth > 2 then
-        local scaleFactor = math.min(currentHealth / 2, maxHealthCap / 2)
-        setProperty('healthBar.scale.x', scaleFactor)
-    else
-        setProperty('healthBar.scale.x', 1)
-    end
-
-    -- Update health percentage text
-    local percent = math.floor((currentHealth / 2) * 100)
-    setTextString(healthText, percent .. '% HP')
-
-    -- Passive healing logic (only active in range)
-    if drainOnOpponentNotes and healingActive then
+    -- Healing phase (between steps 1281–1792)
+    if drainOnOpponentNotes and curStep >= 1281 and curStep <= 1792 then
         healTimer = healTimer + elapsed
         local bpm = getProperty("curBpm")
         local beatLength = 60 / bpm
-        local healInterval = beatLength * 0.25 -- 2x as fast as sustain drain
+        local healInterval = beatLength * 0.25 -- heal every 1/8 beat
+
         if healTimer >= healInterval then
             healTimer = healTimer - healInterval
-            setProperty('health', currentHealth + healAmount)
+            setProperty('health', math.min(2.0, currentHealth + 0.005))
+            currentHealth = getProperty('health')
         end
     end
+
+    -- Update health percent text (always uses current bar value)
+    local healthPercent = math.floor(currentHealth * 50) -- 2.0 health = 100%
+    setTextString("healthText", "Health: " .. healthPercent .. "%")
 end
