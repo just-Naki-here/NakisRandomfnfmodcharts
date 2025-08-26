@@ -1,6 +1,11 @@
+-- ==================================
+-- Subtle / Intense Window Shake
+-- Scales with drain phase
+-- ==================================
 
 local baseX = 0
 local baseY = 0
+local drainActive = false -- this will be set by the health script
 
 function onCreatePost()
     -- Store the original window position
@@ -31,9 +36,9 @@ function opponentNoteHit(id, direction, noteType, isSustainNote)
     end
 end
 
--- Apply a small movement based on direction
+-- Shake intensity changes based on drain state
 function shakeWindow(direction)
-    local offset = 10 -- how strong the shake is (lower = subtler)
+    local offset = drainActive and 25 or 10 -- stronger when drain is on
     local dirX, dirY = 0, 0
 
     if direction == 0 then dirX = -offset end -- left
@@ -48,4 +53,9 @@ end
 -- Simple lerp
 function lerp(a, b, t)
     return a + (b - a) * math.min(t, 1)
+end
+
+-- Allow other scripts to tell us if drain is active
+function setDrainState(state)
+    drainActive = state
 end
