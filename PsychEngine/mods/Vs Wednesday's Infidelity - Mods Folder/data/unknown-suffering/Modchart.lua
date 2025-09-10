@@ -100,6 +100,23 @@ function onUpdate(elapsed)
     if (songPos / 5000) * (curBpm / 60) == 20 then
         debugPrint("Hard part coming up!")--prints "Hard part coming up!"
     end
+    
+end
+function noteMiss(id, direction, noteType, isSustainNote)--note miss checker
+    debugPrint("YOU MISSED NOOB!")
+    noteTweenY("defaultPlayerStrumY0",4,defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
+    noteTweenY("defaultPlayerStrumY1",5,defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
+    noteTweenY("defaultPlayerStrumY2",6,defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
+    noteTweenY("defaultPlayerStrumY3",7,defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
+    noteTweenX("defaultPlayerStrumX0",4,defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
+    noteTweenX("defaultPlayerStrumX1",5,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
+    noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
+    noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
+
+    speed = tonumber("E", 1)
+    randomscrollspeed = math.random(1.5, 5)
+    setProperty("scrollspeed", speed)
+    setPropertyFromGroup("scrollspeed", 0, randomscrollspeed)
     getMisses()--gets the current amount of misses the player has
     if misses == 1 then--miss checker
         setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T MESS UP ANYMORE!!!")--changes app. name 
@@ -121,22 +138,6 @@ function onUpdate(elapsed)
         setPropertyFromClass("openfl.Lib", "application.window.title", "YOUR COMPUTER IS OURS!!!!")--changes app. name 
         debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
     end
-end
-function noteMiss(id, direction, noteType, isSustainNote)--note miss checker
-    debugPrint("YOU MISSED NOOB!")
-    noteTweenY("defaultPlayerStrumY0",4,defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
-    noteTweenY("defaultPlayerStrumY1",5,defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
-    noteTweenY("defaultPlayerStrumY2",6,defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
-    noteTweenY("defaultPlayerStrumY3",7,defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
-    noteTweenX("defaultPlayerStrumX0",4,defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
-    noteTweenX("defaultPlayerStrumX1",5,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
-    noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
-    noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
-
-    speed = tonumber("E", 1)
-    randomscrollspeed = math.random(1.5, 5)
-    setProperty("scrollspeed", speed)
-    setPropertyFromGroup("scrollspeed", 0, randomscrollspeed)
 end
 
 function onDestroy()--exit to menu checker

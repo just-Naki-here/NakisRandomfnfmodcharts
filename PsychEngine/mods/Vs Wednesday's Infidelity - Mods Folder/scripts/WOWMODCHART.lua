@@ -6,7 +6,7 @@ local sustainOverlap = 100        -- How much of the sustains should be overlapp
 local zigzagAmplitude = 16      -- Height of the zigzag
 local zigzagFrequency = 5       -- Speed of the wiggle
 local sustainThickness = 1.5    -- vertical thickness 
-local sustainLengthMult = 2.5  --multiplier for how long sustains appear
+local sustainLengthMult = 100  --multiplier for how long sustains appear
 
 -- DO NOT CHANGE ANYTHING BELOW THIS OR IT WILL BREAK
 local strumX = 0
