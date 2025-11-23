@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="desk.png"><SubTexture name="desk idle0000" x="0" y="0" width="1696" height="468" frameX="-224" frameY="-612" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

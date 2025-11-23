@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bookport.png"><SubTexture name="bookport norm0000" x="0" y="0" width="546" height="534" frameX="-323" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bookport norm0001" x="546" y="0" width="548" height="529" frameX="-324" frameY="-112" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bookport norm0002" x="1094" y="0" width="558" height="516" frameX="-323" frameY="-125" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bookport norm0003" x="0" y="534" width="556" height="518" frameX="-323" frameY="-123" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

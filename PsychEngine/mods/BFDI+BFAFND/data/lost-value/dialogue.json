@@ -1,0 +1,172 @@
+{
+	"dialogue": [
+		{
+			"expression": "worried",
+			"text": "Okay! Guys, I've had enough of this!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport"
+		},
+		{
+			"expression": "talk",
+			"text": "W-What?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gelloport"
+		},
+		{
+			"expression": "shocked",
+			"text": "X! What are you saying?!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait"
+		},
+		{
+			"expression": "worried",
+			"text": "I SAID THAT I HAVE HAD ENOUGH OF THIS VIRUS THINGY TAKING OVER OUR FRIENDS!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport"
+		},
+		{
+			"expression": "worried",
+			"text": "ESPECIALLY, FOUR!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport"
+		},
+		{
+			"expression": "talk",
+			"text": "With that said...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm going back to the place I feel most\\ncomfortable at...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "xport"
+		},
+		{
+			"expression": "talk",
+			"text": "WHICH IS!!??",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.105,
+			"portrait": "gelloport"
+		},
+		{
+			"expression": "pissed",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport"
+		},
+		{
+			"expression": "talk",
+			"text": "Sorry, I just like saying that!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gelloport"
+		},
+		{
+			"expression": "pissed",
+			"text": "Uh, okay...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways, I'm going back to the Equation\\nPlayground...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't really have a choice at all...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "xport"
+		},
+		{
+			"expression": "talk",
+			"text": "Also warning though....the colors are so bright\\nthat you might see hallucinations...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport"
+		},
+		{
+			"expression": "talk",
+			"text": "But anyways, Bye.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport"
+		},
+		{
+			"expression": "shocked",
+			"text": "W-WAIT X!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait"
+		},
+		{
+			"expression": "pissed",
+			"text": "Agh! Dang it!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait"
+		},
+		{
+			"expression": "excited",
+			"text": "Well, at least Boyfriend will be with me in spirit!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait"
+		},
+		{
+			"expression": "excited",
+			"text": "After he got...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait"
+		},
+		{
+			"expression": "confused",
+			"text": "corrupted...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.095,
+			"portrait": "pibbyportrait"
+		}
+	]
+}

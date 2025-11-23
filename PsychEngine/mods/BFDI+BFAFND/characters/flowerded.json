@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "flowerded singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "flowerded singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "flowerded singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "flowerded singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "flowerded singLEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flowerded",
+	"position": [
+		-420,
+		-10
+	],
+	"healthicon": "flower",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		255
+	],
+	"camera_position": [
+		-110,
+		130
+	],
+	"sing_duration": 90.4,
+	"scale": 1
+}

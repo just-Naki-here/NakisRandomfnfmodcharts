@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gbrun.png"><SubTexture name="gbrun idle0000" x="1590" y="1949" width="511" height="616" frameX="-405" frameY="-73" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun idle0001" x="0" y="671" width="538" height="645" frameX="-380" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun idle0002" x="2661" y="0" width="501" height="606" frameX="-417" frameY="-97" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun idle0003" x="2101" y="1949" width="511" height="614" frameX="-410" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun idle0004" x="1080" y="1949" width="510" height="617" frameX="-408" frameY="-51" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun idle0005" x="1567" y="1316" width="566" height="630" frameX="-350" frameY="-59" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun idle0006" x="1636" y="0" width="505" height="634" frameX="-413" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun idle0007" x="1044" y="671" width="528" height="637" frameX="-390" frameY="-66" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun idle0008" x="538" y="671" width="506" height="643" frameX="-415" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun idle0009" x="3162" y="1199" width="513" height="596" frameX="-405" frameY="-72" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singLEFT0000" x="3162" y="0" width="608" height="600" frameX="-244" frameY="-80" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singLEFT0001" x="556" y="1949" width="524" height="625" frameX="-257" frameY="-79" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singLEFT0002" x="0" y="1949" width="556" height="628" frameX="-238" frameY="-74" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singLEFT0003" x="537" y="1316" width="514" height="631" frameX="-289" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singLEFT0004" x="1130" y="2577" width="532" height="582" frameX="-280" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singRIGHT0000" x="3162" y="1795" width="582" height="595" frameX="-473" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singRIGHT0001" x="2141" y="0" width="520" height="629" frameX="-511" frameY="-70" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singRIGHT0002" x="1051" y="1316" width="516" height="631" frameX="-503" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singRIGHT0003" x="2141" y="629" width="519" height="627" frameX="-496" frameY="-67" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singRIGHT0004" x="623" y="2577" width="507" height="587" frameX="-506" frameY="-70" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singUP0000" x="0" y="2577" width="623" height="590" frameX="-369" frameY="-3" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singUP0001" x="0" y="0" width="515" height="671" frameX="-401" frameY="-8" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singUP0002" x="515" y="0" width="547" height="666" frameX="-370" frameY="-26" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singUP0003" x="1062" y="0" width="574" height="658" frameX="-343" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singUP0004" x="0" y="1316" width="537" height="633" frameX="-380" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singDOWN0000" x="1662" y="2577" width="666" height="577" frameX="-330" frameY="-123" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singDOWN0001" x="3162" y="600" width="513" height="599" frameX="-399" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singDOWN0002" x="1636" y="634" width="499" height="616" frameX="-413" frameY="-97" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singDOWN0003" x="2141" y="1256" width="487" height="627" frameX="-425" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gbrun singDOWN0004" x="2661" y="606" width="497" height="591" frameX="-415" frameY="-93" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

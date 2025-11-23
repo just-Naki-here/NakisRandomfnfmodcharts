@@ -1,53 +1,63 @@
--- Config 
-local waveAmplitude = 50       -- Note movement strength
-local waveSpeed = 4            -- Note wave speed multiplier
-local windowAmplitude = 20     -- Window movement strength
-local windowSpeed = 2          -- Window wave speed multiplier
+-- MODCHART BY JustNakiHere(Gamebanana)/ Just_NAKI_here(Youtube)
+-- Horizontal Opponent Scroll + Zigzag Sustain Tails
+local noteAlpha = 0.3			-- How transparent the notes will be, (values can be between 0 and 1, 1 completely visible, 0 completely invisible)
+local sustainAlpha = 0.3		-- How transparent the sustain notes will be, (values can be between 0 and 1, 1 completely visible, 0 completely invisible)
+local scrollMult = 1            -- Basically just the scroll speed modifier (1 = normal(no change), <1 = slower(less than 1), >1 = faster(greater than 1))
+local sustainOverlap = 100      -- How much of the sustains should be overlapped with each other
+local zigzagAmplitude = 10      -- Height of the zigzag
+local zigzagFrequency = 50       -- Speed of the wiggle
+local sustainThickness = 10    -- vertical thickness 
+local sustainLengthMult = 12  --multiplier for how long sustains appear
 
-local defaultStrumPos = {}
+-- DO NOT CHANGE ANYTHING BELOW THIS OR IT WILL BREAK
+local strumX = 0
+local strumSpacingY = 110
+local startX = screenWidth + 300
+
 function onCreatePost()
-    -- Save default strum positions
-    for i = 0, 7 do
-        defaultStrumPos[i] = {
-            x = getPropertyFromGroup('strumLineNotes', i, 'x'),
-            y = getPropertyFromGroup('strumLineNotes', i, 'y')
-        }
+    local screenMidY = screenHeight / 2
+    for i = 0, 3 do
+        local strumY = screenMidY - (strumSpacingY * 1.5) + (i * strumSpacingY)
+        setPropertyFromGroup('opponentStrums', i, 'x', strumX)
+        setPropertyFromGroup('opponentStrums', i, 'y', strumY)
+        setPropertyFromGroup('opponentStrums', i, 'alpha', noteAlpha)
+        setPropertyFromGroup('notes', i, 'alpha', sustainAlpha)
+        setPropertyFromGroup('opponentStrums', i, 'angle', 90)
+        setPropertyFromGroup('opponentStrums', i, 'zOrder', -10) 
+        setPropertyFromGroup('playerStrums', i, 'zOrder', 10) -- Add this line
     end
 end
 
-local bpm = 168 -- initial value; will update
-local time = 0
+function onSpawnNote(id)
+    if getPropertyFromGroup('notes', id, 'mustPress') then
+        setPropertyFromGroup('notes', id, 'zOrder', 10) -- Add this line for player notes
+    else
+        setPropertyFromGroup('notes', id, 'zOrder', -10) -- Already present for opponent notes
+    end
+end
 
+function onUpdatePost(elapsed)
+    local time = os.clock()
+    for i = 0, getProperty('notes.length') - 1 do
+        if not getPropertyFromGroup('notes', i, 'mustPress') then
+            local isSustain = getPropertyFromGroup('notes', i, 'isSustainNote')
+            if isSustain then
+                -- Rotate sustain notes over time
+                local angle = 90 + math.sin(time + i) * 45 -- oscillate between 45 and 135 degrees
+                setPropertyFromGroup('notes', i, 'angle', angle)
+            else
+                setPropertyFromGroup('notes', i, 'angle', 90)
+            end
+        end
+    end
+    for i = 0, 3 do
+        setPropertyFromGroup('opponentStrums', i, 'alpha', noteAlpha)
+        setPropertyFromGroup('opponentStrums', i, 'angle', 90)
+    end
+end
 function onUpdate(elapsed)
-    local currentBpm = getProperty('curBpm')
-    if bpm ~= currentBpm then
-        bpm = currentBpm
-        -- Debug print or handle BPM change here if needed
-        -- debugPrint('BPM changed to: ' .. bpm)
-    end
-
-    time = time + (elapsed * (bpm / 60))  -- Convert to beats
-
-    for i = 0, 7 do
-        local waveX = math.cos(time * waveSpeed + i) * waveAmplitude
-        local waveY = math.sin(time * waveSpeed + i) * waveAmplitude
-        setPropertyFromGroup('strumLineNotes', i, 'x', defaultStrumPos[i].x + waveX)
-        setPropertyFromGroup('strumLineNotes', i, 'y', defaultStrumPos[i].y + waveY)
-    end
-
-    if not inChartEditor then
-        local displayWidth = getPropertyFromClass('openfl.Lib', 'application.window.display.bounds.width')
-        local displayHeight = getPropertyFromClass('openfl.Lib', 'application.window.display.bounds.height')
-        local windowWidth = getPropertyFromClass('openfl.Lib', 'application.window.width')
-        local windowHeight = getPropertyFromClass('openfl.Lib', 'application.window.height')
-
-        local centerX = (displayWidth / 2) - (windowWidth / 2)
-        local centerY = (displayHeight / 2) - (windowHeight / 2)
-
-        local windowX = math.cos(time * windowSpeed) * windowAmplitude
-        local windowY = math.sin(time * windowSpeed) * windowAmplitude
-
-        setPropertyFromClass('openfl.Lib', 'application.window.x', centerX + windowX)
-        setPropertyFromClass('openfl.Lib', 'application.window.y', centerY + windowY)
-    end
+    -- No fake sustain logic needed
 end
+function doesSpriteExist(tag)
+    return getProperty(tag) ~= nil
+end 

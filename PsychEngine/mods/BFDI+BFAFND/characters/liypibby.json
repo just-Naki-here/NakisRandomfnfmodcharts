@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "liypibby idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "liypibby singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "liypibby singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				1
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "liypibby singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "liypibby singRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/liypibby",
+	"position": [
+		-490,
+		0
+	],
+	"healthicon": "liy",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		222,
+		235
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

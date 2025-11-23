@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "corruptport",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "HE$^HELloO!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Are you like a cake or something?..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "corruptport",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "YOU'VE4^$% MAD^E A WR7ONG D%ECISION\\nCOM&%-mING HERE&^7*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Just do what you need to do already..."
+		}
+	]
+}

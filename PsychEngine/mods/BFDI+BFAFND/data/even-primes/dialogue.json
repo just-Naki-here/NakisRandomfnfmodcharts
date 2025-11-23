@@ -1,0 +1,212 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Welp, this looks like the place I was looking for...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pibbyportrait"
+		},
+		{
+			"expression": "confused",
+			"text": "Excuse me?",
+			"boxState": "normal",
+			"portrait": "twoportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "excited",
+			"text": "Oh! I'm so sorry! I didn't watch where I was going! Heh...",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Hey, no need to apologize! We all make\\nmistakes!",
+			"boxState": "normal",
+			"portrait": "twoportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "excited",
+			"text": "Oh, alright!",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways, I'm Pibby...",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "and there is a virus going on in the cartoon relm. Also known as the\\nCORRUPTION...",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Huh, sounds interesting...",
+			"boxState": "normal",
+			"portrait": "twoportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "But, go on...",
+			"boxState": "normal",
+			"portrait": "twoportrait",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "There is a corruption going on right now and,\\nI am trying to look for hardworking and helpful\\nsurvivors...",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "Oh no! That sounds terrible!",
+			"boxState": "normal",
+			"portrait": "twoportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "It ''IS'' terrible!",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "That's why I've come to see if people are avalible to help and become heros...",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Hence, the reason why I've come to save you!",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "Whoever you are...",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "The name's Two!",
+			"boxState": "normal",
+			"portrait": "twoportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Also, I think I have a solution to our tiny\\nproblem you're having kiddo!",
+			"boxState": "normal",
+			"portrait": "twoportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "um...really.....",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.08,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "tiny...",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.215,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Don't worry! A song will help you solve your\\nproblems!",
+			"boxState": "normal",
+			"portrait": "twoportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "Two.......",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.155,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "A SONG WILL NOT HELP US AT ALL!",
+			"boxState": "angry",
+			"portrait": "pibbyportrait",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "DO WE HAVE A PROBLEM!?",
+			"boxState": "angry",
+			"portrait": "twoportrait",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "no.",
+			"boxState": "normal",
+			"portrait": "pibbyportrait",
+			"speed": 0.005,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Good!",
+			"boxState": "normal",
+			"portrait": "twoportrait",
+			"speed": 0.08,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Let us begin!",
+			"boxState": "normal",
+			"portrait": "twoportrait",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

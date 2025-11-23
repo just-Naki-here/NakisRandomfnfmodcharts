@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Gelatin! FLower and Book got-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Gelloport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I know, we can tell the others later. I'd say we rest for a bit and then we can go tell the others. Okay X?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*sigh* Okay, Gelatin..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Gelloport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay, I think I found a beach we can sit on in the distance! It seems peaceful and calm for now..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gelloport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then after we rest, we'll keep on going."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gelloport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, let's go."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah!"
+		}
+	]
+}

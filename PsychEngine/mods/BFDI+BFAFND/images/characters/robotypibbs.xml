@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="robotypibbs.png"><SubTexture name="robotypibbs idle0000" x="0" y="0" width="1003" height="652" frameX="-147" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0001" x="1003" y="0" width="990" height="652" frameX="-160" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0002" x="0" y="652" width="990" height="652" frameX="-160" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0003" x="990" y="652" width="977" height="652" frameX="-173" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0004" x="0" y="1304" width="977" height="652" frameX="-173" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0005" x="977" y="1304" width="983" height="652" frameX="-167" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0006" x="2004" y="3902" width="1024" height="627" frameX="-147" frameY="-31" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0007" x="1002" y="3902" width="1002" height="631" frameX="-160" frameY="-26" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0008" x="0" y="3902" width="1002" height="636" frameX="-160" frameY="-21" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0009" x="2976" y="0" width="975" height="650" frameX="-173" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0010" x="2976" y="650" width="975" height="650" frameX="-173" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0011" x="1966" y="1956" width="983" height="651" frameX="-167" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs idle0012" x="1993" y="0" width="983" height="652" frameX="-167" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singRIGHT0000" x="3951" y="0" width="983" height="644" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singRIGHT0001" x="3951" y="644" width="983" height="644" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singRIGHT0002" x="3951" y="1288" width="983" height="644" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singRIGHT0003" x="3951" y="1932" width="983" height="644" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singLEFT0000" x="2949" y="3255" width="983" height="646" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singLEFT0001" x="0" y="2608" width="983" height="647" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singLEFT0002" x="983" y="2608" width="983" height="647" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singLEFT0003" x="1966" y="2608" width="983" height="647" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singUP0000" x="1993" y="652" width="983" height="652" frameX="-167" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singUP0001" x="1993" y="1304" width="983" height="652" frameX="-167" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singUP0002" x="0" y="1956" width="983" height="652" frameX="-167" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singUP0003" x="983" y="1956" width="983" height="652" frameX="-167" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singDOWN0000" x="2949" y="2608" width="983" height="647" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singDOWN0001" x="0" y="3255" width="983" height="647" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singDOWN0002" x="983" y="3255" width="983" height="647" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="robotypibbs singDOWN0003" x="1966" y="3255" width="983" height="647" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

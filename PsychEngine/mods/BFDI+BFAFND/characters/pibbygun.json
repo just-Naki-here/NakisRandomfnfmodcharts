@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "pibbygun idle"
+		},
+		{
+			"offsets": [
+				20,
+				30
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pibbygun singDOWN"
+		},
+		{
+			"offsets": [
+				-7,
+				32
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pibbygun singUP"
+		},
+		{
+			"offsets": [
+				40,
+				31
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pibbygun singRIGHT"
+		},
+		{
+			"offsets": [
+				-9,
+				30
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pibbygun singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "pibbygun ALT-DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "pibbygun ALT-UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "pibbygun ALT-RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "pibbygun ALT-LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbygun",
+	"position": [
+		-70,
+		0
+	],
+	"healthicon": "pibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		102,
+		206
+	],
+	"camera_position": [
+		270,
+		-80
+	],
+	"sing_duration": 15.7999999999998,
+	"scale": 1
+}

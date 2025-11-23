@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icepibbs.png"><SubTexture name="icepibbs idle0000" x="2784" y="1080" width="504" height="537" frameX="-381" frameY="-134" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0001" x="1558" y="2248" width="513" height="526" frameX="-376" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0002" x="2071" y="2248" width="515" height="526" frameX="-372" frameY="-145" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0003" x="3298" y="0" width="533" height="523" frameX="-356" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0004" x="2586" y="2248" width="500" height="525" frameX="-385" frameY="-146" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0005" x="1033" y="2248" width="525" height="535" frameX="-360" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0006" x="2784" y="1617" width="506" height="535" frameX="-379" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0007" x="516" y="2248" width="517" height="537" frameX="-368" frameY="-134" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0008" x="0" y="1708" width="507" height="540" frameX="-387" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0009" x="507" y="1708" width="507" height="540" frameX="-378" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0010" x="1014" y="1708" width="497" height="540" frameX="-388" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0011" x="1511" y="1708" width="513" height="540" frameX="-372" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs idle0012" x="2024" y="1708" width="518" height="540" frameX="-369" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singRIGHT0000" x="0" y="2248" width="516" height="539" frameX="-380" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singRIGHT0001" x="2784" y="0" width="514" height="540" frameX="-374" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singRIGHT0002" x="2784" y="540" width="496" height="540" frameX="-392" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singUP0000" x="1955" y="560" width="500" height="553" frameX="-383" frameY="-117" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singUP0001" x="1955" y="1113" width="501" height="549" frameX="-382" frameY="-122" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singUP0002" x="1423" y="1145" width="501" height="549" frameX="-382" frameY="-122" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singDOWN0000" x="3298" y="1527" width="530" height="499" frameX="-382" frameY="-177" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singDOWN0001" x="3298" y="523" width="514" height="502" frameX="-394" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singDOWN0002" x="3298" y="1025" width="508" height="502" frameX="-400" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singLEFT0000" x="1955" y="0" width="829" height="560" frameX="-122" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singLEFT0001" x="0" y="1145" width="740" height="563" frameX="-92" frameY="-109" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singLEFT0002" x="740" y="1145" width="683" height="563" frameX="-92" frameY="-109" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singLEFT0003" x="0" y="0" width="654" height="573" frameX="-89" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singLEFT0004" x="1300" y="0" width="655" height="569" frameX="-91" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singLEFT0005" x="1300" y="569" width="655" height="569" frameX="-91" frameY="-103" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singLEFT0006" x="654" y="0" width="646" height="572" frameX="-96" frameY="-100" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singLEFT0007" x="0" y="573" width="646" height="572" frameX="-97" frameY="-100" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibbs singLEFT0008" x="646" y="573" width="651" height="572" frameX="-95" frameY="-100" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

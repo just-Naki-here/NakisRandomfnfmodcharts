@@ -1,6 +1,7 @@
 -- MODCHART BY JustNakiHere(Gamebanana)/ Just_NAKI_here(Youtube)
 -- Horizontal Opponent Scroll + Zigzag Sustain Tails
-local noteAlpha = 0.5			-- How transparent the notes will be, (values can be between 0 and 1, 1 completely visible, 0 completely invisible)
+local noteAlpha = 0.3			-- How transparent the notes will be, (values can be between 0 and 1, 1 completely visible, 0 completely invisible)
+local sustainAlpha = 0.3		-- How transparent the sustain notes will be, (values can be between 0 and 1, 1 completely visible, 0 completely invisible)
 local scrollMult = 1            -- Basically just the scroll speed modifier (1 = normal(no change), <1 = slower(less than 1), >1 = faster(greater than 1))
 local sustainOverlap = 100      -- How much of the sustains should be overlapped with each other
 local zigzagAmplitude = 10      -- Height of the zigzag
@@ -20,28 +21,20 @@ function onCreatePost()
         setPropertyFromGroup('opponentStrums', i, 'x', strumX)
         setPropertyFromGroup('opponentStrums', i, 'y', strumY)
         setPropertyFromGroup('opponentStrums', i, 'alpha', noteAlpha)
+        setPropertyFromGroup('notes', i, 'alpha', sustainAlpha)
         setPropertyFromGroup('opponentStrums', i, 'angle', 90)
-        setPropertyFromGroup('opponentStrums', i, 'zOrder', 0) -- Add this line
+        setPropertyFromGroup('opponentStrums', i, 'zOrder', -10) 
+        setPropertyFromGroup('playerStrums', i, 'zOrder', 10) -- Add this line
     end
 end
 
 function onSpawnNote(id)
-    if not getPropertyFromGroup('notes', id, 'mustPress') then
-        local data = getPropertyFromGroup('notes', id, 'noteData')
-        local strumY = getPropertyFromGroup('opponentStrums', data, 'y')
-
-        setPropertyFromGroup('notes', id, 'x', startX)
-        setPropertyFromGroup('notes', id, 'y', strumY)
-        setPropertyFromGroup('notes', id, 'angle', 90)
-        setPropertyFromGroup('notes', id, 'alpha', noteAlpha)
-        setPropertyFromGroup('notes', id, 'zOrder', 0) -- Add this line
-
-        if getPropertyFromGroup('notes', id, 'isSustainNote') then
-            setPropertyFromGroup('notes', id, 'flipX', true)
-            setPropertyFromGroup('notes', id, 'scale.y', sustainThickness)
-            setPropertyFromGroup('notes', id, 'offset.x', -30)
-        end
+    if getPropertyFromGroup('notes', id, 'mustPress') then
+        setPropertyFromGroup('notes', id, 'zOrder', 10) -- Add this line for player notes
+    else
+        setPropertyFromGroup('notes', id, 'zOrder', -10) -- Already present for opponent notes
     end
+    -- ...existing code...
 end
 
 function onUpdatePost(elapsed)
@@ -85,10 +78,13 @@ function onUpdatePost(elapsed)
                 setPropertyFromGroup('notes', i, 'scale.y', sustainThickness)
                 setPropertyFromGroup('notes', i, 'offset.x', -30)
                 setPropertyFromGroup('notes', i, 'flipX', true)
+                setPropertyFromGroup('notes', i, 'alpha', noteAlpha) -- Add this line
             else
                 setPropertyFromGroup('notes', i, 'y', baseY)
+                setPropertyFromGroup('notes', i, 'alpha', noteAlpha) -- Add this line for non-sustains too
             end
             setPropertyFromGroup('notes', i, 'angle', 90)
+
         end
     end
 

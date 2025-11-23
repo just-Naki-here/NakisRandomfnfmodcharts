@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "fourded idle"
+		},
+		{
+			"offsets": [
+				6,
+				-4
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fourded singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fourded singDOWN"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fourded singUP"
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fourded singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fourded",
+	"position": [
+		-550,
+		120
+	],
+	"healthicon": "four",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		102,
+		206
+	],
+	"camera_position": [
+		130,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibbyyay.png"><SubTexture name="pibbyyay idle0000" x="0" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0001" x="0" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0002" x="502" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0003" x="502" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0004" x="0" y="628" width="502" height="621" frameX="-371" frameY="-98" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0005" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0006" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0007" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0008" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0009" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0010" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0011" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0012" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0013" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0014" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0015" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0016" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0017" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0018" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0019" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0020" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0021" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0022" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0023" x="1004" y="0" width="502" height="624" frameX="-371" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0024" x="0" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0025" x="0" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0026" x="502" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0027" x="502" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0028" x="502" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0029" x="502" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0030" x="502" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0031" x="502" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbyyay idle0032" x="502" y="0" width="502" height="628" frameX="-371" frameY="-91" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

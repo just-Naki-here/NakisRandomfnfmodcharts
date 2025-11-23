@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="anoport.png"><SubTexture name="anoport side0000" x="321" y="444" width="344" height="426" frameX="-484" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="anoport side0001" x="963" y="0" width="337" height="426" frameX="-484" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="anoport side0002" x="963" y="0" width="337" height="426" frameX="-484" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="anoport side0003" x="1300" y="0" width="340" height="426" frameX="-484" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="anoport front0000" x="0" y="0" width="321" height="444" frameX="-443" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="anoport front0001" x="321" y="0" width="321" height="444" frameX="-443" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="anoport front0002" x="642" y="0" width="321" height="444" frameX="-443" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="anoport front0003" x="0" y="444" width="321" height="444" frameX="-443" frameY="-136" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibbybfup.png"><SubTexture name="pibbybfup idle0000" x="2738" y="615" width="582" height="610" frameX="-327" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup idle0001" x="2738" y="0" width="583" height="615" frameX="-327" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup idle0002" x="1825" y="2020" width="582" height="624" frameX="-327" frameY="-96" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup idle0003" x="1825" y="2020" width="582" height="624" frameX="-327" frameY="-96" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup idle0004" x="1234" y="2020" width="591" height="633" frameX="-318" frameY="-87" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup idle0005" x="644" y="2020" width="590" height="636" frameX="-317" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup idle0006" x="644" y="2020" width="590" height="636" frameX="-317" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup idle0007" x="2092" y="1298" width="588" height="642" frameX="-317" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singRIGHT0000" x="1451" y="665" width="634" height="640" frameX="-375" frameY="-80" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singRIGHT0001" x="2092" y="0" width="646" height="649" frameX="-367" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singRIGHT0002" x="642" y="1358" width="644" height="653" frameX="-367" frameY="-67" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singLEFT0000" x="1286" y="1358" width="648" height="652" frameX="-268" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singLEFT0001" x="0" y="1358" width="642" height="662" frameX="-282" frameY="-58" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singLEFT0002" x="1451" y="0" width="641" height="665" frameX="-286" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singUP0000" x="0" y="0" width="588" height="683" frameX="-315" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singUP0001" x="0" y="683" width="588" height="675" frameX="-315" frameY="-45" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singUP0002" x="588" y="683" width="588" height="672" frameX="-315" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singDOWN0000" x="1280" y="2662" width="622" height="598" frameX="-293" frameY="-122" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singDOWN0001" x="0" y="2662" width="637" height="604" frameX="-283" frameY="-116" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup singDOWN0002" x="637" y="2662" width="643" height="600" frameX="-279" frameY="-120" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pibbybfup deathConfirm0000" x="588" y="0" width="863" height="681" frameX="-206" frameY="-38" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

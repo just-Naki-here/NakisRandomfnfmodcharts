@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "gone singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "gone singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				12
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "gone singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "gone singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				18
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "gone singRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gone",
+	"position": [
+		300,
+		-100
+	],
+	"healthicon": "pibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		200,
+		240
+	],
+	"camera_position": [
+		700,
+		-350
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

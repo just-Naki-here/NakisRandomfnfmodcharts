@@ -1,162 +1,206 @@
---varibles
-X = 300
-Y = 200
-songPos = getSongPosition()
-local currentBeat = (songPos / 5000) * (curBpm / 60)
-randomPlayerstrumY1 = 0
-randomPlayerstrumY2 = 0
-randomPlayerstrumY3 = 0
-randomPlayerstrumY4 = 0
-randomPlayerstrumY5 = 0
-randomPlayerstrumY6 = 0
-randomPlayerstrumY7 = 0
-randomPlayerstrumY8 = 0
-randomPlayerstrumX1 = 0
-randomPlayerstrumX2 = 0
-randomPlayerstrumX3 = 0
-randomPlayerstrumX4 = 0
-randomPlayerstrumX5 = 0
-randomPlayerstrumX6 = 0
-randomPlayerstrumX7 = 0
-randomPlayerstrumX8 = 0
-randomPlayerstrumY9 = 0
-randomPlayerstrumY10 = 0
-randomPlayerstrumY11 = 0
-randomPlayerstrumY12 = 0
-randomPlayerstrumY13 = 0
-randomPlayerstrumY14 = 0
-streeep = 0
+-- variables
+local X = 300
+local Y = 200
+local randomPlayerstrumY = {}
+local randomPlayerstrumX = {}
+local wasMidscrollOn = false
+local wasDownScrollOff = false
+-- Default pos saver
+local defaultPlayerStrumPos = {}
+local playerNoteCenterOffset = 0
+-- Base movement settings
+local baseWaveAmplitude = 1 -- starting Y movement
+local baseXAmplitude = 1    -- starting X movement
+local baseWaveSpeed = 1     -- starting speed
+local chaseGrowthRate = 0.1  -- amplitude growth rate per second
+local chaseSpeedGrowthRate = 0.01  -- speed growth rate per second
+local chaseTimer = 0
+local delay = 0
+local windowNameCycle = "Naki's FNF Modcharts - Entropy - Composed by Zelx007 - Modchart and Rechart by just-Naki-here "
+local streeep = 0
+local _randomSeeded = false
+local rororo = 0
+local healthLossMultiplier = 1.0
+local healthy = 0.0
+-- Base scroll speed
+local baseScrollSpeed = 2.0
+function setBaseScrollSpeed(val)
+    baseScrollSpeed = val or 1.0
+    setProperty('songSpeed', baseScrollSpeed)
+end
+for i = 1, 14 do
+    randomPlayerstrumY[i] = 0 
+end
+for i = 1, 8 do
+    randomPlayerstrumX[i] = 0 
+end
+-- Health drain on beat
 function onBeatHit()
-	health = getProperty('health');
-	if getProperty('health') > 0.04 then
-        setProperty('health', health- 0.03);
-	end
+    local health = getProperty('health')
+    healthy = 0.03 * healthLossMultiplier
+    if health > 0.2 then
+        setProperty('health', health - healthy)
+    end
 end
 function onCreate()
+-- checks for midscroll and downscroll and changes them if needed
     if middlescroll == true then
-        setPropertyFromClass("ClientPrefs", "middleScroll", false)
+        setPropertyFromClass("ClientPrefs", "middleScroll", true)
         wasMidscrollOn = true
-        
-
     end
-end
-function onSongStart()
-    setPropertyFromClass("openfl.Lib", "application.window.title", "Survive or else...")
-    debugPrint("Application title change sucessful!")
+    if downscroll == false then
+        setPropertyFromClass("ClientPrefs", "downScroll", true)
+        wasDownScrollOff = true
+    end
+    for i = 0, 3 do
+        setPropertyFromGroup('opponentStrums', i, 'alpha', 0.3)
+    end
     setPropertyFromClass("openfl.Lib", "application.window.x", 300)
     setPropertyFromClass("openfl.Lib", "application.window.y", 200)
-    debugPrint("Application window sucessfully moved!")
-    setPropertyFromGroup("playerStrums", 4, "x", defaultPlayerStrumX0 - 320)
-    setPropertyFromGroup("playerStrums", 5, "x", defaultPlayerStrumX1 - 320)
-    setPropertyFromGroup("playerStrums", 6, "x", defaultPlayerStrumX2 - 320)
-    setPropertyFromGroup("playerStrums", 7, "x", defaultPlayerStrumX3 - 320)
+    -- Make window always on top (in front of taskbar)
+    runHaxeCode("openfl.Lib.application.window.alwaysOnTop = true;")
 end
-
+function onCreatePost()
+    -- Save player strum positions
+    for i = 4, 7 do
+        defaultPlayerStrumPos[i] = {
+            x = getPropertyFromGroup('strumLineNotes', i, 'x'),
+            y = getPropertyFromGroup('strumLineNotes', i, 'y')
+        }
+    end
+    -- Calculate true note width (distance between notes)
+    local spacing = (defaultPlayerStrumPos[5].x - defaultPlayerStrumPos[4].x)
+    -- If spacing is 0 (edge case), default to 112 (standard FNF note width)
+    if spacing == 0 then spacing = 112 end
+    local notesWidth = spacing * 3
+    local screenCenter = screenWidth / 2
+    local leftmost = screenCenter - (notesWidth / 2)
+    -- Set new centered positions
+    for i = 4, 7 do
+        defaultPlayerStrumPos[i].x = leftmost + spacing * (i - 4)
+        setPropertyFromGroup('strumLineNotes', i, 'x', defaultPlayerStrumPos[i].x)
+    end
+end
+-- change opponent strum alpha on song start
+function onSongStart()
+    for i = 0, 3 do
+        setPropertyFromGroup('opponentStrums', i, 'alpha', 0.3)
+    end
+end
+-- Main update loop 
 function onUpdate(elapsed)
-    math.randomseed(os.time())--seeds the function math.random
- Decider = math.random(1, 100)--Decider if the noteTweenX and noteTweenY and application window change
-    if Decider < 50 then--checker
-        if Decider < 2 then --checker
-            Decider = math.random(1, 100)--Decider if the noteTweenX and noteTweenY and application window change
+    -- Apply base scroll speed every frame (in case engine or other scripts change it)
+    setProperty('songSpeed', baseScrollSpeed)
+    -- Only seed random once, not every frame
+    local songPos = getSongPosition()
+    local currentBeat = (songPos / 5000) * (curBpm / 60)
+    if math.floor(currentBeat) == 20 then
+    end    
+    if curStep >= 2 then
+        chaseTimer = chaseTimer + elapsed
+        local currentWaveAmp = baseWaveAmplitude + (chaseTimer * chaseGrowthRate * baseWaveAmplitude)
+        local currentXAmp = baseXAmplitude + (chaseTimer * chaseGrowthRate * baseXAmplitude)
+        local currentSpeed = baseWaveSpeed + (chaseTimer * chaseSpeedGrowthRate)
+        local songTime = getSongPosition() / 1000
+        -- Move player notes centered
+        for i = 4, 7 do
+            local xOffset = math.cos(songTime * currentSpeed + i) * currentXAmp
+            local yOffset = math.sin(songTime * currentSpeed + i) * currentWaveAmp
+            setPropertyFromGroup('strumLineNotes', i, 'x', defaultPlayerStrumPos[i].x + xOffset- 320)
+            setPropertyFromGroup('strumLineNotes', i, 'y', defaultPlayerStrumPos[i].y + yOffset)
         end
-        Decider = math.random(1, 100)--Decider if the noteTweenX and noteTweenY and application window change
-    end
-    if Decider > 50 then --checker
-        randomPlayerstrumY1 = math.random(0, 100)--changes the tweenY 
-        randomPlayerstrumY2 = math.random(0, 100)--changes the tweenY
-        randomPlayerstrumY3 = math.random(0, 100)--changes the tweenY
-        randomPlayerstrumY4 = math.random(0, 100)--changes the tweenY
-        randomPlayerstrumY5 = 0.2--static var
-        randomPlayerstrumY6 = 0.2--static var
-        randomPlayerstrumY7 = 0.2--static var
-        randomPlayerstrumY8 = 0.2--static var
-        randomPlayerstrumX1 = math.random(0, 100)--changes the tweenX
-        randomPlayerstrumX2 = math.random(0, 100)--changes the tweenX
-        randomPlayerstrumX3 = math.random(0, 100)--changes the tweenX
-        randomPlayerstrumX4 = math.random(0, 100)--changes the tweenX
-        randomPlayerstrumX5 = 0.2--static var
-        randomPlayerstrumX6 = 0.2--static var
-        randomPlayerstrumX7 = 0.2--static var
-        randomPlayerstrumX8 = 0.2--static var
-        Decider = math.random(1, 100)--Decider if the noteTweenX and noteTweenY and application window change
-    end
-    if Decider == 50 then--checker
-        Decider = math.random(1, 100)--Decider if the noteTweenX and noteTweenY and application window change
-    end
-    songPos = getSongPosition()
-    local currentBeat= (songPos / 5000) * (curBpm / 60)
---Note Tween Crap
-    noteTweenY("defaultPlayerStrumY0",4,defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
-    noteTweenY("defaultPlayerStrumY1",5,defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
-    noteTweenY("defaultPlayerStrumY2",6,defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
-    noteTweenY("defaultPlayerStrumY3",7,defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
-    noteTweenX("defaultPlayerStrumX0",4,defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
-    noteTweenX("defaultPlayerStrumX1",5,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
-    noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
-    noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
---end of Note Tween Crap
-    if (songPos / 5000) * (curBpm / 60) == 20 then
-        debugPrint("Hard part coming up!")--prints "Hard part coming up!"
-    end
-    getMisses()--gets the current amount of misses the player has
-    if misses == 1 then--miss checker
-        setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T MESS UP ANYMORE!!!")--changes app. name 
-        debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
-        setProperty('health', 5.0);
-        setProperty('healthGain', 0.09)
-    end
-    if misses == 25 then--miss checker
-        setPropertyFromClass("openfl.Lib", "application.window.title", "DON'T FUCK UP!!!")--changes app. name 
-        debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
-        setProperty('health', 2.0);
-        setProperty('healthGain', 0.1)
-    end
-    if misses == 50 then--miss checker
-        setPropertyFromClass("openfl.Lib", "application.window.title", "YOU WON'T MAKE IT!")--changes app. name 
-        debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
-        setProperty('health', 2.0);
-        setProperty('healthGain', 0.2)
-    end
-    if misses == 75 then--miss checker
-        setPropertyFromClass("openfl.Lib", "application.window.title", "YOU ARE SO DEAD!!!!!!")--changes app. name 
-        debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
-    
-        setProperty('health', 2.0);
-        setProperty('healthGain', 0.3)
-    end
-    if misses == 100 then--miss checker
-        setPropertyFromClass("openfl.Lib", "application.window.title", "DIEEEEEEEEEEEEEEEEEEE!!!!!!!!!!!!!!")--changes app. name 
-        debugPrint("Application title change sucessful!")--prints "Application title change sucessful!"
-        setProperty('health', 2.0);
-        setProperty('healthGain', 0.4)
+        -- Move window in sync with notes, but less intense
+        local windowX = X + math.cos(songTime * (currentSpeed * 0.5)) * (currentXAmp * 2)
+        local windowY = Y + math.sin(songTime * (currentSpeed * 0.5)) * (currentWaveAmp * 2)
+    setPropertyFromClass("openfl.Lib", "application.window.x", windowX)
+    setPropertyFromClass("openfl.Lib", "application.window.y", windowY)
     end
 end
-function noteMiss(id, direction, noteType, isSustainNote)--note miss checker
-    debugPrint("YOU MISSED NOOB!")
-    noteTweenY("defaultPlayerStrumY0",4,defaultPlayerStrumY0 - randomPlayerstrumY1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumY5)
-    noteTweenY("defaultPlayerStrumY1",5,defaultPlayerStrumY1 - randomPlayerstrumY2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumY6)
-    noteTweenY("defaultPlayerStrumY2",6,defaultPlayerStrumY2 - randomPlayerstrumY3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumY7)
-    noteTweenY("defaultPlayerStrumY3",7,defaultPlayerStrumY3 - randomPlayerstrumY4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumY8)
-    noteTweenX("defaultPlayerStrumX0",4,defaultPlayerStrumX0 - 320 - randomPlayerstrumX1 * math.sin((currentBeat + 4 * 0.25) * math.pi),randomPlayerstrumX5)
-    noteTweenX("defaultPlayerStrumX1",5,defaultPlayerStrumX1 - 320 - randomPlayerstrumX2 * math.sin((currentBeat + 5 * 0.25) * math.pi),randomPlayerstrumX6)
-    noteTweenX("defaultPlayerStrumX2",6,defaultPlayerStrumX2 - 320 - randomPlayerstrumX3 * math.sin((currentBeat + 6 * 0.25) * math.pi),randomPlayerstrumX7)
-    noteTweenX("defaultPlayerStrumX3",7,defaultPlayerStrumX3 - 320 - randomPlayerstrumX4 * math.sin((currentBeat + 7 * 0.25) * math.pi),randomPlayerstrumX8)
-
-    speed = tonumber("E", 1)
-    randomscrollspeed = math.random(1.5, 5)
-    setProperty("scrollspeed", speed)
-    setPropertyFromGroup("scrollspeed", 0, randomscrollspeed)
+function onCreatePost()
+    -- Save player strum positions 
+    for i = 4, 7 do
+        defaultPlayerStrumPos[i] = {
+            x = getPropertyFromGroup('strumLineNotes', i, 'x'),
+            y = getPropertyFromGroup('strumLineNotes', i, 'y')
+        }
+    end
 end
-
-function onDestroy()--exit to menu checker
-    setPropertyFromClass("openfl.Lib", "application.window.title", "Naki's FNF Charts")
-    debugPrint("Application window sucessfully moved!")
-    if wasMidscrollOn == true then
+-- Health drain logic
+function onStepHit()
+    if curStep == 2 then
+        chaseTimer = 0
+    end
+end
+function onUpdatePost(elapsed)
+    -- Window title cycling
+    if curStep > 1 then
+        if delay == 0 then
+            windowNameCycle = string.sub(windowNameCycle, -1) .. string.sub(windowNameCycle, 1, -2)
+            setWindowTitle(windowNameCycle)
+        end
+        delay = (delay + 1) % 2
+    end
+end
+-- Health drain/reward on note hit/miss (100 notes hit(In a row) = +0.5 health, 2 notes missed in a row = -0.5 health)
+function goodNoteHit(id, direction, noteType, isSustainNote)
+    streeep = streeep + 1
+    if streeep < 0 then
+        streeep = 0
+    end
+    if streeep == 100 then
+        setProperty('health', getProperty('health') + 0.5)
+        streeep = 0
+    end
+end 
+function noteMiss(id, direction, noteType, isSustainNote)
+    misses = getMisses()
+    if misses > 0 then
+        streeep = 0 
+    end
+    streeep = streeep - 1
+    if streeep == -2 then
+        setProperty('health', getProperty('health') - 0.5)
+        streeep = 0
+    end
+    if misses == 1 then
+        setProperty('health', 2.0)
+        healthLossMultiplier = 1.5
+    end
+    if misses == 25 then
+        setProperty('health', 2.0)
+        healthLossMultiplier = 2.0
+    end
+    if misses == 50 then
+        setProperty('health', 2.0)
+        healthLossMultiplier = 2.5
+    end
+    if misses == 75 then
+        setProperty('health', 2.0)
+        healthLossMultiplier = 3.0
+    end
+    if misses == 100 then
+        setProperty('health', 2.0)
+        healthLossMultiplier = 4.0
+    end
+end
+-- Cleanup on song end or chart end
+function onDestroy()
+    setWindowTitle("Naki's FNF Charts")
+    if wasMidscrollOn then
         setPropertyFromClass("ClientPrefs", "middleScroll", true)
+    end
+    if wasDownScrollOff then
+        setPropertyFromClass("ClientPrefs", "downScroll", false)
     end
 end
 function onEndSong()
-    if wasMidscrollOn == true then
+    if wasMidscrollOn then
         setPropertyFromClass("ClientPrefs", "middleScroll", true)
     end
+    if wasDownScrollOff then
+        setPropertyFromClass("ClientPrefs", "downScroll", false)
+    end
+end
+function setWindowTitle(title)
+    setPropertyFromClass("openfl.Lib", "application.window.title", title)
 end

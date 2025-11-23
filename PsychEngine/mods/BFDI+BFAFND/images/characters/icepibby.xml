@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icepibby.png"><SubTexture name="icepibby idle0000" x="1102" y="1356" width="538" height="620" frameX="-365" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby idle0001" x="633" y="2612" width="565" height="600" frameX="-349" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby idle0002" x="1198" y="2612" width="561" height="589" frameX="-353" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby idle0003" x="2731" y="1794" width="539" height="590" frameX="-370" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby idle0004" x="2731" y="605" width="518" height="597" frameX="-385" frameY="-97" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby idle0005" x="2731" y="0" width="547" height="605" frameX="-356" frameY="-97" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby idle0006" x="0" y="1356" width="554" height="638" frameX="-359" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby idle0007" x="554" y="1356" width="548" height="638" frameX="-365" frameY="-48" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby idle0008" x="526" y="687" width="561" height="642" frameX="-356" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby idle0009" x="1545" y="0" width="553" height="642" frameX="-364" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby idle0010" x="1545" y="642" width="548" height="642" frameX="-369" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singRIGHT0000" x="2098" y="0" width="633" height="620" frameX="-429" frameY="-63" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singRIGHT0001" x="2098" y="1239" width="625" height="618" frameX="-410" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singRIGHT0002" x="0" y="1994" width="617" height="618" frameX="-418" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singRIGHT0003" x="2098" y="620" width="613" height="619" frameX="-416" frameY="-64" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singLEFT0000" x="0" y="2612" width="633" height="601" frameX="-246" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singLEFT0001" x="1235" y="1994" width="631" height="607" frameX="-249" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singLEFT0002" x="1866" y="1994" width="626" height="607" frameX="-254" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singLEFT0003" x="617" y="1994" width="618" height="613" frameX="-263" frameY="-72" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singDOWN0000" x="1759" y="2612" width="537" height="583" frameX="-366" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singDOWN0001" x="2296" y="2612" width="529" height="583" frameX="-370" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singDOWN0002" x="3278" y="0" width="529" height="583" frameX="-370" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singDOWN0003" x="2731" y="1202" width="522" height="592" frameX="-374" frameY="-98" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singUP0000" x="0" y="0" width="508" height="687" frameX="-357" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singUP0001" x="508" y="0" width="519" height="678" frameX="-354" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singUP0002" x="1027" y="0" width="518" height="678" frameX="-355" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="icepibby singUP0003" x="0" y="687" width="526" height="669" frameX="-351" frameY="-19" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gelosit.png"><SubTexture name="gelosit idle0000" x="1175" y="2155" width="550" height="472" frameX="-46" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit idle0001" x="629" y="2155" width="546" height="477" frameX="-47" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit idle0002" x="1387" y="1665" width="539" height="486" frameX="-49" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit idle0003" x="604" y="556" width="536" height="492" frameX="-50" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit idle0004" x="604" y="556" width="536" height="492" frameX="-50" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit idle0005" x="1813" y="553" width="526" height="494" frameX="-54" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit idle0006" x="1813" y="553" width="526" height="494" frameX="-54" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit idle0007" x="1813" y="553" width="526" height="494" frameX="-54" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit idle0008" x="1813" y="553" width="526" height="494" frameX="-54" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit idle0009" x="1813" y="553" width="526" height="494" frameX="-54" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit idle0010" x="1813" y="553" width="526" height="494" frameX="-54" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singRIGHT0000" x="2418" y="972" width="626" height="485" frameX="-94" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singRIGHT0001" x="2418" y="1457" width="628" height="485" frameX="-90" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singRIGHT0002" x="0" y="2155" width="629" height="485" frameX="-87" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singRIGHT0003" x="2418" y="0" width="630" height="486" frameX="-85" frameY="-67" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singRIGHT0004" x="2418" y="486" width="630" height="486" frameX="-84" frameY="-65" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singLEFT0000" x="1926" y="1665" width="454" height="480" frameX="-25" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singLEFT0001" x="927" y="1665" width="460" height="487" frameX="-28" frameY="-73" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singLEFT0002" x="464" y="1665" width="463" height="489" frameX="-28" frameY="-74" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singLEFT0003" x="0" y="1665" width="464" height="490" frameX="-29" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singLEFT0004" x="1211" y="1111" width="466" height="492" frameX="-30" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singLEFT0005" x="1813" y="1047" width="467" height="493" frameX="-30" frameY="-76" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singUP0000" x="0" y="0" width="604" height="556" frameX="-69" frameY="-17" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singUP0001" x="604" y="0" width="604" height="556" frameX="-63" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singUP0002" x="0" y="556" width="604" height="555" frameX="-58" frameY="-27" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singUP0003" x="1208" y="0" width="605" height="555" frameX="-54" frameY="-31" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singUP0004" x="1208" y="555" width="605" height="554" frameX="-51" frameY="-34" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singUP0005" x="0" y="1111" width="605" height="554" frameX="-49" frameY="-36" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singUP0006" x="605" y="1111" width="606" height="554" frameX="-47" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singUP0007" x="1813" y="0" width="605" height="553" frameX="-46" frameY="-39" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singDOWN0000" x="518" y="2640" width="535" height="446" frameX="-22" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singDOWN0001" x="0" y="2640" width="518" height="455" frameX="-31" frameY="-130" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singDOWN0002" x="3048" y="0" width="514" height="464" frameX="-33" frameY="-121" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singDOWN0003" x="2231" y="2155" width="508" height="467" frameX="-36" frameY="-118" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singDOWN0004" x="1725" y="2155" width="506" height="472" frameX="-37" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singDOWN0005" x="1725" y="2155" width="506" height="472" frameX="-37" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gelosit singDOWN0006" x="1725" y="2155" width="506" height="472" frameX="-37" frameY="-113" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

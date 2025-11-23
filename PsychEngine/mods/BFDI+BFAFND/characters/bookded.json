@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "bookdedalt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "bookdedalt singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "bookdedalt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "bookdedalt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "bookdedalt idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bookdedalt",
+	"position": [
+		-450,
+		50
+	],
+	"healthicon": "book",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		235,
+		255
+	],
+	"camera_position": [
+		-50,
+		140
+	],
+	"sing_duration": 80.1,
+	"scale": 0.9
+}

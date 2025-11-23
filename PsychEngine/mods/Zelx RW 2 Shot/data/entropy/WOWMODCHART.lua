@@ -1,10 +1,6 @@
 function onUpdate()
   songPos = getSongPosition()
   local currentBeat = (songPos / 5000) * (curBpm / 60)
-  randomPlayerstrumY4 = 100--static var
-  randomPlayerstrumY5 =100--static var
-  randomPlayerstrumY6 = 100--static var
-  randomPlayerstrumY7 = 100--static var  
   runTimer('tweengoy',0.01);--runs a 0.01 second timer
   setPropertyFromGroup('opponentStrums', 0, 'x', 0);
   setPropertyFromGroup('opponentStrums', 1, 'x', 0);

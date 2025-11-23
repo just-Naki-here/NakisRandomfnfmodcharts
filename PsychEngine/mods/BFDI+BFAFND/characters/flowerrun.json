@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": true,
+			"name": "flowerrun idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "flowerrun singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "flowerrun singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": true,
+			"name": "flowerrun singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "flowerrun singDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flowerrun",
+	"position": [
+		-420,
+		-10
+	],
+	"healthicon": "flower",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		255
+	],
+	"camera_position": [
+		180,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

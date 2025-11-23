@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flowerrun.png"><SubTexture name="flowerrun idle0000" x="2024" y="0" width="430" height="629" frameX="-465" frameY="-81" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun idle0001" x="1560" y="1981" width="541" height="611" frameX="-348" frameY="-32" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun idle0002" x="2101" y="1981" width="501" height="610" frameX="-381" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun idle0003" x="429" y="1338" width="440" height="639" frameX="-446" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun idle0004" x="2024" y="629" width="430" height="627" frameX="-466" frameY="-80" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun idle0005" x="1009" y="1981" width="551" height="612" frameX="-353" frameY="-39" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun idle0006" x="2977" y="608" width="506" height="606" frameX="-376" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun idle0007" x="1478" y="649" width="441" height="645" frameX="-443" frameY="-70" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singRIGHT0000" x="504" y="1981" width="505" height="613" frameX="-470" frameY="-100" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singRIGHT0001" x="0" y="2595" width="635" height="593" frameX="-345" frameY="-75" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singRIGHT0002" x="2977" y="0" width="638" height="608" frameX="-360" frameY="-46" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singRIGHT0003" x="869" y="1338" width="506" height="635" frameX="-483" frameY="-71" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singRIGHT0004" x="2454" y="0" width="523" height="626" frameX="-463" frameY="-79" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singLEFT0000" x="427" y="683" width="492" height="654" frameX="-257" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singLEFT0001" x="635" y="2595" width="580" height="588" frameX="-189" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singLEFT0002" x="2977" y="1813" width="626" height="598" frameX="-201" frameY="-40" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singLEFT0003" x="992" y="0" width="486" height="660" frameX="-236" frameY="-49" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singLEFT0004" x="0" y="1338" width="429" height="643" frameX="-254" frameY="-67" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singUP0000" x="484" y="0" width="508" height="666" frameX="-269" frameY="-47" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singUP0001" x="1478" y="0" width="546" height="649" frameX="-254" frameY="-4" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singUP0002" x="2977" y="1214" width="565" height="599" frameX="-249" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singUP0003" x="0" y="0" width="484" height="683" frameX="-294" frameY="-28" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singUP0004" x="0" y="683" width="427" height="655" frameX="-287" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singDOWN0000" x="2454" y="626" width="428" height="624" frameX="-339" frameY="-89" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singDOWN0001" x="0" y="1981" width="504" height="614" frameX="-288" frameY="-61" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singDOWN0002" x="2454" y="1250" width="523" height="623" frameX="-283" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singDOWN0003" x="919" y="683" width="497" height="650" frameX="-282" frameY="-61" frameWidth="1280" frameHeight="720" />
+<SubTexture name="flowerrun singDOWN0004" x="1375" y="1338" width="426" height="633" frameX="-355" frameY="-77" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

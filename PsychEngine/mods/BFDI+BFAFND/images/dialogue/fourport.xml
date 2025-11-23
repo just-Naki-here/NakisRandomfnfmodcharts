@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fourport.png"><SubTexture name="fourport creep0000" x="487" y="0" width="492" height="584" frameX="-426" frameY="-27" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fourport creep0001" x="979" y="0" width="488" height="584" frameX="-426" frameY="-34" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fourport creep0002" x="485" y="587" width="484" height="576" frameX="-428" frameY="-34" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fourport creep0003" x="969" y="587" width="476" height="576" frameX="-430" frameY="-34" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fourport creep0004" x="0" y="587" width="485" height="577" frameX="-428" frameY="-34" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fourport creep0005" x="0" y="0" width="487" height="587" frameX="-424" frameY="-28" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

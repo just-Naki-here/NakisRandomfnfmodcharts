@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "taggy singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "taggy singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "taggy singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "taggy singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "taggy idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/taggy",
+	"position": [
+		-520,
+		40
+	],
+	"healthicon": "taggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		0,
+		20
+	],
+	"camera_position": [
+		90,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

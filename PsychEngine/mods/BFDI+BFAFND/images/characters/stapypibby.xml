@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pencilpibb.png"><SubTexture name="pencilpibb idle0000" x="1024" y="3289" width="1003" height="638" frameX="-147" frameY="-31" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0001" x="2027" y="3289" width="990" height="638" frameX="-160" frameY="-31" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0002" x="3017" y="3289" width="990" height="638" frameX="-160" frameY="-31" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0003" x="1950" y="0" width="977" height="659" frameX="-173" frameY="-10" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0004" x="0" y="1328" width="983" height="657" frameX="-167" frameY="-12" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0005" x="983" y="1328" width="983" height="657" frameX="-167" frameY="-12" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0006" x="0" y="3289" width="1024" height="645" frameX="-147" frameY="-25" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0007" x="0" y="2641" width="1002" height="648" frameX="-160" frameY="-21" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0008" x="1002" y="2641" width="1002" height="648" frameX="-160" frameY="-21" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0009" x="0" y="0" width="975" height="665" frameX="-173" frameY="-3" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0010" x="975" y="0" width="975" height="665" frameX="-173" frameY="-3" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb idle0011" x="0" y="665" width="983" height="663" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singRIGHT0000" x="3910" y="646" width="983" height="629" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singRIGHT0001" x="3910" y="1275" width="983" height="629" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singRIGHT0002" x="1966" y="3934" width="983" height="628" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singRIGHT0003" x="3910" y="1904" width="983" height="629" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singDOWN0000" x="0" y="1985" width="983" height="656" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singDOWN0001" x="983" y="1985" width="983" height="655" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singDOWN0002" x="2927" y="0" width="983" height="655" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singDOWN0003" x="2927" y="655" width="983" height="655" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singLEFT0000" x="2004" y="2641" width="983" height="646" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singLEFT0001" x="3910" y="0" width="983" height="646" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singLEFT0002" x="2927" y="1310" width="983" height="647" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singLEFT0003" x="2927" y="1957" width="983" height="647" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singUP0000" x="2949" y="3934" width="983" height="628" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singUP0001" x="3910" y="2533" width="983" height="629" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singUP0002" x="0" y="3934" width="983" height="629" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="pencilpibb singUP0003" x="983" y="3934" width="983" height="629" frameX="-167" frameY="-5" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

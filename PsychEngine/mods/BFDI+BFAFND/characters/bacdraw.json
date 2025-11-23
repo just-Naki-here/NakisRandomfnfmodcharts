@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				12
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "gone singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "gone singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "bacfull singLEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				18
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "bacfull singUP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "bacdraw singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bacdraw",
+	"position": [
+		-270,
+		-270
+	],
+	"healthicon": "gone",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-60,
+		-320
+	],
+	"sing_duration": 690.1,
+	"scale": 0.899999999999999
+}
