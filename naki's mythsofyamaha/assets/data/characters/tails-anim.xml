@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-700" y="0" sprite="Nmi/tails_jumped" scale="0.7" flipX="true" camx="600" camy="-80" isPlayer="true" icon="tails">
+	<anim name="jumpscare" anim="tails_jumped jumped0" x="0" y="0" fps="24" loop="false"/>
+</character>

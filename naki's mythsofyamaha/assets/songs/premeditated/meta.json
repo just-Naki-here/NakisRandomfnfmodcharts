@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "smilenormal4",
+	"difficulties": [
+		"hard",
+		"N4k2"
+	],
+	"color": "#404040",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "premeditated",
+	"beatsPerMeasure": 4,
+	"needsVoices": false,
+	"bpm": 144
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ImpactBG.png">
+<SubTexture name="anim0000" x="0" y="0" width="2960" height="1958" frameX="0" frameY="0" frameWidth="2940" frameHeight="1938" />
+<SubTexture name="anim0001" x="0" y="1958" width="2960" height="1958" frameX="0" frameY="0" frameWidth="2940" frameHeight="1938" />
+<SubTexture name="anim0002" x="0" y="3916" width="2960" height="1958" frameX="0" frameY="0" frameWidth="2940" frameHeight="1938" />
+<SubTexture name="anim0003" x="0" y="5874" width="2960" height="1958" frameX="0" frameY="0" frameWidth="2940" frameHeight="1938" />
+</TextureAtlas>

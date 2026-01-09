@@ -1,3 +1,0 @@
-Play sound
-Value 1: Directory 
-Value 2: Volume 0-1

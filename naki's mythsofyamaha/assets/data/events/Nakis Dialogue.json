@@ -1,0 +1,24 @@
+{
+    "params": [
+        {
+            "name": "Show Dialogue?",
+            "type": "Bool",
+            "defaultValue": false
+        },
+        {
+            "name": "How long in seconds? (only use if the Boolean param Show Dialogue? is true, if Show Dialogue? is false, leave blank)",
+            "type": "Int(0, 99, 1)",
+            "defaultValue": 0
+        },
+        {
+            "name": "Dialogue",
+            "type": "String",
+            "defaultValue": "nothing"
+        },
+        {
+            "name": "Color of Dialogue Text",
+            "type": "ColorWheel",
+            "defaultValue": "#FFFFFF"
+        }
+    ]
+}

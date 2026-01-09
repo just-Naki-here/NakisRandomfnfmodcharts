@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yeah.png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="8" y="8" width="156" height="155"/>
+	<SubTexture name="down confirm0000" x="172" y="8" width="242" height="246"/>
+	<SubTexture name="down confirm0001" x="422" y="8" width="242" height="246"/>
+	<SubTexture name="down confirm0002" x="672" y="8" width="242" height="246"/>
+	<SubTexture name="down confirm0003" x="672" y="8" width="242" height="246"/>
+	<SubTexture name="down confirm0004" x="922" y="8" width="242" height="246"/>
+	<SubTexture name="down confirm0005" x="1172" y="8" width="242" height="246"/>
+	<SubTexture name="down confirm0006" x="672" y="8" width="242" height="246"/>
+	<SubTexture name="down confirm0007" x="672" y="8" width="242" height="246"/>
+	<SubTexture name="green0000" x="1422" y="8" width="162" height="151"/>
+	<SubTexture name="left confirm0000" x="1592" y="8" width="228" height="236"/>
+	<SubTexture name="left confirm0001" x="8" y="262" width="228" height="236"/>
+	<SubTexture name="left confirm0002" x="244" y="262" width="228" height="236"/>
+	<SubTexture name="left confirm0003" x="244" y="262" width="228" height="236"/>
+	<SubTexture name="left confirm0004" x="480" y="262" width="228" height="236"/>
+	<SubTexture name="left confirm0005" x="716" y="262" width="228" height="236"/>
+	<SubTexture name="left confirm0006" x="244" y="262" width="228" height="236"/>
+	<SubTexture name="left confirm0007" x="244" y="262" width="228" height="236"/>
+	<SubTexture name="purple0000" x="952" y="262" width="150" height="157"/>
+	<SubTexture name="red0000" x="1110" y="262" width="154" height="155"/>
+	<SubTexture name="right confirm0000" x="1272" y="262" width="232" height="234"/>
+	<SubTexture name="right confirm0001" x="1512" y="262" width="232" height="234"/>
+	<SubTexture name="right confirm0002" x="1752" y="262" width="232" height="234"/>
+	<SubTexture name="right confirm0003" x="1752" y="262" width="232" height="234"/>
+	<SubTexture name="right confirm0004" x="8" y="506" width="232" height="234"/>
+	<SubTexture name="right confirm0005" x="248" y="506" width="232" height="234"/>
+	<SubTexture name="right confirm0006" x="1752" y="262" width="232" height="234"/>
+	<SubTexture name="right confirm0007" x="1752" y="262" width="232" height="234"/>
+	<SubTexture name="up confirm0000" x="488" y="506" width="228" height="214"/>
+	<SubTexture name="up confirm0001" x="724" y="506" width="228" height="214"/>
+	<SubTexture name="up confirm0002" x="960" y="506" width="228" height="214"/>
+	<SubTexture name="up confirm0003" x="960" y="506" width="228" height="214"/>
+	<SubTexture name="up confirm0004" x="1196" y="506" width="228" height="214"/>
+	<SubTexture name="up confirm0005" x="1432" y="506" width="228" height="214"/>
+	<SubTexture name="up confirm0006" x="960" y="506" width="228" height="214"/>
+	<SubTexture name="up confirm0007" x="960" y="506" width="228" height="214"/>
+</TextureAtlas>

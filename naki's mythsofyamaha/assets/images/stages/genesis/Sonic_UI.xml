@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Sonic_UI.png" width="1553" height="1566" spritePadding="3" borderPadding="1">
+	<SubTexture name="Sonic 2 UI0000" x="1" y="1" width="1551" height="76" frameX="0" frameY="0" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0001" x="1" y="80" width="1314" height="77" frameX="-116" frameY="0" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0002" x="1" y="329" width="1077" height="77" frameX="-232" frameY="0" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0003" x="1" y="1199" width="840" height="76" frameX="-348" frameY="-1" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0004" x="1" y="160" width="1139" height="166" frameX="-464" frameY="-1" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0005" x="1" y="409" width="1076" height="207" frameX="-529" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0006" x="1" y="619" width="1001" height="287" frameX="-529" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0007" x="1" y="909" width="898" height="287" frameX="-529" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0008" x="1" y="1278" width="795" height="287" frameX="-529" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0009" x="799" y="1278" width="692" height="287" frameX="-529" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0010" x="902" y="909" width="594" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0011" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0012" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0013" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0014" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0015" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0016" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0017" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0018" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0019" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0020" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0021" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0022" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0023" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0024" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0025" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0026" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+	<SubTexture name="Sonic 2 UI0027" x="1005" y="619" width="491" height="287" frameX="-524" frameY="-2" frameWidth="1605" frameHeight="289"/>
+</TextureAtlas>

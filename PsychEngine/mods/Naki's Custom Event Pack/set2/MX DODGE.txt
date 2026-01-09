@@ -1,3 +1,0 @@
-value 1 -------
-0 = sound effect
-1 = toggle dodge time

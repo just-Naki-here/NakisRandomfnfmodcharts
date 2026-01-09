@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rse-phase0.png">
+<SubTexture name="anim0000" x="0" y="0" width="255" height="427" frameX="-124" frameY="-105" frameWidth="461" frameHeight="572" />
+<SubTexture name="anim0001" x="255" y="0" width="253" height="427" frameX="-126" frameY="-105" frameWidth="461" frameHeight="572" />
+<SubTexture name="anim0002" x="508" y="0" width="254" height="424" frameX="-125" frameY="-103" frameWidth="461" frameHeight="572" />
+<SubTexture name="anim0003" x="762" y="0" width="255" height="422" frameX="-124" frameY="-107" frameWidth="461" frameHeight="572" />
+</TextureAtlas>

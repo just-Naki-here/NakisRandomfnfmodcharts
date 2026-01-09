@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="smiledog/smiledog" camoff="25" icon="smiledog" color="#BF0000" noteSkin="moy" offAmt="35" zoomAmt="1.4">
+	<anim name="singDOWN" anim="d" x="30" y="-30" fps="24" loop="false"/>
+	<anim name="idle" anim="i" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="l" x="144" y="109" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="r" x="6" y="4" fps="24" loop="false"/>
+	<anim name="singUP" anim="u" x="30" y="10" fps="24" loop="false"/>
+</character>

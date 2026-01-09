@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="xport.png"><SubTexture name="xport norm0000" x="0" y="504" width="655" height="443" frameX="-308" frameY="-102" frameWidth="1280" frameHeight="720" />
-<SubTexture name="xport norm0001" x="0" y="504" width="655" height="443" frameX="-308" frameY="-102" frameWidth="1280" frameHeight="720" />
-<SubTexture name="xport norm0002" x="655" y="504" width="655" height="443" frameX="-308" frameY="-94" frameWidth="1280" frameHeight="720" />
-<SubTexture name="xport norm0003" x="655" y="504" width="655" height="443" frameX="-308" frameY="-94" frameWidth="1280" frameHeight="720" />
-<SubTexture name="xport worried0000" x="0" y="0" width="741" height="504" frameX="-288" frameY="-15" frameWidth="1280" frameHeight="720" />
-<SubTexture name="xport worried0001" x="741" y="0" width="741" height="504" frameX="-288" frameY="-46" frameWidth="1280" frameHeight="720" />
-<SubTexture name="xport worried0002" x="741" y="0" width="741" height="504" frameX="-288" frameY="-35" frameWidth="1280" frameHeight="720" />
-</TextureAtlas>

@@ -1,0 +1,26 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.75" name="heaven" folder="stages/iam/" startCamPosY="420" startCamPosX="660">
+	<sprite name="bg"          x="0" y="0"   sprite="IAMbg_1"       scroll="0.95" zoomfactor="1.3"/>
+	<sprite name="bg0"          x="20" y="40"   sprite="IAMbg_2"       scrollx="0.94" scrolly="0.9" zoomfactor="1.6"/>
+	<sprite name="bg1"          x="-40" y="0"   sprite="IAMbg_3"       scrollx="0.8" scrolly="0.62" zoomfactor="1.4"/>
+	<sprite name="bg2"          x="0" y="-60"   sprite="IAMbg_4"       scrollx="0.82" scrolly="0.83" zoomfactor="1.4"/>
+	<sprite name="bg3"          x="-40" y="0"   sprite="IAMbg_5"       scrollx="0.72" scrolly="0.72" zoomfactor="1.1"/>
+	<sprite name="bg4"          x="-40" y="0"   sprite="IAMbg_6"       scrollx="0.86" scrolly="0.7"/>
+	<sprite name="bg5"          x="-120" y="0"   sprite="IAMbg_7"       scrollx="0.73" scrolly="0.78"/>
+	<sprite name="bg6"          x="-40" y="0"   sprite="IAMbg_8"       scrollx="0.75" scrolly="0.8"/>
+	<sprite name="bg7"          x="-40" y="0" scale="1.2"   sprite="IAMbg_9"       scrollx="0.74" scrolly="0.66" zoomfactor="1.2"/>
+	<sprite name="bg8"          x="-80" y="0"   sprite="IAMbg_10"       scrollx="0.66" scrolly="0.8"/>
+	<sprite name="bg9"          x="-80" y="-50"   sprite="IAMbg_11"       scrollx="0.64" scrolly="0.6" zoomfactor="1.2"/>
+	<sprite name="bg10"          x="0" y="0"   sprite="IAMbg_12"       scrollx="1" scrolly="1"/>
+	<sprite name="bg11"          x="-40" y="0"   sprite="IAMbg_13"       scrollx="0.86" scrolly="0.7" zoomfactor="1.3"/>
+	<sprite name="bg12"          x="-70" y="-200"   sprite="IAMbg_14"       scrollx="0.8" scrolly="0.3" zoomfactor="1.3"/>
+	<sprite name="bg13"          x="-40" y="-100"   sprite="IAMbg_15"       scrollx="0.86" scrolly="0.6"/>
+	<sprite name="bg14"          x="-40" y="-200"   sprite="IAMbg_16"       scrollx="0.9" scrolly="0.28" zoomfactor="1.2"/>
+	<sprite name="bg15"          x="-40" y="-200"   sprite="IAMbg_17"       scrollx="0.9" scrolly="0.28" zoomfactor="1.1"/>
+	<sprite name="bg16"          x="0" y="0"   sprite="IAMbg_18"       scrollx="0.96" scrolly="1"/>
+	<sprite name="bg17"          x="-40" y="-100"   sprite="IAMbg_19"       scrollx="0.9" scrolly="0.7"/>
+	
+	<dad x="-680" y="240"/>
+	<boyfriend x="330" y="470"/>
+	<ext script="camMove" folder="data/scripts/"/>
+</stage>

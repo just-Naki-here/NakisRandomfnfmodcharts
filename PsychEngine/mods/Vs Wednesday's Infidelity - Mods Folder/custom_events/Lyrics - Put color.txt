@@ -1,2 +1,0 @@
-Value 1 = part of the dialogue(string)
-Value 2 = color

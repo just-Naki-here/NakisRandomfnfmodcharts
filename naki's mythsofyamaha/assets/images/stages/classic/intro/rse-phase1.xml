@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rse-phase1.png">
+<SubTexture name="freak0000" x="0" y="0" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0001" x="702" y="0" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0002" x="0" y="404" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0003" x="702" y="404" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0004" x="0" y="808" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0005" x="702" y="808" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0006" x="1404" y="0" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0007" x="1404" y="404" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0008" x="1404" y="808" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0009" x="0" y="1212" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0010" x="702" y="1212" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0011" x="1404" y="1212" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+<SubTexture name="freak0012" x="0" y="1616" width="702" height="404" frameX="0" frameY="0" frameWidth="682" frameHeight="384" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="minenote.png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="4" y="4" width="168" height="171"/>
+	<SubTexture name="blue hold end0000" x="174" y="4" width="42" height="66"/>
+	<SubTexture name="blue hold piece0000" x="218" y="4" width="29" height="47"/>
+	<SubTexture name="green0000" x="4" y="4" width="168" height="171"/>
+	<SubTexture name="green hold end0000" x="174" y="4" width="42" height="66"/>
+	<SubTexture name="green hold piece0000" x="218" y="4" width="29" height="47"/>
+	<SubTexture name="pruple end hold0000" x="249" y="4" width="42" height="66"/>
+	<SubTexture name="purple0000" x="293" y="4" width="168" height="171"/>
+	<SubTexture name="purple hold piece0000" x="218" y="4" width="29" height="47"/>
+	<SubTexture name="red0000" x="4" y="4" width="168" height="171"/>
+	<SubTexture name="red hold end0000" x="174" y="4" width="42" height="66"/>
+	<SubTexture name="red hold piece0000" x="218" y="4" width="29" height="47"/>
+</TextureAtlas>

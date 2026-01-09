@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "nmi",
+	"difficulties": [
+		"hard",
+		"n4k2sTake",
+		"old"
+	],
+	"color": "#404040",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "genesis",
+	"beatsPerMeasure": 4,
+	"needsVoices": false,
+	"bpm": 148
+}

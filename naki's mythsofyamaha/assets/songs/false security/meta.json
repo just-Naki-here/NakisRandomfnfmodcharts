@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"NORMAL"
+	],
+	"icon": "smiledog",
+	"parsedColor": -7179779,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "false-security",
+	"needsVoices": false,
+	"beatsPerMeasure": 4,
+	"bpm": 140,
+	"name": "false security"
+}

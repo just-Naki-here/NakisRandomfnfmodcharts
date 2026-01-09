@@ -1,0 +1,19 @@
+{
+	"params": [
+		{
+			"name": "player ?",
+			"type": "Bool",
+			"defaultValue": true
+		},
+        {
+            "name": "ZoomAmt",
+            "type": "Float(0, 40, 0.01, 10)",
+            "defaultValue": "1"
+        },
+        {
+            "name": "zoomMult",
+            "type": "Float(0, 40, 0.01, 10)",
+            "defaultValue": "1"
+        }
+    ]
+}

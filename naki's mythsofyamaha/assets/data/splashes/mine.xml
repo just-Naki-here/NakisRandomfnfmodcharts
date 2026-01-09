@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-splashes>
+<splashes sprite="game/splashes/mine" alpha="0.6">
+    <strum id="0"> <!-- LEFT -->
+        <anim name="PURPLE splash" anim="PURPLE splash" fps="24" x="0" y="0" />
+    </strum>
+    <strum id="1"> <!-- DOWN -->
+        <anim name="blue splash" anim="blue splash" fps="24" x="0" y="0" />
+    </strum>
+    <strum id="2"> <!-- UP -->
+        <anim name="green splash" anim="green splash" fps="24" x="0" y="0" />
+    </strum>
+    <strum id="3"> <!-- RIGHT -->
+        <anim name="red splash" anim="red splash" fps="24" x="0" y="0" />
+    </strum>
+</splashes>

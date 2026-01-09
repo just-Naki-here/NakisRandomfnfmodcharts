@@ -1,0 +1,14 @@
+{
+	"params": [
+		{
+            "name": "dur",
+            "type": "Float(0, 10, 0.01, 10)",
+            "defaultValue": "1"
+        },
+        {
+            "name": "interval",
+            "type": "Float(0, 10, 0.01, 10)",
+            "defaultValue": "1"
+        }
+	]
+}

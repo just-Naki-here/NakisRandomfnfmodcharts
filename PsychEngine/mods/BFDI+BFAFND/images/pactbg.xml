@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="pactbg.png"><SubTexture name="pactbg idle0000" x="1028" y="0" width="546" height="284" frameX="-580" frameY="-232" frameWidth="1280" frameHeight="720" />
-<SubTexture name="pactbg idle0001" x="0" y="604" width="530" height="292" frameX="-588" frameY="-225" frameWidth="1280" frameHeight="720" />
-<SubTexture name="pactbg idle0002" x="0" y="307" width="520" height="297" frameX="-593" frameY="-220" frameWidth="1280" frameHeight="720" />
-<SubTexture name="pactbg idle0003" x="512" y="0" width="516" height="300" frameX="-595" frameY="-217" frameWidth="1280" frameHeight="720" />
-<SubTexture name="pactbg idle0004" x="0" y="0" width="512" height="307" frameX="-597" frameY="-210" frameWidth="1280" frameHeight="720" />
-</TextureAtlas>

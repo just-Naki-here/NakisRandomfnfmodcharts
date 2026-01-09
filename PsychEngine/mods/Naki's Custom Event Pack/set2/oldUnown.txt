@@ -1,5 +1,0 @@
-Value 1 = How much time in seconds the player has to
-write the word 
-
-Value 2 = To stun the player from hitting notes or not
-(true / false)

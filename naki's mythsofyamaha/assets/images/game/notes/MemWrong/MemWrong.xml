@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MemWrong.png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="157" height="155"/>
+	<SubTexture name="green0000" x="161" y="0" width="157" height="154"/>
+	<SubTexture name="purple0000" x="322" y="0" width="154" height="157"/>
+	<SubTexture name="red0000" x="0" y="161" width="154" height="160"/>
+</TextureAtlas>

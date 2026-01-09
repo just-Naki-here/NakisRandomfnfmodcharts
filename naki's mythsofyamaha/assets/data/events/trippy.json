@@ -1,0 +1,9 @@
+{
+    "params": [
+		{
+			"name": "nothing",
+			"type": "bool",
+			"defaultValue": false
+		}
+	]
+}

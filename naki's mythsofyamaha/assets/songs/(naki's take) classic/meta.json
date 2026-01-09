@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "hawktuah",
+	"difficulties": [
+		"nakitake"
+	],
+	"color": "#404040",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "(naki's take) classic",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 190
+}

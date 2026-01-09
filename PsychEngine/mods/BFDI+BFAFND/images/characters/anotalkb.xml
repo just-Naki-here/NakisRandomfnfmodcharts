@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="anotalkb.png"><SubTexture name="anotalkb idle0000" x="0" y="0" width="615" height="492" frameX="-266" frameY="-143" frameWidth="1280" frameHeight="720" />
-<SubTexture name="anotalkb idle0001" x="615" y="0" width="615" height="492" frameX="-266" frameY="-143" frameWidth="1280" frameHeight="720" />
-<SubTexture name="anotalkb idle0002" x="0" y="492" width="615" height="492" frameX="-266" frameY="-143" frameWidth="1280" frameHeight="720" />
-<SubTexture name="anotalkb idle0003" x="615" y="492" width="615" height="492" frameX="-266" frameY="-143" frameWidth="1280" frameHeight="720" />
-<SubTexture name="anotalkb idle0004" x="1230" y="0" width="615" height="492" frameX="-266" frameY="-143" frameWidth="1280" frameHeight="720" />
-</TextureAtlas>

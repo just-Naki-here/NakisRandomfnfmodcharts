@@ -1,0 +1,14 @@
+{
+	"color": "#9271FD",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"nakitake"
+	],
+	"icon": "smiledog",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "(naki's)false-security",
+	"needsVoices": false,
+	"beatsPerMeasure": 4,
+	"bpm": 140
+}

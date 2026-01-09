@@ -1,4 +1,0 @@
-Makes note have higher health loss and gain. 
-Is additive to existing health gain/loss already.
-Value 1: Note Hit Hp (0.1)
-Value 2: Note Miss Hp (-0.2)

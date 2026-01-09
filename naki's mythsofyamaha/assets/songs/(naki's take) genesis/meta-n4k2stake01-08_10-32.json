@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "nmi",
+	"difficulties": [
+		"n4k2sTake"
+	],
+	"color": "#404040",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "genesis-just_Naki_Here's Take",
+	"beatsPerMeasure": 4,
+	"needsVoices": false,
+	"bpm": 148
+}

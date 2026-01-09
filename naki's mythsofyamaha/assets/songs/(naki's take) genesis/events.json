@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				235073.759580768,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"nmi-red"
+					],
+					[
+						"cam clear shader",
+						"notes",
+						""
+					]
+				]
+			]
+		]
+	}
+}

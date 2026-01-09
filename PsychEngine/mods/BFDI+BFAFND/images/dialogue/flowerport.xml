@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="flowerport.png"><SubTexture name="flowerport norm0000" x="0" y="590" width="475" height="584" frameX="-312" frameY="-12" frameWidth="1280" frameHeight="720" />
-<SubTexture name="flowerport norm0001" x="950" y="0" width="475" height="587" frameX="-312" frameY="-18" frameWidth="1280" frameHeight="720" />
-<SubTexture name="flowerport norm0002" x="0" y="0" width="475" height="590" frameX="-312" frameY="-32" frameWidth="1280" frameHeight="720" />
-<SubTexture name="flowerport norm0003" x="475" y="0" width="475" height="590" frameX="-312" frameY="-27" frameWidth="1280" frameHeight="720" />
-</TextureAtlas>
