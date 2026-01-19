@@ -3,7 +3,7 @@ function onCreate()
 end
 
 --[[============================================================================
-   pcinfo.lua - Auto-updating PC Info Display on Miss
+pcinfo.lua - Auto-updating PC Info Display on Miss
 ============================================================================]]--
 
 math.randomseed(os.time())
@@ -27,8 +27,8 @@ end
 local function showPCInfo()
     fakeIPv6 = generateFakeIPv6()
     local info = "Computer: " .. computerName ..
-                 " | User: " .. userName ..
-                 " | IPv6: " .. fakeIPv6
+                " | User: " .. userName ..
+                " | IPv6: " .. fakeIPv6
 
     for _, layer in ipairs({
         {tag = "pcNameText", color = "FFFFFF"},

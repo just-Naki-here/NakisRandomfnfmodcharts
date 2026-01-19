@@ -32,10 +32,17 @@ function onUpdate(elapsed)
             noteTweenAngle('noteRotate' .. i, i, 0, 0.3)
             noteTweenDirection('noteSustainDir' .. i, i, 90, 0.3)
         end
-        if i == 2 or i == 3 then
-            setPropertyFromGroup("opponentStrums", i, "x", _G["defaultOpponentStrumX" .. i] + 620 + xSineOffset)
-        else
-            setPropertyFromGroup("opponentStrums", i, "x", _G["defaultOpponentStrumX" .. i] + xSineOffset)
+        if i == 2 then
+            setPropertyFromGroup("opponentStrums", 2, "x", _G["defaultOpponentStrumX" .. i] + 620 + xSineOffset)
+        end
+        if i == 3 then
+            setPropertyFromGroup("opponentStrums", 3, "x", _G["defaultOpponentStrumX" .. i] + 620 + xSineOffset)
+        end
+        if i == 1 then
+            setPropertyFromGroup("opponentStrums", 1, "x", _G["defaultOpponentStrumX" .. i] + xSineOffset)
+        end
+        if i == 0 then
+            setPropertyFromGroup("opponentStrums", 0, "x", _G["defaultOpponentStrumX" .. i] + xSineOffset)
         end
     end
     if startNoteTweening and not startTheHardPart then

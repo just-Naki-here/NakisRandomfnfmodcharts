@@ -3,7 +3,7 @@ function onCreate()
 end
 
 --[[============================================================================
-   Configuration & State
+                        Configuration & State
 ============================================================================]]--
 local allowWindowBullShit = false
 
@@ -29,13 +29,35 @@ local shaderEnabled = false
 local shaderName = 'wobble'
 local lastMisses = 0
 
+-- Window-action beat cooldown (wait this many beats between window moves)
+local beatsToWait = 2
+local nextWindowActionTime = 0
+
+local function getSongTimeSeconds()
+    return getPropertyFromClass('Conductor', 'songPosition') / 1000
+end
+
+local function getBpm()
+    local bpm = getPropertyFromClass('Conductor', 'bpm')
+    if not bpm or bpm == 0 then bpm = 120 end
+    return bpm
+end
+
+local function canDoWindowAction()
+    return getSongTimeSeconds() >= nextWindowActionTime
+end
+
+local function scheduleNextWindowAction()
+    nextWindowActionTime = getSongTimeSeconds() + (beatsToWait * (60 / getBpm()))
+end
+
 local hudFlickerTimer = 0
 local cameraTiltTimer = 0
 local camTiltActive = false
 local flickerActive = false
 
 --[[============================================================================
-   Additional Visual Effects
+                        Additional Visual Effects
 ============================================================================]]--
 
 -- Color Shift Effect (for higher miss counts)
@@ -54,7 +76,7 @@ local noiseActive = false
 local maxShakeIntensity = 10
 
 --[[============================================================================
-   Step checker
+                                Step checker
 ============================================================================]]--
 function onStepHit()
     if curStep < 2631 then
@@ -65,7 +87,7 @@ function onStepHit()
 end
 
 --[[============================================================================
-   Post-creation setup
+                            Post-creation setup
 ============================================================================]]--
 function onCreatePost()
     windowX = getPropertyFromClass('openfl.Lib', 'application.window.x')
@@ -84,7 +106,7 @@ function onUpdatePost(elapsed)
     setShaderFloat("shaderOverlay", "iTime", os.clock())
 end
 --[[============================================================================
-   Frame Update
+                            Frame Update
 ============================================================================]]--
 function onUpdate(elapsed)
     if getDataFromSave("disableInsanityEffects") == "true" then return end
@@ -130,8 +152,11 @@ function onUpdate(elapsed)
         elseif misses >= 25 then
             isResizing = true
             isTeleporting = true
-            setPropertyFromClass('openfl.Lib', 'application.window.width', 300)
-            setPropertyFromClass('openfl.Lib', 'application.window.height', 300)
+            if canDoWindowAction() then
+                setPropertyFromClass('openfl.Lib', 'application.window.width', 300)
+                setPropertyFromClass('openfl.Lib', 'application.window.height', 300)
+                scheduleNextWindowAction()
+            end
         elseif misses >= 20 then
             isTeleporting = true
             cameraFlash('game', 'FF0000', 0.2)
@@ -202,8 +227,11 @@ function onUpdate(elapsed)
     if isShaking then
         shakeTimer = shakeTimer - elapsed
         if shakeTimer > 0 then
-            setPropertyFromClass('openfl.Lib', 'application.window.x', windowX + math.random(-shakeIntensity, shakeIntensity))
-            setPropertyFromClass('openfl.Lib', 'application.window.y', windowY + math.random(-shakeIntensity, shakeIntensity))
+            if canDoWindowAction() then
+                setPropertyFromClass('openfl.Lib', 'application.window.x', windowX + math.random(-shakeIntensity, shakeIntensity))
+                setPropertyFromClass('openfl.Lib', 'application.window.y', windowY + math.random(-shakeIntensity, shakeIntensity))
+                scheduleNextWindowAction()
+            end
         else
             setPropertyFromClass('openfl.Lib', 'application.window.x', windowX)
             setPropertyFromClass('openfl.Lib', 'application.window.y', windowY)
@@ -226,9 +254,12 @@ function onUpdate(elapsed)
         local offsetX = math.cos(tornadoAngle) * tornadoRadius
         local offsetY = math.sin(tornadoAngle) * tornadoRadius
 
-        -- Move the window based on the tornado angle and center
-        setPropertyFromClass('openfl.Lib', 'application.window.x', centerX + offsetX)
-        setPropertyFromClass('openfl.Lib', 'application.window.y', centerY + offsetY)
+        -- Move the window based on the tornado angle and center (throttled by beats)
+        if canDoWindowAction() then
+            setPropertyFromClass('openfl.Lib', 'application.window.x', centerX + offsetX)
+            setPropertyFromClass('openfl.Lib', 'application.window.y', centerY + offsetY)
+            scheduleNextWindowAction()
+        end
     end
 
     -- Teleport
@@ -239,8 +270,11 @@ function onUpdate(elapsed)
         local windowHeight = getPropertyFromClass('openfl.Lib', 'application.window.height')
         local maxX = screenWidth - windowWidth
         local maxY = screenHeight - windowHeight
-        setPropertyFromClass('openfl.Lib', 'application.window.x', math.random(0, math.max(maxX, 0)))
-        setPropertyFromClass('openfl.Lib', 'application.window.y', math.random(0, math.max(maxY, 0)))
+        if canDoWindowAction() then
+            setPropertyFromClass('openfl.Lib', 'application.window.x', math.random(0, math.max(maxX, 0)))
+            setPropertyFromClass('openfl.Lib', 'application.window.y', math.random(0, math.max(maxY, 0)))
+            scheduleNextWindowAction()
+        end
     end
 
     -- Resize
@@ -249,8 +283,11 @@ function onUpdate(elapsed)
         local newHeight = 600 + math.random(-150, 300)
         newWidth = math.min(math.max(newWidth, 200), 1200)
         newHeight = math.min(math.max(newHeight, 150), 900)
-        setPropertyFromClass('openfl.Lib', 'application.window.width', newWidth)
-        setPropertyFromClass('openfl.Lib', 'application.window.height', newHeight)
+        if canDoWindowAction() then
+            setPropertyFromClass('openfl.Lib', 'application.window.width', newWidth)
+            setPropertyFromClass('openfl.Lib', 'application.window.height', newHeight)
+            scheduleNextWindowAction()
+        end
     end
 
     -- Rotate
@@ -265,7 +302,7 @@ function onUpdate(elapsed)
 end
 
 --[[============================================================================
-   Shader helpers
+                                Shader helpers
 ============================================================================]]--
 function applyShader()
     if not shaderEnabled then
