@@ -31,3 +31,10 @@ Icon?
 
 .adobedb
 
+.DS_Store
+PsychEngine/.DS_Store
+auto_commit_message.sh
+AUTO_COMMIT_MESSAGE.txt
+*.sh
+.DS_Store
+.DS_Store

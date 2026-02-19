@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "bgj bg",
+	"idle_anim": "bgj bg",
+	"position": [
+		170,
+		14
+	],
+	"scale": 1,
+	"image": "bgj",
+	"flipX": false
+}

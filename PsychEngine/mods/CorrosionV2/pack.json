@@ -1,0 +1,11 @@
+{
+	"name": "Corrosion V2",
+	"description": "Fanmade Chart For Corrosion V2
+	Song by: Milo008
+	Chart By: Roggo",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [255, 0, 0],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

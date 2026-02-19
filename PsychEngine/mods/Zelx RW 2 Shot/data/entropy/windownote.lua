@@ -35,7 +35,6 @@ function onSpawnNote(id)
         setPropertyFromGroup('notes', id, 'zOrder', -10) -- Already present for opponent notes
     end
 end
-
 function onUpdatePost(elapsed)
     local time = os.clock()
     for i = 0, getProperty('notes.length') - 1 do
@@ -54,9 +53,6 @@ function onUpdatePost(elapsed)
         setPropertyFromGroup('opponentStrums', i, 'alpha', noteAlpha)
         setPropertyFromGroup('opponentStrums', i, 'angle', 90)
     end
-end
-function onUpdate(elapsed)
-    -- No fake sustain logic needed
 end
 function doesSpriteExist(tag)
     return getProperty(tag) ~= nil

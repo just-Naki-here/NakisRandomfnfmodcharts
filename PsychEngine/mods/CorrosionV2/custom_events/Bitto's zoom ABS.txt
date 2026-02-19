@@ -1,0 +1,8 @@
+value 1 sets the zoom: in this version, the event takes the ABSOLUTE VALUE of defaultCamZoom.
+to go back to the original zoom, input the original defaultCamZoom.
+
+This event automatically switches to custom mode when value 2 is used. leave blank to use the regular mode.
+value 2 is the zoom duration (in beats), and the tween used.
+
+for a list of eases, go to:
+https://api.haxeflixel.com/flixel/tweens/FlxEase.html

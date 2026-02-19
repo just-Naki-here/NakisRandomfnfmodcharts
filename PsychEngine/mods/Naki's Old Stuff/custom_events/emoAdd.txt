@@ -1,0 +1,5 @@
+Adds character's emotion. (happy added on happy is ecstatic, add again is manic, etc.)
+Value 1: Character affected (0 = dad, 1 = bf)
+Value 2: Emotion element added ('happy', 'angry', 'sad', or 'afraid')
+
+Quotation marks not needed. Strings are lowercase.

@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"corrosion",
+			"isabella2",
+			[
+				226,
+				153,
+				255
+			]
+		],
+				[
+			"corrosion-nakitake",
+			"isabella2",
+			[
+				226,
+				153,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Corrosion",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

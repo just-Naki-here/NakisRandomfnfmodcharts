@@ -1,38 +1,44 @@
 -- variables
+-- Window position variables
 local X = 300
 local Y = 200
-local randomPlayerstrumY = {}
-local randomPlayerstrumX = {}
-local wasMidscrollOn = false
-local wasDownScrollOff = false
--- Default pos saver
-local defaultPlayerStrumPos = {}
-local playerNoteCenterOffset = 0
+-- Random offset tables
+local randomPlayerstrumY = {} -- tables to hold random offsets for player strums
+local randomPlayerstrumX = {} -- tables to hold random offsets for player strums
+-- Midscroll/downscroll check variables
+local wasMidscrollOn = false -- to revert midscroll/downscroll changes
+local wasDownScrollOff = false -- to revert midscroll/downscroll changes
+-- Default pos saver variables
+local defaultPlayerStrumPos = {} -- table to save default player strum positions
+local playerNoteCenterOffset = 0 -- offset to center player notes
 -- Base movement settings
 local baseWaveAmplitude = 1 -- starting Y movement
 local baseXAmplitude = 1    -- starting X movement
-local baseWaveSpeed = 1     -- starting speed
-local chaseGrowthRate = 0.1  -- amplitude growth rate per second
+local baseWaveSpeed = 1.025     -- starting speed
+local chaseGrowthRate = 0.07  -- amplitude growth rate per second
 local chaseSpeedGrowthRate = 0.01  -- speed growth rate per second
-local chaseTimer = 0
-local delay = 0
-local windowNameCycle = "Naki's FNF Modcharts - Entropy - Composed by Zelx007 - Modchart and Rechart by just-Naki-here "
-local streeep = 0
-local _randomSeeded = false
-local rororo = 0
-local healthLossMultiplier = 1.0
-local healthy = 0.0
+local chaseTimer = 0 -- timer for movement growth
+-- Window title cycling variables
+local delay = 0 -- window title cycling delay
+local windowNameCycle = "Naki's FNF Modcharts - Entropy - Composed by Zelx007 - Modchart and Rechart by just-Naki-here " -- title cycling
+-- Streak counter variables
+local streeep = 0 -- note hit/miss streak counter(kinda buggy but it works[XD]-naki)
+local _randomSeeded = false -- to ensure random is only seeded once
+local rororo = 0 -- useless but whatever - naki
+-- Health drain variables
+local healthLossMultiplier = 1.0 -- controls how much health is lost on each beat according to the misses obtained
+local healthy = 0.0 -- the actual health lost on each beat 
 -- Base scroll speed
-local baseScrollSpeed = 2.0
-function setBaseScrollSpeed(val)
-    baseScrollSpeed = val or 1.0
-    setProperty('songSpeed', baseScrollSpeed)
+local baseScrollSpeed = 2.0 -- default scroll speed for the chart
+function setBaseScrollSpeed(val) -- hopefully this works --naki
+    baseScrollSpeed = val or 1.0 -- default to 1.0 if no value provided
+    setProperty('songSpeed', baseScrollSpeed) -- apply the new scroll speed
 end
-for i = 1, 14 do
-    randomPlayerstrumY[i] = 0 
+for i = 1, 14 do -- initialize random offset tables
+    randomPlayerstrumY[i] = 0 -- just a placeholder
 end
-for i = 1, 8 do
-    randomPlayerstrumX[i] = 0 
+for i = 1, 8 do -- initialize random offset tables
+    randomPlayerstrumX[i] = 0 -- just a placeholder
 end
 -- Health drain on beat
 function onBeatHit()
@@ -57,8 +63,6 @@ function onCreate()
     end
     setPropertyFromClass("openfl.Lib", "application.window.x", 300)
     setPropertyFromClass("openfl.Lib", "application.window.y", 200)
-    -- Make window always on top (in front of taskbar)
-    runHaxeCode("openfl.Lib.application.window.alwaysOnTop = true;")
 end
 function onCreatePost()
     -- Save player strum positions
@@ -142,12 +146,12 @@ function onUpdatePost(elapsed)
     end
 end
 -- Health drain/reward on note hit/miss (100 notes hit(In a row) = +0.5 health, 2 notes missed in a row = -0.5 health)
-function goodNoteHit(id, direction, noteType, isSustainNote)
+function goodNoteHit(id, direction, noteType, isSustainNote) -- could have made this simpler but whatever, if it works it works-naki
     streeep = streeep + 1
     if streeep < 0 then
         streeep = 0
     end
-    if streeep == 100 then
+    if streeep == 100 then -- stupid thing makes the call early not at 100 combo,
         setProperty('health', getProperty('health') + 0.5)
         streeep = 0
     end

@@ -1,0 +1,2 @@
+Value 1 = Noteskin for Player's Strum
+Value 2 = Noteskin for Opponent's Strum

@@ -1,0 +1,4 @@
+Corroded Note Fall Off Screen
+Event: "Corroded Note Fall Off Screen"
+v1: "showoppnotes" or "oppnotefall"
+v2: "true" / "false"

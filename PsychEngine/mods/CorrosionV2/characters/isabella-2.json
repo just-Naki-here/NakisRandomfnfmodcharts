@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instance 1"
+		},
+		{
+			"offsets": [
+				85,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left instance 1"
+		},
+		{
+			"offsets": [
+				2,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/isabellap2",
+	"position": [
+		90,
+		370
+	],
+	"healthicon": "isabella2",
+	"flip_x": false,
+	"healthbar_colors": [
+		193,
+		126,
+		193
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

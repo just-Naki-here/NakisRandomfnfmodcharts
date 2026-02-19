@@ -1,7 +1,7 @@
 function onUpdate()
   songPos = getSongPosition()
   local currentBeat = (songPos / 5000) * (curBpm / 60)
-  runTimer('tweengoy',0.01);--runs a 0.01 second timer
+  runTimer('tweengoy',0.01);--runs a 0.5 second timer
   setPropertyFromGroup('opponentStrums', 0, 'x', 0);
   setPropertyFromGroup('opponentStrums', 1, 'x', 0);
   setPropertyFromGroup('opponentStrums', 2, 'x', 0); 
