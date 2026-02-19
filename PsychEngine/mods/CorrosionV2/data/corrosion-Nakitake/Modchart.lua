@@ -39,9 +39,19 @@ local opponentRotSpeed = {}
 local baseScrollSpeed = 2.0
 -- Random chance variable for onEndSong to decide whether to close the game or not, just for fun - naki :)
 local chanceTime = 0
+-- Window update throttling to reduce audio stuttering
+local windowUpdateCounter = 0
+local windowUpdateInterval = 3  -- Update window every 3 frames
+-- Song speed set on start
+local songSpeedSet = false
+-- Note movement throttling to reduce lag
+local noteUpdateCounter = 0
+local noteUpdateInterval = 2  -- Update note positions every 2 frames
 function setBaseScrollSpeed(val)
     baseScrollSpeed = val or 1.0
-    setProperty('songSpeed', baseScrollSpeed)
+    if songSpeedSet then
+        setProperty('songSpeed', baseScrollSpeed)
+    end
 end
 for i = 1, 14 do
     randomPlayerstrumY[i] = 0 
@@ -54,7 +64,7 @@ function onBeatHit()
     if curBeat > 1 then
         if drainDelay == 0 then
             local health = getProperty('health')
-            healthy = 0.03 * healthLossMultiplier
+            healthy = 0.04 * healthLossMultiplier
             if health > 0.2 then
                 setProperty('health', health - healthy)
             end    
@@ -129,34 +139,38 @@ function onSongStart()
     for i = 0, 3 do
         setPropertyFromGroup('opponentStrums', i, 'alpha', 1)
     end
+    -- Set song speed once at start instead of every frame
+    setProperty('songSpeed', baseScrollSpeed)
+    songSpeedSet = true
 end
 -- Main update loop 
 function onUpdate(elapsed)
-    -- Apply base scroll speed every frame (in case engine or other scripts change it)
-    setProperty('songSpeed', baseScrollSpeed)
-    -- Only seed random once, not every frame
-    local songPos = getSongPosition()
-    local currentBeat = (songPos / 5000) * (curBpm / 60)
-    if math.floor(currentBeat) == 20 then
-    end    
     if curStep >= 2 then
         chaseTimer = chaseTimer + elapsed
         local currentWaveAmp = baseWaveAmplitude + (chaseTimer * chaseGrowthRate * baseWaveAmplitude)
         local currentXAmp = baseXAmplitude + (chaseTimer * chaseGrowthRate * baseXAmplitude)
         local currentSpeed = baseWaveSpeed + (chaseTimer * chaseSpeedGrowthRate)
         local songTime = getSongPosition() / 1000
-        -- Move player notes centered
-        for i = 4, 7 do
-            local xOffset = math.cos(songTime * currentSpeed + i) * currentXAmp
-            local yOffset = math.sin(songTime * currentSpeed + i) * currentWaveAmp
-            setPropertyFromGroup('strumLineNotes', i, 'x', defaultPlayerStrumPos[i].x + xOffset)
-            setPropertyFromGroup('strumLineNotes', i, 'y', defaultPlayerStrumPos[i].y + yOffset)
+        -- Move player notes centered (throttled to reduce lag)
+        noteUpdateCounter = noteUpdateCounter + 1
+        if noteUpdateCounter >= noteUpdateInterval then
+            noteUpdateCounter = 0
+            for i = 4, 7 do
+                local xOffset = math.cos(songTime * currentSpeed + i) * currentXAmp
+                local yOffset = math.sin(songTime * currentSpeed + i) * currentWaveAmp
+                setPropertyFromGroup('strumLineNotes', i, 'x', defaultPlayerStrumPos[i].x + xOffset)
+                setPropertyFromGroup('strumLineNotes', i, 'y', defaultPlayerStrumPos[i].y + yOffset)
+            end
         end
-        -- Move window in sync with notes, but less intense
-        local windowX = X + math.cos(songTime * (currentSpeed * 0.5)) * (currentXAmp * 2)
-        local windowY = Y + math.sin(songTime * (currentSpeed * 0.5)) * (currentWaveAmp * 2)
-    setPropertyFromClass("openfl.Lib", "application.window.x", windowX)
-    setPropertyFromClass("openfl.Lib", "application.window.y", windowY)
+        -- Move window in sync with notes, but less intense (throttled to reduce stuttering)
+        windowUpdateCounter = windowUpdateCounter + 1
+        if windowUpdateCounter >= windowUpdateInterval then
+            windowUpdateCounter = 0
+            local windowX = X + math.cos(songTime * (currentSpeed * 0.5)) * (currentXAmp * 2)
+            local windowY = Y + math.sin(songTime * (currentSpeed * 0.5)) * (currentWaveAmp * 2)
+            setPropertyFromClass("openfl.Lib", "application.window.x", windowX)
+            setPropertyFromClass("openfl.Lib", "application.window.y", windowY)
+        end
     end
     -- Opponent fall animation
     if opponentFallStart then
@@ -197,6 +211,16 @@ function onStepHit()
             setPropertyFromGroup('opponentStrums', i, 'y', screenHeight - 150)
         end
     end
+    if curStep == 2943 then
+        for i = 0, 3 do
+            setPropertyFromGroup('opponentStrums', i, 'alpha', 1)
+        end
+    end
+    if curStep == 3235 then
+        for i = 0, 3 do
+            setPropertyFromGroup('opponentStrums', i, 'alpha', 0)
+        end
+    end
 end
 function onUpdatePost(elapsed)
     -- Window title cycling
@@ -205,7 +229,7 @@ function onUpdatePost(elapsed)
             windowNameCycle = string.sub(windowNameCycle, -1) .. string.sub(windowNameCycle, 1, -2)
             setWindowTitle(windowNameCycle)
         end
-        delay = (delay + 1) % 10
+        delay = (delay + 1) % 15
     end
 end
 -- Health drain/reward on note hit/miss (100 notes hit(In a row) = +0.5 health, 2 notes missed in a row = -0.5 health)
@@ -221,6 +245,7 @@ function goodNoteHit(id, direction, noteType, isSustainNote)
     end
 end 
 function noteMiss(id, direction, noteType, isSustainNote)
+    if isSustainNote then return end  -- Skip sustain note misses to avoid repeated expensive calls
     misses = getMisses()
     if misses > 0 then
         streeep = 0 
