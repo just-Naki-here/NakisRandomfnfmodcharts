@@ -50,7 +50,20 @@ local songData = { -- The main table that contains the songs you want credits on
             ["Charter"] = "Roggo",
             ["Modcharter"] = "Just_Naki_here",
             ["Recharter"] = "Just_Naki_here",
-        },
+        }
+    },
+    ['corrosion-nakitake'] = { -- This name NEEDS to be the name in the direct JSON/chart (e.g: dad-battle).
+        ["songName"] = "Corrosion Alt", -- The display name of the song.
+        ["length"] = 5, -- The length the box is on screen.
+        ["boxColor"] = "#000000", -- Color of Box (IN HEX).
+        ["textColor"] = "#C17EC1", -- Color of Text (IN HEX).
+        ["credits"] = { -- Include whatever roles you want here, the order WILL NOT be however you order them here.
+        -- IF YOU WANT ME TO MAKE IT TO BE IN ORDER, LEAVE A COMMENT ON THE GAMEBANANA PAGE AND I'LL DO IT!
+            ["Composer"] = "Milo008",
+            ["Charter"] = "Roggo",
+            ["Modcharter"] = "Just_Naki_here",
+            ["Recharter"] = "Just_Naki_here",
+        }
     },
 }
 
