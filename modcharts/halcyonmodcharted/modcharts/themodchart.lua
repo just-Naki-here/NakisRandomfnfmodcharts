@@ -1,0 +1,144 @@
+-- reference modchart
+--local doinYaMom = false
+--local pos = {} -- strum positions
+--local windowPos = {}
+--local wasFullscreen = false
+--local nY = 0
+--local phase4time = false
+--local windowNameCycle = "Naki's FNF Modcharts - Halcyon"
+--local delay = 0
+--
+--function onCreatePost()
+--	nY = getPropertyFromGroup('strumLineNotes', 4, 'y') -- player strums start from index 4
+--
+--	for i = 4, 7 do
+--		table.insert(pos, getPropertyFromGroup('strumLineNotes', i, 'x'))
+--	end
+--
+--	local x = getPropertyFromClass('openfl.Lib', 'application.window.x')
+--	local y = getPropertyFromClass('openfl.Lib', 'application.window.y')
+--	table.insert(windowPos, x)
+--	table.insert(windowPos, y)
+--
+--	wasFullscreen = getPropertyFromClass('openfl.Lib', 'application.window.fullscreen')
+--
+--	if not getPropertyFromClass('ClientPrefs', 'shaders') then return end
+--	runHaxeCode([[
+--		var bloom = new CustomShader('bloom2');
+--		game.camHUD.addShader(bloom);
+--		game.camGame.addShader(bloom);
+--		bloom.Size = 0;
+--		bloom.dim = 2;
+--		game.variables.set("bloom", bloom);
+--	]])
+--end
+--
+--function onBeatHit()
+--	if curBeat == 416 then
+--		local xOffsets = {256, 512, 768, 1024}
+--		for i = 0, 3 do
+--			setPropertyFromGroup('strumLineNotes', i+4, 'x', xOffsets[i+1] - 64)
+--		end
+--		doinYaMom = true
+--
+--		cancelTween('indic1Alpha')
+--		setProperty('indic1.alpha', 0)
+--	end
+--
+--	if doinYaMom then
+--		local stepTime = (stepCrochet / 1000) * 4
+--
+--		runHaxeCode([[
+--			var bloom = game.variables.get("bloom");
+--			FlxTween.num(16, 0, ]] .. stepTime .. [[, {ease: FlxEase.quadOut}, function(val:Float) bloom.Size = val);
+--			FlxTween.num(1.4, 2, ]] .. stepTime .. [[, {ease: FlxEase.quadOut}, function(val:Float) bloom.dim = val);
+--		]])
+--
+--		for i = 4, 7 do
+--			applyRandomOffset('strumLineNotes', i)
+--		end
+--
+--		if getPropertyFromClass('openfl.Lib', 'application.window.fullscreen') then
+--			setPropertyFromClass('openfl.Lib', 'application.window.fullscreen', false)
+--		end
+--
+--		if not getPropertyFromClass('ClientPrefs', 'mcm_nomoving') then
+--			applyRandomOffset('openfl.Lib', 'application.window')
+--		end
+--	end
+--
+--	if curBeat == 480 then
+--		doinYaMom = false
+--		for i = 0, 3 do
+--			noteTweenX('returnX'..i, i+4, pos[i+1], 1.2, 'quartOut')
+--			noteTweenY('returnY'..i, i+4, nY, 1.2, 'quartOut')
+--		end
+--
+--		cancelTween('indic1Alpha')
+--		doTweenAlpha('indic1Alpha', 'indic1', 1, 0.7, 'sineInOut')
+--
+--		if not getPropertyFromClass('ClientPrefs', 'mcm_nomoving') then
+--			setPropertyFromClass('openfl.Lib', 'application.window.x', windowPos[1])
+--			setPropertyFromClass('openfl.Lib', 'application.window.y', windowPos[2])
+--
+--			runTimer('fullscreenCheck', 1.2 + 0.05)
+--		end
+--	end
+--
+--	if curBeat == 688 then
+--		phase4time = true
+--	end
+--
+--	if curBeat == 848 then
+--		phase4time = false
+--		setWindowTitle("Naki's FNF Modcharts - Halcyon")
+--
+--		runHaxeCode([[
+--			var bloom = game.variables.get("bloom");
+--			FlxTween.num(20, 0, (Conductor.stepCrochet / 1000) * 16, {ease: FlxEase.quadOut}, function(val:Float) bloom.Size = val);
+--		]])
+--
+--		for i = 0, 3 do
+--			setPropertyFromGroup('strumLineNotes', i+4, 'x', pos[i+1])
+--			setPropertyFromGroup('strumLineNotes', i+4, 'y', nY)
+--		end
+--	end
+--end
+--
+--function onTimerCompleted(tag)
+--	if tag == 'fullscreenCheck' and wasFullscreen then
+--		setPropertyFromClass('openfl.Lib', 'application.window.fullscreen', true)
+--	end
+--end
+--
+--function onUpdate(elapsed)
+--	if phase4time then
+--		for i = 0, 3 do
+--			setPropertyFromGroup('strumLineNotes', i+4, 'x', pos[i+1] + math.random(-3, 3))
+--			setPropertyFromGroup('strumLineNotes', i+4, 'y', nY + math.random(-3, 3))
+--		end
+--
+--		if delay == 0 then
+--			windowNameCycle = string.sub(windowNameCycle, -1) .. string.sub(windowNameCycle, 1, -2)
+--			setWindowTitle(windowNameCycle)
+--		end
+--
+--		delay = (delay + 1) % 3
+--	end
+--end
+--
+--function applyRandomOffset(group, index)
+--	local nX = math.random(-20, 20)
+--	local curX = getPropertyFromGroup(group, index, 'x')
+--	local newX = (curX + nX > 0 and curX + nX < 1280) and (curX + nX) or (curX - 2 * nX)
+--	setPropertyFromGroup(group, index, 'x', newX)
+--
+--	local nY = math.random(-20, 20)
+--	local curY = getPropertyFromGroup(group, index, 'y')
+--	local newY = (curY + nY > 0 and curY + nY < 470) and (curY + nY) or (curY - 2 * nY)
+--	setPropertyFromGroup(group, index, 'y', newY)
+--end
+--
+--function setWindowTitle(title)
+--	runHaxeCode("openfl.Lib.application.window.title = '" .. title:gsub("'", "\\'") .. "';")
+--end
