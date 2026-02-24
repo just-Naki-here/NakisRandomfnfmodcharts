@@ -3,10 +3,6 @@
 
 These repositories contain Lua modcharts and Psych Engine–based modifications. Due to the archival nature of many of these projects, only actively maintained repositories are eligible for security review or fixes.
 
-The following reflects current support status:
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
 | Repository / Version Branch             | Supported |
 | --------------------------------------- | --------- |
 | main (current active projects)          | Yes       |
