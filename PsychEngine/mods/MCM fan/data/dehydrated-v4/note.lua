@@ -1,4 +1,0 @@
-function onCreatePost()
-
-
-end

@@ -1,4 +1,0 @@
-Value1 options
-blue: Blue Dodge
-orange: Orange Dodge
-empty: Default Dodge

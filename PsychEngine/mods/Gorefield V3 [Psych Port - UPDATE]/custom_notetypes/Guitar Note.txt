@@ -1,3 +1,0 @@
-animSuffix = '-alt'
-texture = "noteSkins/Guitar Note"
-rgbShader.enabled = false

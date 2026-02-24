@@ -1,2 +1,0 @@
-Value 1: Zoom lol
-Make sure you have camZooming off or this doesnt rlly do anything

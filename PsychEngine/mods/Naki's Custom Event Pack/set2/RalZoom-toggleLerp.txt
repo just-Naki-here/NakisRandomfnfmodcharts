@@ -1,3 +1,0 @@
-Toggles camera lerping
-Value 1: game or stage for camGame, hud for camHUD
-              Leave blank for both

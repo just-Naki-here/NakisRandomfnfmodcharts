@@ -1,1 +1,0 @@
--- This event script is empty because it is handled by minHpMechanic.lua in the scripts folder.

@@ -1,2 +1,0 @@
-value 1: zoom(no relativo al zoom actual)
-value 2: duracion

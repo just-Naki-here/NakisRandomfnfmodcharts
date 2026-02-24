@@ -1,2 +1,0 @@
-Value 1 = game shake, hud shake
-Value 2 = How much beats to stop

@@ -1,5 +1,0 @@
-Sets character's emotion.
-Value 1: Character affected (0 = dad, 1 = bf)
-Value 2: Emotion set ('furious', 'sad', 'ecstatic', etc.)
-
-Quotation marks not needed. Strings are lowercase.
