@@ -1,4 +1,4 @@
--- removed because it was messing with my event that controls opp notes
+-- removed because it was messing with my modchart that controls opp notes
 --[[function onUpdate(elapsed)
 
 for i=0,3 do

@@ -4,8 +4,10 @@ local Y = 200
 -- Random movement variables
 local randomPlayerstrumY = {} -- not sure if this is used-naki
 local randomPlayerstrumX = {} -- not sure if this is used-naki
-local wasMidscrollOn = false 
-local wasDownScrollOff = false
+-- setting check vars for defining whether to change the settings back to the player's preferences on song end
+local wasMidscrollOn = false  -- necessary for modchart compatibility
+local wasDownScrollOff = false -- necessary for modchart compatibility
+local wasShadersEnabled = false -- disables shaders in the song due to them causing the audio to stutter
 -- Default pos saver
 local defaultPlayerStrumPos = {}
 local defaultOpponentStrumPos = {}
@@ -39,14 +41,8 @@ local opponentRotSpeed = {}
 local baseScrollSpeed = 2.0
 -- Random chance variable for onEndSong to decide whether to close the game or not, just for fun - naki :)
 local chanceTime = 0
--- Window update throttling to reduce audio stuttering
-local windowUpdateCounter = 0
-local windowUpdateInterval = 3  -- Update window every 3 frames
 -- Song speed set on start
 local songSpeedSet = false
--- Note movement throttling to reduce lag
-local noteUpdateCounter = 0
-local noteUpdateInterval = 2  -- Update note positions every 2 frames
 function setBaseScrollSpeed(val)
     baseScrollSpeed = val or 1.0
     if songSpeedSet then
@@ -81,6 +77,10 @@ function onCreate()
     if downscroll == false then
         setPropertyFromClass("ClientPrefs", "downScroll", true)
         wasDownScrollOff = true
+    end
+    if shadersEnabled == true then
+        setPropertyFromClass("ClientPrefs", "shadersEnabled", false)
+        wasShadersEnabled = true
     end
     for i = 0, 3 do
         setPropertyFromGroup('opponentStrums', i, 'alpha', 1)
@@ -129,10 +129,6 @@ function onCreatePost()
         setPropertyFromGroup('strumLineNotes', i, 'x', defaultOpponentStrumPos[i].x + 250)
         setPropertyFromGroup('strumLineNotes', i, 'y', screenHeight - 150) -- Bottom of screen
     end
-    debugPrint('left player strum x: ' .. defaultPlayerStrumPos[4].x)
-    debugPrint('down player strum x: ' .. defaultPlayerStrumPos[5].x)
-    debugPrint('right player strum x: ' .. defaultPlayerStrumPos[6].x)
-    debugPrint('up player strum x: ' .. defaultPlayerStrumPos[7].x)
 end
 -- change opponent strum alpha on song start
 function onSongStart()
@@ -152,25 +148,17 @@ function onUpdate(elapsed)
         local currentSpeed = baseWaveSpeed + (chaseTimer * chaseSpeedGrowthRate)
         local songTime = getSongPosition() / 1000
         -- Move player notes centered (throttled to reduce lag)
-        noteUpdateCounter = noteUpdateCounter + 1
-        if noteUpdateCounter >= noteUpdateInterval then
-            noteUpdateCounter = 0
-            for i = 4, 7 do
-                local xOffset = math.cos(songTime * currentSpeed + i) * currentXAmp
-                local yOffset = math.sin(songTime * currentSpeed + i) * currentWaveAmp
-                setPropertyFromGroup('strumLineNotes', i, 'x', defaultPlayerStrumPos[i].x + xOffset)
-                setPropertyFromGroup('strumLineNotes', i, 'y', defaultPlayerStrumPos[i].y + yOffset)
-            end
+        for i = 4, 7 do
+            local xOffset = math.cos(songTime * currentSpeed + i) * currentXAmp
+            local yOffset = math.sin(songTime * currentSpeed + i) * currentWaveAmp
+            setPropertyFromGroup('strumLineNotes', i, 'x', defaultPlayerStrumPos[i].x + xOffset)
+            setPropertyFromGroup('strumLineNotes', i, 'y', defaultPlayerStrumPos[i].y + yOffset)
         end
-        -- Move window in sync with notes, but less intense (throttled to reduce stuttering)
-        windowUpdateCounter = windowUpdateCounter + 1
-        if windowUpdateCounter >= windowUpdateInterval then
-            windowUpdateCounter = 0
-            local windowX = X + math.cos(songTime * (currentSpeed * 0.5)) * (currentXAmp * 2)
-            local windowY = Y + math.sin(songTime * (currentSpeed * 0.5)) * (currentWaveAmp * 2)
-            setPropertyFromClass("openfl.Lib", "application.window.x", windowX)
-            setPropertyFromClass("openfl.Lib", "application.window.y", windowY)
-        end
+        -- Move window in sync with notes, but less intense
+        local windowX = X + math.cos(songTime * (currentSpeed * 0.5)) * (currentXAmp * 2)
+        local windowY = Y + math.sin(songTime * (currentSpeed * 0.5)) * (currentWaveAmp * 2)
+        setPropertyFromClass("openfl.Lib", "application.window.x", windowX)
+        setPropertyFromClass("openfl.Lib", "application.window.y", windowY)
     end
     -- Opponent fall animation
     if opponentFallStart then
@@ -292,6 +280,9 @@ function onEndSong()
     end
     if wasDownScrollOff then
         setPropertyFromClass("ClientPrefs", "downScroll", false)
+    end
+    if wasShadersEnabled then
+        setPropertyFromClass("ClientPrefs", "shadersEnabled", true)
     end
     chanceTime = math.random(1, 1000)
     if chanceTime > 500 then
