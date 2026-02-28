@@ -1,6 +1,17 @@
 just download and you are good to go! Also if you have any fnf mods you want added, dm n4k2 on discord
 
 ========================================
+Devlog Entry - 2026-02-28 00:22:24
+========================================
+
+Total Files Changed: 3
+Added: 2
+Modified: 1
+Deleted: 0
+
+Full Devlog for this update: [Full Devlog](Devlog/2026-02-28_00-22-24.md)
+
+========================================
 Devlog Entry - 2026-02-23 23:37:47
 ========================================
 
