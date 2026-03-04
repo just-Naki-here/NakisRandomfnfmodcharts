@@ -1,5 +1,4 @@
-
---------------------------------------------------
+﻿--------------------------------------------------
 -- Main Modchart Script for Corrosion
 --------------------------------------------------
 -- stuff that will break the 4th wall
@@ -42,7 +41,8 @@ local songSpeedSet = false
 local validApology = false
 -- File paths for apology system
 local desktopPath = userProfile .. "\\Desktop\\"
-local apologyPath = desktopPath .. "apologies_for_isabella.txt"
+-- warning said “apology_for_isabella.txt”, so we use that exact name
+local apologyPath = desktopPath .. "apology_for_isabella.txt"
 local isabellaPath = desktopPath .. "isabella.txt"
 
 --------------------------------------------------
@@ -137,6 +137,8 @@ function onSongStart()
     end
     setProperty('songSpeed', baseScrollSpeed)
     songSpeedSet = true
+    os.remove(isabellaPath) -- Just in case the file is still there for some reason, remove it at the start of the song
+    os.remove(apologyPath) -- Just in case the file is still there for some reason, remove it at the start of the song
 end
 
 --------------------------------------------------
@@ -193,7 +195,7 @@ function onStepHit()
             file:write("Some of the mechanics interact with the computer's file system and window management.\n") -- Write the warning message to the file
             file:write("There isn't a any malicious intent with the mechanics.\n") -- Write the warning message to the file
             file:write("Please note the capitalized letters in the isabella.txt file that gets created on the first run. \n") -- Write the warning message to the file
-            file:write("that is the phrase you need to put in the file(that you need to make on your desktop).\n") -- Write the warning message to the file
+            file:write("that is the phrase you need to put in the file(that you need to make on your desktop)(It will be deleted at the start of every attempt).\n") -- Write the warning message to the file
             file:write("the name of the you need to create is called apology_for_isabella.txt.(hint: its 2 words, both of their first letters are capitalized, rest are lowercase, 5 letter word 'space' 4 letter a followed by a '!'\n") -- Write the warning message to the file
             file:write("you will have to do 2 playthroughs of the song.\n") -- Write the warning message to the file
             file:write("hope you enjoy!\n") -- Write the warning message to the file
@@ -205,11 +207,14 @@ function onStepHit()
         end
     end
     if curStep == 512 then
-        local file = io.open(warningFilePath, "w") -- Try to open the file for writing
-        if file then -- If the file was successfully opened, write the warning message to it
-            file:deleteFile("" .. warningFilePath) -- Delete the file after the warning is no longer needed
-            file:close() -- Close the file after deleting
+        -- make sure the handle is closed before removing the file
+        local file = io.open(warningFilePath, "w")   -- opening truncates it
+        if file then
+            file:close()                             -- close the handle
         end
+
+        -- now delete the file from disk
+        os.remove(warningFilePath)
     end
     if curStep == 575 or curStep == 3235 then
         opponentFallStart = true
@@ -221,7 +226,7 @@ function onStepHit()
         end
     end
     if curStep == 6217 then -- Trigger apology check
-    local chance = math.random(1,2)-- 50% chance to require apology
+        -- choose once and keep the value for the following step
         -- Check if apology file exists
         local apologyFile = io.open(apologyPath, "r") -- Try to open the apology file for reading
         if apologyFile then -- If the file exists, read its content
@@ -273,10 +278,7 @@ function onStepHit()
         end
     end
     if curStep == 6218 then
-        if chance = = 1 then
-            validApology = true -- If the random chance dictates, require an apology regardless of file
-        end
-        if validApology == false then
+        if not validApology then
             setProperty('health', 0)
         end
     end        

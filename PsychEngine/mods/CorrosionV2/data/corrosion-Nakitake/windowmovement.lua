@@ -190,6 +190,15 @@ function onCreate()
         setPropertyFromGroup('opponentStrums', i, 'alpha', 1)
     end
 
+    -- use default screen dimensions to centre the window
+    local sw = 1920
+    local sh = 1080
+    local ww = 1280
+    local wh = 720
+
+    X = math.floor((sw - ww) / 2)
+    Y = math.floor((sh - wh) / 2)
+
     setPropertyFromClass("openfl.Lib", "application.window.x", X)
     setPropertyFromClass("openfl.Lib", "application.window.y", Y)
 end
@@ -287,16 +296,18 @@ function onUpdate(elapsed)
         windowY = Y + moveY
     end
 
+    -- clamp so window never leaves the visible screen area
+    local sw = 1920
+    local sh = 1080
+    local ww = 1280
+    local wh = 720
+
+    windowX = math.max(0, math.min(windowX, sw - ww))
+    windowY = math.max(0, math.min(windowY, sh - wh))
+
     setPropertyFromClass("openfl.Lib", "application.window.x", windowX)
     setPropertyFromClass("openfl.Lib", "application.window.y", windowY)
 end
-
---------------------------------------------------
--- Step Event: Isabella Check + Message
---------------------------------------------------
-
-
-
 --------------------------------------------------
 -- Miss Hook
 --------------------------------------------------
