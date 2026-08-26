@@ -1,3 +1,5 @@
+currently not being updated, due to me starting college and being busy with family
+
 just download and you are good to go! Also if you have any fnf mods you want added, dm n4k2 on discord
 
 ========================================
